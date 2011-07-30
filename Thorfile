@@ -3,6 +3,6 @@ class Default < Thor
   def deploy
     $stdout.sync = true
     system("git push")
-    system("ssh id 'cd /home/intuitivedirection.com/web && git clean -f && git pull'")
+    system("rsync -avz -essh public/ id:/home/intuitivedirection.com/web/public")
   end
 end
