@@ -5,4 +5,9 @@ class Default < Thor
     system("git push")
     system("rsync -avz -essh public/ id:/home/intuitivedirection.com/web/public")
   end
+  
+  desc "browse", "Opens the site in a web browser"
+  def browse
+    `open http://indirect.io`
+  end
 end
