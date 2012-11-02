@@ -3,7 +3,7 @@ class Default < Thor
   def deploy
     $stdout.sync = true
     system("git push")
-    system("rsync -avz -essh public/ id:/home/intuitivedirection.com/web/public")
+    system("rsync -avz -essh public/ id:/home/indirect.io/web/public")
   end
   
   desc "browse", "Opens the site in a web browser"
