@@ -1,0 +1,90 @@
++++
+date = 2014-05-22T23:17:15Z
+slug = "wow-suchbree-veryblog-if-white-people-are-so"
+id = "86543957708"
+aliases = [ "/post/86543957708/wow-suchbree-veryblog-if-white-people-are-so" ]
+tags = [ ]
+type = "tumblr-text"
+
+[tumblr]
+is_blazed = false
+should_open_in_legacy = false
+note_count = 466460.0
+can_send_in_message = true
+id = 8.6543957708e+10
+display_avatar = true
+body = "<p><a href=\"http://wow-suchbree-veryblog.tumblr.com/post/77620265605/if-white-people-are-so-privileged-why-is-there-a\" class=\"tumblr_blog\">wow-suchbree-veryblog</a>:</p>\n\n<blockquote><p>&ldquo;If white people are so privileged why is there a Black Entertainment Network and no White Entertainment Network?&rdquo;</p>\n<p>&ldquo;Men don’t have privilege, there are women’s only gyms!&rdquo;</p>\n<p>&ldquo;Why isn’t there a campus centre for straight/cis people!?&rdquo;</p>\n<p><strong>SAME REASONS WHY IN MARIO KART YOU DON’T GET BLUE SHELLS OR LIGHTNING BOLTS WHEN YOU’RE ALREADY IN FIRST PLACE, ASSBAG.</strong></p></blockquote>"
+type = "text"
+is_blaze_pending = false
+state = "published"
+can_reply = false
+is_blocks_post_format = false
+blog_name = "indirect"
+slug = "wow-suchbree-veryblog-if-white-people-are-so"
+summary = "\"If white people are so privileged why is there a Black Entertainment Network and no White Entertainment Network?\"\r\n \"Men don’t..."
+interactability_reblog = "everyone"
+timestamp = 1.400800635e+09
+can_blaze = false
+format = "markdown"
+can_like = false
+interactability_blaze = "noone"
+id_string = "86543957708"
+parent_post_url = "https://wow-suchbree-veryblog-blog.tumblr.com/post/77620265605/if-white-people-are-so-privileged-why-is-there-a"
+date = "2014-05-22 23:17:15 GMT"
+reblog_key = "oS2wESd6"
+short_url = "https://tmblr.co/ZY3jby1GcQ-xC"
+can_reblog = false
+post_url = "https://indirect.tumblr.com/post/86543957708/wow-suchbree-veryblog-if-white-people-are-so"
+tags = [ ]
+
+[[tumblr.trail]]
+content_raw = "<p>“If white people are so privileged why is there a Black Entertainment Network and no White Entertainment Network?”</p>\n<p>“Men don’t have privilege, there are women’s only gyms!”</p>\n<p>“Why isn’t there a campus centre for straight/cis people!?”</p>\n<p><strong>SAME REASONS WHY IN MARIO KART YOU DON’T GET BLUE SHELLS OR LIGHTNING BOLTS WHEN YOU’RE ALREADY IN FIRST PLACE, ASSBAG.</strong></p>"
+content = "<p>&ldquo;If white people are so privileged why is there a Black Entertainment Network and no White Entertainment Network?&rdquo;</p>\n<p>&ldquo;Men don&rsquo;t have privilege, there are women&rsquo;s only gyms!&rdquo;</p>\n<p>&ldquo;Why isn&rsquo;t there a campus centre for straight/cis people!?&rdquo;</p>\n<p><strong>SAME REASONS WHY IN MARIO KART YOU DON&rsquo;T GET BLUE SHELLS OR LIGHTNING BOLTS WHEN YOU&rsquo;RE ALREADY IN FIRST PLACE, ASSBAG.</strong></p>"
+is_root_item = true
+
+[tumblr.trail.blog]
+can_be_followed = false
+name = "wow-suchbree-veryblog"
+active = false
+share_likes = true
+share_following = true
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+background_color = "#FAFAFA"
+header_image_focused = "/images/51/e5/12436267d20237a73a62c72de49c.jpg"
+show_title = true
+title_color = "#444444"
+header_image_poster = ""
+show_header_image = true
+header_full_width = 1023.0
+header_full_height = 684.0
+body_font = "Helvetica Neue"
+header_image = "/images/bf/15/f99541a6751c17cccc43df71b470.jpg"
+title_font = "Gibson"
+title_font_weight = "bold"
+avatar_shape = "square"
+header_bounds = ""
+header_image_scaled = "/images/51/e5/12436267d20237a73a62c72de49c.jpg"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "77620265605"
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = "<p><a href=\"http://wow-suchbree-veryblog.tumblr.com/post/77620265605/if-white-people-are-so-privileged-why-is-there-a\" class=\"tumblr_blog\">wow-suchbree-veryblog</a>:</p><blockquote><p>“If white people are so privileged why is there a Black Entertainment Network and no White Entertainment Network?”</p>\n<p>“Men don’t have privilege, there are women’s only gyms!”</p>\n<p>“Why isn’t there a campus centre for straight/cis people!?”</p>\n<p><strong>SAME REASONS WHY IN MARIO KART YOU DON’T GET BLUE SHELLS OR LIGHTNING BOLTS WHEN YOU’RE ALREADY IN FIRST PLACE, ASSBAG.</strong></p></blockquote>"
++++

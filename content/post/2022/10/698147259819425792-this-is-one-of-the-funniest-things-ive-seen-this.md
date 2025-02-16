@@ -1,0 +1,118 @@
++++
+date = 2022-10-15T03:38:30Z
+slug = "this-is-one-of-the-funniest-things-ive-seen-this"
+id = "698147259819425792"
+aliases = [ "/post/698147259819425792/this-is-one-of-the-funniest-things-ive-seen-this" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+type = "photo"
+blog_name = "indirect"
+is_blazed = false
+reblog_key = "vDyPaQ7V"
+caption = "<p>this is one of the funniest things I’ve seen this month — <a href=\"http://twitter.com/transtradfujo/status/1580750690703806464\">@transtradfujo</a></p>"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+image_permalink = "https://indirect.tumblr.com/image/698147259819425792"
+can_reblog = false
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbycmKJlUSm00"
+note_count = 0.0
+display_avatar = true
+is_blocks_post_format = false
+format = "html"
+can_like = false
+id_string = "698147259819425792"
+post_url = "https://indirect.tumblr.com/post/698147259819425792/this-is-one-of-the-funniest-things-ive-seen-this"
+date = "2022-10-15 03:38:30 GMT"
+can_blaze = false
+slug = "this-is-one-of-the-funniest-things-ive-seen-this"
+summary = "this is one of the funniest things I’ve seen this month — @transtradfujo"
+can_reply = false
+tags = [ ]
+should_open_in_legacy = true
+id = 6.981472598194258e+17
+timestamp = 1.66580511e+09
+state = "published"
+link_url = "http://twitter.com/transtradfujo/status/1580750690703806464"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/be/35/03cea8a759f0026a34e611e7278f.jpg"
+width = 279.0
+height = 360.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/be/35/03cea8a759f0026a34e611e7278f.jpg"
+width = 279.0
+height = 360.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/19/51/d5690292ee68aa7a601553389cf2.jpg"
+width = 250.0
+height = 323.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/02/11/92d10ad1abb4329266fd6fd45ac3.jpg"
+width = 100.0
+height = 129.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/07/db/778701c2528e8aff33f46a9f72b6.jpg"
+width = 75.0
+height = 75.0
+
+[tumblr.reblog]
+comment = "<p>this is one of the funniest things I’ve seen this month — <a href=\"http://twitter.com/transtradfujo/status/1580750690703806464\">@transtradfujo</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>this is one of the funniest things I’ve seen this month — <a href=\"http://twitter.com/transtradfujo/status/1580750690703806464\">@transtradfujo</a></p>"
+content = "<p>this is one of the funniest things I&rsquo;ve seen this month &mdash; <a href=\"http://twitter.com/transtradfujo/status/1580750690703806464\">@transtradfujo</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_description = true
+title_font = "Gibson"
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+title_font_weight = "bold"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_title = true
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "698147259819425792"
+
+[tumblr.blog]
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
++++

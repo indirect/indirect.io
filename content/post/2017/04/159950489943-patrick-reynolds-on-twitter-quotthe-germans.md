@@ -1,0 +1,92 @@
++++
+date = 2017-04-24T20:44:26Z
+title = "Patrick Reynolds on Twitter: &quot;The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic. Where are you at in life: https://t.co/9BwbT0USpl&quot;"
+slug = "patrick-reynolds-on-twitter-quotthe-germans"
+id = "159950489943"
+aliases = [ "/post/159950489943/patrick-reynolds-on-twitter-quotthe-germans" ]
+tags = [ ]
+type = "tumblr-link"
+
+[tumblr]
+publisher = "twitter.com"
+can_blaze = false
+can_reblog = false
+blog_name = "indirect"
+state = "published"
+interactability_reblog = "everyone"
+can_reply = false
+should_open_in_legacy = true
+description = "<p>The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic.… <a href=\"https://t.co/LPAES2XFXA\">https://t.co/LPAES2XFXA</a> — <a href=\"http://twitter.com/pv_reynolds/status/856039446961045504\">@pv_reynolds</a></p>"
+id = 1.59950489943e+11
+id_string = "159950489943"
+is_blaze_pending = false
+format = "html"
+reblog_key = "Hp8SID3x"
+summary = "Patrick Reynolds on Twitter: &quot;The Germans, always, have a word for it, but the Japanese have an entire philosophy complete..."
+is_blocks_post_format = false
+is_blazed = false
+title = "Patrick Reynolds on Twitter: &quot;The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic. Where are you at in life: https://t.co/9BwbT0USpl&quot;"
+interactability_blaze = "everyone"
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/159950489943/patrick-reynolds-on-twitter-quotthe-germans"
+short_url = "https://tmblr.co/ZY3jby2KzoibN"
+can_send_in_message = true
+slug = "patrick-reynolds-on-twitter-quotthe-germans"
+date = "2017-04-24 20:44:26 GMT"
+tags = [ ]
+note_count = 0.0
+type = "link"
+timestamp = 1.493066666e+09
+url = "https://twitter.com/i/web/status/856039446961045504"
+can_like = false
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic.… <a href=\"https://t.co/LPAES2XFXA\">https://t.co/LPAES2XFXA</a> — <a href=\"http://twitter.com/pv_reynolds/status/856039446961045504\">@pv_reynolds</a></p>"
+content = "<p>The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic.&hellip; <a href=\"https://t.co/LPAES2XFXA\">https://t.co/LPAES2XFXA</a> &mdash; <a href=\"http://twitter.com/pv_reynolds/status/856039446961045504\">@pv_reynolds</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_header_image = false
+show_title = true
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_stretch = true
+show_avatar = true
+title_color = "#444444"
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+
+[tumblr.trail.post]
+id = "159950489943"
+
+[tumblr.reblog]
+comment = "<p>The Germans, always, have a word for it, but the Japanese have an entire philosophy complete with an info-graphic.… <a href=\"https://t.co/LPAES2XFXA\">https://t.co/LPAES2XFXA</a> — <a href=\"http://twitter.com/pv_reynolds/status/856039446961045504\">@pv_reynolds</a></p>"
+tree_html = ""
++++

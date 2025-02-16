@@ -1,0 +1,138 @@
++++
+date = 2024-07-28T01:04:00Z
+slug = "olympics-not-going-great-for-this-one-guy-john-b"
+id = "757206761495248897"
+aliases = [ "/post/757206761495248897/olympics-not-going-great-for-this-one-guy-john-b" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+can_blaze = false
+tags = [ ]
+should_open_in_legacy = true
+can_like = false
+can_reblog = false
+type = "photo"
+state = "published"
+reblog_key = "q6QaHYGS"
+link_url = "https://bsky.app/profile/vrovoom.bsky.social/post/3kycbic47vw2g"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+format = "html"
+summary = "Olympics not going great for this one guy — John B Progress (@vrovoom.bsky.social)"
+caption = "<p>Olympics not going great for this one guy — <a href=\"https://bsky.app/profile/vrovoom.bsky.social/post/3kycbic47vw2g\">John B Progress (@vrovoom.bsky.social)</a></p>"
+image_permalink = "https://indirect.tumblr.com/image/757206761495248897"
+can_send_in_message = true
+display_avatar = true
+id = 7.572067614952489e+17
+is_blazed = false
+is_blaze_pending = false
+slug = "olympics-not-going-great-for-this-one-guy-john-b"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+id_string = "757206761495248897"
+short_url = "https://tmblr.co/ZY3jbyg28uceSi01"
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/757206761495248897/olympics-not-going-great-for-this-one-guy-john-b"
+date = "2024-07-28 01:04:00 GMT"
+timestamp = 1.72212864e+09
+note_count = 0.0
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>Olympics not going great for this one guy — <a href=\"https://bsky.app/profile/vrovoom.bsky.social/post/3kycbic47vw2g\">John B Progress (@vrovoom.bsky.social)</a></p>"
+content = "<p>Olympics not going great for this one guy &mdash; <a href=\"https://bsky.app/profile/vrovoom.bsky.social/post/3kycbic47vw2g\">John B Progress (@vrovoom.bsky.social)</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+show_description = true
+title_font_weight = "bold"
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+show_header_image = false
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+
+[tumblr.trail.post]
+id = "757206761495248897"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/dd/17/cfd2dce744c137ebae7242bc5192.jpg"
+width = 750.0
+height = 1000.0
+
+[[tumblr.photos.alt_sizes]]
+height = 1000.0
+url = "/images/dd/17/cfd2dce744c137ebae7242bc5192.jpg"
+width = 750.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/cd/1b/814dcc2f8653afff3bde93759528.jpg"
+width = 640.0
+height = 853.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/23/c2/da31f25729f9441ea601c822e911.jpg"
+width = 540.0
+height = 720.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/7d/11/b2e461fe6dceca1f3e2fe66dfb1a.jpg"
+width = 500.0
+height = 667.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/95/c1/ee8c40c0aa20ae9e0abd2ca5bd4e.jpg"
+width = 400.0
+height = 533.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/7d/f3/9dd9ff81df5e5478c8ac0f10e93d.jpg"
+width = 250.0
+height = 333.0
+
+[[tumblr.photos.alt_sizes]]
+width = 100.0
+height = 133.0
+url = "/images/cc/4a/b25f2dde52fe090a996f815afc9b.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/86/ce/35330a911b130479442880f1fdd1.jpg"
+width = 75.0
+height = 75.0
+
+[tumblr.blog]
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Olympics not going great for this one guy — <a href=\"https://bsky.app/profile/vrovoom.bsky.social/post/3kycbic47vw2g\">John B Progress (@vrovoom.bsky.social)</a></p>"
+tree_html = ""
++++

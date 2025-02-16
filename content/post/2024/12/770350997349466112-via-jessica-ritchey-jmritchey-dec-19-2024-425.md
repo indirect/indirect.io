@@ -1,0 +1,143 @@
++++
+date = 2024-12-20T03:05:59Z
+slug = "via-jessica-ritchey-jmritchey-dec-19-2024-425"
+id = "770350997349466112"
+aliases = [ "/post/770350997349466112/via-jessica-ritchey-jmritchey-dec-19-2024-425" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+tags = [ ]
+note_count = 0.0
+can_like = false
+blog_name = "indirect"
+is_blazed = false
+slug = "via-jessica-ritchey-jmritchey-dec-19-2024-425"
+reblog_key = "suo0NsxA"
+should_open_in_legacy = true
+can_reblog = false
+summary = "Via Jessica Ritchey / jmritchey Dec 19, 2024, 4:25 PM \"Okay, get some snaps of that Mangione character, but you better not pull..."
+interactability_reblog = "everyone"
+image_permalink = "https://indirect.tumblr.com/image/770350997349466112"
+caption = "<p>Via Jessica Ritchey / jmritchey<br/>Dec 19, 2024, 4:25 PM</p><p>&ldquo;Okay, get some snaps of that Mangione character, but you better not pull any bullshit where he looks like the subject in a 16th century painting called &lsquo;Christ taken at the Garden of Gethsemane&rsquo;.&rdquo; <br/>&ldquo;Okay, now don&rsquo;t be mad but&hellip;&rdquo;</p> — <a href=\"https://mstdn.social/@_L1vY_/113682123103773577\">@_L1vY_</a>"
+link_url = "https://mstdn.social/@_L1vY_/113682123103773577"
+type = "photo"
+can_blaze = false
+date = "2024-12-20 03:05:59 GMT"
+short_url = "https://tmblr.co/ZY3jbygmrYQDOW00"
+id = 7.703509973494661e+17
+state = "published"
+format = "html"
+can_reply = false
+display_avatar = true
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/770350997349466112/via-jessica-ritchey-jmritchey-dec-19-2024-425"
+timestamp = 1.734663959e+09
+interactability_blaze = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
+id_string = "770350997349466112"
+
+[tumblr.reblog]
+comment = "<p><p>Via Jessica Ritchey / jmritchey<br>Dec 19, 2024, 4:25 PM</p><p>“Okay, get some snaps of that Mangione character, but you better not pull any bullshit where he looks like the subject in a 16th century painting called ‘Christ taken at the Garden of Gethsemane’.” <br>“Okay, now don’t be mad but…”</p> — <a href=\"https://mstdn.social/@_L1vY_/113682123103773577\">@_L1vY_</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p><p>Via Jessica Ritchey / jmritchey<br>Dec 19, 2024, 4:25 PM</p><p>“Okay, get some snaps of that Mangione character, but you better not pull any bullshit where he looks like the subject in a 16th century painting called ‘Christ taken at the Garden of Gethsemane’.” <br>“Okay, now don’t be mad but…”</p> — <a href=\"https://mstdn.social/@_L1vY_/113682123103773577\">@_L1vY_</a></p>"
+content = "<p><p>Via Jessica Ritchey / jmritchey<br />Dec 19, 2024, 4:25 PM</p><p>&ldquo;Okay, get some snaps of that Mangione character, but you better not pull any bullshit where he looks like the subject in a 16th century painting called &lsquo;Christ taken at the Garden of Gethsemane&rsquo;.&rdquo; <br />&ldquo;Okay, now don&rsquo;t be mad but&hellip;&rdquo;</p> &mdash; <a href=\"https://mstdn.social/@_L1vY_/113682123103773577\">@_L1vY_</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+show_description = true
+show_header_image = false
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_title = true
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_avatar = true
+title_color = "#444444"
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "770350997349466112"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/0a/8e/c0278c8d9096208b872a8abba633.jpg"
+width = 1280.0
+height = 851.0
+
+[[tumblr.photos.alt_sizes]]
+height = 1197.0
+url = "/images/ee/7e/61443035ef4313bbb5bd24d72d91.jpg"
+width = 1800.0
+
+[[tumblr.photos.alt_sizes]]
+height = 851.0
+url = "/images/0a/8e/c0278c8d9096208b872a8abba633.jpg"
+width = 1280.0
+
+[[tumblr.photos.alt_sizes]]
+height = 426.0
+url = "/images/c3/0d/540621c8441f9370e3b38992fc10.jpg"
+width = 640.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/17/8f/2e074ab2ac9e595edcc1227a2c5c.jpg"
+width = 540.0
+height = 359.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/de/cf/b4e03fd79dbe158e627e0a72aca0.jpg"
+width = 500.0
+height = 333.0
+
+[[tumblr.photos.alt_sizes]]
+height = 266.0
+url = "/images/91/82/49810cf3dd4fea339e063423e552.jpg"
+width = 400.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/d5/d6/c61fde6adbc65c8e0947234199e2.jpg"
+width = 250.0
+height = 166.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/98/aa/11dfa993c798a379b13013388476.jpg"
+width = 100.0
+height = 67.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/79/00/7e9e18b5fe3f59a8f7768db6b484.jpg"
+width = 75.0
+height = 75.0
++++

@@ -1,0 +1,234 @@
++++
+date = 2020-08-14T06:08:19Z
+slug = "good-question-chickinkiev"
+id = "626403889124720640"
+aliases = [ "/post/626403889124720640/good-question-chickinkiev" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+date = "2020-08-14 06:08:19 GMT"
+reblog_key = "ZUR0jAkS"
+interactability_blaze = "everyone"
+id_string = "626403889124720640"
+can_blaze = false
+slug = "good-question-chickinkiev"
+format = "html"
+can_send_in_message = true
+is_blocks_post_format = false
+tags = [ ]
+should_open_in_legacy = true
+note_count = 0.0
+caption = "<p>GOOD QUESTION — <a href=\"http://twitter.com/chick_in_kiev/status/1294120778250813447\">@chick_in_kiev</a></p>"
+link_url = "http://twitter.com/chick_in_kiev/status/1294120778250813447"
+is_blaze_pending = false
+summary = "GOOD QUESTION — @chick_in_kiev"
+can_reply = false
+photoset_layout = "12"
+blog_name = "indirect"
+id = 6.264038891247206e+17
+can_like = false
+display_avatar = true
+timestamp = 1.597385299e+09
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyYnRmInCy00"
+interactability_reblog = "everyone"
+can_reblog = false
+type = "photo"
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/626403889124720640/good-question-chickinkiev"
+
+[tumblr.reblog]
+comment = "<p>GOOD QUESTION — <a href=\"http://twitter.com/chick_in_kiev/status/1294120778250813447\">@chick_in_kiev</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>GOOD QUESTION — <a href=\"http://twitter.com/chick_in_kiev/status/1294120778250813447\">@chick_in_kiev</a></p>"
+content = "<p>GOOD QUESTION &mdash; <a href=\"http://twitter.com/chick_in_kiev/status/1294120778250813447\">@chick_in_kiev</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+title_font_weight = "bold"
+header_image_poster = ""
+header_stretch = true
+show_title = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_bounds = ""
+
+[tumblr.trail.post]
+id = "626403889124720640"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/10/97/5b7df88e40835dcbb0be9d796130.jpg"
+width = 1200.0
+height = 900.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/10/97/5b7df88e40835dcbb0be9d796130.jpg"
+width = 1200.0
+height = 900.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/10/c8/3b04926dde5e532d63d77f15eaea.jpg"
+width = 640.0
+height = 480.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/3f/d0/18c59a67aa081a0a0d5ae4049f48.jpg"
+width = 540.0
+height = 405.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/40/2b/4238a0c1754c52f2bb9bd2784844.jpg"
+width = 500.0
+height = 375.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/52/89/ab896a8cc30702504b5652ee4646.jpg"
+width = 400.0
+height = 300.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/fa/d5/d93b3c978f3832eb49d8abc39c47.jpg"
+width = 250.0
+height = 188.0
+
+[[tumblr.photos.alt_sizes]]
+width = 100.0
+height = 75.0
+url = "/images/69/1a/3b820ba67fb30fc26a1fc145e594.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/eb/3a/41d6a96602f66057158ccbddc3d0.jpg"
+width = 75.0
+height = 75.0
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/a2/55/837055e6d99c1a08df44a86e34f9.jpg"
+width = 1200.0
+height = 900.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/a2/55/837055e6d99c1a08df44a86e34f9.jpg"
+width = 1200.0
+height = 900.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/96/99/4a6bed020e10e600304404d18933.jpg"
+width = 640.0
+height = 480.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/bd/ad/5b507986a92e122a1e55c7b53b82.jpg"
+width = 540.0
+height = 405.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/b9/12/cd18996ba6a89408588db00a599e.jpg"
+width = 500.0
+height = 375.0
+
+[[tumblr.photos.alt_sizes]]
+width = 400.0
+height = 300.0
+url = "/images/7d/24/3de8e34119d0b20243c1872be30d.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/6b/d2/c6fd0472b1c70fe9b04ef4e23533.jpg"
+width = 250.0
+height = 188.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/27/4d/6d4ff0202619c71e9e80cd79a980.jpg"
+width = 100.0
+height = 75.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/7a/d0/216f99fe8e4685a4e202b8ce06d1.jpg"
+width = 75.0
+height = 75.0
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+height = 900.0
+url = "/images/9a/57/051c39c720d5d2f3bfefc9b9577a.jpg"
+width = 1200.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/9a/57/051c39c720d5d2f3bfefc9b9577a.jpg"
+width = 1200.0
+height = 900.0
+
+[[tumblr.photos.alt_sizes]]
+width = 640.0
+height = 480.0
+url = "/images/76/57/19d356f951f1d38672bf9840705e.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/1f/09/5eb9fdfcfa71bfb945f9a8651ad3.jpg"
+width = 540.0
+height = 405.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/5c/89/a3d083226764cda35c5a30664941.jpg"
+width = 500.0
+height = 375.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/eb/2f/53393b5f188ba6d25b3b6a41822e.jpg"
+width = 400.0
+height = 300.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/89/1f/174b68a86b5631212f149baeb52c.jpg"
+width = 250.0
+height = 188.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/cb/b6/5efd6ce6a3b14f223171bcd2aa77.jpg"
+width = 100.0
+height = 75.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/ca/a3/f62dac83f72eff9801abb55fab7d.jpg"
+width = 75.0
+height = 75.0
++++

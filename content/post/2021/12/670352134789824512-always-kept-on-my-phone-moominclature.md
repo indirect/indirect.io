@@ -1,0 +1,219 @@
++++
+date = 2021-12-12T08:26:53Z
+slug = "always-kept-on-my-phone-moominclature"
+id = "670352134789824512"
+aliases = [ "/post/670352134789824512/always-kept-on-my-phone-moominclature" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+note_count = 0.0
+interactability_reblog = "everyone"
+id = 6.703521347898245e+17
+post_url = "https://indirect.tumblr.com/post/670352134789824512/always-kept-on-my-phone-moominclature"
+state = "published"
+caption = "<p>always kept on my phone — <a href=\"http://twitter.com/moominclature/status/1469856900250484736\">@moominclature</a></p>"
+can_reblog = false
+can_reply = false
+type = "photo"
+id_string = "670352134789824512"
+blog_name = "indirect"
+summary = "always kept on my phone — @moominclature"
+can_like = false
+link_url = "http://twitter.com/moominclature/status/1469856900250484736"
+is_blazed = false
+format = "html"
+reblog_key = "sfwTRvvg"
+timestamp = 1.639297613e+09
+interactability_blaze = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
+slug = "always-kept-on-my-phone-moominclature"
+date = "2021-12-12 08:26:53 GMT"
+short_url = "https://tmblr.co/ZY3jbybDaRS4ae00"
+photoset_layout = "12"
+is_blaze_pending = false
+display_avatar = true
+can_blaze = false
+tags = [ ]
+should_open_in_legacy = true
+
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>always kept on my phone — <a href=\"http://twitter.com/moominclature/status/1469856900250484736\">@moominclature</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>always kept on my phone — <a href=\"http://twitter.com/moominclature/status/1469856900250484736\">@moominclature</a></p>"
+content = "<p>always kept on my phone &mdash; <a href=\"http://twitter.com/moominclature/status/1469856900250484736\">@moominclature</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_description = true
+show_title = true
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_poster = ""
+title_font = "Gibson"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+avatar_shape = "square"
+link_color = "#529ECC"
+show_header_image = false
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "670352134789824512"
+
+[[tumblr.photos]]
+caption = ""
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/98/c5/d432432536a830382280ea3e575e.jpg"
+width = 639.0
+height = 462.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/74/d0/7ce18ba32378a605eee35000356e.jpg"
+width = 540.0
+height = 390.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/f3/d8/2094a1bc6a95e277aab68f8fe856.jpg"
+width = 500.0
+height = 362.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/d6/ea/71723282849eadd265e5df24d47d.jpg"
+width = 400.0
+height = 289.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/52/a8/7941e5735c7404e140c0a0b5587a.jpg"
+width = 250.0
+height = 181.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/0d/18/6fc1f03e7612943a2a53ba3fa8f3.jpg"
+width = 100.0
+height = 72.0
+
+[[tumblr.photos.alt_sizes]]
+height = 75.0
+url = "/images/bd/7e/1096c0b13eb1413221a32dc90f91.jpg"
+width = 75.0
+
+[tumblr.photos.original_size]
+url = "/images/98/c5/d432432536a830382280ea3e575e.jpg"
+width = 639.0
+height = 462.0
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+height = 462.0
+url = "/images/ef/a5/22ad272f0dc6fb182ca9bd1b2458.jpg"
+width = 639.0
+
+[[tumblr.photos.alt_sizes]]
+width = 639.0
+height = 462.0
+url = "/images/ef/a5/22ad272f0dc6fb182ca9bd1b2458.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/8c/ea/06e94bef41ac0a50315caa96a602.jpg"
+width = 540.0
+height = 390.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/cf/a0/14563e94b8431044a1683101fc43.jpg"
+width = 500.0
+height = 362.0
+
+[[tumblr.photos.alt_sizes]]
+width = 400.0
+height = 289.0
+url = "/images/cc/d7/36dc4c280c1da15f9d70c93436fc.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/90/cd/c717c4925fd48145e86a1e69a3a9.jpg"
+width = 250.0
+height = 181.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/46/6a/166c9982db392843ef75c5380bc8.jpg"
+width = 100.0
+height = 72.0
+
+[[tumblr.photos.alt_sizes]]
+width = 75.0
+height = 75.0
+url = "/images/94/68/21ef6b2679690894643c9ed351af.jpg"
+
+[[tumblr.photos]]
+caption = ""
+
+[[tumblr.photos.alt_sizes]]
+height = 462.0
+url = "/images/92/99/bf679b67951ebd74680084fc4302.jpg"
+width = 639.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/dc/f3/9b4e9f1c19a7273f904603cf74ad.jpg"
+width = 540.0
+height = 390.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/19/35/aae1c62a4033c475ffad33a681bd.jpg"
+width = 500.0
+height = 362.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/88/45/27b5431fff12373c370a7a808aa4.jpg"
+width = 400.0
+height = 289.0
+
+[[tumblr.photos.alt_sizes]]
+width = 250.0
+height = 181.0
+url = "/images/ec/eb/9f373362b2622a8013223746db8c.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/3d/f0/14209befcebfaa3ce81ca8f2eb28.jpg"
+width = 100.0
+height = 72.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/55/c1/e618be4cfeb11795449ecbf40919.jpg"
+width = 75.0
+height = 75.0
+
+[tumblr.photos.original_size]
+height = 462.0
+url = "/images/92/99/bf679b67951ebd74680084fc4302.jpg"
+width = 639.0
++++

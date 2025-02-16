@@ -1,0 +1,138 @@
++++
+date = 2024-05-05T21:02:01Z
+slug = "if-you-are-looking-for-the-meaning-of-life-dont"
+id = "749671988679835648"
+aliases = [ "/post/749671988679835648/if-you-are-looking-for-the-meaning-of-life-dont" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+slug = "if-you-are-looking-for-the-meaning-of-life-dont"
+can_like = false
+can_send_in_message = true
+id = 7.496719886798356e+17
+can_blaze = false
+display_avatar = true
+blog_name = "indirect"
+id_string = "749671988679835648"
+timestamp = 1.714942921e+09
+is_blaze_pending = false
+should_open_in_legacy = true
+caption = "<p>If you are looking for the meaning of life, don’t bother asking a mathematician — <a href=\"https://twitter.com/Anthony_Bonato/status/1786873813210108202\">Anthony Bonato (@Anthony_Bonato)</a></p>"
+link_url = "https://twitter.com/Anthony_Bonato/status/1786873813210108202"
+interactability_blaze = "everyone"
+can_reblog = false
+is_blazed = false
+state = "published"
+image_permalink = "https://indirect.tumblr.com/image/749671988679835648"
+post_url = "https://indirect.tumblr.com/post/749671988679835648/if-you-are-looking-for-the-meaning-of-life-dont"
+format = "html"
+summary = "If you are looking for the meaning of life, don’t bother asking a mathematician — Anthony Bonato (@Anthony_Bonato)"
+note_count = 0.0
+type = "photo"
+is_blocks_post_format = false
+date = "2024-05-05 21:02:01 GMT"
+reblog_key = "dja1ukYt"
+tags = [ ]
+short_url = "https://tmblr.co/ZY3jbyfdNhEdKe00"
+can_reply = false
+interactability_reblog = "everyone"
+
+[tumblr.blog]
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>If you are looking for the meaning of life, don’t bother asking a mathematician — <a href=\"https://twitter.com/Anthony_Bonato/status/1786873813210108202\">Anthony Bonato (@Anthony_Bonato)</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>If you are looking for the meaning of life, don’t bother asking a mathematician — <a href=\"https://twitter.com/Anthony_Bonato/status/1786873813210108202\">Anthony Bonato (@Anthony_Bonato)</a></p>"
+content = "<p>If you are looking for the meaning of life, don&rsquo;t bother asking a mathematician &mdash; <a href=\"https://twitter.com/Anthony_Bonato/status/1786873813210108202\">Anthony Bonato (@Anthony_Bonato)</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_description = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_stretch = true
+show_header_image = false
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+avatar_shape = "square"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+
+[tumblr.trail.post]
+id = "749671988679835648"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+height = 231.0
+url = "/images/82/ac/3fb971b56ccabd5643219290477f.jpg"
+width = 1197.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/82/ac/3fb971b56ccabd5643219290477f.jpg"
+width = 1197.0
+height = 231.0
+
+[[tumblr.photos.alt_sizes]]
+width = 640.0
+height = 124.0
+url = "/images/89/28/ead9ed67c0c0d1ff3221ae4dded8.jpg"
+
+[[tumblr.photos.alt_sizes]]
+width = 540.0
+height = 104.0
+url = "/images/90/f6/23a74377c3c2eea7887a3c044b5d.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/87/ff/4dcd7b496d07cc1458cf4f4644f7.jpg"
+width = 500.0
+height = 96.0
+
+[[tumblr.photos.alt_sizes]]
+width = 400.0
+height = 77.0
+url = "/images/e4/0f/6e401cd203a53a6030b5e23e2a96.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/e1/dc/6182f4401fde10a3750051759de5.jpg"
+width = 250.0
+height = 48.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/28/fc/e650245b350685ecd22d89bd95db.jpg"
+width = 100.0
+height = 19.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/89/e5/51b4a5a5cd43db4a971f68128355.jpg"
+width = 75.0
+height = 75.0
++++

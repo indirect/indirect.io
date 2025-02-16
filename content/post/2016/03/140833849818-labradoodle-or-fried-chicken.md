@@ -1,0 +1,133 @@
++++
+date = 2016-03-11T03:06:30Z
+slug = "labradoodle-or-fried-chicken"
+id = "140833849818"
+aliases = [ "/post/140833849818/labradoodle-or-fried-chicken" ]
+tags = [ ]
+type = "tumblr-photo"
+
+[tumblr]
+type = "photo"
+note_count = 0.0
+interactability_reblog = "everyone"
+can_send_in_message = true
+slug = "labradoodle-or-fried-chicken"
+caption = "<p>labradoodle or fried chicken ? <a href=\"https://t.co/wn5bdjdtDf\">https://t.co/wn5bdjdtDf</a> — <a href=\"http://twitter.com/teenybiscuit/status/705232709220769792\">@teenybiscuit</a></p>"
+image_permalink = "https://indirect.tumblr.com/image/140833849818"
+interactability_blaze = "everyone"
+can_reply = false
+blog_name = "indirect"
+can_blaze = false
+state = "published"
+summary = "labradoodle or fried chicken ? https://t.co/wn5bdjdtDf — @teenybiscuit"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/140833849818/labradoodle-or-fried-chicken"
+reblog_key = "IDRGzysC"
+tags = [ ]
+is_blocks_post_format = false
+date = "2016-03-11 03:06:30 GMT"
+is_blazed = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jby23AMW7Q"
+link_url = "http://twitter.com/teenybiscuit/status/705232709220769792"
+can_reblog = false
+id = 1.40833849818e+11
+display_avatar = true
+id_string = "140833849818"
+timestamp = 1.45766559e+09
+should_open_in_legacy = true
+can_like = false
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1.738205153e+09
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>labradoodle or fried chicken ? <a href=\"https://t.co/wn5bdjdtDf\">https://t.co/wn5bdjdtDf</a> — <a href=\"http://twitter.com/teenybiscuit/status/705232709220769792\">@teenybiscuit</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>labradoodle or fried chicken ? <a href=\"https://t.co/wn5bdjdtDf\">https://t.co/wn5bdjdtDf</a> — <a href=\"http://twitter.com/teenybiscuit/status/705232709220769792\">@teenybiscuit</a></p>"
+content = "<p>labradoodle or fried chicken ? <a href=\"https://t.co/wn5bdjdtDf\">https://t.co/wn5bdjdtDf</a> &mdash; <a href=\"http://twitter.com/teenybiscuit/status/705232709220769792\">@teenybiscuit</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+header_image_poster = ""
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+title_color = "#444444"
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+show_header_image = false
+title_font_weight = "bold"
+show_title = true
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "140833849818"
+
+[[tumblr.photos]]
+caption = ""
+
+[tumblr.photos.original_size]
+height = 715.0
+url = "/images/be/c9/43fa682ad3b62a02ff6048d55da8.jpg"
+width = 600.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/be/c9/43fa682ad3b62a02ff6048d55da8.jpg"
+width = 600.0
+height = 715.0
+
+[[tumblr.photos.alt_sizes]]
+width = 540.0
+height = 644.0
+url = "/images/d4/b6/9aa49b0af46088a7b3a78388f44d.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/11/a2/13176c1b7845d70d92785aff55c5.jpg"
+width = 500.0
+height = 596.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/51/b8/6dbf2d069e65451edd347f5f9bc8.jpg"
+width = 400.0
+height = 477.0
+
+[[tumblr.photos.alt_sizes]]
+height = 298.0
+url = "/images/30/9a/930f1f1a4e5b7aa24efff5a3ef07.jpg"
+width = 250.0
+
+[[tumblr.photos.alt_sizes]]
+width = 100.0
+height = 119.0
+url = "/images/55/e2/b6c4ed674a98e53252141f10494c.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/e6/e5/ea517f9a6a9e2074c539d21def24.jpg"
+width = 75.0
+height = 75.0
++++
