@@ -54,6 +54,6 @@ phrase = "I'd prefer allowing refinements without require"
 
 [[tumblr.dialogue]]
 label = "_ko2:"
-phrase = "matz_: please write rubyspec first! (joke)"
+phrase = "matz: please write rubyspec first! (joke)"
 name = "_ko2"
 +++

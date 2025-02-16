@@ -1,7 +1,12 @@
 {{ define "main" }}
 <main>
   <article>
-    {{ .Params.Tumblr.Text }} &mdash; {{ .Params.Tumblr.Source }}
+    {{ range .Params.Tumblr.Dialogue }}
+      <div>
+        <b>{{ .name }}</b>
+        {{ .phrase }}
+      </div>
+    {{ end }}
   </article>
 </main>
 {{ end }}

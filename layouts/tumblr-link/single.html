@@ -1,7 +1,13 @@
 {{ define "main" }}
 <main>
   <article>
-    {{ .Params.Tumblr.Text }} &mdash; {{ .Params.Tumblr.Source }}
+    <div>
+      <a href="{{ .Params.Tumblr.Url }}">
+        <b>{{ default .Params.Tumblr.Publisher .Params.Tumblr.Title }}</b>
+      </a>
+    </div>
+
+    {{ .Params.Tumblr.Description | safeHTML }}
   </article>
 </main>
 {{ end }}

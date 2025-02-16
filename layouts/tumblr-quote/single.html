@@ -1,7 +1,10 @@
 {{ define "main" }}
 <main>
   <article>
-    {{ .Params.Tumblr.Text }} &mdash; {{ .Params.Tumblr.Source }}
+    <blockquote>
+      {{ .Params.Tumblr.Text | safeHTML }}
+    </blockquote>
+    <p>&mdash; {{ .Params.Tumblr.Source | safeHTML }}</p>
   </article>
 </main>
 {{ end }}
