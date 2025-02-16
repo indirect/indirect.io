@@ -1,0 +1,4 @@
+baseURL = 'https://indirect.io'
+languageCode = 'en-us'
+title = 'indirect.io'
+theme = 'mnml'

@@ -1,0 +1,8 @@
+{{ define "main" }}
+<main>
+  <article>
+    {{ .Params.Tumblr.Caption | safeHTML }}
+    {{ .Params.Tumblr.Embed | safeHTML }}
+  </article>
+</main>
+{{ end }}
