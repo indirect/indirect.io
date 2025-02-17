@@ -1,3 +1,19 @@
 baseURL = 'https://indirect.io'
 languageCode = 'en-us'
 title = 'indirect.io'
+uglyURLs = true
+
+[mediaTypes."text/markdown"]
+  suffixes = ["md"]
+[outputFormats.MD]
+  mediaType = "text/markdown"
+  baseName = "index" # generated file = <baseName>.<mediaType."application/text".suffixes[0]> = index.txt
+	isHTML = false
+  # isPlainText = true
+
+[outputs]
+  home = ["HTML"]
+  section = []
+  taxonomy = []
+  term = []
+  page = ["HTML", "MD"]
