@@ -1,6 +1,18 @@
 #!/bin/bash
-set -euo pipefail
-IFS=$'\n\t'
 
-set -vx
-exec op run --account indirect --env-file=.env -- ~/.go/bin/tumblr-importr -blog indirect -api-key $TUMBLR_API_KEY
+set -x
+
+op run --account indirect --env-file=.env -- bash -c '~/.go/bin/tumblr-importr -blog indirect -api-key $TUMBLR_API_KEY' "${@}"
+
+# sort the keys in the toml so they stop changing when the import runs again
+ruby <<EOF
+  require "bundler/inline"
+  gemfile do
+    gem "perfect_toml"
+  end
+    
+  Dir.glob("content/post/**/*.md").each do |f|
+    toml = PerfectTOML.parse(File.read(f).lines[1...-1].join)
+    File.write f, "+++\n" << PerfectTOML.generate(toml.sort_by{|k,v| k}.to_h) << "+++\n"
+  end.tap {|fs| puts "Sorted #{fs.size} front matters" }
+EOF
