@@ -1,3 +1,6 @@
 #!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
 
-~/.go/bin/tumblr-importr -blog indirect -api-key $TUMBLR_API_KEY
+set -vx
+exec op run --account indirect --env-file=.env -- ~/.go/bin/tumblr-importr -blog indirect -api-key $TUMBLR_API_KEY
