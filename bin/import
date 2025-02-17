@@ -8,6 +8,7 @@ op run --account indirect --env-file=.env -- bash -c "~/.go/bin/tumblr-importr -
 ruby <<EOF
   require "bundler/inline"
   gemfile do
+    source "https://rubygems.org"
     gem "perfect_toml"
   end
     
