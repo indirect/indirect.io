@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/612456005787320320/remember-that-quite-decent-tv-series-about"]
 date = 2020-03-13T07:12:42Z
-slug = "remember-that-quite-decent-tv-series-about"
 id = "612456005787320320"
-aliases = [ "/post/612456005787320320/remember-that-quite-decent-tv-series-about" ]
-tags = [ ]
+slug = "remember-that-quite-decent-tv-series-about"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-tags = [ ]
-can_reply = false
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/612456005787320320/remember-that-quite-decent-tv-series-about"
-timestamp = 1.584083562e+09
+timestamp = 1584083562.0
 can_like = false
-interactability_reblog = "everyone"
-date = "2020-03-13 07:12:42 GMT"
-should_open_in_legacy = true
-text = "Remember that quite decent tv series about Chernobyl a few months ago, where everyone got sick and died because of a callous, sclerotic state and its systemic failures of accountability and responsibility, and everyone watched it and was like &ldquo;lol, guess that&rsquo;s communism for you&rdquo;"
-source = "<a href=\"http://twitter.com/peter_nhs/status/1238172198487101442\">@peter_nhs</a>"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id_string = "612456005787320320"
-format = "html"
-reblog_key = "wjAZ2NSo"
-can_reblog = false
-state = "published"
-can_send_in_message = true
-display_avatar = true
-id = 6.124560057873203e+17
-slug = "remember-that-quite-decent-tv-series-about"
 type = "quote"
 is_blazed = false
-summary = "Remember that quite decent tv series about Chernobyl a few months ago, where everyone got sick and died because of a callous,..."
-short_url = "https://tmblr.co/ZY3jbyX-uNu9WW00"
 note_count = 0.0
+interactability_reblog = "everyone"
+can_reblog = false
+state = "published"
+id_string = "612456005787320320"
+display_avatar = true
+interactability_blaze = "everyone"
+blog_name = "indirect"
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jbyX-uNu9WW00"
+text = "Remember that quite decent tv series about Chernobyl a few months ago, where everyone got sick and died because of a callous, sclerotic state and its systemic failures of accountability and responsibility, and everyone watched it and was like &ldquo;lol, guess that&rsquo;s communism for you&rdquo;"
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/612456005787320320/remember-that-quite-decent-tv-series-about"
+date = "2020-03-13 07:12:42 GMT"
+format = "html"
+source = "<a href=\"http://twitter.com/peter_nhs/status/1238172198487101442\">@peter_nhs</a>"
+is_blocks_post_format = false
+is_blaze_pending = false
+slug = "remember-that-quite-decent-tv-series-about"
+reblog_key = "wjAZ2NSo"
+summary = "Remember that quite decent tv series about Chernobyl a few months ago, where everyone got sick and died because of a callous,..."
+can_reply = false
+id = 6.124560057873203e+17
+should_open_in_legacy = true
 
 [tumblr.blog]
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

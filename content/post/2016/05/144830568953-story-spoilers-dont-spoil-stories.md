@@ -1,59 +1,56 @@
 +++
+aliases = ["/post/144830568953/story-spoilers-dont-spoil-stories"]
 date = 2016-05-24T00:00:12Z
-title = "Story Spoilers Don't Spoil Stories"
-slug = "story-spoilers-dont-spoil-stories"
 id = "144830568953"
-aliases = [ "/post/144830568953/story-spoilers-dont-spoil-stories" ]
-tags = [ ]
+slug = "story-spoilers-dont-spoil-stories"
+title = "Story Spoilers Don't Spoil Stories"
 type = "tumblr-link"
 
 [tumblr]
-title = "Story Spoilers Don't Spoil Stories"
+can_blaze = false
+format = "markdown"
+interactability_blaze = "everyone"
+can_reply = false
 blog_name = "indirect"
-date = "2016-05-24 00:00:12 GMT"
-reblog_key = "ASvOzb9z"
-post_url = "https://indirect.tumblr.com/post/144830568953/story-spoilers-dont-spoil-stories"
-tags = [ ]
+is_blaze_pending = false
+should_open_in_legacy = true
 url = "http://pages.ucsd.edu/~nchristenfeld/Publications_files/Spoilers.pdf"
 excerpt = "giving away these surprises makes readers like stories better"
-publisher = "pages.ucsd.edu"
-interactability_blaze = "everyone"
+post_url = "https://indirect.tumblr.com/post/144830568953/story-spoilers-dont-spoil-stories"
 can_send_in_message = true
+state = "published"
+reblog_key = "ASvOzb9z"
+date = "2016-05-24 00:00:12 GMT"
+is_blazed = false
+can_like = false
+short_url = "https://tmblr.co/ZY3jby26uandv"
+title = "Story Spoilers Don't Spoil Stories"
+publisher = "pages.ucsd.edu"
+description = ""
+display_avatar = true
+note_count = 0.0
+type = "link"
 is_blocks_post_format = false
 id_string = "144830568953"
 slug = "story-spoilers-dont-spoil-stories"
-short_url = "https://tmblr.co/ZY3jby26uandv"
-can_like = false
-type = "link"
-is_blaze_pending = false
-timestamp = 1.464048012e+09
-state = "published"
-format = "markdown"
-should_open_in_legacy = true
-note_count = 0.0
-description = ""
-can_blaze = false
 summary = "Story Spoilers Don't Spoil Stories"
-trail = [ ]
+id = 144830568953.0
+timestamp = 1464048012.0
 interactability_reblog = "everyone"
 can_reblog = false
-can_reply = false
-display_avatar = true
-id = 1.44830568953e+11
-is_blazed = false
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

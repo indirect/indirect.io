@@ -1,48 +1,46 @@
 +++
+aliases = ["/post/26671184773/children-warned-name-of-first-pet-should-contain-8"]
 date = 2012-07-07T02:37:59Z
-slug = "children-warned-name-of-first-pet-should-contain-8"
 id = "26671184773"
-aliases = [ "/post/26671184773/children-warned-name-of-first-pet-should-contain-8" ]
-tags = [ ]
+slug = "children-warned-name-of-first-pet-should-contain-8"
 type = "tumblr-quote"
 
 [tumblr]
-format = "markdown"
 note_count = 0.0
-can_blaze = false
+can_send_in_message = true
+is_blocks_post_format = false
+id = 26671184773.0
+is_blaze_pending = false
 slug = "children-warned-name-of-first-pet-should-contain-8"
-reblog_key = "Z4nyqOjk"
-short_url = "https://tmblr.co/ZY3jbyOrkVk5"
-interactability_reblog = "everyone"
+state = "published"
 interactability_blaze = "everyone"
 can_reply = false
-blog_name = "indirect"
-id = 2.6671184773e+10
-is_blazed = false
-summary = "Children warned name of first pet should contain 8 characters and a digit"
-display_avatar = true
-is_blaze_pending = false
-state = "published"
-tags = [ ]
-text = "Children warned name of first pet should contain 8 characters and a digit"
 source = "<a href=\"http://www.newsbiscuit.com/2012/06/08/children-warned-name-of-first-pet-should-contain-8-characters-and-a-digit/\">NewsBiscuit</a>"
-is_blocks_post_format = false
-can_reblog = false
-can_send_in_message = true
-timestamp = 1.341628679e+09
-can_like = false
-type = "quote"
-id_string = "26671184773"
-should_open_in_legacy = true
-post_url = "https://indirect.tumblr.com/post/26671184773/children-warned-name-of-first-pet-should-contain-8"
+interactability_reblog = "everyone"
+can_blaze = false
 date = "2012-07-07 02:37:59 GMT"
+can_like = false
+short_url = "https://tmblr.co/ZY3jbyOrkVk5"
+should_open_in_legacy = true
+display_avatar = true
+id_string = "26671184773"
+is_blazed = false
+format = "markdown"
+reblog_key = "Z4nyqOjk"
+summary = "Children warned name of first pet should contain 8 characters and a digit"
+text = "Children warned name of first pet should contain 8 characters and a digit"
+can_reblog = false
+type = "quote"
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/26671184773/children-warned-name-of-first-pet-should-contain-8"
+timestamp = 1341628679.0
 
 [tumblr.blog]
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 

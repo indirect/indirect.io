@@ -1,57 +1,86 @@
 +++
+aliases = ["/post/104705398493/this-paragraph-should-be-taught-in-journalism"]
 date = 2014-12-08T22:34:51Z
-slug = "this-paragraph-should-be-taught-in-journalism"
 id = "104705398493"
-aliases = [ "/post/104705398493/this-paragraph-should-be-taught-in-journalism" ]
-tags = [ ]
+slug = "this-paragraph-should-be-taught-in-journalism"
 type = "tumblr-photo"
 
 [tumblr]
-link_url = "http://twitter.com/JHWeissmann/status/542025340856832000"
-post_url = "https://indirect.tumblr.com/post/104705398493/this-paragraph-should-be-taught-in-journalism"
 is_blazed = false
-reblog_key = "DkVav7eO"
+state = "published"
 note_count = 0.0
-caption = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
-can_reblog = false
+can_reply = false
+image_permalink = "https://indirect.tumblr.com/image/104705398493"
+type = "photo"
+blog_name = "indirect"
+id = 104705398493.0
+id_string = "104705398493"
 is_blaze_pending = false
 date = "2014-12-08 22:34:51 GMT"
-summary = "This paragraph should be taught in journalism schools — @JHWeissmann"
-image_permalink = "https://indirect.tumblr.com/image/104705398493"
-interactability_reblog = "everyone"
-timestamp = 1.418078091e+09
-type = "photo"
+timestamp = 1418078091.0
 is_blocks_post_format = false
-can_blaze = false
-tags = [ ]
-should_open_in_legacy = true
-format = "html"
-can_like = false
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-state = "published"
-id = 1.04705398493e+11
-id_string = "104705398493"
+interactability_reblog = "everyone"
 slug = "this-paragraph-should-be-taught-in-journalism"
+summary = "This paragraph should be taught in journalism schools — @JHWeissmann"
+link_url = "http://twitter.com/JHWeissmann/status/542025340856832000"
+display_avatar = true
+can_send_in_message = true
+can_blaze = false
+reblog_key = "DkVav7eO"
+should_open_in_legacy = true
+can_like = false
+can_reblog = false
 short_url = "https://tmblr.co/ZY3jby1XWxPRT"
 interactability_blaze = "everyone"
-blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/104705398493/this-paragraph-should-be-taught-in-journalism"
+format = "html"
+caption = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 
-[tumblr.reblog]
-comment = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
+content = "<p>This paragraph should be taught in journalism schools &mdash; <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_poster = ""
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+background_color = "#FAFAFA"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_stretch = true
+title_font = "Gibson"
+avatar_shape = "square"
+link_color = "#529ECC"
+show_avatar = true
+
+[tumblr.trail.post]
+id = "104705398493"
 
 [[tumblr.photos]]
 caption = ""
@@ -72,9 +101,9 @@ width = 500.0
 height = 178.0
 
 [[tumblr.photos.alt_sizes]]
-height = 142.0
 url = "/images/e2/55/9b35dd2df33ff7f1f0b8f1b2079e.png"
 width = 400.0
+height = 142.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
@@ -96,38 +125,7 @@ url = "/images/27/20/917699286f328d03f6c37982d407.png"
 width = 598.0
 height = 213.0
 
-[[tumblr.trail]]
-content_raw = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
-content = "<p>This paragraph should be taught in journalism schools &mdash; <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_font = "Gibson"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-show_avatar = true
-background_color = "#FAFAFA"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-title_color = "#444444"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "104705398493"
+[tumblr.reblog]
+comment = "<p>This paragraph should be taught in journalism schools — <a href=\"http://twitter.com/JHWeissmann/status/542025340856832000\">@JHWeissmann</a></p>"
+tree_html = ""
 +++

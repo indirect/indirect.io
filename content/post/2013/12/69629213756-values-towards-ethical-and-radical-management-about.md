@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/69629213756/values-towards-ethical-and-radical-management-about"]
 date = 2013-12-10T22:47:00Z
-title = "Values Towards Ethical and Radical Management"
-slug = "values-towards-ethical-and-radical-management-about"
 id = "69629213756"
-aliases = [ "/post/69629213756/values-towards-ethical-and-radical-management-about" ]
-tags = [ ]
+slug = "values-towards-ethical-and-radical-management-about"
+title = "Values Towards Ethical and Radical Management"
 type = "tumblr-link"
 
 [tumblr]
+blog_name = "indirect"
+timestamp = 1386715620.0
+note_count = 0.0
+can_blaze = false
+interactability_reblog = "everyone"
+is_blaze_pending = false
 type = "link"
-can_reply = false
+is_blazed = false
 post_url = "https://indirect.tumblr.com/post/69629213756/values-towards-ethical-and-radical-management-about"
+slug = "values-towards-ethical-and-radical-management-about"
+format = "markdown"
+is_blocks_post_format = false
+id = 69629213756.0
+short_url = "https://tmblr.co/ZY3jby10sENmy"
+title = "Values Towards Ethical and Radical Management"
+description = ""
+summary = "Values Towards Ethical and Radical Management"
+url = "https://medium.com/about-work/514a6edcce2c"
+publisher = "medium.com"
+interactability_blaze = "everyone"
+id_string = "69629213756"
+state = "published"
+should_open_in_legacy = true
 can_like = false
 can_reblog = false
-can_send_in_message = true
-url = "https://medium.com/about-work/514a6edcce2c"
-id = 6.9629213756e+10
-id_string = "69629213756"
-can_blaze = false
-format = "markdown"
-reblog_key = "4QbsaHB8"
-summary = "Values Towards Ethical and Radical Management"
-blog_name = "indirect"
-slug = "values-towards-ethical-and-radical-management-about"
-state = "published"
-tags = [ ]
-description = ""
+can_reply = false
 display_avatar = true
-is_blaze_pending = false
-timestamp = 1.38671562e+09
-note_count = 0.0
-publisher = "medium.com"
-short_url = "https://tmblr.co/ZY3jby10sENmy"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
 date = "2013-12-10 22:47:00 GMT"
-trail = [ ]
-interactability_blaze = "everyone"
-is_blazed = false
-should_open_in_legacy = true
-title = "Values Towards Ethical and Radical Management"
+reblog_key = "4QbsaHB8"
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

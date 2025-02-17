@@ -1,41 +1,43 @@
 +++
+aliases = ["/post/44556683702/if-you-were-anything-but-pedantic-you-would"]
 date = 2013-03-04T19:48:54Z
-slug = "if-you-were-anything-but-pedantic-you-would"
 id = "44556683702"
-aliases = [ "/post/44556683702/if-you-were-anything-but-pedantic-you-would" ]
-tags = [ ]
+slug = "if-you-were-anything-but-pedantic-you-would"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
 is_blaze_pending = false
-slug = "if-you-were-anything-but-pedantic-you-would"
-interactability_blaze = "everyone"
-can_like = false
-interactability_reblog = "everyone"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/44556683702/if-you-were-anything-but-pedantic-you-would"
-date = "2013-03-04 19:48:54 GMT"
-timestamp = 1.362426534e+09
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyfVoGcs"
-display_avatar = true
-can_send_in_message = true
-is_blocks_post_format = false
-summary = "if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.” Following your..."
-should_open_in_legacy = true
-source = "<a href=\"http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&amp;post=20945281#comment-20945281\">Otkon</a>"
-can_reblog = false
-text = "if you were anything but pedantic, you would exclaim &ldquo;that requires the ablative of source! In the singular.&rdquo; Following your logic, the article should read &ldquo;&hellip;from a bacterio&rdquo;"
-type = "quote"
 id_string = "44556683702"
-is_blazed = false
-reblog_key = "DpzqY9WG"
-tags = [ ]
+can_blaze = false
 can_reply = false
-note_count = 0.0
-id = 4.4556683702e+10
+is_blocks_post_format = false
+state = "published"
+reblog_key = "DpzqY9WG"
+text = "if you were anything but pedantic, you would exclaim &ldquo;that requires the ablative of source! In the singular.&rdquo; Following your logic, the article should read &ldquo;&hellip;from a bacterio&rdquo;"
+short_url = "https://tmblr.co/ZY3jbyfVoGcs"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_reblog = false
+blog_name = "indirect"
 format = "markdown"
+can_like = false
+id = 44556683702.0
+is_blazed = false
+date = "2013-03-04 19:48:54 GMT"
+can_send_in_message = true
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/44556683702/if-you-were-anything-but-pedantic-you-would"
+timestamp = 1362426534.0
+note_count = 0.0
+source = "<a href=\"http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&amp;post=20945281#comment-20945281\">Otkon</a>"
+slug = "if-you-were-anything-but-pedantic-you-would"
+summary = "if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.” Following your..."
+interactability_blaze = "everyone"
+type = "quote"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&post=20945281#comment-20945281\">Otkon</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = true
@@ -44,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&post=20945281#comment-20945281\">Otkon</a></p>"
-tree_html = ""
 +++

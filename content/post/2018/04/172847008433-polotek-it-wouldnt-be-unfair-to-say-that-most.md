@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/172847008433/polotek-it-wouldnt-be-unfair-to-say-that-most"]
 date = 2018-04-12T02:56:30Z
-slug = "polotek-it-wouldnt-be-unfair-to-say-that-most"
 id = "172847008433"
-aliases = [ "/post/172847008433/polotek-it-wouldnt-be-unfair-to-say-that-most" ]
-tags = [ ]
+slug = "polotek-it-wouldnt-be-unfair-to-say-that-most"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-should_open_in_legacy = true
-can_send_in_message = true
-is_blazed = false
-is_blaze_pending = false
-format = "html"
-id_string = "172847008433"
-post_url = "https://indirect.tumblr.com/post/172847008433/polotek-it-wouldnt-be-unfair-to-say-that-most"
-reblog_key = "5OOR3yWE"
-short_url = "https://tmblr.co/ZY3jby2W_V0gn"
-text = "@polotek It wouldn’t be unfair to say that most American values are post-hoc explanations for why women and minorities can’t have things"
-can_reply = false
-is_blocks_post_format = false
-id = 1.72847008433e+11
-source = "<a href=\"http://twitter.com/oldjacket/status/984255696265867264\">@oldjacket</a>"
 date = "2018-04-12 02:56:30 GMT"
-tags = [ ]
-interactability_reblog = "everyone"
-timestamp = 1.52350179e+09
+blog_name = "indirect"
+slug = "polotek-it-wouldnt-be-unfair-to-say-that-most"
+text = "@polotek It wouldn’t be unfair to say that most American values are post-hoc explanations for why women and minorities can’t have things"
+id_string = "172847008433"
+is_blaze_pending = false
 type = "quote"
-summary = "@polotek It wouldn’t be unfair to say that most American values are post-hoc explanations for why women and minorities can’t..."
-note_count = 0.0
+timestamp = 1523501790.0
+state = "published"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 display_avatar = true
-can_blaze = false
-slug = "polotek-it-wouldnt-be-unfair-to-say-that-most"
-state = "published"
+is_blocks_post_format = false
+source = "<a href=\"http://twitter.com/oldjacket/status/984255696265867264\">@oldjacket</a>"
 can_like = false
 can_reblog = false
+reblog_key = "5OOR3yWE"
+summary = "@polotek It wouldn’t be unfair to say that most American values are post-hoc explanations for why women and minorities can’t..."
+should_open_in_legacy = true
+can_send_in_message = true
+can_reply = false
+note_count = 0.0
+id = 172847008433.0
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/172847008433/polotek-it-wouldnt-be-unfair-to-say-that-most"
+format = "html"
+short_url = "https://tmblr.co/ZY3jby2W_V0gn"
+can_blaze = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/oldjacket/status/984255696265867264\">@oldjacket</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 +++

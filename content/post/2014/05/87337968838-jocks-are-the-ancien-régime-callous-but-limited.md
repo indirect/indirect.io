@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/87337968838/jocks-are-the-ancien-régime-callous-but-limited"]
 date = 2014-05-30T22:57:48Z
-slug = "jocks-are-the-ancien-régime-callous-but-limited"
 id = "87337968838"
-aliases = [ "/post/87337968838/jocks-are-the-ancien-régime-callous-but-limited" ]
-tags = [ ]
+slug = "jocks-are-the-ancien-régime-callous-but-limited"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blazed = false
-source = "<a href=\"http://twitter.com/BigRedDreck/status/472484779334828032\">@BigRedDreck</a>"
-interactability_reblog = "everyone"
-id_string = "87337968838"
-post_url = "https://indirect.tumblr.com/post/87337968838/jocks-are-the-ancien-r%C3%A9gime-callous-but-limited"
-format = "html"
-reblog_key = "R079lLA7"
-note_count = 1.0
-text = "Jocks are the Ancien Régime: callous,  but limited in their aims. Nerds are Jacobins: messianic, out for blood because of perceived slights."
-can_reply = false
-id = 8.7337968838e+10
-is_blaze_pending = false
-timestamp = 1.401490668e+09
-can_like = false
-can_reblog = false
-is_blocks_post_format = false
-tags = [ ]
-blog_name = "indirect"
-date = "2014-05-30 22:57:48 GMT"
+timestamp = 1401490668.0
 summary = "Jocks are the Ancien Régime: callous,  but limited in their aims. Nerds are Jacobins: messianic, out for blood because of..."
 can_send_in_message = true
-can_blaze = false
-slug = "jocks-are-the-ancien-régime-callous-but-limited"
-state = "published"
+blog_name = "indirect"
 short_url = "https://tmblr.co/ZY3jby1HLlwJ6"
-should_open_in_legacy = true
+text = "Jocks are the Ancien Régime: callous,  but limited in their aims. Nerds are Jacobins: messianic, out for blood because of perceived slights."
+id_string = "87337968838"
+slug = "jocks-are-the-ancien-régime-callous-but-limited"
+is_blazed = false
+can_blaze = false
+source = "<a href=\"http://twitter.com/BigRedDreck/status/472484779334828032\">@BigRedDreck</a>"
+id = 87337968838.0
+format = "html"
+can_like = false
 interactability_blaze = "everyone"
+type = "quote"
+date = "2014-05-30 22:57:48 GMT"
+can_reply = false
 display_avatar = true
+is_blocks_post_format = false
+should_open_in_legacy = true
+note_count = 1.0
+interactability_reblog = "everyone"
+is_blaze_pending = false
+state = "published"
+reblog_key = "R079lLA7"
+can_reblog = false
+post_url = "https://indirect.tumblr.com/post/87337968838/jocks-are-the-ancien-r%C3%A9gime-callous-but-limited"
 
 [tumblr.blog]
-description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 

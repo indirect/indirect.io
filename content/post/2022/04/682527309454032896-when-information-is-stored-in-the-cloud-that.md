@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/682527309454032896/when-information-is-stored-in-the-cloud-that"]
 date = 2022-04-25T17:46:05Z
-slug = "when-information-is-stored-in-the-cloud-that"
 id = "682527309454032896"
-aliases = [ "/post/682527309454032896/when-information-is-stored-in-the-cloud-that" ]
-tags = [ ]
+slug = "when-information-is-stored-in-the-cloud-that"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "682527309454032896"
-is_blaze_pending = false
-tags = [ ]
-text = "when information is “stored in the cloud” that means a samoyed, somewhere, knows it. the trick is knowing which samoyed has your data"
-can_blaze = false
-type = "quote"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/682527309454032896/when-information-is-stored-in-the-cloud-that"
+is_blazed = false
 should_open_in_legacy = true
 can_send_in_message = true
-short_url = "https://tmblr.co/ZY3jbybuqlZ5Wi00"
-summary = "when information is “stored in the cloud” that means a samoyed, somewhere, knows it. the trick is knowing which samoyed has your..."
-interactability_reblog = "everyone"
-can_reblog = false
+post_url = "https://indirect.tumblr.com/post/682527309454032896/when-information-is-stored-in-the-cloud-that"
 state = "published"
-is_blazed = false
-note_count = 0.0
-source = "<a href=\"http://twitter.com/datLucario/status/1518189880400039936\">@datLucario</a>"
-is_blocks_post_format = false
 format = "html"
-display_avatar = true
-can_like = false
+type = "quote"
+can_blaze = false
 date = "2022-04-25 17:46:05 GMT"
+is_blaze_pending = false
+slug = "when-information-is-stored-in-the-cloud-that"
 id = 6.825273094540329e+17
-reblog_key = "VKTlFCTO"
+timestamp = 1650908765.0
+note_count = 0.0
+can_like = false
+can_reblog = false
+display_avatar = true
+blog_name = "indirect"
+summary = "when information is “stored in the cloud” that means a samoyed, somewhere, knows it. the trick is knowing which samoyed has your..."
+source = "<a href=\"http://twitter.com/datLucario/status/1518189880400039936\">@datLucario</a>"
 interactability_blaze = "everyone"
 can_reply = false
-slug = "when-information-is-stored-in-the-cloud-that"
-timestamp = 1.650908765e+09
+is_blocks_post_format = false
+reblog_key = "VKTlFCTO"
+short_url = "https://tmblr.co/ZY3jbybuqlZ5Wi00"
+text = "when information is “stored in the cloud” that means a samoyed, somewhere, knows it. the trick is knowing which samoyed has your data"
+interactability_reblog = "everyone"
+id_string = "682527309454032896"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/datLucario/status/1518189880400039936\">@datLucario</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-updated = 1.738205153e+09
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/datLucario/status/1518189880400039936\">@datLucario</a></p>"
 +++

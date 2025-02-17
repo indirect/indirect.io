@@ -1,41 +1,39 @@
 +++
+aliases = ["/post/155866067283/poor-neighborhoods-subsidize-the-affluent-it-is-a"]
 date = 2017-01-14T21:34:36Z
-slug = "poor-neighborhoods-subsidize-the-affluent-it-is-a"
 id = "155866067283"
-aliases = [ "/post/155866067283/poor-neighborhoods-subsidize-the-affluent-it-is-a" ]
-tags = [ ]
+slug = "poor-neighborhoods-subsidize-the-affluent-it-is-a"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-blog_name = "indirect"
-id = 1.55866067283e+11
+is_blaze_pending = false
+format = "markdown"
+summary = "Poor neighborhoods subsidize the affluent; it is a ubiquitous condition of the American development pattern."
 post_url = "https://indirect.tumblr.com/post/155866067283/poor-neighborhoods-subsidize-the-affluent-it-is-a"
-short_url = "https://tmblr.co/ZY3jby2HALt5J"
+note_count = 0.0
+blog_name = "indirect"
+reblog_key = "ZdYLALur"
 should_open_in_legacy = true
+interactability_blaze = "everyone"
+type = "quote"
 id_string = "155866067283"
-can_blaze = false
-date = "2017-01-14 21:34:36 GMT"
+display_avatar = true
+is_blazed = false
+slug = "poor-neighborhoods-subsidize-the-affluent-it-is-a"
+short_url = "https://tmblr.co/ZY3jby2HALt5J"
+source = "<a href=\"http://www.strongtowns.org/journal/2017/1/10/poor-neighborhoods-make-the-best-investment##Poor+neighborhoods+subsidize+the+affluent%3B+it+is+a+ubiquitous+condition+of+the+American+development+pattern.\">Poor Neighborhoods Make the Best Investments</a>"
 can_like = false
 interactability_reblog = "everyone"
-is_blazed = false
-is_blaze_pending = false
-state = "published"
-format = "markdown"
-tags = [ ]
 can_reblog = false
-note_count = 0.0
-reblog_key = "ZdYLALur"
-can_send_in_message = true
-can_reply = false
-timestamp = 1.484429676e+09
-summary = "Poor neighborhoods subsidize the affluent; it is a ubiquitous condition of the American development pattern."
-interactability_blaze = "everyone"
-display_avatar = true
-slug = "poor-neighborhoods-subsidize-the-affluent-it-is-a"
+is_blocks_post_format = false
 text = "Poor neighborhoods subsidize the affluent; it is a ubiquitous condition of the American development pattern."
-source = "<a href=\"http://www.strongtowns.org/journal/2017/1/10/poor-neighborhoods-make-the-best-investment##Poor+neighborhoods+subsidize+the+affluent%3B+it+is+a+ubiquitous+condition+of+the+American+development+pattern.\">Poor Neighborhoods Make the Best Investments</a>"
-type = "quote"
+can_reply = false
+can_blaze = false
+timestamp = 1484429676.0
+state = "published"
+can_send_in_message = true
+id = 155866067283.0
+date = "2017-01-14 21:34:36 GMT"
 
 [tumblr.blog]
 can_show_badges = true
@@ -44,7 +42,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

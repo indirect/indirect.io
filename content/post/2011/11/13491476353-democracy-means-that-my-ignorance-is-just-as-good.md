@@ -1,55 +1,53 @@
 +++
+aliases = ["/post/13491476353/democracy-means-that-my-ignorance-is-just-as-good"]
 date = 2011-11-29T06:18:44Z
-slug = "democracy-means-that-my-ignorance-is-just-as-good"
 id = "13491476353"
-aliases = [ "/post/13491476353/democracy-means-that-my-ignorance-is-just-as-good" ]
-tags = [ ]
+slug = "democracy-means-that-my-ignorance-is-just-as-good"
 type = "tumblr-quote"
 
 [tumblr]
-format = "markdown"
-summary = "democracy means that “my ignorance is just as good as your knowledge.”"
-text = "democracy means that &ldquo;my ignorance is just as good as your knowledge.”"
-is_blocks_post_format = false
-timestamp = 1.322547524e+09
-bookmarklet = true
-interactability_blaze = "everyone"
-id_string = "13491476353"
-state = "published"
-reblog_key = "YkmzRv2k"
-short_url = "https://tmblr.co/ZY3jbyCa9vU1"
-can_reblog = false
-can_send_in_message = true
-type = "quote"
-display_avatar = true
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/13491476353/democracy-means-that-my-ignorance-is-just-as-good"
-slug = "democracy-means-that-my-ignorance-is-just-as-good"
-note_count = 0.0
-can_like = false
-is_blaze_pending = false
-date = "2011-11-29 06:18:44 GMT"
-tags = [ ]
-interactability_reblog = "everyone"
-blog_name = "indirect"
-can_blaze = false
-should_open_in_legacy = true
-source = "<a href=\"http://www.goodreads.com/quotes/show/456687\">Issac Asimov</a>"
 can_reply = false
-id = 1.3491476353e+10
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.goodreads.com/quotes/show/456687\">Issac Asimov</a></p>"
-tree_html = ""
+post_url = "https://indirect.tumblr.com/post/13491476353/democracy-means-that-my-ignorance-is-just-as-good"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyCa9vU1"
+summary = "democracy means that “my ignorance is just as good as your knowledge.”"
+source = "<a href=\"http://www.goodreads.com/quotes/show/456687\">Issac Asimov</a>"
+can_send_in_message = true
+blog_name = "indirect"
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1322547524.0
+bookmarklet = true
+is_blocks_post_format = false
+id = 13491476353.0
+is_blazed = false
+reblog_key = "YkmzRv2k"
+text = "democracy means that &ldquo;my ignorance is just as good as your knowledge.”"
+can_like = false
+can_reblog = false
+display_avatar = true
+date = "2011-11-29 06:18:44 GMT"
+note_count = 0.0
+id_string = "13491476353"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+type = "quote"
+slug = "democracy-means-that-my-ignorance-is-just-as-good"
+state = "published"
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.goodreads.com/quotes/show/456687\">Issac Asimov</a></p>"
+tree_html = ""
 +++

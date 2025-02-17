@@ -1,44 +1,42 @@
 +++
+aliases = ["/post/62689306203/a-single-game-as-a-lifelong-hobby"]
 date = 2013-09-30T03:40:34Z
-title = "A single game as a lifelong hobby"
-slug = "a-single-game-as-a-lifelong-hobby"
 id = "62689306203"
-aliases = [ "/post/62689306203/a-single-game-as-a-lifelong-hobby" ]
-tags = [ ]
+slug = "a-single-game-as-a-lifelong-hobby"
+title = "A single game as a lifelong hobby"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "62689306203"
-type = "link"
-tags = [ ]
-display_avatar = true
-blog_name = "indirect"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbywOakPR"
-publisher = "lostgarden.com"
-id = 6.2689306203e+10
-date = "2013-09-30 03:40:34 GMT"
-reblog_key = "6P7EgIYK"
-should_open_in_legacy = true
 title = "A single game as a lifelong hobby"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/62689306203/a-single-game-as-a-lifelong-hobby"
-format = "html"
-url = "http://www.lostgarden.com/2013/07/a-single-game-as-lifelong-hobby.html"
-can_like = false
-can_reblog = false
-is_blaze_pending = false
-can_blaze = false
-slug = "a-single-game-as-a-lifelong-hobby"
-interactability_blaze = "everyone"
-can_send_in_message = true
-summary = "A single game as a lifelong hobby"
 is_blazed = false
-timestamp = 1.380512434e+09
-note_count = 0.0
-description = "<p>What we currently think of as ‘gaming’ becomes just another hobby amidst a wider jungle of digitally augmented hobbies.</p>\n\n<p>A single game as a lifelong hobby<br/></p>"
+publisher = "lostgarden.com"
+type = "link"
+is_blaze_pending = false
+timestamp = 1380512434.0
+state = "published"
+interactability_blaze = "everyone"
+can_reblog = false
+post_url = "https://indirect.tumblr.com/post/62689306203/a-single-game-as-a-lifelong-hobby"
+date = "2013-09-30 03:40:34 GMT"
+summary = "A single game as a lifelong hobby"
 interactability_reblog = "everyone"
+can_reply = false
+is_blocks_post_format = false
+id = 62689306203.0
+can_like = false
+can_send_in_message = true
+slug = "a-single-game-as-a-lifelong-hobby"
+format = "html"
+should_open_in_legacy = true
+display_avatar = true
+can_blaze = false
+note_count = 0.0
+url = "http://www.lostgarden.com/2013/07/a-single-game-as-lifelong-hobby.html"
+description = "<p>What we currently think of as ‘gaming’ becomes just another hobby amidst a wider jungle of digitally augmented hobbies.</p>\n\n<p>A single game as a lifelong hobby<br/></p>"
+blog_name = "indirect"
+id_string = "62689306203"
+reblog_key = "6P7EgIYK"
+short_url = "https://tmblr.co/ZY3jbywOakPR"
 
 [tumblr.reblog]
 comment = "<p>What we currently think of as ‘gaming’ becomes just another hobby amidst a wider jungle of digitally augmented hobbies.</p>\n\n<p>A single game as a lifelong hobby<br></p>"
@@ -51,30 +49,30 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-show_description = true
 avatar_shape = "square"
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_font = "Gibson"
-show_avatar = true
-title_color = "#444444"
-title_font_weight = "bold"
+show_description = true
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_poster = ""
 link_color = "#529ECC"
+show_header_image = false
+body_font = "Helvetica Neue"
+header_stretch = true
+show_avatar = true
+title_font = "Gibson"
+title_font_weight = "bold"
 show_title = true
+title_color = "#444444"
 
 [tumblr.trail.post]
 id = "62689306203"
@@ -83,7 +81,7 @@ id = "62689306203"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"

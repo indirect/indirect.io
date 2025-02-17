@@ -1,100 +1,59 @@
 +++
+aliases = ["/post/761798400146604032/httpstcodrunfnxzzw-vertebreath"]
 date = 2024-09-16T17:26:08Z
-slug = "httpstcodrunfnxzzw-vertebreath"
 id = "761798400146604032"
-aliases = [ "/post/761798400146604032/httpstcodrunfnxzzw-vertebreath" ]
-tags = [ ]
+slug = "httpstcodrunfnxzzw-vertebreath"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-caption = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/761798400146604032"
 can_like = false
-can_reblog = false
-id = 7.61798400146604e+17
-is_blaze_pending = false
-tags = [ ]
-note_count = 1.0
-type = "photo"
-timestamp = 1.726507568e+09
-format = "html"
 summary = "https://t.co/DrunfnxzZw — ^_^ (@vertebreath)"
-reblog_key = "7o5tMUB9"
-display_avatar = true
-id_string = "761798400146604032"
-is_blazed = false
-slug = "httpstcodrunfnxzzw-vertebreath"
-can_send_in_message = true
-is_blocks_post_format = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbygISvlNCm00"
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/761798400146604032/httpstcodrunfnxzzw-vertebreath"
+link_url = "https://twitter.com/vertebreath/status/1835356108736582002"
 date = "2024-09-16 17:26:08 GMT"
 state = "published"
-link_url = "https://twitter.com/vertebreath/status/1835356108736582002"
-can_reply = false
-blog_name = "indirect"
+type = "photo"
+can_blaze = false
+format = "html"
+is_blazed = false
 interactability_blaze = "everyone"
+can_reply = false
+slug = "httpstcodrunfnxzzw-vertebreath"
+id_string = "761798400146604032"
+reblog_key = "7o5tMUB9"
+short_url = "https://tmblr.co/ZY3jbygISvlNCm00"
+image_permalink = "https://indirect.tumblr.com/image/761798400146604032"
+display_avatar = true
+can_reblog = false
+is_blocks_post_format = false
+id = 7.61798400146604e+17
+interactability_reblog = "everyone"
+post_url = "https://indirect.tumblr.com/post/761798400146604032/httpstcodrunfnxzzw-vertebreath"
+timestamp = 1726507568.0
+caption = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
+can_send_in_message = true
+blog_name = "indirect"
+is_blaze_pending = false
+should_open_in_legacy = true
+note_count = 1.0
 
 [tumblr.blog]
-updated = 1.738205153e+09
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
-content = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> &mdash; <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "761798400146604032"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_font = "Gibson"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-header_image_poster = ""
-show_header_image = false
-show_title = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
-title_font_weight = "bold"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/a1/18/b6ec6a283373cc8495a789af614f.jpg"
 width = 956.0
 height = 496.0
+url = "/images/a1/18/b6ec6a283373cc8495a789af614f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 496.0
@@ -112,9 +71,9 @@ width = 540.0
 height = 280.0
 
 [[tumblr.photos.alt_sizes]]
-height = 259.0
 url = "/images/7c/b3/cd1d812db8697a321975fbb18a72.jpg"
 width = 500.0
+height = 259.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cc/6c/f27c2b974395ce56ad431486c289.jpg"
@@ -132,7 +91,46 @@ width = 100.0
 height = 52.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/c2/2a/6683ddc59436f797d5e4080274f8.jpg"
 width = 75.0
 height = 75.0
-url = "/images/c2/2a/6683ddc59436f797d5e4080274f8.jpg"
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> — <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
+content = "<p><a href=\"https://t.co/DrunfnxzZw\">https://t.co/DrunfnxzZw</a> &mdash; <a href=\"https://twitter.com/vertebreath/status/1835356108736582002\">^_^ (@vertebreath)</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_avatar = true
+show_description = true
+show_header_image = false
+avatar_shape = "square"
+header_image_poster = ""
+title_color = "#444444"
+title_font = "Gibson"
+show_title = true
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+
+[tumblr.trail.post]
+id = "761798400146604032"
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/173538715253/theres-a-group-of-women-called-inkicks-who-have"]
 date = 2018-05-03T07:02:47Z
-slug = "theres-a-group-of-women-called-inkicks-who-have"
 id = "173538715253"
-aliases = [ "/post/173538715253/theres-a-group-of-women-called-inkicks-who-have" ]
-tags = [ ]
+slug = "theres-a-group-of-women-called-inkicks-who-have"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1.525330967e+09
-tags = [ ]
-reblog_key = "DuOIV0y3"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/melissaFTW/status/991774919389163520\">@melissaFTW</a>"
+id = 173538715253.0
+timestamp = 1525330967.0
+summary = "There’s a group of women called “inkicks” who have never kicked a man in the balls. Despite inkicks’ efforts, every man refuses..."
+id_string = "173538715253"
+short_url = "https://tmblr.co/ZY3jby2XdjgPr"
+text = "There&rsquo;s a group of women called &ldquo;inkicks&rdquo; who have never kicked a man in the balls. Despite inkicks&rsquo; efforts, every man refuses the their propositions to kick them square in the nuts. In this op-ed, I will assert that the redistribution of balls for kicking is what America needs."
 interactability_reblog = "everyone"
-id = 1.73538715253e+11
+display_avatar = true
+state = "published"
+is_blaze_pending = false
 slug = "theres-a-group-of-women-called-inkicks-who-have"
-can_reblog = false
+type = "quote"
+is_blazed = false
+should_open_in_legacy = true
+blog_name = "indirect"
+can_blaze = false
+note_count = 0.0
+date = "2018-05-03 07:02:47 GMT"
+reblog_key = "DuOIV0y3"
+interactability_blaze = "everyone"
+can_send_in_message = true
 post_url = "https://indirect.tumblr.com/post/173538715253/theres-a-group-of-women-called-inkicks-who-have"
 format = "html"
-can_like = false
-type = "quote"
 is_blocks_post_format = false
-interactability_blaze = "everyone"
-id_string = "173538715253"
-is_blaze_pending = false
-can_blaze = false
-date = "2018-05-03 07:02:47 GMT"
-is_blazed = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jby2XdjgPr"
-summary = "There’s a group of women called “inkicks” who have never kicked a man in the balls. Despite inkicks’ efforts, every man refuses..."
-note_count = 0.0
-blog_name = "indirect"
-text = "There&rsquo;s a group of women called &ldquo;inkicks&rdquo; who have never kicked a man in the balls. Despite inkicks&rsquo; efforts, every man refuses the their propositions to kick them square in the nuts. In this op-ed, I will assert that the redistribution of balls for kicking is what America needs."
-can_send_in_message = true
+source = "<a href=\"http://twitter.com/melissaFTW/status/991774919389163520\">@melissaFTW</a>"
+can_like = false
+can_reblog = false
 can_reply = false
-display_avatar = true
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

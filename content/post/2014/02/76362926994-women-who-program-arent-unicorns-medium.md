@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/76362926994/women-who-program-arent-unicorns-medium"]
 date = 2014-02-11T22:33:22Z
-title = "Women who program aren’t unicorns — Medium"
-slug = "women-who-program-arent-unicorns-medium"
 id = "76362926994"
-aliases = [ "/post/76362926994/women-who-program-arent-unicorns-medium" ]
-tags = [ ]
+slug = "women-who-program-arent-unicorns-medium"
+title = "Women who program aren’t unicorns — Medium"
 type = "tumblr-link"
 
 [tumblr]
-state = "published"
-reblog_key = "Ut8P0Pil"
-display_avatar = true
-can_blaze = false
-slug = "women-who-program-arent-unicorns-medium"
-short_url = "https://tmblr.co/ZY3jby177bSkI"
+note_count = 0.0
+url = "https://medium.com/p/7818dc8a09c8"
+can_send_in_message = true
+id = 76362926994.0
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/76362926994/women-who-program-arent-unicorns-medium"
 should_open_in_legacy = true
-interactability_reblog = "everyone"
-type = "link"
-id_string = "76362926994"
-title = "Women who program aren’t unicorns — Medium"
-can_reply = false
-format = "markdown"
-can_like = false
-is_blazed = false
 description = ""
 can_reblog = false
-can_send_in_message = true
 blog_name = "indirect"
-tags = [ ]
+is_blazed = false
+date = "2014-02-11 22:33:22 GMT"
 summary = "Women who program aren’t unicorns — Medium"
 interactability_blaze = "everyone"
-is_blocks_post_format = false
-id = 7.6362926994e+10
-is_blaze_pending = false
-date = "2014-02-11 22:33:22 GMT"
-note_count = 0.0
+can_reply = false
+id_string = "76362926994"
+interactability_reblog = "everyone"
+type = "link"
+state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby177bSkI"
 publisher = "medium.com"
-trail = [ ]
-post_url = "https://indirect.tumblr.com/post/76362926994/women-who-program-arent-unicorns-medium"
-timestamp = 1.392158002e+09
-url = "https://medium.com/p/7818dc8a09c8"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+reblog_key = "Ut8P0Pil"
+can_like = false
+is_blocks_post_format = false
+can_blaze = false
+title = "Women who program aren’t unicorns — Medium"
+display_avatar = true
+slug = "women-who-program-arent-unicorns-medium"
+timestamp = 1392158002.0
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
+
+[tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

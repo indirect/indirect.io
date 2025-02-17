@@ -1,51 +1,49 @@
 +++
+aliases = ["/post/17940824963/the-internet-is-sponsored-by-the-word-actually"]
 date = 2012-02-20T10:34:17Z
-slug = "the-internet-is-sponsored-by-the-word-actually"
 id = "17940824963"
-aliases = [ "/post/17940824963/the-internet-is-sponsored-by-the-word-actually" ]
-tags = [ ]
+slug = "the-internet-is-sponsored-by-the-word-actually"
 type = "tumblr-quote"
 
 [tumblr]
-id = 1.7940824963e+10
+blog_name = "indirect"
+id = 17940824963.0
+is_blaze_pending = false
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyGjMqE3"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+bookmarklet = true
+can_reblog = false
+post_url = "https://indirect.tumblr.com/post/17940824963/the-internet-is-sponsored-by-the-word-actually"
+summary = "The Internet is sponsored by the word “actually.”"
+can_reply = false
+type = "quote"
 id_string = "17940824963"
 can_blaze = false
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/17940824963/the-internet-is-sponsored-by-the-word-actually"
-short_url = "https://tmblr.co/ZY3jbyGjMqE3"
-can_send_in_message = true
-type = "quote"
-is_blazed = false
-is_blaze_pending = false
-date = "2012-02-20 10:34:17 GMT"
-summary = "The Internet is sponsored by the word “actually.”"
-bookmarklet = true
-text = "The Internet is sponsored by the word &ldquo;actually.&rdquo;"
-source = "<a href=\"http://blog.precipice.org/a-vast-and-endless-wikiquote\">A vast and endless Wikiquote</a>"
-can_like = false
 slug = "the-internet-is-sponsored-by-the-word-actually"
-format = "markdown"
-interactability_reblog = "everyone"
-tags = [ ]
-note_count = 0.0
-display_avatar = true
-is_blocks_post_format = false
-state = "published"
 reblog_key = "ehrKYGag"
-interactability_blaze = "everyone"
-can_reblog = false
-blog_name = "indirect"
-timestamp = 1.329734057e+09
+can_send_in_message = true
+state = "published"
+source = "<a href=\"http://blog.precipice.org/a-vast-and-endless-wikiquote\">A vast and endless Wikiquote</a>"
+is_blazed = false
+date = "2012-02-20 10:34:17 GMT"
+text = "The Internet is sponsored by the word &ldquo;actually.&rdquo;"
+interactability_reblog = "everyone"
+display_avatar = true
 should_open_in_legacy = true
+note_count = 0.0
+timestamp = 1329734057.0
+can_like = false
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

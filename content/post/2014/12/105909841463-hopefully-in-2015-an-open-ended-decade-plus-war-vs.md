@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/105909841463/hopefully-in-2015-an-open-ended-decade-plus-war-vs"]
 date = 2014-12-22T23:37:10Z
-slug = "hopefully-in-2015-an-open-ended-decade-plus-war-vs"
 id = "105909841463"
-aliases = [ "/post/105909841463/hopefully-in-2015-an-open-ended-decade-plus-war-vs" ]
-tags = [ ]
+slug = "hopefully-in-2015-an-open-ended-decade-plus-war-vs"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blaze_pending = false
-timestamp = 1.41929143e+09
-can_like = false
-blog_name = "indirect"
+id = 105909841463.0
 is_blazed = false
-slug = "hopefully-in-2015-an-open-ended-decade-plus-war-vs"
+is_blaze_pending = false
 date = "2014-12-22 23:37:10 GMT"
-should_open_in_legacy = true
-can_reblog = false
-id = 1.05909841463e+11
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/105909841463/hopefully-in-2015-an-open-ended-decade-plus-war-vs"
-format = "html"
-is_blocks_post_format = false
-state = "published"
-reblog_key = "N5YZ3USf"
-tags = [ ]
-can_reply = false
 source = "<a href=\"http://twitter.com/attackerman/status/547043381546090496\">@attackerman</a>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id_string = "105909841463"
-summary = "Hopefully in 2015 an open-ended decade-plus war vs shifting enemies costing unfathomable sums will be considered madness but..."
-note_count = 0.0
-display_avatar = true
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/105909841463/hopefully-in-2015-an-open-ended-decade-plus-war-vs"
+state = "published"
+should_open_in_legacy = true
+can_like = false
+slug = "hopefully-in-2015-an-open-ended-decade-plus-war-vs"
+timestamp = 1419291430.0
 short_url = "https://tmblr.co/ZY3jby1Yej_ut"
 text = "Hopefully in 2015 an open-ended decade-plus war vs shifting enemies costing unfathomable sums will be considered madness but hahaha no hope"
+can_reblog = false
 can_send_in_message = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/attackerman/status/547043381546090496\">@attackerman</a></p>"
+format = "html"
+id_string = "105909841463"
+can_blaze = false
+reblog_key = "N5YZ3USf"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+interactability_reblog = "everyone"
+display_avatar = true
+type = "quote"
+summary = "Hopefully in 2015 an open-ended decade-plus war vs shifting enemies costing unfathomable sums will be considered madness but..."
+note_count = 0.0
+can_reply = false
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/attackerman/status/547043381546090496\">@attackerman</a></p>"
+tree_html = ""
 +++

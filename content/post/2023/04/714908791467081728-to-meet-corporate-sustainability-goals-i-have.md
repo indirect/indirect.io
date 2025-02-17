@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/714908791467081728/to-meet-corporate-sustainability-goals-i-have"]
 date = 2023-04-18T03:55:52Z
-slug = "to-meet-corporate-sustainability-goals-i-have"
 id = "714908791467081728"
-aliases = [ "/post/714908791467081728/to-meet-corporate-sustainability-goals-i-have" ]
-tags = [ ]
+slug = "to-meet-corporate-sustainability-goals-i-have"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-id = 7.149087914670817e+17
+post_url = "https://indirect.tumblr.com/post/714908791467081728/to-meet-corporate-sustainability-goals-i-have"
+interactability_reblog = "everyone"
 is_blazed = false
-is_blaze_pending = false
-format = "markdown"
+can_blaze = false
 reblog_key = "jNLeLlkX"
-tags = [ ]
-text = "<p>To meet corporate sustainability goals, I have disabled garbage collection for all applications.</p>\n\n<p>Developers will now have to reduce, reuse, and recycle memory.</p>"
-timestamp = 1.681790152e+09
-summary = "To meet corporate sustainability goals, I have disabled garbage collection for all applications.\n\n Developers will now have to..."
+can_reblog = false
 can_send_in_message = true
 display_avatar = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/714908791467081728/to-meet-corporate-sustainability-goals-i-have"
-state = "published"
-can_reblog = false
-id_string = "714908791467081728"
+is_blocks_post_format = false
+id = 7.149087914670817e+17
+date = "2023-04-18 03:55:52 GMT"
 should_open_in_legacy = true
 note_count = 1.0
-interactability_blaze = "everyone"
-slug = "to-meet-corporate-sustainability-goals-i-have"
-can_reply = false
-is_blocks_post_format = false
-blog_name = "indirect"
-date = "2023-04-18 03:55:52 GMT"
+is_blaze_pending = false
 source = "<a href=\"https://botsin.space/@sadserver/110216460861068724\">@sadserver</a>"
-interactability_reblog = "everyone"
+state = "published"
 type = "quote"
+id_string = "714908791467081728"
+slug = "to-meet-corporate-sustainability-goals-i-have"
+timestamp = 1681790152.0
+can_reply = false
+blog_name = "indirect"
+text = "<p>To meet corporate sustainability goals, I have disabled garbage collection for all applications.</p>\n\n<p>Developers will now have to reduce, reuse, and recycle memory.</p>"
+format = "markdown"
 short_url = "https://tmblr.co/ZY3jbydhtS8ICm00"
+summary = "To meet corporate sustainability goals, I have disabled garbage collection for all applications.\n\n Developers will now have to..."
+can_like = false
+interactability_blaze = "everyone"
+
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://botsin.space/@sadserver/110216460861068724\">@sadserver</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

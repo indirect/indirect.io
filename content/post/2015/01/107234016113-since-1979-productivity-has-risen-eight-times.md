@@ -1,53 +1,51 @@
 +++
+aliases = ["/post/107234016113/since-1979-productivity-has-risen-eight-times"]
 date = 2015-01-05T18:49:56Z
-slug = "since-1979-productivity-has-risen-eight-times"
 id = "107234016113"
-aliases = [ "/post/107234016113/since-1979-productivity-has-risen-eight-times" ]
-tags = [ ]
+slug = "since-1979-productivity-has-risen-eight-times"
 type = "tumblr-quote"
 
 [tumblr]
-id = 1.07234016113e+11
-summary = "Since 1979, productivity has risen eight times faster than pay"
-can_like = false
-interactability_blaze = "everyone"
-can_reply = false
-is_blaze_pending = false
-state = "published"
+reblog_key = "ikZF29bC"
 note_count = 0.0
-source_url = "http://www.epi.org/publication/the-top-10-charts-of-2014/"
-source_title = "epi.org"
-post_url = "https://indirect.tumblr.com/post/107234016113/since-1979-productivity-has-risen-eight-times"
-should_open_in_legacy = true
-text = "Since 1979, productivity has risen eight times faster than pay"
-bookmarklet = true
-source = "<a href=\"http://www.epi.org/publication/the-top-10-charts-of-2014/\">The Top 10 Charts of 2014 | Economic Policy Institute</a>"
-type = "quote"
-is_blazed = false
-format = "markdown"
-tags = [ ]
-interactability_reblog = "everyone"
-can_reblog = false
-display_avatar = true
-id_string = "107234016113"
-timestamp = 1.420483796e+09
-short_url = "https://tmblr.co/ZY3jby1ZtfJjn"
-can_send_in_message = true
 is_blocks_post_format = false
-blog_name = "indirect"
 can_blaze = false
+can_reblog = false
+id = 107234016113.0
+short_url = "https://tmblr.co/ZY3jby1ZtfJjn"
+text = "Since 1979, productivity has risen eight times faster than pay"
+interactability_reblog = "everyone"
+type = "quote"
+id_string = "107234016113"
+is_blazed = false
 slug = "since-1979-productivity-has-risen-eight-times"
 date = "2015-01-05 18:49:56 GMT"
-reblog_key = "ikZF29bC"
+format = "markdown"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+is_blaze_pending = false
+state = "published"
+should_open_in_legacy = true
+source_title = "epi.org"
+display_avatar = true
+summary = "Since 1979, productivity has risen eight times faster than pay"
+bookmarklet = true
+source_url = "http://www.epi.org/publication/the-top-10-charts-of-2014/"
+source = "<a href=\"http://www.epi.org/publication/the-top-10-charts-of-2014/\">The Top 10 Charts of 2014 | Economic Policy Institute</a>"
+timestamp = 1420483796.0
+can_like = false
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/107234016113/since-1979-productivity-has-risen-eight-times"
+can_send_in_message = true
 
 [tumblr.blog]
-description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 

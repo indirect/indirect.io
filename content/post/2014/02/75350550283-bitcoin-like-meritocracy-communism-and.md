@@ -1,53 +1,51 @@
 +++
+aliases = ["/post/75350550283/bitcoin-like-meritocracy-communism-and"]
 date = 2014-02-02T09:18:19Z
-slug = "bitcoin-like-meritocracy-communism-and"
 id = "75350550283"
-aliases = [ "/post/75350550283/bitcoin-like-meritocracy-communism-and" ]
-tags = [ ]
+slug = "bitcoin-like-meritocracy-communism-and"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-can_like = false
-can_reblog = false
+source = "<a href=\"https://medium.com/cool-code-pal/823e834c4aa3\">A Case Against Bitcoin</a>"
 can_send_in_message = true
-format = "markdown"
-source_url = "https://medium.com/cool-code-pal/823e834c4aa3"
-id_string = "75350550283"
-can_blaze = false
-display_avatar = true
-interactability_reblog = "everyone"
-is_blazed = false
-bookmarklet = true
-interactability_blaze = "everyone"
-can_reply = false
-id = 7.5350550283e+10
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/75350550283/bitcoin-like-meritocracy-communism-and"
-date = "2014-02-02 09:18:19 GMT"
-timestamp = 1.391332699e+09
 reblog_key = "jO5g1sSN"
 short_url = "https://tmblr.co/ZY3jby16BFYSB"
-is_blocks_post_format = false
-state = "published"
-tags = [ ]
 should_open_in_legacy = true
-text = "Bitcoin\u200a—\u200alike meritocracy, communism, and misandry\u200a—\u200ais a nice idea"
-source = "<a href=\"https://medium.com/cool-code-pal/823e834c4aa3\">A Case Against Bitcoin</a>"
+text = "Bitcoin — like meritocracy, communism, and misandry — is a nice idea"
+interactability_reblog = "everyone"
+can_reply = false
+id = 75350550283.0
+is_blaze_pending = false
+date = "2014-02-02 09:18:19 GMT"
+state = "published"
 source_title = "medium.com"
-type = "quote"
+can_blaze = false
+timestamp = 1391332699.0
+note_count = 0.0
 blog_name = "indirect"
+format = "markdown"
+display_avatar = true
+id_string = "75350550283"
+post_url = "https://indirect.tumblr.com/post/75350550283/bitcoin-like-meritocracy-communism-and"
 slug = "bitcoin-like-meritocracy-communism-and"
-summary = "Bitcoin\u200a—\u200alike meritocracy, communism, and misandry\u200a—\u200ais a nice idea"
+bookmarklet = true
+can_like = false
+interactability_blaze = "everyone"
+can_reblog = false
+is_blocks_post_format = false
+type = "quote"
+is_blazed = false
+summary = "Bitcoin — like meritocracy, communism, and misandry — is a nice idea"
+source_url = "https://medium.com/cool-code-pal/823e834c4aa3"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

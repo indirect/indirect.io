@@ -1,61 +1,52 @@
 +++
+aliases = ["/post/99665708898/the-unsafety-net-how-social-media-turned-against"]
 date = 2014-10-10T19:42:40Z
-title = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
-slug = "the-unsafety-net-how-social-media-turned-against"
 id = "99665708898"
-aliases = [ "/post/99665708898/the-unsafety-net-how-social-media-turned-against" ]
-tags = [ ]
+slug = "the-unsafety-net-how-social-media-turned-against"
+title = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
 type = "tumblr-link"
 
 [tumblr]
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/99665708898/the-unsafety-net-how-social-media-turned-against"
-slug = "the-unsafety-net-how-social-media-turned-against"
-summary = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
-url = "http://www.theatlantic.com/technology/archive/2014/10/the-unsafety-net-how-social-media-turned-against-women/381261/"
-tags = [ ]
-should_open_in_legacy = true
+type = "link"
+can_like = false
 can_reblog = false
-is_blocks_post_format = false
-id_string = "99665708898"
-is_blazed = false
+display_avatar = true
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/99665708898/the-unsafety-net-how-social-media-turned-against"
 format = "html"
 reblog_key = "gEQXRVt1"
-publisher = "theatlantic.com"
-state = "published"
 short_url = "https://tmblr.co/ZY3jby1SqYWTY"
+blog_name = "indirect"
+state = "published"
+summary = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
+note_count = 0.0
+interactability_reblog = "everyone"
+id = 99665708898.0
+is_blocks_post_format = false
+is_blazed = false
+slug = "the-unsafety-net-how-social-media-turned-against"
+title = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
+publisher = "theatlantic.com"
 can_send_in_message = true
-timestamp = 1.41297016e+09
+id_string = "99665708898"
+can_blaze = false
 interactability_blaze = "everyone"
 can_reply = false
-display_avatar = true
-can_like = false
-id = 9.9665708898e+10
-date = "2014-10-10 19:42:40 GMT"
-note_count = 0.0
-title = "The Unsafety Net: How Social Media Turned Against Women - The Atlantic"
+timestamp = 1412970160.0
 description = "<p>“An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.” — <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
-is_blaze_pending = false
-interactability_reblog = "everyone"
-type = "link"
-blog_name = "indirect"
+date = "2014-10-10 19:42:40 GMT"
+should_open_in_legacy = true
+url = "http://www.theatlantic.com/technology/archive/2014/10/the-unsafety-net-how-social-media-turned-against-women/381261/"
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>“An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.” — <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p>“An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.” — <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
-content = "<p>&ldquo;An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.&rdquo; &mdash; <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>“An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.” — <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
+content = "<p>&ldquo;An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.&rdquo; &mdash; <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -65,28 +56,35 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-background_color = "#FAFAFA"
-show_description = true
-show_header_image = false
 show_title = true
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
 header_stretch = true
+show_avatar = true
+avatar_shape = "square"
+header_image_poster = ""
 link_color = "#529ECC"
+show_header_image = false
 title_color = "#444444"
 title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
 title_font_weight = "bold"
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "99665708898"
 
-[tumblr.reblog]
-comment = "<p>“An estimated 20 percent of the misogyny study Tweets appeared, to researchers, to be threatening.” — <a href=\"http://twitter.com/harper/status/520441842437853186\">@harper</a></p>"
-tree_html = ""
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

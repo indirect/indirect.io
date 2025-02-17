@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/706843402737713152/little-known-fact-its-called-a-cat-3-storm"]
 date = 2023-01-19T03:19:58Z
-slug = "little-known-fact-its-called-a-cat-3-storm"
 id = "706843402737713152"
-aliases = [ "/post/706843402737713152/little-known-fact-its-called-a-cat-3-storm" ]
-tags = [ ]
+slug = "little-known-fact-its-called-a-cat-3-storm"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "706843402737713152"
-can_blaze = false
-timestamp = 1.674098398e+09
-source = "<a href=\"https://sauropods.win/@futurebird/109712535943726008\">@futurebird</a>"
-type = "quote"
+can_send_in_message = true
 is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/706843402737713152/little-known-fact-its-called-a-cat-3-storm"
+slug = "little-known-fact-its-called-a-cat-3-storm"
+reblog_key = "mQ2kU8mo"
+summary = "Little known fact: It’s called a “cat 3” storm because the damage is equivalent to the work done by 3 cats left alone for 1..."
+can_like = false
+is_blocks_post_format = false
+source = "<a href=\"https://sauropods.win/@futurebird/109712535943726008\">@futurebird</a>"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+timestamp = 1674098398.0
 state = "published"
 short_url = "https://tmblr.co/ZY3jbydFDbHi0e00"
-date = "2023-01-19 03:19:58 GMT"
-format = "markdown"
-reblog_key = "mQ2kU8mo"
-note_count = 0.0
 text = "Little known fact: It’s called a “cat 3” storm because the damage is equivalent to the work done by 3 cats left alone for 1 hour."
-can_reblog = false
-can_reply = false
-is_blocks_post_format = false
-id = 7.068434027377132e+17
-should_open_in_legacy = true
-interactability_blaze = "everyone"
+id_string = "706843402737713152"
+post_url = "https://indirect.tumblr.com/post/706843402737713152/little-known-fact-its-called-a-cat-3-storm"
 blog_name = "indirect"
-slug = "little-known-fact-its-called-a-cat-3-storm"
-tags = [ ]
-summary = "Little known fact: It’s called a “cat 3” storm because the damage is equivalent to the work done by 3 cats left alone for 1..."
-can_send_in_message = true
-interactability_reblog = "everyone"
-can_like = false
+date = "2023-01-19 03:19:58 GMT"
+is_blaze_pending = false
+format = "markdown"
+can_reply = false
 display_avatar = true
+id = 7.068434027377132e+17
+type = "quote"
+can_blaze = false
+should_open_in_legacy = true
+note_count = 0.0
+can_reblog = false
 
 [tumblr.blog]
-description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 

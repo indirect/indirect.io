@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/93706282223/joestump-jason-if-you-believe-white-males-have"]
 date = 2014-08-03T20:02:39Z
-slug = "joestump-jason-if-you-believe-white-males-have"
 id = "93706282223"
-aliases = [ "/post/93706282223/joestump-jason-if-you-believe-white-males-have" ]
-tags = [ ]
+slug = "joestump-jason-if-you-believe-white-males-have"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-state = "published"
-can_send_in_message = true
+can_blaze = false
+timestamp = 1407096159.0
+summary = "@joestump @Jason If you believe white males have no more merit than others, then you must conclude there is bias in the..."
+interactability_reblog = "everyone"
+id = 93706282223.0
+can_reply = false
 slug = "joestump-jason-if-you-believe-white-males-have"
-date = "2014-08-03 20:02:39 GMT"
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
 note_count = 0.0
 display_avatar = true
-id_string = "93706282223"
-can_blaze = false
-interactability_blaze = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/93706282223/joestump-jason-if-you-believe-white-males-have"
-interactability_reblog = "everyone"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1NHL6Jl"
-is_blaze_pending = false
 reblog_key = "mIGRQdHK"
-source = "<a href=\"http://twitter.com/StartupLJackson/status/495651737680637953\">@StartupLJackson</a>"
-can_reply = false
-type = "quote"
-id = 9.3706282223e+10
-timestamp = 1.407096159e+09
-summary = "@joestump @Jason If you believe white males have no more merit than others, then you must conclude there is bias in the..."
-should_open_in_legacy = true
-text = "@joestump @Jason If you believe white males have no more merit than others, then you must conclude there is bias in the selection process."
-can_reblog = false
+short_url = "https://tmblr.co/ZY3jby1NHL6Jl"
 is_blazed = false
-tags = [ ]
-can_like = false
+format = "html"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+text = "@joestump @Jason If you believe white males have no more merit than others, then you must conclude there is bias in the selection process."
+source = "<a href=\"http://twitter.com/StartupLJackson/status/495651737680637953\">@StartupLJackson</a>"
+can_reblog = false
+state = "published"
+blog_name = "indirect"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/93706282223/joestump-jason-if-you-believe-white-males-have"
+date = "2014-08-03 20:02:39 GMT"
+type = "quote"
+id_string = "93706282223"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/StartupLJackson/status/495651737680637953\">@StartupLJackson</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

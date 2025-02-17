@@ -1,59 +1,56 @@
 +++
+aliases = ["/post/30469287392/kickstarter-planetary-annihilation-a-next"]
 date = 2012-08-29T20:01:46Z
-title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
-slug = "kickstarter-planetary-annihilation-a-next"
 id = "30469287392"
-aliases = [ "/post/30469287392/kickstarter-planetary-annihilation-a-next" ]
-tags = [ ]
+slug = "kickstarter-planetary-annihilation-a-next"
+title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
 type = "tumblr-link"
 
 [tumblr]
-trail = [ ]
-is_blocks_post_format = false
-id = 3.0469287392e+10
-date = "2012-08-29 20:01:46 GMT"
-reblog_key = "LVZIltUt"
-note_count = 0.0
-id_string = "30469287392"
-can_like = false
-can_send_in_message = true
 blog_name = "indirect"
-can_blaze = false
-publisher = "kickstarter.com"
-can_reblog = false
-can_reply = false
-slug = "kickstarter-planetary-annihilation-a-next"
-url = "http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts"
-display_avatar = true
-type = "link"
-format = "markdown"
-tags = [ ]
-summary = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
+date = "2012-08-29 20:01:46 GMT"
 title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
-should_open_in_legacy = true
-description = ""
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/30469287392/kickstarter-planetary-annihilation-a-next"
+can_reblog = false
+can_send_in_message = true
 state = "published"
-short_url = "https://tmblr.co/ZY3jbySO76tW"
-bookmarklet = true
-is_blazed = false
+note_count = 0.0
+description = ""
+can_like = false
+type = "link"
+is_blocks_post_format = false
+slug = "kickstarter-planetary-annihilation-a-next"
+interactability_reblog = "everyone"
+display_avatar = true
+id_string = "30469287392"
 is_blaze_pending = false
-timestamp = 1.346270506e+09
+short_url = "https://tmblr.co/ZY3jbySO76tW"
+is_blazed = false
+reblog_key = "LVZIltUt"
+url = "http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts"
+should_open_in_legacy = true
+bookmarklet = true
+id = 30469287392.0
+post_url = "https://indirect.tumblr.com/post/30469287392/kickstarter-planetary-annihilation-a-next"
+summary = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
+interactability_blaze = "everyone"
+can_reply = false
+can_blaze = false
+timestamp = 1346270506.0
+format = "markdown"
+publisher = "kickstarter.com"
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

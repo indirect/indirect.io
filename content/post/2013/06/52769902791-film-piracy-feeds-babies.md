@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/52769902791/film-piracy-feeds-babies"]
 date = 2013-06-12T05:15:27Z
-slug = "film-piracy-feeds-babies"
 id = "52769902791"
-aliases = [ "/post/52769902791/film-piracy-feeds-babies" ]
-tags = [ ]
+slug = "film-piracy-feeds-babies"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyn9LD37"
-text = "Film piracy feeds babies"
-state = "published"
-blog_name = "indirect"
-id_string = "52769902791"
-date = "2013-06-12 05:15:27 GMT"
-note_count = 0.0
-source = "<a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a>"
-is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/52769902791/film-piracy-feeds-babies"
-reblog_key = "8E2RnJ0R"
-display_avatar = true
+summary = "Film piracy feeds babies"
 should_open_in_legacy = true
+source = "<a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a>"
+blog_name = "indirect"
+display_avatar = true
+type = "quote"
 can_like = false
-interactability_blaze = "everyone"
+date = "2013-06-12 05:15:27 GMT"
+id = 52769902791.0
+is_blazed = false
+can_reblog = false
 can_reply = false
-slug = "film-piracy-feeds-babies"
+id_string = "52769902791"
+is_blaze_pending = false
+timestamp = 1371014127.0
+text = "Film piracy feeds babies"
 interactability_reblog = "everyone"
 can_send_in_message = true
-type = "quote"
-timestamp = 1.371014127e+09
-tags = [ ]
-summary = "Film piracy feeds babies"
-can_reblog = false
-id = 5.2769902791e+10
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/52769902791/film-piracy-feeds-babies"
+slug = "film-piracy-feeds-babies"
+reblog_key = "8E2RnJ0R"
+interactability_blaze = "everyone"
+note_count = 0.0
+state = "published"
+can_blaze = false
 format = "markdown"
-is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyn9LD37"
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a></p>"
 
 [tumblr.blog]
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

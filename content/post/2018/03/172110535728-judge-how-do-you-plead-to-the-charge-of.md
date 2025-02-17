@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/172110535728/judge-how-do-you-plead-to-the-charge-of"]
 date = 2018-03-21T19:54:48Z
-slug = "judge-how-do-you-plead-to-the-charge-of"
 id = "172110535728"
-aliases = [ "/post/172110535728/judge-how-do-you-plead-to-the-charge-of" ]
-tags = [ ]
+slug = "judge-how-do-you-plead-to-the-charge-of"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-can_reblog = false
-id_string = "172110535728"
-is_blazed = false
-text = "<p>JUDGE: how do you plead to the charge of corruption</p>\n\n<p>COP: !&amp;F#J•ßÚ\u008f¼IÏ€£Ð¨™œ1×?—b™›aÅx\u008fI‘\u008d½˜|–7®üç”&amp;Õ/îƒøgÕ®”Oöç#ŽálÊýâú ¥“ó\u008d\u008dù°˜çæðÚºÐÿ\u008d;8QpM#¥èí=uh²¯àô&gt;øš—ø€Ê3ôÀÁaoÄÊV‚)#</p>\n\n<p>JUDGE: what</p>"
 is_blaze_pending = false
-is_blocks_post_format = false
-id = 1.72110535728e+11
-date = "2018-03-21 19:54:48 GMT"
-reblog_key = "NdGrXmxP"
-summary = "JUDGE: how do you plead to the charge of corruption\n\n COP: !&F#J•ßÚ\u008f¼IÏ€£Ð¨™œ1×?—b™›aÅx\u008fI‘\u008d½˜|–7®üç”&Õ/îƒøgÕ®”Oöç#ŽálÊýâú..."
-can_send_in_message = true
-blog_name = "indirect"
 state = "published"
-source = "<a href=\"http://twitter.com/MarfSalvador/status/975731468893868034\">@MarfSalvador</a>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+short_url = "https://tmblr.co/ZY3jby2WIbbmm"
+can_reply = false
 type = "quote"
-timestamp = 1.521662088e+09
+is_blazed = false
+can_blaze = false
+timestamp = 1521662088.0
+reblog_key = "NdGrXmxP"
 should_open_in_legacy = true
 note_count = 0.0
+interactability_blaze = "everyone"
+can_reblog = false
+is_blocks_post_format = false
+id_string = "172110535728"
+text = "<p>JUDGE: how do you plead to the charge of corruption</p>\n\n<p>COP: !&amp;F#J•ßÚ¼IÏ€£Ð¨™œ1×?—b™›aÅxI‘½˜|–7®üç”&amp;Õ/îƒøgÕ®”Oöç#ŽálÊýâú ¥“óù°˜çæðÚºÐÿ;8QpM#¥èí=uh²¯àô&gt;øš—ø€Ê3ôÀÁaoÄÊV‚)#</p>\n\n<p>JUDGE: what</p>"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+id = 172110535728.0
 post_url = "https://indirect.tumblr.com/post/172110535728/judge-how-do-you-plead-to-the-charge-of"
-slug = "judge-how-do-you-plead-to-the-charge-of"
 format = "html"
-can_reply = false
+date = "2018-03-21 19:54:48 GMT"
+source = "<a href=\"http://twitter.com/MarfSalvador/status/975731468893868034\">@MarfSalvador</a>"
+slug = "judge-how-do-you-plead-to-the-charge-of"
+can_send_in_message = true
 display_avatar = true
-can_blaze = false
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jby2WIbbmm"
+summary = "JUDGE: how do you plead to the charge of corruption\n\n COP: !&F#J•ßÚ¼IÏ€£Ð¨™œ1×?—b™›aÅxI‘½˜|–7®üç”&Õ/îƒøgÕ®”Oöç#ŽálÊýâú..."
+can_like = false
 
 [tumblr.blog]
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

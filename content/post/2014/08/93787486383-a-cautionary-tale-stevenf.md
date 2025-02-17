@@ -1,42 +1,55 @@
 +++
+aliases = ["/post/93787486383/a-cautionary-tale-stevenf"]
 date = 2014-08-04T16:38:38Z
-slug = "a-cautionary-tale-stevenf"
 id = "93787486383"
-aliases = [ "/post/93787486383/a-cautionary-tale-stevenf" ]
-tags = [ ]
+slug = "a-cautionary-tale-stevenf"
 type = "tumblr-photo"
 
 [tumblr]
+interactability_reblog = "everyone"
+can_reply = false
+id_string = "93787486383"
+post_url = "https://indirect.tumblr.com/post/93787486383/a-cautionary-tale-stevenf"
+format = "html"
+note_count = 0.0
+can_like = false
+display_avatar = true
+type = "photo"
+is_blazed = false
+reblog_key = "V2roNCXO"
+caption = "<p>A cautionary tale: — <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
+can_send_in_message = true
+is_blocks_post_format = false
+slug = "a-cautionary-tale-stevenf"
+timestamp = 1407170318.0
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jby1NMAtYl"
+summary = "A cautionary tale: — @stevenf"
+should_open_in_legacy = true
 image_permalink = "https://indirect.tumblr.com/image/93787486383"
 can_blaze = false
-tags = [ ]
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id_string = "93787486383"
-state = "published"
-is_blocks_post_format = false
-blog_name = "indirect"
-can_like = false
-id = 9.3787486383e+10
-short_url = "https://tmblr.co/ZY3jby1NMAtYl"
-should_open_in_legacy = true
-can_send_in_message = true
-summary = "A cautionary tale: — @stevenf"
-caption = "<p>A cautionary tale: — <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
-is_blazed = false
-is_blaze_pending = false
 date = "2014-08-04 16:38:38 GMT"
-timestamp = 1.407170318e+09
-format = "html"
-type = "photo"
-can_reblog = false
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/93787486383/a-cautionary-tale-stevenf"
-slug = "a-cautionary-tale-stevenf"
-reblog_key = "V2roNCXO"
-note_count = 0.0
+state = "published"
+id = 93787486383.0
+is_blaze_pending = false
 link_url = "http://twitter.com/stevenf/status/342698187204751360"
+interactability_blaze = "everyone"
+can_reblog = false
+
+[tumblr.reblog]
+comment = "<p>A cautionary tale: — <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -81,53 +94,38 @@ url = "/images/19/6c/92e1a0e40d458ea01a6b602fcb60.png"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>A cautionary tale: — <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
-
 [[tumblr.trail]]
 content_raw = "<p>A cautionary tale: — <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
 content = "<p>A cautionary tale: &mdash; <a href=\"http://twitter.com/stevenf/status/342698187204751360\">@stevenf</a></p>"
 is_current_item = true
 is_root_item = true
 
+[tumblr.trail.post]
+id = "93787486383"
+
 [tumblr.trail.blog]
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_description = true
 show_title = true
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
 show_header_image = false
-title_font = "Gibson"
-header_image_poster = ""
+body_font = "Helvetica Neue"
+header_bounds = ""
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-background_color = "#FAFAFA"
 header_stretch = true
+header_image_poster = ""
 show_avatar = true
-
-[tumblr.trail.post]
-id = "93787486383"
+title_font_weight = "bold"
+show_description = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_color = "#444444"
+title_font = "Gibson"
 +++

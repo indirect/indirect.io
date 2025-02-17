@@ -1,57 +1,55 @@
 +++
+aliases = ["/post/45893739578/we-celebrate-our-ability-to-do-things-that-are"]
 date = 2013-03-21T04:29:41Z
-slug = "we-celebrate-our-ability-to-do-things-that-are"
 id = "45893739578"
-aliases = [ "/post/45893739578/we-celebrate-our-ability-to-do-things-that-are" ]
-tags = [ ]
+slug = "we-celebrate-our-ability-to-do-things-that-are"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2013-03-21 04:29:41 GMT"
-is_blocks_post_format = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbyglUkGw"
-should_open_in_legacy = true
-can_like = false
-can_send_in_message = true
-can_reply = false
-id = 4.5893739578e+10
+id_string = "45893739578"
 is_blazed = false
-slug = "we-celebrate-our-ability-to-do-things-that-are"
-state = "published"
-source = "<a href=\"http://www.marco.org/2013/03/19/free-works\">Free works</a>"
+format = "markdown"
+note_count = 0.0
+can_like = false
+can_reblog = false
 display_avatar = true
 type = "quote"
-can_blaze = false
-timestamp = 1.363840181e+09
-source_url = "http://www.marco.org/2013/03/19/free-works"
-can_reblog = false
-blog_name = "indirect"
-id_string = "45893739578"
-post_url = "https://indirect.tumblr.com/post/45893739578/we-celebrate-our-ability-to-do-things-that-are"
-format = "markdown"
-tags = [ ]
-summary = "We celebrate our ability to do things that are illegal or economically infeasible in other markets with productive-sounding..."
-bookmarklet = true
-note_count = 0.0
-reblog_key = "piJgJNl6"
-source_title = "marco.org"
 is_blaze_pending = false
+can_blaze = false
+interactability_blaze = "everyone"
+reblog_key = "piJgJNl6"
+short_url = "https://tmblr.co/ZY3jbyglUkGw"
+bookmarklet = true
+source_title = "marco.org"
+can_reply = false
+timestamp = 1363840181.0
+post_url = "https://indirect.tumblr.com/post/45893739578/we-celebrate-our-ability-to-do-things-that-are"
+date = "2013-03-21 04:29:41 GMT"
+summary = "We celebrate our ability to do things that are illegal or economically infeasible in other markets with productive-sounding..."
+interactability_reblog = "everyone"
+state = "published"
+should_open_in_legacy = true
 text = "We celebrate our ability to do things that are illegal or economically infeasible in other markets with productive-sounding words like “disruption”."
+can_send_in_message = true
+is_blocks_post_format = false
+blog_name = "indirect"
+slug = "we-celebrate-our-ability-to-do-things-that-are"
+id = 45893739578.0
+source_url = "http://www.marco.org/2013/03/19/free-works"
+source = "<a href=\"http://www.marco.org/2013/03/19/free-works\">Free works</a>"
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.marco.org/2013/03/19/free-works\">Free works</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

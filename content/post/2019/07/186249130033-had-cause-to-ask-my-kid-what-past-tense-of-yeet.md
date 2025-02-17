@@ -1,42 +1,86 @@
 +++
+aliases = ["/post/186249130033/had-cause-to-ask-my-kid-what-past-tense-of-yeet"]
 date = 2019-07-13T03:33:29Z
-slug = "had-cause-to-ask-my-kid-what-past-tense-of-yeet"
 id = "186249130033"
-aliases = [ "/post/186249130033/had-cause-to-ask-my-kid-what-past-tense-of-yeet" ]
-tags = [ ]
+slug = "had-cause-to-ask-my-kid-what-past-tense-of-yeet"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/186249130033/had-cause-to-ask-my-kid-what-past-tense-of-yeet"
-date = "2019-07-13 03:33:29 GMT"
-timestamp = 1.562988809e+09
-can_like = false
-interactability_reblog = "everyone"
-can_reply = false
-id = 1.86249130033e+11
-short_url = "https://tmblr.co/ZY3jby2jTK30n"
-is_blocks_post_format = false
-caption = "<p>Had cause to ask my kid what past tense of &ldquo;yeet&rdquo; is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I&rsquo;ve created a linguist. — <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
-is_blaze_pending = false
-summary = "Had cause to ask my kid what past tense of \"yeet\" is. Being my kid, A had a Google doc ready to go with not just past but all..."
-should_open_in_legacy = true
-link_url = "http://twitter.com/jentalleydesign/status/1149495155927334914"
-can_send_in_message = true
-blog_name = "indirect"
-format = "html"
-note_count = 1.0
-tags = [ ]
-image_permalink = "https://indirect.tumblr.com/image/186249130033"
 interactability_blaze = "everyone"
 can_reblog = false
 type = "photo"
-is_blazed = false
-state = "published"
-reblog_key = "8yQweDpa"
+is_blocks_post_format = false
+id = 186249130033.0
 id_string = "186249130033"
+post_url = "https://indirect.tumblr.com/post/186249130033/had-cause-to-ask-my-kid-what-past-tense-of-yeet"
 slug = "had-cause-to-ask-my-kid-what-past-tense-of-yeet"
+format = "html"
+should_open_in_legacy = true
+can_blaze = false
+reblog_key = "8yQweDpa"
+short_url = "https://tmblr.co/ZY3jby2jTK30n"
+link_url = "http://twitter.com/jentalleydesign/status/1149495155927334914"
+can_send_in_message = true
+is_blazed = false
+date = "2019-07-13 03:33:29 GMT"
+can_reply = false
+blog_name = "indirect"
+is_blaze_pending = false
+note_count = 1.0
+caption = "<p>Had cause to ask my kid what past tense of &ldquo;yeet&rdquo; is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I&rsquo;ve created a linguist. — <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
+timestamp = 1562988809.0
+image_permalink = "https://indirect.tumblr.com/image/186249130033"
+interactability_reblog = "everyone"
+state = "published"
 display_avatar = true
+summary = "Had cause to ask my kid what past tense of \"yeet\" is. Being my kid, A had a Google doc ready to go with not just past but all..."
+can_like = false
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Had cause to ask my kid what past tense of “yeet” is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I’ve created a linguist. — <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
+content = "<p>Had cause to ask my kid what past tense of &ldquo;yeet&rdquo; is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I&rsquo;ve created a linguist. &mdash; <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_color = "#444444"
+title_font = "Gibson"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+avatar_shape = "square"
+show_header_image = false
+show_title = true
+body_font = "Helvetica Neue"
+
+[tumblr.trail.post]
+id = "186249130033"
 
 [tumblr.reblog]
 comment = "<p>Had cause to ask my kid what past tense of “yeet” is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I’ve created a linguist. — <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
@@ -66,19 +110,19 @@ width = 356.0
 height = 810.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/52/36/760edda3c93cae9f165494c14fe3.jpg"
 width = 329.0
 height = 750.0
-url = "/images/52/36/760edda3c93cae9f165494c14fe3.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/6a/c2/eeea3aebe711fee7b989517527eb.jpg"
 width = 264.0
 height = 600.0
-url = "/images/6a/c2/eeea3aebe711fee7b989517527eb.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 400.0
 url = "/images/5c/ab/200c5722b0acb160e3a18d6eb0a2.jpg"
 width = 176.0
+height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/88/18/b819c0c1a385fe3f539c09931948.jpg"
@@ -86,53 +130,7 @@ width = 88.0
 height = 200.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/14/2c/138fb1be56b7ac3b504c4e6e9aa9.jpg"
 width = 75.0
-height = 75.0
-
-[[tumblr.trail]]
-content_raw = "<p>Had cause to ask my kid what past tense of “yeet” is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I’ve created a linguist. — <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
-content = "<p>Had cause to ask my kid what past tense of &ldquo;yeet&rdquo; is. Being my kid, A had a Google doc ready to go with not just past but all tenses of yeet. So if you  ever need to yeet something in the future perfect, here you go. I will be in the corner weeping that I&rsquo;ve created a linguist. &mdash; <a href=\"http://twitter.com/jentalleydesign/status/1149495155927334914\">@jentalleydesign</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-title_color = "#444444"
-show_header_image = false
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font = "Gibson"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_bounds = ""
-link_color = "#529ECC"
-
-[tumblr.trail.post]
-id = "186249130033"
-
-[tumblr.blog]
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

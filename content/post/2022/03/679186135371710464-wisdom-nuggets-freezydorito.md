@@ -1,70 +1,53 @@
 +++
+aliases = ["/post/679186135371710464/wisdom-nuggets-freezydorito"]
 date = 2022-03-19T20:39:32Z
-slug = "wisdom-nuggets-freezydorito"
 id = "679186135371710464"
-aliases = [ "/post/679186135371710464/wisdom-nuggets-freezydorito" ]
-tags = [ ]
+slug = "wisdom-nuggets-freezydorito"
 type = "tumblr-photo"
 
 [tumblr]
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/679186135371710464/wisdom-nuggets-freezydorito"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbybiz34FCu00"
-display_avatar = true
-blog_name = "indirect"
-id = 6.791861353717105e+17
-format = "html"
-note_count = 0.0
-type = "photo"
-image_permalink = "https://indirect.tumblr.com/image/679186135371710464"
-timestamp = 1.647722372e+09
-is_blocks_post_format = false
 link_url = "http://twitter.com/freezydorito/status/1504442013965590530"
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-id_string = "679186135371710464"
-is_blaze_pending = false
-date = "2022-03-19 20:39:32 GMT"
-caption = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
-can_reply = false
-is_blazed = false
-can_blaze = false
-should_open_in_legacy = true
 slug = "wisdom-nuggets-freezydorito"
-reblog_key = "ajA9zS1y"
-tags = [ ]
+blog_name = "indirect"
+is_blocks_post_format = false
+format = "html"
+should_open_in_legacy = true
+image_permalink = "https://indirect.tumblr.com/image/679186135371710464"
+id = 6.791861353717105e+17
+post_url = "https://indirect.tumblr.com/post/679186135371710464/wisdom-nuggets-freezydorito"
+short_url = "https://tmblr.co/ZY3jbybiz34FCu00"
+caption = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
+is_blazed = false
+is_blaze_pending = false
+state = "published"
 summary = "wisdom nuggets — @freezydorito"
+type = "photo"
+note_count = 0.0
+can_like = false
 interactability_reblog = "everyone"
-
-[tumblr.reblog]
-comment = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reblog = false
+can_reply = false
+id_string = "679186135371710464"
+can_blaze = false
+date = "2022-03-19 20:39:32 GMT"
+timestamp = 1647722372.0
+reblog_key = "ajA9zS1y"
+display_avatar = true
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/1e/c3/e4ca2a6d75fcdecfbb31bc75f4c2.jpg"
 width = 1128.0
 height = 1200.0
-url = "/images/1e/c3/e4ca2a6d75fcdecfbb31bc75f4c2.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 1200.0
 url = "/images/1e/c3/e4ca2a6d75fcdecfbb31bc75f4c2.jpg"
 width = 1128.0
+height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/8c/f7/8bff8c68aad24c68e4472940a117.jpg"
@@ -101,37 +84,52 @@ url = "/images/3c/28/c7e83af919111501fb1f85b5b96b.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
+tree_html = ""
+
 [[tumblr.trail]]
+content_raw = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
 content = "<p>wisdom nuggets &mdash; <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>wisdom nuggets — <a href=\"http://twitter.com/freezydorito/status/1504442013965590530\">@freezydorito</a></p>"
 
 [tumblr.trail.blog]
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_stretch = true
+show_avatar = true
+title_font_weight = "bold"
+avatar_shape = "square"
 body_font = "Helvetica Neue"
 header_bounds = ""
-show_header_image = false
-title_color = "#444444"
-background_color = "#FAFAFA"
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
-show_title = true
 title_font = "Gibson"
-header_stretch = true
-title_font_weight = "bold"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_title = true
+title_color = "#444444"
+link_color = "#529ECC"
+show_description = true
 
 [tumblr.trail.post]
 id = "679186135371710464"

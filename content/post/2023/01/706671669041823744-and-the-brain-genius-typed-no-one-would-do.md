@@ -1,46 +1,44 @@
 +++
+aliases = ["/post/706671669041823744/and-the-brain-genius-typed-no-one-would-do"]
 date = 2023-01-17T05:50:20Z
-slug = "and-the-brain-genius-typed-no-one-would-do"
 id = "706671669041823744"
-aliases = [ "/post/706671669041823744/and-the-brain-genius-typed-no-one-would-do" ]
-tags = [ ]
+slug = "and-the-brain-genius-typed-no-one-would-do"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "and-the-brain-genius-typed-no-one-would-do"
-state = "published"
-display_avatar = true
-tags = [ ]
 text = "and the brain-genius typed &ldquo;no one would do anything without a profit motive!&rdquo; and hit send on a button rendered by an open source front end framework firing off an event handled by an open source programming language that sends a packet in a format conforming to an open specification over a protocol developed at universities with public funding until it reaches a web server running an open source operating system that files the hot take away into an open source database for safe keeping"
-id = 7.066716690418237e+17
-timestamp = 1.67393462e+09
-short_url = "https://tmblr.co/ZY3jbydEcYEE4W00"
-source = "<a href=\"https://botsin.space/@computerfact/109666644912281379\">@computerfact</a>"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/706671669041823744/and-the-brain-genius-typed-no-one-would-do"
-note_count = 0.0
+display_avatar = true
+is_blaze_pending = false
 interactability_reblog = "everyone"
-blog_name = "indirect"
-reblog_key = "pJbZjCKN"
-summary = "and the brain-genius typed “no one would do anything without a profit motive!” and hit send on a button rendered by an open..."
-is_blocks_post_format = false
-date = "2023-01-17 05:50:20 GMT"
-format = "markdown"
-should_open_in_legacy = true
-can_send_in_message = true
-id_string = "706671669041823744"
-can_blaze = false
-can_like = false
 can_reply = false
 type = "quote"
-is_blaze_pending = false
-interactability_blaze = "everyone"
+format = "markdown"
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbydEcYEE4W00"
 can_reblog = false
+is_blazed = false
+can_blaze = false
+date = "2023-01-17 05:50:20 GMT"
+should_open_in_legacy = true
+blog_name = "indirect"
+can_like = false
+post_url = "https://indirect.tumblr.com/post/706671669041823744/and-the-brain-genius-typed-no-one-would-do"
+timestamp = 1673934620.0
+state = "published"
+source = "<a href=\"https://botsin.space/@computerfact/109666644912281379\">@computerfact</a>"
+is_blocks_post_format = false
+summary = "and the brain-genius typed “no one would do anything without a profit motive!” and hit send on a button rendered by an open..."
+interactability_blaze = "everyone"
+id = 7.066716690418237e+17
+id_string = "706671669041823744"
+slug = "and-the-brain-genius-typed-no-one-would-do"
+reblog_key = "pJbZjCKN"
+note_count = 0.0
 
 [tumblr.blog]
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"

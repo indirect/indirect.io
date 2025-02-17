@@ -1,43 +1,41 @@
 +++
+aliases = ["/post/118302977553/white-men-had-a-42-advantage-over-white-women"]
 date = 2015-05-06T19:41:58Z
-slug = "white-men-had-a-42-advantage-over-white-women"
 id = "118302977553"
-aliases = [ "/post/118302977553/white-men-had-a-42-advantage-over-white-women" ]
-tags = [ ]
+slug = "white-men-had-a-42-advantage-over-white-women"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "6PGwXeH8"
+type = "quote"
+can_reblog = false
 source_url = "http://www.latimes.com/business/technology/la-fi-tn-asian-american-tech-20150506-story.html"
-can_reply = false
 blog_name = "indirect"
-interactability_reblog = "everyone"
-is_blazed = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/118302977553/white-men-had-a-42-advantage-over-white-women"
-timestamp = 1.430941318e+09
-is_blaze_pending = false
-date = "2015-05-06 19:41:58 GMT"
-format = "markdown"
-source = "<a href=\"http://www.latimes.com/business/technology/la-fi-tn-asian-american-tech-20150506-story.html\">Asian Americans face glass ceiling in tech</a>"
 id_string = "118302977553"
+post_url = "https://indirect.tumblr.com/post/118302977553/white-men-had-a-42-advantage-over-white-women"
+reblog_key = "6PGwXeH8"
+source = "<a href=\"http://www.latimes.com/business/technology/la-fi-tn-asian-american-tech-20150506-story.html\">Asian Americans face glass ceiling in tech</a>"
 can_like = false
 interactability_blaze = "everyone"
-can_send_in_message = true
-id = 1.18302977553e+11
+can_blaze = false
+format = "markdown"
+text = "White men had a 42% advantage over white women [when it came to being promoted to the executive level], which was expected. But that paled in comparison to the 260% advantage they have to Asian women"
+id = 118302977553.0
+date = "2015-05-06 19:41:58 GMT"
+timestamp = 1430941318.0
 state = "published"
-tags = [ ]
 short_url = "https://tmblr.co/ZY3jby1kBQ2uH"
-should_open_in_legacy = true
+can_reply = false
 note_count = 0.0
 slug = "white-men-had-a-42-advantage-over-white-women"
-source_title = "Los Angeles Times"
-text = "White men had a 42% advantage over white women [when it came to being promoted to the executive level], which was expected. But that paled in comparison to the 260% advantage they have to Asian women"
-display_avatar = true
-type = "quote"
 is_blocks_post_format = false
+is_blazed = false
 summary = "White men had a 42% advantage over white women [when it came to being promoted to the executive level], which was expected. But..."
-can_reblog = false
+should_open_in_legacy = true
+can_send_in_message = true
+interactability_reblog = "everyone"
+display_avatar = true
+is_blaze_pending = false
+source_title = "Los Angeles Times"
 
 [tumblr.blog]
 can_show_badges = true
@@ -46,7 +44,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

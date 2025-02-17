@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/715409417246490624/teenage-spruce-tree-dejectedly-i-wanted-to-be"]
 date = 2023-04-23T16:33:06Z
-slug = "teenage-spruce-tree-dejectedly-i-wanted-to-be"
 id = "715409417246490624"
-aliases = [ "/post/715409417246490624/teenage-spruce-tree-dejectedly-i-wanted-to-be" ]
-tags = [ ]
+slug = "teenage-spruce-tree-dejectedly-i-wanted-to-be"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-can_reply = false
-is_blocks_post_format = false
 date = "2023-04-23 16:33:06 GMT"
-timestamp = 1.682267586e+09
-source = "<a href=\"https://beige.party/@adhdeanasl/110248511584646712\">@adhdeanasl</a>"
-id_string = "715409417246490624"
-summary = "Teenage spruce tree: *dejectedly* I wanted to be one of the poplar kids"
+note_count = 0.0
 text = "Teenage spruce tree: *dejectedly* I wanted to be one of the poplar kids"
-state = "published"
-type = "quote"
-is_blaze_pending = false
-reblog_key = "447tqnBx"
+can_like = false
 interactability_reblog = "everyone"
-should_open_in_legacy = true
+can_reply = false
+display_avatar = true
+is_blocks_post_format = false
+format = "markdown"
+can_send_in_message = true
+blog_name = "indirect"
+id = 7.154094172464906e+17
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/715409417246490624/teenage-spruce-tree-dejectedly-i-wanted-to-be"
 interactability_blaze = "everyone"
 can_reblog = false
-blog_name = "indirect"
-tags = [ ]
-id = 7.154094172464906e+17
-post_url = "https://indirect.tumblr.com/post/715409417246490624/teenage-spruce-tree-dejectedly-i-wanted-to-be"
-format = "markdown"
+can_blaze = false
+state = "published"
 short_url = "https://tmblr.co/ZY3jbydjfHCNya00"
-note_count = 0.0
-can_like = false
-is_blazed = false
+summary = "Teenage spruce tree: *dejectedly* I wanted to be one of the poplar kids"
+source = "<a href=\"https://beige.party/@adhdeanasl/110248511584646712\">@adhdeanasl</a>"
+id_string = "715409417246490624"
 slug = "teenage-spruce-tree-dejectedly-i-wanted-to-be"
-can_send_in_message = true
-display_avatar = true
+timestamp = 1682267586.0
+reblog_key = "447tqnBx"
+should_open_in_legacy = true
+type = "quote"
+is_blazed = false
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://beige.party/@adhdeanasl/110248511584646712\">@adhdeanasl</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
 +++

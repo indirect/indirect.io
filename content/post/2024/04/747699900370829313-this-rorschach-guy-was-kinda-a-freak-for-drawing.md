@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/747699900370829313/this-rorschach-guy-was-kinda-a-freak-for-drawing"]
 date = 2024-04-14T02:36:31Z
-slug = "this-rorschach-guy-was-kinda-a-freak-for-drawing"
 id = "747699900370829313"
-aliases = [ "/post/747699900370829313/this-rorschach-guy-was-kinda-a-freak-for-drawing" ]
-tags = [ ]
+slug = "this-rorschach-guy-was-kinda-a-freak-for-drawing"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-timestamp = 1.713062191e+09
-blog_name = "indirect"
-format = "markdown"
-reblog_key = "iocyyhCS"
-can_send_in_message = true
-is_blaze_pending = false
-slug = "this-rorschach-guy-was-kinda-a-freak-for-drawing"
+type = "quote"
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jbyfWNHaGCi01"
 can_reblog = false
-can_reply = false
-can_like = false
-id = 7.476999003708293e+17
-is_blazed = false
-can_blaze = false
-tags = [ ]
-text = "this rorschach guy was kinda a freak for drawing so many pictures of my parents having sex"
-id_string = "747699900370829313"
-source = "<a href=\"https://twitter.com/emi_f1sher/status/1500186594560651264\">emi 🇵🇸🎣 (@emi_f1sher)</a>"
 post_url = "https://indirect.tumblr.com/post/747699900370829313/this-rorschach-guy-was-kinda-a-freak-for-drawing"
-date = "2024-04-14 02:36:31 GMT"
-state = "published"
-type = "quote"
+format = "markdown"
+note_count = 0.0
 is_blocks_post_format = false
 summary = "this rorschach guy was kinda a freak for drawing so many pictures of my parents having sex"
-interactability_blaze = "everyone"
-display_avatar = true
+source = "<a href=\"https://twitter.com/emi_f1sher/status/1500186594560651264\">emi 🇵🇸🎣 (@emi_f1sher)</a>"
+can_reply = false
 interactability_reblog = "everyone"
+blog_name = "indirect"
+id = 7.476999003708293e+17
+id_string = "747699900370829313"
+is_blaze_pending = false
+reblog_key = "iocyyhCS"
+can_send_in_message = true
+display_avatar = true
+is_blazed = false
 should_open_in_legacy = true
+slug = "this-rorschach-guy-was-kinda-a-freak-for-drawing"
+timestamp = 1713062191.0
+can_like = false
+interactability_blaze = "everyone"
+date = "2024-04-14 02:36:31 GMT"
+state = "published"
+text = "this rorschach guy was kinda a freak for drawing so many pictures of my parents having sex"
 
 [tumblr.blog]
-updated = 1.738205153e+09
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

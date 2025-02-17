@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/174954262103/femdom-wanting-to-be-dominated-by-a-female"]
 date = 2018-06-16T20:56:07Z
-slug = "femdom-wanting-to-be-dominated-by-a-female"
 id = "174954262103"
-aliases = [ "/post/174954262103/femdom-wanting-to-be-dominated-by-a-female" ]
-tags = [ ]
+slug = "femdom-wanting-to-be-dominated-by-a-female"
 type = "tumblr-quote"
 
 [tumblr]
-tags = [ ]
-should_open_in_legacy = true
-text = "<p>Femdom: Wanting to be dominated by a female</p>\n\n<p>Wisdom: Wanting to be dominated by a wizard</p>"
-interactability_reblog = "everyone"
-can_blaze = false
 id_string = "174954262103"
-is_blaze_pending = false
-timestamp = 1.529182567e+09
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby2Yy5YvN"
+text = "<p>Femdom: Wanting to be dominated by a female</p>\n\n<p>Wisdom: Wanting to be dominated by a wizard</p>"
 can_like = false
-display_avatar = true
+can_send_in_message = true
+type = "quote"
 slug = "femdom-wanting-to-be-dominated-by-a-female"
 format = "html"
-summary = "Femdom: Wanting to be dominated by a female\n\n Wisdom: Wanting to be dominated by a wizard"
-post_url = "https://indirect.tumblr.com/post/174954262103/femdom-wanting-to-be-dominated-by-a-female"
-can_reply = false
-type = "quote"
-is_blocks_post_format = false
-id = 1.74954262103e+11
-short_url = "https://tmblr.co/ZY3jby2Yy5YvN"
-interactability_blaze = "everyone"
-is_blazed = false
-date = "2018-06-16 20:56:07 GMT"
-state = "published"
-reblog_key = "xDwofXNs"
-note_count = 0.0
 source = "<a href=\"http://twitter.com/MinModulation/status/1007361521058344960\">@MinModulation</a>"
-can_reblog = false
-can_send_in_message = true
+interactability_reblog = "everyone"
+display_avatar = true
+note_count = 0.0
+timestamp = 1529182567.0
+summary = "Femdom: Wanting to be dominated by a female\n\n Wisdom: Wanting to be dominated by a wizard"
+can_reply = false
 blog_name = "indirect"
+is_blocks_post_format = false
+id = 174954262103.0
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/174954262103/femdom-wanting-to-be-dominated-by-a-female"
+state = "published"
+can_reblog = false
+is_blaze_pending = false
+date = "2018-06-16 20:56:07 GMT"
+reblog_key = "xDwofXNs"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 
 [tumblr.blog]
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/MinModulation/status/1007361521058344960\">@MinModulation</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/MinModulation/status/1007361521058344960\">@MinModulation</a></p>"
 +++

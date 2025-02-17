@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/684971873022459904/a-veggie-tales-character-named-megan-thee-scallion"]
 date = 2022-05-22T17:21:22Z
-slug = "a-veggie-tales-character-named-megan-thee-scallion"
 id = "684971873022459904"
-aliases = [ "/post/684971873022459904/a-veggie-tales-character-named-megan-thee-scallion" ]
-tags = [ ]
+slug = "a-veggie-tales-character-named-megan-thee-scallion"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "a-veggie-tales-character-named-megan-thee-scallion"
-text = "a veggie tales character named megan thee scallion"
-can_send_in_message = true
-id_string = "684971873022459904"
-can_blaze = false
-summary = "a veggie tales character named megan thee scallion"
-should_open_in_legacy = true
-note_count = 0.0
-is_blocks_post_format = false
-date = "2022-05-22 17:21:22 GMT"
-timestamp = 1.653240082e+09
-can_reblog = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/684971873022459904/a-veggie-tales-character-named-megan-thee-scallion"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-state = "published"
+timestamp = 1653240082.0
 reblog_key = "EUYJheaA"
-short_url = "https://tmblr.co/ZY3jbyc1WaeKeq00"
-source = "<a href=\"http://twitter.com/krogerbrandfaye/status/1527728492934270979\">@krogerbrandfaye</a>"
+interactability_blaze = "everyone"
+note_count = 0.0
+id_string = "684971873022459904"
+text = "a veggie tales character named megan thee scallion"
 can_like = false
-can_reply = false
-id = 6.849718730224599e+17
-is_blaze_pending = false
+blog_name = "indirect"
+slug = "a-veggie-tales-character-named-megan-thee-scallion"
 format = "html"
-tags = [ ]
+short_url = "https://tmblr.co/ZY3jbyc1WaeKeq00"
+summary = "a veggie tales character named megan thee scallion"
 interactability_reblog = "everyone"
+is_blocks_post_format = false
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/684971873022459904/a-veggie-tales-character-named-megan-thee-scallion"
+should_open_in_legacy = true
+source = "<a href=\"http://twitter.com/krogerbrandfaye/status/1527728492934270979\">@krogerbrandfaye</a>"
+can_reblog = false
+date = "2022-05-22 17:21:22 GMT"
+can_send_in_message = true
 display_avatar = true
 type = "quote"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/krogerbrandfaye/status/1527728492934270979\">@krogerbrandfaye</a></p>"
-tree_html = ""
+id = 6.849718730224599e+17
+can_blaze = false
+can_reply = false
+is_blazed = false
+state = "published"
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/krogerbrandfaye/status/1527728492934270979\">@krogerbrandfaye</a></p>"
+tree_html = ""
 +++

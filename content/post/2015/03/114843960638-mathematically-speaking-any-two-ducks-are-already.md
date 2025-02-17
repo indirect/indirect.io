@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/114843960638/mathematically-speaking-any-two-ducks-are-already"]
 date = 2015-03-28T14:45:12Z
-slug = "mathematically-speaking-any-two-ducks-are-already"
 id = "114843960638"
-aliases = [ "/post/114843960638/mathematically-speaking-any-two-ducks-are-already" ]
-tags = [ ]
+slug = "mathematically-speaking-any-two-ducks-are-already"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/114843960638/mathematically-speaking-any-two-ducks-are-already"
+interactability_blaze = "everyone"
+can_send_in_message = true
+source = "<a href=\"http://twitter.com/TheBigEasyofOz/status/499567504520654848\">@TheBigEasyofOz</a>"
+is_blocks_post_format = false
 slug = "mathematically-speaking-any-two-ducks-are-already"
 date = "2015-03-28 14:45:12 GMT"
-interactability_blaze = "everyone"
-blog_name = "indirect"
+summary = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/114843960638/mathematically-speaking-any-two-ducks-are-already"
+timestamp = 1427553912.0
+display_avatar = true
+type = "quote"
+state = "published"
+can_reblog = false
+note_count = 0.0
+interactability_reblog = "everyone"
+id = 114843960638.0
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1gzEyK_"
 is_blazed = false
-timestamp = 1.427553912e+09
-id = 1.14843960638e+11
+reblog_key = "lNdrDTa3"
+is_blaze_pending = false
 should_open_in_legacy = true
 can_like = false
-can_send_in_message = true
-is_blaze_pending = false
-reblog_key = "lNdrDTa3"
-source = "<a href=\"http://twitter.com/TheBigEasyofOz/status/499567504520654848\">@TheBigEasyofOz</a>"
-interactability_reblog = "everyone"
-state = "published"
-is_blocks_post_format = false
+blog_name = "indirect"
+id_string = "114843960638"
 format = "html"
 text = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
-display_avatar = true
-summary = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
-id_string = "114843960638"
-can_blaze = false
-tags = [ ]
-can_reply = false
-short_url = "https://tmblr.co/ZY3jby1gzEyK_"
-note_count = 0.0
-can_reblog = false
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

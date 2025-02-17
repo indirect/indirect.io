@@ -1,105 +1,57 @@
 +++
+aliases = ["/post/704971961666813952/people-dont-understand-how-large-the-original"]
 date = 2022-12-29T11:34:13Z
-slug = "people-dont-understand-how-large-the-original"
 id = "704971961666813952"
-aliases = [ "/post/704971961666813952/people-dont-understand-how-large-the-original" ]
-tags = [ ]
+slug = "people-dont-understand-how-large-the-original"
 type = "tumblr-photo"
 
 [tumblr]
 reblog_key = "RlLA0Mq3"
-post_url = "https://indirect.tumblr.com/post/704971961666813952/people-dont-understand-how-large-the-original"
-tags = [ ]
-can_like = false
-is_blaze_pending = false
-format = "html"
-summary = "People don't understand how large the original ARPANET routers were — @mainframed767"
-interactability_reblog = "everyone"
-can_reply = false
-type = "photo"
-id_string = "704971961666813952"
-should_open_in_legacy = true
-caption = "<p>People don&rsquo;t understand how large the original ARPANET routers were</p> — <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a>"
-short_url = "https://tmblr.co/ZY3jbyd8a4ENmi00"
-note_count = 0.0
 image_permalink = "https://indirect.tumblr.com/image/704971961666813952"
 interactability_blaze = "everyone"
-timestamp = 1.672313653e+09
-link_url = "https://infosec.exchange/@mainframed767/109591550428522405"
 can_reblog = false
-can_send_in_message = true
-state = "published"
-display_avatar = true
-blog_name = "indirect"
-is_blazed = false
-slug = "people-dont-understand-how-large-the-original"
-date = "2022-12-29 11:34:13 GMT"
 is_blocks_post_format = false
-id = 7.04971961666814e+17
+note_count = 0.0
+caption = "<p>People don&rsquo;t understand how large the original ARPANET routers were</p> — <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a>"
+can_like = false
 can_blaze = false
+timestamp = 1672313653.0
+format = "html"
+display_avatar = true
+type = "photo"
+blog_name = "indirect"
+is_blaze_pending = false
+summary = "People don't understand how large the original ARPANET routers were — @mainframed767"
+interactability_reblog = "everyone"
+is_blazed = false
+date = "2022-12-29 11:34:13 GMT"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyd8a4ENmi00"
+link_url = "https://infosec.exchange/@mainframed767/109591550428522405"
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/704971961666813952/people-dont-understand-how-large-the-original"
+slug = "people-dont-understand-how-large-the-original"
+can_send_in_message = true
+id = 7.04971961666814e+17
+id_string = "704971961666813952"
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p><p>People don’t understand how large the original ARPANET routers were</p> — <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a></p>"
 tree_html = ""
 
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p><p>People don’t understand how large the original ARPANET routers were</p> — <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a></p>"
-content = "<p><p>People don&rsquo;t understand how large the original ARPANET routers were</p> &mdash; <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-show_avatar = true
-title_font_weight = "bold"
-header_image_poster = ""
-show_header_image = false
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "704971961666813952"
-
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/af/22/842733043736a765cc2767067cfd.jpg"
 width = 747.0
 height = 780.0
+url = "/images/af/22/842733043736a765cc2767067cfd.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/af/22/842733043736a765cc2767067cfd.jpg"
 width = 747.0
 height = 780.0
-url = "/images/af/22/842733043736a765cc2767067cfd.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/69/10/94cd7bbd75c0d2c4ec23d952e75d.jpg"
@@ -132,7 +84,53 @@ width = 100.0
 height = 104.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/3f/45/0f1f718ae30430f9b7ac45341656.jpg"
 width = 75.0
 height = 75.0
-url = "/images/3f/45/0f1f718ae30430f9b7ac45341656.jpg"
+
+[[tumblr.trail]]
+content = "<p><p>People don&rsquo;t understand how large the original ARPANET routers were</p> &mdash; <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p><p>People don’t understand how large the original ARPANET routers were</p> — <a href=\"https://infosec.exchange/@mainframed767/109591550428522405\">@mainframed767</a></p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+title_font_weight = "bold"
+header_stretch = true
+show_avatar = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_description = true
+show_header_image = false
+background_color = "#FAFAFA"
+title_font = "Gibson"
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "704971961666813952"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

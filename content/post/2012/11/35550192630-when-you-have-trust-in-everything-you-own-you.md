@@ -1,41 +1,43 @@
 +++
+aliases = ["/post/35550192630/when-you-have-trust-in-everything-you-own-you"]
 date = 2012-11-12T06:46:52Z
-slug = "when-you-have-trust-in-everything-you-own-you"
 id = "35550192630"
-aliases = [ "/post/35550192630/when-you-have-trust-in-everything-you-own-you" ]
-tags = [ ]
+slug = "when-you-have-trust-in-everything-you-own-you"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-state = "published"
-note_count = 0.0
-interactability_blaze = "everyone"
-display_avatar = true
-timestamp = 1.352702812e+09
-tags = [ ]
-should_open_in_legacy = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/35550192630/when-you-have-trust-in-everything-you-own-you"
-date = "2012-11-12 06:46:52 GMT"
-short_url = "https://tmblr.co/ZY3jbyX6zEFs"
-text = "when you have trust in everything you own, you don’t have to worry about anything. It’s liberating and an amazing feeling"
-interactability_reblog = "everyone"
-slug = "when-you-have-trust-in-everything-you-own-you"
-format = "markdown"
-summary = "when you have trust in everything you own, you don’t have to worry about anything. It’s liberating and an amazing feeling"
-source = "<a href=\"http://dcurt.is/the-best\">The Best</a>"
-is_blazed = false
-reblog_key = "EbaHi8dH"
-can_like = false
-is_blocks_post_format = false
 blog_name = "indirect"
 can_reblog = false
-can_send_in_message = true
-can_reply = false
-type = "quote"
-id = 3.555019263e+10
+is_blocks_post_format = false
+summary = "when you have trust in everything you own, you don’t have to worry about anything. It’s liberating and an amazing feeling"
+text = "when you have trust in everything you own, you don’t have to worry about anything. It’s liberating and an amazing feeling"
+id = 35550192630.0
 id_string = "35550192630"
+is_blaze_pending = false
+can_reply = false
+interactability_blaze = "everyone"
+slug = "when-you-have-trust-in-everything-you-own-you"
+is_blazed = false
+format = "markdown"
+reblog_key = "EbaHi8dH"
+can_like = false
+date = "2012-11-12 06:46:52 GMT"
+state = "published"
+note_count = 0.0
+interactability_reblog = "everyone"
+can_send_in_message = true
+display_avatar = true
+short_url = "https://tmblr.co/ZY3jbyX6zEFs"
+should_open_in_legacy = true
+source = "<a href=\"http://dcurt.is/the-best\">The Best</a>"
+post_url = "https://indirect.tumblr.com/post/35550192630/when-you-have-trust-in-everything-you-own-you"
+timestamp = 1352702812.0
+type = "quote"
+can_blaze = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://dcurt.is/the-best\">The Best</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = true
@@ -44,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://dcurt.is/the-best\">The Best</a></p>"
 +++

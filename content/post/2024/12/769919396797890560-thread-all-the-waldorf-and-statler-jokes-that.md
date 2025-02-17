@@ -1,90 +1,49 @@
 +++
+aliases = ["/post/769919396797890560/thread-all-the-waldorf-and-statler-jokes-that"]
 date = 2024-12-15T08:45:53Z
-slug = "thread-all-the-waldorf-and-statler-jokes-that"
 id = "769919396797890560"
-aliases = [ "/post/769919396797890560/thread-all-the-waldorf-and-statler-jokes-that" ]
-tags = [ ]
+slug = "thread-all-the-waldorf-and-statler-jokes-that"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-tags = [ ]
-is_blaze_pending = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/769919396797890560/thread-all-the-waldorf-and-statler-jokes-that"
-slug = "thread-all-the-waldorf-and-statler-jokes-that"
-date = "2024-12-15 08:45:53 GMT"
-interactability_blaze = "everyone"
-type = "photo"
-image_permalink = "https://indirect.tumblr.com/image/769919396797890560"
-timestamp = 1.734252353e+09
-summary = "(THREAD) All the Waldorf and Statler jokes that didn't make it to the #GameAwards2024 (1/7) — Oreste Comics (@oreste_comics)"
-can_like = false
-can_reblog = false
-note_count = 0.0
 is_blocks_post_format = false
 blog_name = "indirect"
-is_blazed = false
-format = "html"
-id = 7.699193967978906e+17
-id_string = "769919396797890560"
-reblog_key = "7ffdVklV"
-should_open_in_legacy = true
-link_url = "https://twitter.com/oreste_comics/status/1867718806711468271"
-short_url = "https://tmblr.co/ZY3jbyglJPotqa00"
-caption = "<p>(THREAD) All the Waldorf and Statler jokes that didn&rsquo;t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
+post_url = "https://indirect.tumblr.com/post/769919396797890560/thread-all-the-waldorf-and-statler-jokes-that"
 interactability_reblog = "everyone"
-can_send_in_message = true
-can_reply = false
 display_avatar = true
-
-[tumblr.reblog]
-comment = "<p>(THREAD) All the Waldorf and Statler jokes that didn’t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>(THREAD) All the Waldorf and Statler jokes that didn’t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
-content = "<p>(THREAD) All the Waldorf and Statler jokes that didn&rsquo;t make it to the #GameAwards2024 (1/7) &mdash; <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "769919396797890560"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_stretch = true
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-avatar_shape = "square"
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
+id_string = "769919396797890560"
+timestamp = 1734252353.0
+short_url = "https://tmblr.co/ZY3jbyglJPotqa00"
+id = 7.699193967978906e+17
+slug = "thread-all-the-waldorf-and-statler-jokes-that"
+note_count = 0.0
+can_like = false
+can_reblog = false
+can_reply = false
+date = "2024-12-15 08:45:53 GMT"
+reblog_key = "7ffdVklV"
+image_permalink = "https://indirect.tumblr.com/image/769919396797890560"
+link_url = "https://twitter.com/oreste_comics/status/1867718806711468271"
+should_open_in_legacy = true
+caption = "<p>(THREAD) All the Waldorf and Statler jokes that didn&rsquo;t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
+format = "html"
+is_blaze_pending = false
+can_blaze = false
+summary = "(THREAD) All the Waldorf and Statler jokes that didn't make it to the #GameAwards2024 (1/7) — Oreste Comics (@oreste_comics)"
+can_send_in_message = true
+type = "photo"
+is_blazed = false
+state = "published"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -132,7 +91,46 @@ width = 100.0
 height = 110.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/f8/47/8fb229fc12ae4ec75bf4ca84fd48.jpg"
 width = 75.0
+height = 75.0
+
+[tumblr.reblog]
+comment = "<p>(THREAD) All the Waldorf and Statler jokes that didn’t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>(THREAD) All the Waldorf and Statler jokes that didn’t make it to the #GameAwards2024 (1/7) — <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
+content = "<p>(THREAD) All the Waldorf and Statler jokes that didn&rsquo;t make it to the #GameAwards2024 (1/7) &mdash; <a href=\"https://twitter.com/oreste_comics/status/1867718806711468271\">Oreste Comics (@oreste_comics)</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+show_title = true
+avatar_shape = "square"
+header_image_poster = ""
+link_color = "#529ECC"
+show_avatar = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+show_header_image = false
+
+[tumblr.trail.post]
+id = "769919396797890560"
 +++

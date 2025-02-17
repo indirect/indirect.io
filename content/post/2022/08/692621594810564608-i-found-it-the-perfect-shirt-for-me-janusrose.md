@@ -1,92 +1,51 @@
 +++
+aliases = ["/post/692621594810564608/i-found-it-the-perfect-shirt-for-me-janusrose"]
 date = 2022-08-15T03:50:25Z
-slug = "i-found-it-the-perfect-shirt-for-me-janusrose"
 id = "692621594810564608"
-aliases = [ "/post/692621594810564608/i-found-it-the-perfect-shirt-for-me-janusrose" ]
-tags = [ ]
+slug = "i-found-it-the-perfect-shirt-for-me-janusrose"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-id_string = "692621594810564608"
-slug = "i-found-it-the-perfect-shirt-for-me-janusrose"
-short_url = "https://tmblr.co/ZY3jbycShwkwSi00"
-should_open_in_legacy = true
-link_url = "http://twitter.com/janusrose/status/1558685256827502593"
-display_avatar = true
-type = "photo"
-is_blaze_pending = false
 can_blaze = false
-caption = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
-interactability_reblog = "everyone"
-can_reblog = false
-blog_name = "indirect"
+timestamp = 1660535425.0
 id = 6.926215948105646e+17
-date = "2022-08-15 03:50:25 GMT"
-timestamp = 1.660535425e+09
-summary = "i found it : the perfect shirt for me — @janusrose"
-can_like = false
-can_send_in_message = true
-is_blocks_post_format = false
-format = "html"
-image_permalink = "https://indirect.tumblr.com/image/692621594810564608"
-reblog_key = "bpIVfNUB"
-can_reply = false
-is_blazed = false
 post_url = "https://indirect.tumblr.com/post/692621594810564608/i-found-it-the-perfect-shirt-for-me-janusrose"
-tags = [ ]
+state = "published"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+is_blaze_pending = false
+slug = "i-found-it-the-perfect-shirt-for-me-janusrose"
+can_send_in_message = true
+display_avatar = true
+format = "html"
+reblog_key = "bpIVfNUB"
+summary = "i found it : the perfect shirt for me — @janusrose"
 note_count = 0.0
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
-tree_html = ""
+can_reply = false
+date = "2022-08-15 03:50:25 GMT"
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jbycShwkwSi00"
+type = "photo"
+id_string = "692621594810564608"
+should_open_in_legacy = true
+caption = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
+link_url = "http://twitter.com/janusrose/status/1558685256827502593"
+image_permalink = "https://indirect.tumblr.com/image/692621594810564608"
+can_like = false
+can_reblog = false
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
-content = "<p>i found it : the perfect shirt for me &mdash; <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-header_image_poster = ""
-show_description = true
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-avatar_shape = "square"
-header_bounds = ""
-show_header_image = false
-
-[tumblr.trail.post]
-id = "692621594810564608"
 
 [[tumblr.photos]]
 caption = ""
@@ -117,9 +76,9 @@ width = 500.0
 height = 500.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/14/64/0c3e38c0b541a8ad15267c8481c4.jpg"
 width = 400.0
 height = 400.0
-url = "/images/14/64/0c3e38c0b541a8ad15267c8481c4.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/6c/be/99a390e14b009a14fc3b8c74cdbf.jpg"
@@ -135,4 +94,43 @@ height = 100.0
 url = "/images/8b/3d/34d4f7d51e5c2264d6253f912e6e.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>i found it : the perfect shirt for me — <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
+content = "<p>i found it : the perfect shirt for me &mdash; <a href=\"http://twitter.com/janusrose/status/1558685256827502593\">@janusrose</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+avatar_shape = "square"
+header_image_poster = ""
+background_color = "#FAFAFA"
+show_description = true
+show_title = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "692621594810564608"
 +++

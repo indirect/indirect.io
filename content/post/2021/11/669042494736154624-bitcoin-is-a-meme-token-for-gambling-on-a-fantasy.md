@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/669042494736154624/bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"]
 date = 2021-11-27T21:30:43Z
-slug = "bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"
 id = "669042494736154624"
-aliases = [ "/post/669042494736154624/bitcoin-is-a-meme-token-for-gambling-on-a-fantasy" ]
-tags = [ ]
+slug = "bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2021-11-27 21:30:43 GMT"
-display_avatar = true
-interactability_reblog = "everyone"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyb8wfgkOy00"
-summary = "bitcoin is a meme token for gambling on a fantasy about living in a cyberpunk dystopia"
-can_like = false
-is_blocks_post_format = false
 type = "quote"
-is_blazed = false
-is_blaze_pending = false
-state = "published"
-note_count = 0.0
-source = "<a href=\"https://www.stephendiehl.com/blog/nothing-burger.html##bitcoin+is+a+meme+token+for+gambling+on+a+fantasy+about+living+in+a+cyberpunk+dystopia\">The Handwavy Technobabble Nothingburger</a>"
-interactability_blaze = "everyone"
-can_reblog = false
-blog_name = "indirect"
 can_blaze = false
 slug = "bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"
-timestamp = 1.638048643e+09
-format = "markdown"
-text = "bitcoin is a meme token for gambling on a fantasy about living in a cyberpunk dystopia"
-id = 6.690424947361546e+17
-id_string = "669042494736154624"
-reblog_key = "yT0iNlag"
-should_open_in_legacy = true
-post_url = "https://indirect.tumblr.com/post/669042494736154624/bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"
+can_like = false
+interactability_blaze = "everyone"
 can_send_in_message = true
+id = 6.690424947361546e+17
+date = "2021-11-27 21:30:43 GMT"
+state = "published"
+format = "markdown"
+reblog_key = "yT0iNlag"
+text = "bitcoin is a meme token for gambling on a fantasy about living in a cyberpunk dystopia"
+is_blaze_pending = false
+should_open_in_legacy = true
+is_blocks_post_format = false
+blog_name = "indirect"
+id_string = "669042494736154624"
+source = "<a href=\"https://www.stephendiehl.com/blog/nothing-burger.html##bitcoin+is+a+meme+token+for+gambling+on+a+fantasy+about+living+in+a+cyberpunk+dystopia\">The Handwavy Technobabble Nothingburger</a>"
+interactability_reblog = "everyone"
+short_url = "https://tmblr.co/ZY3jbyb8wfgkOy00"
+can_reblog = false
 can_reply = false
+post_url = "https://indirect.tumblr.com/post/669042494736154624/bitcoin-is-a-meme-token-for-gambling-on-a-fantasy"
+display_avatar = true
+is_blazed = false
+timestamp = 1638048643.0
+summary = "bitcoin is a meme token for gambling on a fantasy about living in a cyberpunk dystopia"
+note_count = 0.0
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://www.stephendiehl.com/blog/nothing-burger.html##bitcoin+is+a+meme+token+for+gambling+on+a+fantasy+about+living+in+a+cyberpunk+dystopia\">The Handwavy Technobabble Nothingburger</a></p>"
 
 [tumblr.blog]
+name = "indirect"
+title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
-name = "indirect"
-title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://www.stephendiehl.com/blog/nothing-burger.html##bitcoin+is+a+meme+token+for+gambling+on+a+fantasy+about+living+in+a+cyberpunk+dystopia\">The Handwavy Technobabble Nothingburger</a></p>"
-tree_html = ""
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/766248361610412032/dozens-of-myself-suddenly-filling-the-room"]
 date = 2024-11-04T20:16:22Z
-slug = "dozens-of-myself-suddenly-filling-the-room"
 id = "766248361610412032"
-aliases = [ "/post/766248361610412032/dozens-of-myself-suddenly-filling-the-room" ]
-tags = [ ]
+slug = "dozens-of-myself-suddenly-filling-the-room"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/766248361610412032/dozens-of-myself-suddenly-filling-the-room"
-text = "(dozens of myself suddenly filling the room, speaking in unison) have you seen my time crystal?"
-can_reply = false
-timestamp = 1.730751382e+09
-can_like = false
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-summary = "(dozens of myself suddenly filling the room, speaking in unison) have you seen my time crystal?"
-note_count = 0.0
-can_send_in_message = true
-id = 7.66248361610412e+17
-is_blazed = false
-format = "markdown"
-should_open_in_legacy = true
-can_reblog = false
-id_string = "766248361610412032"
-is_blaze_pending = false
 display_avatar = true
+type = "quote"
+is_blocks_post_format = false
 slug = "dozens-of-myself-suddenly-filling-the-room"
+should_open_in_legacy = true
+can_like = false
+id = 7.66248361610412e+17
 date = "2024-11-04 20:16:22 GMT"
-state = "published"
+timestamp = 1730751382.0
 reblog_key = "AbA5Gp3o"
-tags = [ ]
-interactability_reblog = "everyone"
-can_blaze = false
 short_url = "https://tmblr.co/ZY3jbygYGjCxWu00"
 source = "<a href=\"https://bsky.app/profile/sandcrab.bsky.social/post/3la553cb23p24\">sandcrab (@sandcrab.bsky.social)</a>"
+can_reply = false
+blog_name = "indirect"
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/766248361610412032/dozens-of-myself-suddenly-filling-the-room"
+summary = "(dozens of myself suddenly filling the room, speaking in unison) have you seen my time crystal?"
+interactability_blaze = "everyone"
+is_blazed = false
+id_string = "766248361610412032"
+is_blaze_pending = false
+note_count = 0.0
+can_send_in_message = true
+state = "published"
+format = "markdown"
+text = "(dozens of myself suddenly filling the room, speaking in unison) have you seen my time crystal?"
+interactability_reblog = "everyone"
+can_reblog = false
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

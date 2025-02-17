@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/80659965288/coming-soon-to-hacker-news-pending-comments"]
 date = 2014-03-25T07:10:00Z
-title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
-slug = "coming-soon-to-hacker-news-pending-comments"
 id = "80659965288"
-aliases = [ "/post/80659965288/coming-soon-to-hacker-news-pending-comments" ]
-tags = [ ]
+slug = "coming-soon-to-hacker-news-pending-comments"
+title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
 type = "tumblr-link"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jby1B7jMLe"
-description = ""
-can_reply = false
-is_blocks_post_format = false
-can_blaze = false
-note_count = 0.0
-is_blaze_pending = false
-reblog_key = "nbj9O2Dn"
-type = "link"
-slug = "coming-soon-to-hacker-news-pending-comments"
-timestamp = 1.3957314e+09
-format = "markdown"
-title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
-trail = [ ]
-can_like = false
-blog_name = "indirect"
 id_string = "80659965288"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/80659965288/coming-soon-to-hacker-news-pending-comments"
-summary = "“Coming Soon to Hacker News: Pending Comments” — Medium"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-id = 8.0659965288e+10
-tags = [ ]
-url = "https://medium.com/p/8a36de59cf10"
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby1B7jMLe"
+can_blaze = false
 publisher = "medium.com"
-can_reblog = false
-can_send_in_message = true
+description = ""
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/80659965288/coming-soon-to-hacker-news-pending-comments"
 date = "2014-03-25 07:10:00 GMT"
 state = "published"
+can_like = false
+can_reblog = false
+can_reply = false
+type = "link"
+timestamp = 1395731400.0
+is_blazed = false
+format = "markdown"
+can_send_in_message = true
+id = 80659965288.0
+slug = "coming-soon-to-hacker-news-pending-comments"
+reblog_key = "nbj9O2Dn"
+should_open_in_legacy = true
+url = "https://medium.com/p/8a36de59cf10"
 interactability_reblog = "everyone"
-display_avatar = true
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+summary = "“Coming Soon to Hacker News: Pending Comments” — Medium"
+note_count = 0.0
+title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 
 [tumblr.blog]
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

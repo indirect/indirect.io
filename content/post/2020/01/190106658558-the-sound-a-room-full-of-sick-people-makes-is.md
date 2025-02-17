@@ -1,41 +1,43 @@
 +++
+aliases = ["/post/190106658558/the-sound-a-room-full-of-sick-people-makes-is"]
 date = 2020-01-06T21:04:12Z
-slug = "the-sound-a-room-full-of-sick-people-makes-is"
 id = "190106658558"
-aliases = [ "/post/190106658558/the-sound-a-room-full-of-sick-people-makes-is" ]
-tags = [ ]
+slug = "the-sound-a-room-full-of-sick-people-makes-is"
 type = "tumblr-quote"
 
 [tumblr]
 is_blocks_post_format = false
-can_blaze = false
-tags = [ ]
-summary = "The sound a room full of sick people makes is called a cacoughony"
+date = "2020-01-06 21:04:12 GMT"
 can_send_in_message = true
+blog_name = "indirect"
+id = 190106658558.0
+is_blazed = false
+can_reblog = false
+can_blaze = false
+timestamp = 1578344652.0
+format = "html"
+text = "The sound a room full of sick people makes is called a cacoughony"
 display_avatar = true
 type = "quote"
-post_url = "https://indirect.tumblr.com/post/190106658558/the-sound-a-room-full-of-sick-people-makes-is"
-slug = "the-sound-a-room-full-of-sick-people-makes-is"
-text = "The sound a room full of sick people makes is called a cacoughony"
-source = "<a href=\"http://twitter.com/Rica_Bee/status/1214274948019044354\">@Rica_Bee</a>"
-interactability_blaze = "everyone"
-is_blazed = false
 is_blaze_pending = false
-note_count = 0.0
-can_like = false
-interactability_reblog = "everyone"
-can_reblog = false
 can_reply = false
-blog_name = "indirect"
-id = 1.90106658558e+11
+id_string = "190106658558"
+slug = "the-sound-a-room-full-of-sick-people-makes-is"
+summary = "The sound a room full of sick people makes is called a cacoughony"
+source = "<a href=\"http://twitter.com/Rica_Bee/status/1214274948019044354\">@Rica_Bee</a>"
+can_like = false
+short_url = "https://tmblr.co/ZY3jby2n3FMR_"
+interactability_blaze = "everyone"
+post_url = "https://indirect.tumblr.com/post/190106658558/the-sound-a-room-full-of-sick-people-makes-is"
 state = "published"
 reblog_key = "STL4Ngvf"
-date = "2020-01-06 21:04:12 GMT"
-id_string = "190106658558"
-short_url = "https://tmblr.co/ZY3jby2n3FMR_"
-timestamp = 1.578344652e+09
 should_open_in_legacy = true
-format = "html"
+note_count = 0.0
+interactability_reblog = "everyone"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/Rica_Bee/status/1214274948019044354\">@Rica_Bee</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = true
@@ -44,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/Rica_Bee/status/1214274948019044354\">@Rica_Bee</a></p>"
-tree_html = ""
 +++

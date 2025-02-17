@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/686446034240618496/i-prompted-dalle-to-make-a-picture-dalle-could"]
 date = 2022-06-07T23:52:32Z
-slug = "i-prompted-dalle-to-make-a-picture-dalle-could"
 id = "686446034240618496"
-aliases = [ "/post/686446034240618496/i-prompted-dalle-to-make-a-picture-dalle-could" ]
-tags = [ ]
+slug = "i-prompted-dalle-to-make-a-picture-dalle-could"
 type = "tumblr-quote"
 
 [tumblr]
-can_reblog = false
+date = "2022-06-07 23:52:32 GMT"
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/686446034240618496/i-prompted-dalle-to-make-a-picture-dalle-could"
+note_count = 0.0
+interactability_reblog = "everyone"
 can_reply = false
-id = 6.864460342406185e+17
+is_blocks_post_format = false
+format = "html"
+id_string = "686446034240618496"
 is_blaze_pending = false
-slug = "i-prompted-dalle-to-make-a-picture-dalle-could"
+state = "published"
+should_open_in_legacy = true
+text = "I prompted DALL·E to make &ldquo;a picture DALL·E could never produce&rdquo; and let me tell you it failed very badly. Clearly there are limits to this thing"
+id = 6.864460342406185e+17
+can_like = false
+timestamp = 1654645952.0
 interactability_blaze = "everyone"
 display_avatar = true
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/686446034240618496/i-prompted-dalle-to-make-a-picture-dalle-could"
-can_send_in_message = true
 type = "quote"
-source = "<a href=\"http://twitter.com/qntm/status/1534262662783287296\">@qntm</a>"
 blog_name = "indirect"
-id_string = "686446034240618496"
 is_blazed = false
 reblog_key = "w7bABLiT"
-note_count = 0.0
-format = "html"
-tags = [ ]
-timestamp = 1.654645952e+09
-can_blaze = false
-date = "2022-06-07 23:52:32 GMT"
-text = "I prompted DALL·E to make &ldquo;a picture DALL·E could never produce&rdquo; and let me tell you it failed very badly. Clearly there are limits to this thing"
-state = "published"
 short_url = "https://tmblr.co/ZY3jbyc6lmVyOq00"
 summary = "I prompted DALL·E to make “a picture DALL·E could never produce” and let me tell you it failed very badly. Clearly there are..."
-should_open_in_legacy = true
-can_like = false
+can_reblog = false
+slug = "i-prompted-dalle-to-make-a-picture-dalle-could"
+source = "<a href=\"http://twitter.com/qntm/status/1534262662783287296\">@qntm</a>"
+can_send_in_message = true
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 

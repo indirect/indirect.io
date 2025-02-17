@@ -1,42 +1,90 @@
 +++
+aliases = ["/post/91069255758/city-regions-that-build-more-car-lanes-have-higher"]
 date = 2014-07-07T19:02:10Z
-slug = "city-regions-that-build-more-car-lanes-have-higher"
 id = "91069255758"
-aliases = [ "/post/91069255758/city-regions-that-build-more-car-lanes-have-higher" ]
-tags = [ ]
+slug = "city-regions-that-build-more-car-lanes-have-higher"
 type = "tumblr-photo"
 
 [tumblr]
-reblog_key = "8VjkVzKo"
-tags = [ ]
-caption = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
-date = "2014-07-07 19:02:10 GMT"
-summary = "City-regions that build more car lanes have higher costs per person, waste more fuel, & have more travel delay. — @BrentToderian"
-note_count = 0.0
+can_reblog = false
+type = "photo"
 blog_name = "indirect"
-is_blazed = false
-can_blaze = false
+note_count = 0.0
+image_permalink = "https://indirect.tumblr.com/image/91069255758"
+can_like = false
+is_blaze_pending = false
 slug = "city-regions-that-build-more-car-lanes-have-higher"
-timestamp = 1.40475973e+09
+date = "2014-07-07 19:02:10 GMT"
+timestamp = 1404759730.0
+can_reply = false
+display_avatar = true
+reblog_key = "8VjkVzKo"
+should_open_in_legacy = true
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-type = "photo"
-state = "published"
-can_like = false
-can_reblog = false
+can_blaze = false
+caption = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
 can_send_in_message = true
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/91069255758/city-regions-that-build-more-car-lanes-have-higher"
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/91069255758"
-is_blocks_post_format = false
-id = 9.1069255758e+10
+state = "published"
 short_url = "https://tmblr.co/ZY3jby1Kq9f1E"
-display_avatar = true
-id_string = "91069255758"
-is_blaze_pending = false
-format = "html"
+summary = "City-regions that build more car lanes have higher costs per person, waste more fuel, & have more travel delay. — @BrentToderian"
 link_url = "http://twitter.com/BrentToderian/status/485824948926050306"
+is_blocks_post_format = false
+id = 91069255758.0
+id_string = "91069255758"
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/91069255758/city-regions-that-build-more-car-lanes-have-higher"
+format = "html"
+
+[tumblr.reblog]
+comment = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
+content = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. &mdash; <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+show_avatar = true
+title_color = "#444444"
+show_description = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_stretch = true
+link_color = "#529ECC"
+title_font = "Gibson"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_header_image = false
+show_title = true
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+header_image_poster = ""
+
+[tumblr.trail.post]
+id = "91069255758"
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -52,9 +100,9 @@ width = 598.0
 height = 311.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ae/7a/e65372c9a81c6cfe22e283e2e75c.jpg"
 width = 540.0
 height = 281.0
+url = "/images/ae/7a/e65372c9a81c6cfe22e283e2e75c.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/01/a4/2f947ce07499964f01d9fec1efb2.jpg"
@@ -72,62 +120,12 @@ width = 250.0
 height = 130.0
 
 [[tumblr.photos.alt_sizes]]
+height = 52.0
 url = "/images/3f/cc/6dcf4ce1d9b8a51570b7ad57163b.jpg"
 width = 100.0
-height = 52.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/70/cd/4877487dfc29d538fc42ecf74dfa.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.reblog]
-comment = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. — <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
-content = "<p>City-regions that build more car lanes have higher costs per person, waste more fuel, &amp; have more travel delay. &mdash; <a href=\"http://twitter.com/BrentToderian/status/485824948926050306\">@BrentToderian</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-show_description = true
-title_font = "Gibson"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-
-[tumblr.trail.post]
-id = "91069255758"
 +++

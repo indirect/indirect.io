@@ -1,57 +1,55 @@
 +++
+aliases = ["/post/87574812563/in-mediocre-teams-bosses-are-the-source-of"]
 date = 2014-06-02T06:21:55Z
-slug = "in-mediocre-teams-bosses-are-the-source-of"
 id = "87574812563"
-aliases = [ "/post/87574812563/in-mediocre-teams-bosses-are-the-source-of" ]
-tags = [ ]
+slug = "in-mediocre-teams-bosses-are-the-source-of"
 type = "tumblr-quote"
 
 [tumblr]
-id = 8.7574812563e+10
-text = "In mediocre teams, bosses are the source of accountability"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/87574812563/in-mediocre-teams-bosses-are-the-source-of"
-short_url = "https://tmblr.co/ZY3jby1HZtPUJ"
-can_send_in_message = true
-is_blocks_post_format = false
-tags = [ ]
+date = "2014-06-02 06:21:55 GMT"
+timestamp = 1401690115.0
 summary = "In mediocre teams, bosses are the source of accountability"
-bookmarklet = true
-interactability_reblog = "everyone"
-can_reblog = false
-id_string = "87574812563"
-timestamp = 1.401690115e+09
-can_like = false
-can_reply = false
-display_avatar = true
-is_blaze_pending = false
-state = "published"
-source_url = "http://blogs.hbr.org/2014/05/the-best-teams-hold-themselves-accountable/"
+source = "<a href=\"http://blogs.hbr.org/2014/05/the-best-teams-hold-themselves-accountable/\">The Best Teams Hold Themselves Accountable - Harvard Business Review</a>"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1HZtPUJ"
 source_title = "blogs.hbr.org"
 type = "quote"
-blog_name = "indirect"
-is_blazed = false
-slug = "in-mediocre-teams-bosses-are-the-source-of"
-source = "<a href=\"http://blogs.hbr.org/2014/05/the-best-teams-hold-themselves-accountable/\">The Best Teams Hold Themselves Accountable - Harvard Business Review</a>"
-can_blaze = false
-date = "2014-06-02 06:21:55 GMT"
-format = "markdown"
-reblog_key = "hUmkdrJl"
-note_count = 0.0
+is_blocks_post_format = false
+id = 87574812563.0
 should_open_in_legacy = true
+can_blaze = false
+interactability_reblog = "everyone"
+slug = "in-mediocre-teams-bosses-are-the-source-of"
+note_count = 0.0
+text = "In mediocre teams, bosses are the source of accountability"
+can_like = false
+can_send_in_message = true
+can_reply = false
+can_reblog = false
+display_avatar = true
+source_url = "http://blogs.hbr.org/2014/05/the-best-teams-hold-themselves-accountable/"
+is_blaze_pending = false
+state = "published"
+reblog_key = "hUmkdrJl"
+id_string = "87574812563"
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/87574812563/in-mediocre-teams-bosses-are-the-source-of"
+bookmarklet = true
 
 [tumblr.blog]
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://blogs.hbr.org/2014/05/the-best-teams-hold-themselves-accountable/\">The Best Teams Hold Themselves Accountable - Harvard Business Review</a></p>"
+tree_html = ""
 +++

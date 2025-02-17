@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/25533288839/participants-accurately-judged-the-age-gender"]
 date = 2012-06-20T22:37:40Z
-slug = "participants-accurately-judged-the-age-gender"
 id = "25533288839"
-aliases = [ "/post/25533288839/participants-accurately-judged-the-age-gender" ]
-tags = [ ]
+slug = "participants-accurately-judged-the-age-gender"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-format = "markdown"
-interactability_blaze = "everyone"
-display_avatar = true
+date = "2012-06-20 22:37:40 GMT"
+state = "published"
+id_string = "25533288839"
+reblog_key = "22Ulc3U3"
+summary = "participants accurately judged the age, gender, income, and attachment anxiety of shoe owners based solely on the pictures [of..."
+note_count = 0.0
+is_blocks_post_format = false
+interactability_reblog = "everyone"
+type = "quote"
 blog_name = "indirect"
 is_blazed = false
-can_blaze = false
 post_url = "https://indirect.tumblr.com/post/25533288839/participants-accurately-judged-the-age-gender"
-reblog_key = "22Ulc3U3"
-can_reblog = false
-summary = "participants accurately judged the age, gender, income, and attachment anxiety of shoe owners based solely on the pictures [of..."
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-timestamp = 1.34023186e+09
-short_url = "https://tmblr.co/ZY3jbyNnvn67"
-can_send_in_message = true
-id_string = "25533288839"
-tags = [ ]
-text = "participants accurately judged the age, gender, income, and attachment anxiety of shoe owners based solely on the pictures [of shoes]"
-type = "quote"
-is_blocks_post_format = false
-id = 2.5533288839e+10
-date = "2012-06-20 22:37:40 GMT"
-note_count = 0.0
-source = "<a href=\"http://marginalrevolution.com/marginalrevolution/2012/06/the-iron-law-of-shoes.html\">The Iron Law of Shoes</a>"
 slug = "participants-accurately-judged-the-age-gender"
-state = "published"
+is_blaze_pending = false
+timestamp = 1340231860.0
 can_like = false
+id = 25533288839.0
+short_url = "https://tmblr.co/ZY3jbyNnvn67"
+interactability_blaze = "everyone"
+can_reblog = false
 can_reply = false
+text = "participants accurately judged the age, gender, income, and attachment anxiety of shoe owners based solely on the pictures [of shoes]"
+source = "<a href=\"http://marginalrevolution.com/marginalrevolution/2012/06/the-iron-law-of-shoes.html\">The Iron Law of Shoes</a>"
+can_blaze = false
+format = "markdown"
+can_send_in_message = true
+display_avatar = true
+should_open_in_legacy = true
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 

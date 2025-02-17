@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/104691040188/schrodingers-douchebag-a-guy-who-says-offensive"]
 date = 2014-12-08T19:26:52Z
-slug = "schrodingers-douchebag-a-guy-who-says-offensive"
 id = "104691040188"
-aliases = [ "/post/104691040188/schrodingers-douchebag-a-guy-who-says-offensive" ]
-tags = [ ]
+slug = "schrodingers-douchebag-a-guy-who-says-offensive"
 type = "tumblr-quote"
 
 [tumblr]
 source = "<a href=\"http://twitter.com/SallyStrange/status/502682117495459840\">@SallyStrange</a>"
-interactability_reblog = "everyone"
-is_blazed = false
-state = "published"
-text = "Schrodinger&rsquo;s douchebag: A guy who says offensive things &amp; decides whether he was joking based upon the reaction of people around him"
-blog_name = "indirect"
-can_blaze = false
-date = "2014-12-08 19:26:52 GMT"
-post_url = "https://indirect.tumblr.com/post/104691040188/schrodingers-douchebag-a-guy-who-says-offensive"
-timestamp = 1.418066812e+09
-note_count = 0.0
-can_like = false
-can_reblog = false
-is_blocks_post_format = false
+display_avatar = true
+timestamp = 1418066812.0
+format = "html"
 reblog_key = "5Us82xr5"
 short_url = "https://tmblr.co/ZY3jby1XW4d_y"
-summary = "Schrodinger’s douchebag: A guy who says offensive things & decides whether he was joking based upon the reaction of people..."
-display_avatar = true
-id = 1.04691040188e+11
-is_blaze_pending = false
-tags = [ ]
 should_open_in_legacy = true
 interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-type = "quote"
-id_string = "104691040188"
+can_blaze = false
 slug = "schrodingers-douchebag-a-guy-who-says-offensive"
-format = "html"
+can_reblog = false
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/104691040188/schrodingers-douchebag-a-guy-who-says-offensive"
+summary = "Schrodinger’s douchebag: A guy who says offensive things & decides whether he was joking based upon the reaction of people..."
+interactability_reblog = "everyone"
+type = "quote"
+is_blocks_post_format = false
+text = "Schrodinger&rsquo;s douchebag: A guy who says offensive things &amp; decides whether he was joking based upon the reaction of people around him"
+can_send_in_message = true
+note_count = 0.0
+id_string = "104691040188"
+is_blaze_pending = false
+date = "2014-12-08 19:26:52 GMT"
+blog_name = "indirect"
+id = 104691040188.0
+state = "published"
+can_like = false
+can_reply = false
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

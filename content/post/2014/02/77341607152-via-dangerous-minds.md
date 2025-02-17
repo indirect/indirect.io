@@ -1,45 +1,58 @@
 +++
+aliases = ["/post/77341607152/via-dangerous-minds"]
 date = 2014-02-21T03:14:45Z
-slug = "via-dangerous-minds"
 id = "77341607152"
-aliases = [ "/post/77341607152/via-dangerous-minds" ]
-tags = [ ]
+slug = "via-dangerous-minds"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-is_blazed = false
-is_blaze_pending = false
-can_like = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/77341607152/via-dangerous-minds"
-state = "published"
-display_avatar = true
-source_url = "http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy"
-source_title = "dangerousminds.net"
-interactability_blaze = "everyone"
-id = 7.7341607152e+10
-summary = "(via Dangerous Minds)"
-can_reblog = false
-can_reply = false
-type = "photo"
-timestamp = 1.392952485e+09
-short_url = "https://tmblr.co/ZY3jby181wqJm"
-link_url = "http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy"
-id_string = "77341607152"
-date = "2014-02-21 03:14:45 GMT"
-reblog_key = "iCdfeW65"
-bookmarklet = true
-image_permalink = "https://indirect.tumblr.com/image/77341607152"
-can_blaze = false
-should_open_in_legacy = true
-note_count = 0.0
-caption = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
 can_send_in_message = true
+can_reply = false
+should_open_in_legacy = true
+blog_name = "indirect"
+can_blaze = false
 slug = "via-dangerous-minds"
 format = "markdown"
-tags = [ ]
+summary = "(via Dangerous Minds)"
+source_url = "http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+id = 77341607152.0
+timestamp = 1392952485.0
+reblog_key = "iCdfeW65"
+type = "photo"
+post_url = "https://indirect.tumblr.com/post/77341607152/via-dangerous-minds"
+state = "published"
+source_title = "dangerousminds.net"
+link_url = "http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy"
+is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby181wqJm"
+note_count = 0.0
+can_reblog = false
+id_string = "77341607152"
+bookmarklet = true
+caption = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
+can_like = false
+interactability_reblog = "everyone"
+display_avatar = true
+image_permalink = "https://indirect.tumblr.com/image/77341607152"
+date = "2014-02-21 03:14:45 GMT"
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -50,9 +63,9 @@ width = 465.0
 height = 374.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/de/37/305f51d0201ef1d19b92b3678741.jpg"
 width = 465.0
 height = 374.0
-url = "/images/de/37/305f51d0201ef1d19b92b3678741.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5a/44/bbaadc0e99f5291df4b9a0ac371e.jpg"
@@ -74,26 +87,11 @@ url = "/images/28/ca/d7a718a9864751607af54e9bb52d.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
-
 [[tumblr.trail]]
+is_root_item = true
 content_raw = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
 content = "<p>(via <a href=\"http://dangerousminds.net/comments/riot_grrill_take_a_bite_out_of_the_patriarchy\">Dangerous Minds</a>)</p>"
 is_current_item = true
-is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -103,23 +101,23 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
 show_header_image = false
-body_font = "Helvetica Neue"
+show_title = true
+avatar_shape = "square"
 header_bounds = ""
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font = "Gibson"
 title_font_weight = "bold"
+header_stretch = true
+show_avatar = true
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+link_color = "#529ECC"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_color = "#444444"
+show_description = true
 
 [tumblr.trail.post]
 id = "77341607152"

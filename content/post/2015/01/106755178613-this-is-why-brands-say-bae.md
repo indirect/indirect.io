@@ -1,44 +1,42 @@
 +++
+aliases = ["/post/106755178613/this-is-why-brands-say-bae"]
 date = 2015-01-01T01:03:13Z
-title = "This Is Why Brands Say \"Bae\""
-slug = "this-is-why-brands-say-bae"
 id = "106755178613"
-aliases = [ "/post/106755178613/this-is-why-brands-say-bae" ]
-tags = [ ]
+slug = "this-is-why-brands-say-bae"
+title = "This Is Why Brands Say \"Bae\""
 type = "tumblr-link"
 
 [tumblr]
-slug = "this-is-why-brands-say-bae"
+type = "link"
+should_open_in_legacy = true
 note_count = 0.0
+interactability_blaze = "everyone"
+slug = "this-is-why-brands-say-bae"
+reblog_key = "4NVObXSU"
+url = "http://www.buzzfeed.com/sapna/why-brands-say-bae?s=mobile"
+publisher = "buzzfeed.com"
 description = "<p>brands working as hard as they can to make me want to throw up 🙊</p>"
-can_like = false
 is_blazed = false
+can_blaze = false
+title = "This Is Why Brands Say \"Bae\""
+id = 106755178613.0
+date = "2015-01-01 01:03:13 GMT"
+state = "published"
+can_reply = false
+is_blocks_post_format = false
 is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jby1ZR6i1r"
-interactability_reblog = "everyone"
-can_send_in_message = true
-can_blaze = false
+can_like = false
 format = "markdown"
-is_blocks_post_format = false
-date = "2015-01-01 01:03:13 GMT"
 summary = "This Is Why Brands Say \"Bae\""
-url = "http://www.buzzfeed.com/sapna/why-brands-say-bae?s=mobile"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/106755178613/this-is-why-brands-say-bae"
-reblog_key = "4NVObXSU"
-tags = [ ]
-type = "link"
-id = 1.06755178613e+11
-timestamp = 1.420074193e+09
-state = "published"
-display_avatar = true
+can_send_in_message = true
 blog_name = "indirect"
-should_open_in_legacy = true
-publisher = "buzzfeed.com"
-interactability_blaze = "everyone"
-title = "This Is Why Brands Say \"Bae\""
-can_reblog = false
 id_string = "106755178613"
+timestamp = 1420074193.0
+interactability_reblog = "everyone"
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/106755178613/this-is-why-brands-say-bae"
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p>brands working as hard as they can to make me want to throw up 🙊</p>"
@@ -50,43 +48,43 @@ content = "<p>brands working as hard as they can to make me want to throw up &#1
 is_current_item = true
 is_root_item = true
 
+[tumblr.trail.post]
+id = "106755178613"
+
 [tumblr.trail.blog]
-share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_title = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-show_header_image = false
-title_color = "#444444"
 background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+title_color = "#444444"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-title_font_weight = "bold"
+show_title = true
 avatar_shape = "square"
+header_stretch = true
+link_color = "#529ECC"
 show_description = true
+show_header_image = false
+header_bounds = ""
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "106755178613"
+title_font_weight = "bold"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 +++

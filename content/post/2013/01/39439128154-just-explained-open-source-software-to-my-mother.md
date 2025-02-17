@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/39439128154/just-explained-open-source-software-to-my-mother"]
 date = 2013-01-02T03:13:52Z
-slug = "just-explained-open-source-software-to-my-mother"
 id = "39439128154"
-aliases = [ "/post/39439128154/just-explained-open-source-software-to-my-mother" ]
-tags = [ ]
+slug = "just-explained-open-source-software-to-my-mother"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "WtcrVNx7"
-short_url = "https://tmblr.co/ZY3jbyakmLPQ"
-summary = "Just explained Open Source Software to my mother: “what a nice bunch of people you all are”."
-should_open_in_legacy = true
-note_count = 0.0
-can_like = false
-can_reblog = false
-can_send_in_message = true
-id = 3.9439128154e+10
-id_string = "39439128154"
-slug = "just-explained-open-source-software-to-my-mother"
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/39439128154/just-explained-open-source-software-to-my-mother"
 format = "markdown"
+can_like = false
+interactability_reblog = "everyone"
+date = "2013-01-02 03:13:52 GMT"
+state = "published"
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jbyakmLPQ"
+source = "<a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a>"
+interactability_blaze = "everyone"
+type = "quote"
+blog_name = "indirect"
+summary = "Just explained Open Source Software to my mother: “what a nice bunch of people you all are”."
+is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/39439128154/just-explained-open-source-software-to-my-mother"
+can_reblog = false
+should_open_in_legacy = true
 text = "Just explained Open Source Software to my mother: &ldquo;what a nice bunch of people you all are&rdquo;."
 can_reply = false
-blog_name = "indirect"
+timestamp = 1357096432.0
+slug = "just-explained-open-source-software-to-my-mother"
+can_send_in_message = true
 is_blazed = false
-can_blaze = false
-interactability_reblog = "everyone"
+reblog_key = "WtcrVNx7"
+note_count = 0.0
 display_avatar = true
-is_blaze_pending = false
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-date = "2013-01-02 03:13:52 GMT"
-timestamp = 1.357096432e+09
-state = "published"
-tags = [ ]
-source = "<a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a>"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a></p>"
-tree_html = ""
+id = 39439128154.0
+id_string = "39439128154"
 
 [tumblr.blog]
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a></p>"
 +++

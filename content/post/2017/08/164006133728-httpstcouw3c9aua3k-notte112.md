@@ -1,77 +1,44 @@
 +++
+aliases = ["/post/164006133728/httpstcouw3c9aua3k-notte112"]
 date = 2017-08-10T02:00:47Z
-slug = "httpstcouw3c9aua3k-notte112"
 id = "164006133728"
-aliases = [ "/post/164006133728/httpstcouw3c9aua3k-notte112" ]
-tags = [ ]
+slug = "httpstcouw3c9aua3k-notte112"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2017-08-10 02:00:47 GMT"
-can_send_in_message = true
-can_blaze = false
-reblog_key = "9vIQRdAD"
-caption = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
-state = "published"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-tags = [ ]
-display_avatar = true
-type = "photo"
-is_blocks_post_format = false
-id_string = "164006133728"
-short_url = "https://tmblr.co/ZY3jby2OlXl-W"
-id = 1.64006133728e+11
-post_url = "https://indirect.tumblr.com/post/164006133728/httpstcouw3c9aua3k-notte112"
-timestamp = 1.502330447e+09
-format = "html"
-should_open_in_legacy = true
 image_permalink = "https://indirect.tumblr.com/image/164006133728"
 can_reblog = false
-can_reply = false
-slug = "httpstcouw3c9aua3k-notte112"
-link_url = "http://twitter.com/notte112/status/895161595688603648"
-can_like = false
+is_blaze_pending = false
 interactability_blaze = "everyone"
-summary = "https://t.co/UW3C9Aua3K — @notte112"
+can_reply = false
+format = "html"
+reblog_key = "9vIQRdAD"
+can_send_in_message = true
+link_url = "http://twitter.com/notte112/status/895161595688603648"
+date = "2017-08-10 02:00:47 GMT"
+is_blocks_post_format = false
+blog_name = "indirect"
+caption = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
+can_like = false
+timestamp = 1502330447.0
+id_string = "164006133728"
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/164006133728/httpstcouw3c9aua3k-notte112"
+should_open_in_legacy = true
 note_count = 0.0
+type = "photo"
+state = "published"
+summary = "https://t.co/UW3C9Aua3K — @notte112"
+is_blazed = false
+slug = "httpstcouw3c9aua3k-notte112"
+short_url = "https://tmblr.co/ZY3jby2OlXl-W"
+interactability_reblog = "everyone"
+display_avatar = true
+id = 164006133728.0
 
-[[tumblr.trail]]
-content_raw = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
-content = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> &mdash; <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "164006133728"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-show_avatar = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-header_image_poster = ""
-show_description = true
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_title = true
-title_color = "#444444"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-body_font = "Helvetica Neue"
-header_stretch = true
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -97,9 +64,9 @@ width = 500.0
 height = 334.0
 
 [[tumblr.photos.alt_sizes]]
-height = 268.0
 url = "/images/ce/02/35bbec28d7e5ea41d59b44989e54.jpg"
 width = 400.0
+height = 268.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/1d/8f/1372aaf68995d7454510c9b56b98.jpg"
@@ -116,18 +83,49 @@ url = "/images/94/0f/9ae2676dda1cbdde750051d23c7a.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
-tree_html = ""
-
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> — <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
+content = "<p><a href=\"https://t.co/UW3C9Aua3K\">https://t.co/UW3C9Aua3K</a> &mdash; <a href=\"http://twitter.com/notte112/status/895161595688603648\">@notte112</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+header_image_poster = ""
+header_stretch = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+show_header_image = false
+
+[tumblr.trail.post]
+id = "164006133728"
 +++

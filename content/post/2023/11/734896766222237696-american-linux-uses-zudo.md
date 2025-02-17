@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/734896766222237696/american-linux-uses-zudo"]
 date = 2023-11-24T18:56:11Z
-slug = "american-linux-uses-zudo"
 id = "734896766222237696"
-aliases = [ "/post/734896766222237696/american-linux-uses-zudo" ]
-tags = [ ]
+slug = "american-linux-uses-zudo"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://surfin.dog/@finn/111465249007518784\">@finn</a>"
-interactability_blaze = "everyone"
-can_reply = false
-blog_name = "indirect"
-summary = "american linux uses zudo"
-can_send_in_message = true
 is_blocks_post_format = false
-can_blaze = false
-slug = "american-linux-uses-zudo"
-format = "markdown"
-id = 7.348967662222377e+17
+blog_name = "indirect"
 is_blaze_pending = false
-timestamp = 1.700852171e+09
-state = "published"
-reblog_key = "likjQGFM"
-tags = [ ]
-can_like = false
-interactability_reblog = "everyone"
+is_blazed = false
 date = "2023-11-24 18:56:11 GMT"
+summary = "american linux uses zudo"
+interactability_blaze = "everyone"
+id = 7.348967662222377e+17
 short_url = "https://tmblr.co/ZY3jbyeouBSPGe00"
-id_string = "734896766222237696"
-should_open_in_legacy = true
-can_reblog = false
 display_avatar = true
 type = "quote"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/734896766222237696/american-linux-uses-zudo"
-note_count = 1.0
+can_blaze = false
+timestamp = 1700852171.0
 text = "american linux uses zudo"
+source = "<a href=\"https://surfin.dog/@finn/111465249007518784\">@finn</a>"
+can_like = false
+slug = "american-linux-uses-zudo"
+state = "published"
+reblog_key = "likjQGFM"
+can_reblog = false
+can_send_in_message = true
+id_string = "734896766222237696"
+format = "markdown"
+note_count = 1.0
+interactability_reblog = "everyone"
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/734896766222237696/american-linux-uses-zudo"
+should_open_in_legacy = true
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://surfin.dog/@finn/111465249007518784\">@finn</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
 +++

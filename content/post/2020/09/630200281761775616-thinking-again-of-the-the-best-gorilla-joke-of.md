@@ -1,92 +1,90 @@
 +++
+aliases = ["/post/630200281761775616/thinking-again-of-the-the-best-gorilla-joke-of"]
 date = 2020-09-25T03:50:22Z
-slug = "thinking-again-of-the-the-best-gorilla-joke-of"
 id = "630200281761775616"
-aliases = [ "/post/630200281761775616/thinking-again-of-the-the-best-gorilla-joke-of" ]
-tags = [ ]
+slug = "thinking-again-of-the-the-best-gorilla-joke-of"
 type = "tumblr-photo"
 
 [tumblr]
+caption = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
+can_reblog = false
+can_send_in_message = true
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyY_wz4xmm00"
+link_url = "http://twitter.com/Nikhilv95/status/1309160299002462209"
+image_permalink = "https://indirect.tumblr.com/image/630200281761775616"
+display_avatar = true
+is_blocks_post_format = false
+is_blazed = false
+slug = "thinking-again-of-the-the-best-gorilla-joke-of"
+can_like = false
+id_string = "630200281761775616"
+date = "2020-09-25 03:50:22 GMT"
 summary = "thinking again of the The Best Gorilla Joke Of 1897 — @Nikhilv95"
-id = 6.302002817617756e+17
+note_count = 0.0
+type = "photo"
+blog_name = "indirect"
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/630200281761775616/thinking-again-of-the-the-best-gorilla-joke-of"
 state = "published"
 format = "html"
-caption = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
-can_reply = false
-tags = [ ]
-note_count = 0.0
-link_url = "http://twitter.com/Nikhilv95/status/1309160299002462209"
-interactability_reblog = "everyone"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/630200281761775616/thinking-again-of-the-the-best-gorilla-joke-of"
-can_reblog = false
-is_blocks_post_format = false
-id_string = "630200281761775616"
-timestamp = 1.601005822e+09
-interactability_blaze = "everyone"
-can_send_in_message = true
-date = "2020-09-25 03:50:22 GMT"
 should_open_in_legacy = true
-can_like = false
-display_avatar = true
-type = "photo"
-is_blaze_pending = false
-can_blaze = false
-image_permalink = "https://indirect.tumblr.com/image/630200281761775616"
-blog_name = "indirect"
-slug = "thinking-again-of-the-the-best-gorilla-joke-of"
+id = 6.302002817617756e+17
+can_reply = false
+timestamp = 1601005822.0
 reblog_key = "0EHUom3n"
-short_url = "https://tmblr.co/ZY3jbyY_wz4xmm00"
-
-[tumblr.reblog]
-comment = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 
 [[tumblr.trail]]
-content_raw = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
-content = "<p>thinking again of the The Best Gorilla Joke Of 1897 &mdash; <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
+content = "<p>thinking again of the The Best Gorilla Joke Of 1897 &mdash; <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
 
 [tumblr.trail.blog]
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_stretch = true
-background_color = "#FAFAFA"
+show_avatar = true
+title_font_weight = "bold"
+header_image_poster = ""
+title_color = "#444444"
+avatar_shape = "square"
+header_bounds = ""
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_color = "#444444"
-title_font = "Gibson"
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
+header_stretch = true
 show_title = true
-title_font_weight = "bold"
-header_bounds = ""
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_description = true
+show_header_image = false
 
 [tumblr.trail.post]
 id = "630200281761775616"
+
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>thinking again of the The Best Gorilla Joke Of 1897 — <a href=\"http://twitter.com/Nikhilv95/status/1309160299002462209\">@Nikhilv95</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -122,9 +120,9 @@ width = 400.0
 height = 342.0
 
 [[tumblr.photos.alt_sizes]]
-height = 214.0
 url = "/images/e8/ec/a20ac7f8e7952bc8aa2ba8893c65.jpg"
 width = 250.0
+height = 214.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0a/4e/b7445f5288988f5fcc33bab2e652.jpg"

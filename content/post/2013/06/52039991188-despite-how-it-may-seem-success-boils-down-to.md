@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/52039991188/despite-how-it-may-seem-success-boils-down-to"]
 date = 2013-06-03T06:21:22Z
-slug = "despite-how-it-may-seem-success-boils-down-to"
 id = "52039991188"
-aliases = [ "/post/52039991188/despite-how-it-may-seem-success-boils-down-to" ]
-tags = [ ]
+slug = "despite-how-it-may-seem-success-boils-down-to"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-display_avatar = true
-id = 5.2039991188e+10
-is_blaze_pending = false
-timestamp = 1.370240482e+09
-source = "<a href=\"http://youarenotsosmart.com/2013/05/23/survivorship-bias/\">Survivorship Bias</a>"
 can_blaze = false
+note_count = 0.0
+can_reblog = false
+blog_name = "indirect"
+is_blaze_pending = false
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbymTqp_K"
+summary = "despite how it may seem, success boils down to serially avoiding catastrophic failure while routinely absorbing manageable..."
+type = "quote"
+state = "published"
+can_reply = false
+timestamp = 1370240482.0
+id_string = "52039991188"
+is_blazed = false
+slug = "despite-how-it-may-seem-success-boils-down-to"
+can_like = false
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/52039991188/despite-how-it-may-seem-success-boils-down-to"
+text = "despite how it may seem, success boils down to serially avoiding catastrophic failure while routinely absorbing manageable damage"
+is_blocks_post_format = false
+id = 52039991188.0
 date = "2013-06-03 06:21:22 GMT"
 reblog_key = "Ji4dcVPR"
-tags = [ ]
-id_string = "52039991188"
-post_url = "https://indirect.tumblr.com/post/52039991188/despite-how-it-may-seem-success-boils-down-to"
-slug = "despite-how-it-may-seem-success-boils-down-to"
-text = "despite how it may seem, success boils down to serially avoiding catastrophic failure while routinely absorbing manageable damage"
-type = "quote"
-can_like = false
-interactability_reblog = "everyone"
-can_reblog = false
-can_reply = false
-blog_name = "indirect"
-summary = "despite how it may seem, success boils down to serially avoiding catastrophic failure while routinely absorbing manageable..."
 should_open_in_legacy = true
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jbymTqp_K"
+source = "<a href=\"http://youarenotsosmart.com/2013/05/23/survivorship-bias/\">Survivorship Bias</a>"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 can_send_in_message = true
-is_blazed = false
-state = "published"
-format = "markdown"
-note_count = 0.0
 
 [tumblr.blog]
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 

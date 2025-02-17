@@ -1,45 +1,42 @@
 +++
+aliases = ["/post/133905925973/operant-conditioning-by-software-bugs"]
 date = 2015-11-25T03:55:16Z
-title = "Operant Conditioning by Software Bugs"
-slug = "operant-conditioning-by-software-bugs"
 id = "133905925973"
-aliases = [ "/post/133905925973/operant-conditioning-by-software-bugs" ]
-tags = [ ]
+slug = "operant-conditioning-by-software-bugs"
+title = "Operant Conditioning by Software Bugs"
 type = "tumblr-link"
 
 [tumblr]
-description = ""
 interactability_reblog = "everyone"
-id = 1.33905925973e+11
-is_blaze_pending = false
-can_blaze = false
-publisher = "blog.regehr.org"
-interactability_blaze = "everyone"
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/133905925973/operant-conditioning-by-software-bugs"
-slug = "operant-conditioning-by-software-bugs"
-date = "2015-11-25 03:55:16 GMT"
-url = "http://blog.regehr.org/archives/861"
-display_avatar = true
-is_blazed = false
-tags = [ ]
-note_count = 0.0
-title = "Operant Conditioning by Software Bugs"
-can_send_in_message = true
-can_reply = false
-format = "html"
-summary = "Operant Conditioning by Software Bugs"
-trail = [ ]
-is_blocks_post_format = false
-timestamp = 1.448423716e+09
-short_url = "https://tmblr.co/ZY3jby1yjQaTL"
-type = "link"
 blog_name = "indirect"
+timestamp = 1448423716.0
+summary = "Operant Conditioning by Software Bugs"
+can_reply = false
+type = "link"
 id_string = "133905925973"
-should_open_in_legacy = true
-can_like = false
 state = "published"
 reblog_key = "xBs31kc1"
+title = "Operant Conditioning by Software Bugs"
+is_blazed = false
+can_blaze = false
+date = "2015-11-25 03:55:16 GMT"
+url = "http://blog.regehr.org/archives/861"
+description = ""
+can_reblog = false
+can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
+format = "html"
+post_url = "https://indirect.tumblr.com/post/133905925973/operant-conditioning-by-software-bugs"
+note_count = 0.0
+can_like = false
+interactability_blaze = "everyone"
+id = 133905925973.0
+short_url = "https://tmblr.co/ZY3jby1yjQaTL"
+slug = "operant-conditioning-by-software-bugs"
+should_open_in_legacy = true
+publisher = "blog.regehr.org"
+is_blaze_pending = false
 
 [tumblr.reblog]
 comment = ""
@@ -52,7 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

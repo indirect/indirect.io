@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/94593422193/why-do-black-people-always-protest-by-destroying"]
 date = 2014-08-13T03:01:42Z
-slug = "why-do-black-people-always-protest-by-destroying"
 id = "94593422193"
-aliases = [ "/post/94593422193/why-do-black-people-always-protest-by-destroying" ]
-tags = [ ]
+slug = "why-do-black-people-always-protest-by-destroying"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-id = 9.4593422193e+10
-id_string = "94593422193"
-is_blaze_pending = false
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/oneunderscore__/status/499024148937867264\">@oneunderscore__</a>"
+type = "quote"
 slug = "why-do-black-people-always-protest-by-destroying"
+format = "html"
+summary = "“Why do black people always protest by destroying goods?\"—White people who literally named a political party after throwing tea..."
+note_count = 0.0
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/94593422193/why-do-black-people-always-protest-by-destroying"
+reblog_key = "JnoEIqY5"
+is_blocks_post_format = false
+is_blaze_pending = false
+date = "2014-08-13 03:01:42 GMT"
+is_blazed = false
+can_blaze = false
 text = "Why do black people always protest by destroying goods?&quot;—White people who literally named a political party after throwing tea in the ocean"
+state = "published"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 can_reblog = false
+timestamp = 1407898902.0
+short_url = "https://tmblr.co/ZY3jby1O6DHDn"
+id = 94593422193.0
+source = "<a href=\"http://twitter.com/oneunderscore__/status/499024148937867264\">@oneunderscore__</a>"
+can_send_in_message = true
 display_avatar = true
 blog_name = "indirect"
-is_blazed = false
-date = "2014-08-13 03:01:42 GMT"
-short_url = "https://tmblr.co/ZY3jby1O6DHDn"
-note_count = 0.0
+id_string = "94593422193"
 can_like = false
-can_blaze = false
-state = "published"
-post_url = "https://indirect.tumblr.com/post/94593422193/why-do-black-people-always-protest-by-destroying"
-summary = "“Why do black people always protest by destroying goods?\"—White people who literally named a political party after throwing tea..."
-can_reply = false
-timestamp = 1.407898902e+09
-type = "quote"
-reblog_key = "JnoEIqY5"
-tags = [ ]
-can_send_in_message = true
-is_blocks_post_format = false
-format = "html"
-interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/oneunderscore__/status/499024148937867264\">@oneunderscore__</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

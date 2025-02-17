@@ -1,71 +1,92 @@
 +++
+aliases = ["/post/105399571173/that-escalated-quickly-kstreethipster"]
 date = 2014-12-17T01:39:34Z
-slug = "that-escalated-quickly-kstreethipster"
 id = "105399571173"
-aliases = [ "/post/105399571173/that-escalated-quickly-kstreethipster" ]
-tags = [ ]
+slug = "that-escalated-quickly-kstreethipster"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-format = "html"
-can_send_in_message = true
-is_blocks_post_format = false
-id = 1.05399571173e+11
-id_string = "105399571173"
-is_blazed = false
-can_reply = false
-summary = "That escalated quickly — @KStreetHipster"
-display_avatar = true
-blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/105399571173/that-escalated-quickly-kstreethipster"
 slug = "that-escalated-quickly-kstreethipster"
-date = "2014-12-17 01:39:34 GMT"
-timestamp = 1.418780374e+09
-should_open_in_legacy = true
-caption = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
-can_like = false
-interactability_blaze = "everyone"
-reblog_key = "kfeEJ8qp"
-link_url = "http://twitter.com/KStreetHipster/status/545006236836433920"
-tags = [ ]
+timestamp = 1418780374.0
+summary = "That escalated quickly — @KStreetHipster"
 note_count = 0.0
-can_reblog = false
 is_blaze_pending = false
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/105399571173/that-escalated-quickly-kstreethipster"
 state = "published"
-short_url = "https://tmblr.co/ZY3jby1YAJTBb"
-image_permalink = "https://indirect.tumblr.com/image/105399571173"
+format = "html"
 interactability_reblog = "everyone"
+can_reblog = false
+type = "photo"
+id_string = "105399571173"
+short_url = "https://tmblr.co/ZY3jby1YAJTBb"
+can_like = false
+can_send_in_message = true
+date = "2014-12-17 01:39:34 GMT"
+image_permalink = "https://indirect.tumblr.com/image/105399571173"
+is_blocks_post_format = false
+link_url = "http://twitter.com/KStreetHipster/status/545006236836433920"
+interactability_blaze = "everyone"
+can_reply = false
+display_avatar = true
+id = 105399571173.0
+is_blazed = false
+blog_name = "indirect"
+reblog_key = "kfeEJ8qp"
+should_open_in_legacy = true
+caption = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
 
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+[tumblr.reblog]
+comment = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>That escalated quickly &mdash; <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
+active = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_bounds = ""
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+header_image_poster = ""
+link_color = "#529ECC"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+
+[tumblr.trail.post]
+id = "105399571173"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-width = 600.0
-height = 337.0
-url = "/images/73/af/cd9081cb15a9f3e93fbb08818330.jpg"
-
 [[tumblr.photos.alt_sizes]]
 height = 337.0
 url = "/images/73/af/cd9081cb15a9f3e93fbb08818330.jpg"
 width = 600.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/bb/82/f2d8d1484fe7b9d14507ceeb4283.jpg"
 width = 540.0
 height = 303.0
-url = "/images/bb/82/f2d8d1484fe7b9d14507ceeb4283.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/af/01/53546de656ada123f79ce8117534.jpg"
@@ -92,42 +113,19 @@ url = "/images/30/c1/2b037bde468b962f827b37c01a4a.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
-tree_html = ""
+[tumblr.photos.original_size]
+url = "/images/73/af/cd9081cb15a9f3e93fbb08818330.jpg"
+width = 600.0
+height = 337.0
 
-[[tumblr.trail]]
-content_raw = "<p>That escalated quickly — <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
-content = "<p>That escalated quickly &mdash; <a href=\"http://twitter.com/KStreetHipster/status/545006236836433920\">@KStreetHipster</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "105399571173"
-
-[tumblr.trail.blog]
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
 
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_bounds = ""
-header_image_poster = ""
-title_color = "#444444"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-show_title = true
-header_stretch = true
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-title_font = "Gibson"
+[tumblr.blog.tumblrmart_accessories]
 +++

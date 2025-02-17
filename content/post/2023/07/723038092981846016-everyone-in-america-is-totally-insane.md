@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/723038092981846016/everyone-in-america-is-totally-insane"]
 date = 2023-07-16T21:27:39Z
-slug = "everyone-in-america-is-totally-insane"
 id = "723038092981846016"
-aliases = [ "/post/723038092981846016/everyone-in-america-is-totally-insane" ]
-tags = [ ]
+slug = "everyone-in-america-is-totally-insane"
 type = "tumblr-text"
 
 [tumblr]
+summary = "Everyone in America is Totally Insane"
+note_count = 0.0
+can_reblog = false
+display_avatar = true
+type = "text"
+is_blocks_post_format = true
+can_like = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1689542859.0
+format = "html"
 can_reply = false
 slug = "everyone-in-america-is-totally-insane"
-date = "2023-07-16 21:27:39 GMT"
-should_open_in_legacy = false
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blaze_pending = false
-id_string = "723038092981846016"
-is_blazed = false
-interactability_reblog = "everyone"
-can_reblog = false
-type = "text"
-state = "published"
-reblog_key = "pH24hc3R"
-summary = "Everyone in America is Totally Insane"
-display_avatar = true
-is_blocks_post_format = true
-can_blaze = false
-body = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
-timestamp = 1.689542859e+09
-tags = [ ]
-title = ""
-post_url = "https://indirect.tumblr.com/post/723038092981846016/everyone-in-america-is-totally-insane"
 short_url = "https://tmblr.co/ZY3jbye8lr2JGa00"
-can_like = false
-can_send_in_message = true
+blog_name = "indirect"
+id_string = "723038092981846016"
+should_open_in_legacy = false
+body = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
+state = "published"
 id = 7.23038092981846e+17
-format = "html"
-note_count = 0.0
+date = "2023-07-16 21:27:39 GMT"
+title = ""
+can_send_in_message = true
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/723038092981846016/everyone-in-america-is-totally-insane"
+reblog_key = "pH24hc3R"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -59,30 +57,30 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
-active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
+active = true
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
 avatar_shape = "square"
+body_font = "Helvetica Neue"
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
 header_bounds = ""
 header_image_poster = ""
+header_stretch = true
 show_avatar = true
 show_description = true
 title_color = "#444444"
 title_font = "Gibson"
 title_font_weight = "bold"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_title = true
 
 [tumblr.trail.post]
 id = "723038092981846016"

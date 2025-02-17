@@ -1,81 +1,90 @@
 +++
+aliases = ["/post/744438807140728832/just-found-out-that-an-11th-century-man-named"]
 date = 2024-03-09T02:42:49Z
-slug = "just-found-out-that-an-11th-century-man-named"
 id = "744438807140728832"
-aliases = [ "/post/744438807140728832/just-found-out-that-an-11th-century-man-named" ]
-tags = [ ]
+slug = "just-found-out-that-an-11th-century-man-named"
 type = "tumblr-photo"
 
 [tumblr]
-photoset_layout = "12"
-slug = "just-found-out-that-an-11th-century-man-named"
-interactability_reblog = "everyone"
-display_avatar = true
-format = "html"
-caption = "<p>just found out that an 11th century man named &ldquo;horny rick&rdquo; popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> — <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
-can_send_in_message = true
 type = "photo"
-blog_name = "indirect"
-is_blazed = false
-reblog_key = "wGe9loac"
+can_blaze = false
+photoset_layout = "12"
+id = 7.444388071407288e+17
+post_url = "https://indirect.tumblr.com/post/744438807140728832/just-found-out-that-an-11th-century-man-named"
 summary = "just found out that an 11th century man named \"horny rick\" popularised shoes that were so gay, they made them illegal..."
+link_url = "https://twitter.com/WeirdMedieval/status/1766206688548315478"
+is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyfKnoQWeu00"
 interactability_blaze = "everyone"
+can_send_in_message = true
+date = "2024-03-09 02:42:49 GMT"
+state = "published"
+can_like = false
+can_reply = false
+slug = "just-found-out-that-an-11th-century-man-named"
+reblog_key = "wGe9loac"
+blog_name = "indirect"
+note_count = 0.0
+id_string = "744438807140728832"
+timestamp = 1709952169.0
+format = "html"
+should_open_in_legacy = true
+caption = "<p>just found out that an 11th century man named &ldquo;horny rick&rdquo; popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> — <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
+interactability_reblog = "everyone"
 can_reblog = false
 is_blocks_post_format = false
-is_blaze_pending = false
-timestamp = 1.709952169e+09
-state = "published"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyfKnoQWeu00"
-can_reply = false
-id_string = "744438807140728832"
-post_url = "https://indirect.tumblr.com/post/744438807140728832/just-found-out-that-an-11th-century-man-named"
-link_url = "https://twitter.com/WeirdMedieval/status/1766206688548315478"
-can_like = false
-id = 7.444388071407288e+17
-can_blaze = false
-date = "2024-03-09 02:42:49 GMT"
-should_open_in_legacy = true
-note_count = 0.0
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>just found out that an 11th century man named “horny rick” popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> — <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
-content = "<p>just found out that an 11th century man named &ldquo;horny rick&rdquo; popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> &mdash; <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-show_header_image = false
-title_color = "#444444"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-show_title = true
-title_font = "Gibson"
-header_bounds = ""
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-show_avatar = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-
-[tumblr.trail.post]
-id = "744438807140728832"
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p>just found out that an 11th century man named “horny rick” popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> — <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>just found out that an 11th century man named &ldquo;horny rick&rdquo; popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> &mdash; <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>just found out that an 11th century man named “horny rick” popularised shoes that were so gay, they made them illegal <a href=\"https://t.co/d7aaDWERoF\">https://t.co/d7aaDWERoF</a> — <a href=\"https://twitter.com/WeirdMedieval/status/1766206688548315478\">weird medieval guys BOOK OUT NOW !! (@WeirdMedieval)</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_stretch = true
+show_avatar = true
+title_font = "Gibson"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+background_color = "#FAFAFA"
+show_description = true
+show_header_image = false
+title_color = "#444444"
+avatar_shape = "square"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_title = true
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+
+[tumblr.trail.post]
+id = "744438807140728832"
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -91,14 +100,14 @@ width = 800.0
 height = 946.0
 
 [[tumblr.photos.alt_sizes]]
+height = 757.0
 url = "/images/86/4f/5f521dcd2b15cb9e21af4ab1d506.jpg"
 width = 640.0
-height = 757.0
 
 [[tumblr.photos.alt_sizes]]
+height = 639.0
 url = "/images/f9/96/6bd0f622ac83195f73b95fb69281.jpg"
 width = 540.0
-height = 639.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4d/91/0f4973c6391cc109bbf19ad45a57.jpg"
@@ -111,9 +120,9 @@ width = 400.0
 height = 473.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5f/42/bbf23feaf2eff053744044501917.jpg"
 width = 250.0
 height = 296.0
+url = "/images/5f/42/bbf23feaf2eff053744044501917.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ab/f3/bf7359913c78617fd36472afcce4.jpg"
@@ -134,9 +143,9 @@ width = 685.0
 height = 756.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d9/ab/9b13f5979531ab361bb991546e6a.jpg"
 width = 685.0
 height = 756.0
+url = "/images/d9/ab/9b13f5979531ab361bb991546e6a.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/40/01/b5731323f5fe3fcc92b8fc6c33fd.jpg"
@@ -164,9 +173,9 @@ width = 250.0
 height = 276.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/e3/be/6fc722296c360de9e18e8f081394.jpg"
 width = 100.0
 height = 110.0
-url = "/images/e3/be/6fc722296c360de9e18e8f081394.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/20/db/cab9f5165874eb87ca28f59131e2.jpg"
@@ -177,19 +186,19 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
-width = 711.0
-height = 634.0
-url = "/images/d2/85/d63e06b9672c682e2acee8c7a30d.jpg"
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/d2/85/d63e06b9672c682e2acee8c7a30d.jpg"
 width = 711.0
 height = 634.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/d2/85/d63e06b9672c682e2acee8c7a30d.jpg"
+width = 711.0
+height = 634.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/9f/ec/6aa993e13e7da308572ba59ea63f.jpg"
 width = 640.0
 height = 571.0
-url = "/images/9f/ec/6aa993e13e7da308572ba59ea63f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 482.0
@@ -202,9 +211,9 @@ width = 500.0
 height = 446.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/00/7d/e5616a3dc80dc22b7e9469f5da88.jpg"
 width = 400.0
 height = 357.0
+url = "/images/00/7d/e5616a3dc80dc22b7e9469f5da88.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/62/e6/371d1d229133ccd554c7298acaab.jpg"
@@ -220,15 +229,4 @@ height = 89.0
 url = "/images/69/38/da0e26ba96c262ab7a241c3f5eb9.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

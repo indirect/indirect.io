@@ -1,42 +1,90 @@
 +++
+aliases = ["/post/667443942146572288/banner-first-day-for-debate-me-bro-university"]
 date = 2021-11-10T06:02:23Z
-slug = "banner-first-day-for-debate-me-bro-university"
 id = "667443942146572288"
-aliases = [ "/post/667443942146572288/banner-first-day-for-debate-me-bro-university" ]
-tags = [ ]
+slug = "banner-first-day-for-debate-me-bro-university"
 type = "tumblr-photo"
 
 [tumblr]
-is_blocks_post_format = false
-state = "published"
-should_open_in_legacy = true
+type = "photo"
+note_count = 0.0
 caption = "<p>Banner first day for debate me bro university — <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
-interactability_blaze = "everyone"
+can_reblog = false
 id_string = "667443942146572288"
-is_blazed = false
+should_open_in_legacy = true
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jbyb3FBgd8W00"
+display_avatar = true
+timestamp = 1636524143.0
+state = "published"
+format = "html"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+is_blaze_pending = false
+slug = "banner-first-day-for-debate-me-bro-university"
+reblog_key = "gXJgpLuu"
+interactability_blaze = "everyone"
+id = 6.674439421465723e+17
 post_url = "https://indirect.tumblr.com/post/667443942146572288/banner-first-day-for-debate-me-bro-university"
 date = "2021-11-10 06:02:23 GMT"
-reblog_key = "gXJgpLuu"
-note_count = 0.0
+link_url = "http://twitter.com/transscribe/status/1458065115027288068"
 photoset_layout = "12"
-timestamp = 1.636524143e+09
-interactability_reblog = "everyone"
+can_like = false
+is_blazed = false
+summary = "Banner first day for debate me bro university — @transscribe"
 can_send_in_message = true
 can_reply = false
-short_url = "https://tmblr.co/ZY3jbyb3FBgd8W00"
-can_like = false
-summary = "Banner first day for debate me bro university — @transscribe"
-blog_name = "indirect"
-id = 6.674439421465723e+17
-can_blaze = false
-slug = "banner-first-day-for-debate-me-bro-university"
-tags = [ ]
-can_reblog = false
-is_blaze_pending = false
-type = "photo"
-format = "html"
-link_url = "http://twitter.com/transscribe/status/1458065115027288068"
-display_avatar = true
+is_blocks_post_format = false
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Banner first day for debate me bro university — <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>Banner first day for debate me bro university — <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
+content = "<p>Banner first day for debate me bro university &mdash; <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+show_title = true
+title_color = "#444444"
+show_header_image = false
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+title_font = "Gibson"
+title_font_weight = "bold"
+show_description = true
+
+[tumblr.trail.post]
+id = "667443942146572288"
 
 [[tumblr.photos]]
 caption = ""
@@ -47,9 +95,9 @@ width = 785.0
 height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2e/e1/0e93587ed40eb8be44a412fcd5e4.jpg"
 width = 785.0
 height = 1199.0
+url = "/images/2e/e1/0e93587ed40eb8be44a412fcd5e4.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5e/77/b17d93daa927b68852bf5cc80c57.jpg"
@@ -72,9 +120,9 @@ width = 393.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0f/11/52d460d3e60c3e2375965cfa81e9.jpg"
 width = 250.0
 height = 382.0
+url = "/images/0f/11/52d460d3e60c3e2375965cfa81e9.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e6/36/2c34021edf1223ed07034a0282a9.jpg"
@@ -105,9 +153,9 @@ width = 640.0
 height = 954.0
 
 [[tumblr.photos.alt_sizes]]
-height = 805.0
 url = "/images/ee/d4/8895ee2e43ba73036a6d2f49f77b.jpg"
 width = 540.0
+height = 805.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/dc/86/ee287bcc6b589d91710a05813adb.jpg"
@@ -120,19 +168,19 @@ width = 400.0
 height = 596.0
 
 [[tumblr.photos.alt_sizes]]
-height = 373.0
 url = "/images/da/79/92d62ac22ccaad4161b581c76709.jpg"
 width = 250.0
+height = 373.0
 
 [[tumblr.photos.alt_sizes]]
+height = 149.0
 url = "/images/74/d7/10ef6fabf1e5d55b7f4ee2c12f05.jpg"
 width = 100.0
-height = 149.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/45/cf/c7052c1f67f5f794ddef52440fc4.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -143,9 +191,9 @@ width = 818.0
 height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
-height = 1199.0
 url = "/images/9e/7e/e11ec5ba84fbd8e786a117032d86.jpg"
 width = 818.0
+height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/be/34/1afdf323d97619aa2292666f1bfc.jpg"
@@ -173,62 +221,12 @@ width = 250.0
 height = 366.0
 
 [[tumblr.photos.alt_sizes]]
-height = 147.0
 url = "/images/ca/46/a99eac66ca297a219833103074c3.jpg"
 width = 100.0
+height = 147.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/08/bb/4200b0b0259b37168ec5ad5485be.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>Banner first day for debate me bro university — <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>Banner first day for debate me bro university — <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
-content = "<p>Banner first day for debate me bro university &mdash; <a href=\"http://twitter.com/transscribe/status/1458065115027288068\">@transscribe</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_avatar = true
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-show_header_image = false
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-title_color = "#444444"
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "667443942146572288"
 +++

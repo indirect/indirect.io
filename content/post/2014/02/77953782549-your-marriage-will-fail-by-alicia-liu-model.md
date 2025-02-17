@@ -1,54 +1,51 @@
 +++
+aliases = ["/post/77953782549/your-marriage-will-fail-by-alicia-liu-model"]
 date = 2014-02-27T00:10:19Z
-title = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
-slug = "your-marriage-will-fail-by-alicia-liu-model"
 id = "77953782549"
-aliases = [ "/post/77953782549/your-marriage-will-fail-by-alicia-liu-model" ]
-tags = [ ]
+slug = "your-marriage-will-fail-by-alicia-liu-model"
+title = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
 type = "tumblr-link"
 
 [tumblr]
-can_reply = false
-date = "2014-02-27 00:10:19 GMT"
-summary = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
-url = "http://modelviewculture.com/pieces/your-marriage-will-fail"
-timestamp = 1.393459819e+09
-type = "link"
-is_blaze_pending = false
-can_blaze = false
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby18cQ5CL"
+should_open_in_legacy = true
+title = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
+slug = "your-marriage-will-fail-by-alicia-liu-model"
 post_url = "https://indirect.tumblr.com/post/77953782549/your-marriage-will-fail-by-alicia-liu-model"
-trail = [ ]
-interactability_reblog = "everyone"
-id_string = "77953782549"
+publisher = "modelviewculture.com"
+description = ""
+interactability_blaze = "everyone"
+can_reply = false
 reblog_key = "DVlvAg86"
-can_reblog = false
+blog_name = "indirect"
+is_blaze_pending = false
+timestamp = 1393459819.0
+note_count = 0.0
+url = "http://modelviewculture.com/pieces/your-marriage-will-fail"
+can_like = false
+display_avatar = true
+type = "link"
 is_blocks_post_format = false
 is_blazed = false
-slug = "your-marriage-will-fail-by-alicia-liu-model"
-tags = [ ]
-publisher = "modelviewculture.com"
-state = "published"
-blog_name = "indirect"
-can_like = false
+can_blaze = false
+summary = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
+interactability_reblog = "everyone"
+id = 77953782549.0
+id_string = "77953782549"
+format = "markdown"
 can_send_in_message = true
-id = 7.7953782549e+10
-should_open_in_legacy = true
-note_count = 0.0
-description = ""
-display_avatar = true
-title = "Your Marriage Will Fail, by Alicia Liu | Model View Culture"
-interactability_blaze = "everyone"
+date = "2014-02-27 00:10:19 GMT"
+state = "published"
+short_url = "https://tmblr.co/ZY3jby18cQ5CL"
+can_reblog = false
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

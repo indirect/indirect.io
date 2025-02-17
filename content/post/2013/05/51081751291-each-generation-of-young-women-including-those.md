@@ -1,53 +1,51 @@
 +++
+aliases = ["/post/51081751291/each-generation-of-young-women-including-those"]
 date = 2013-05-22T18:01:16Z
-slug = "each-generation-of-young-women-including-those"
 id = "51081751291"
-aliases = [ "/post/51081751291/each-generation-of-young-women-including-those" ]
-tags = [ ]
+slug = "each-generation-of-young-women-including-those"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-bookmarklet = true
-display_avatar = true
-is_blazed = false
-note_count = 0.0
-source_title = "rachelree.se"
-source = "<a href=\"http://rachelree.se/?p=947\">Rachel Reese</a>"
-type = "quote"
-can_like = false
-can_reply = false
-date = "2013-05-22 18:01:16 GMT"
-format = "markdown"
-reblog_key = "SzuFcjqV"
 short_url = "https://tmblr.co/ZY3jbylajQhx"
 should_open_in_legacy = true
+bookmarklet = true
 text = "Each generation of young women, including those who are currently senior faculty, began by believing that gender discrimination was “solved” in the previous generation and would not touch them"
+date = "2013-05-22 18:01:16 GMT"
 state = "published"
-can_reblog = false
-is_blocks_post_format = false
-timestamp = 1.369245676e+09
+type = "quote"
+is_blazed = false
+can_blaze = false
 summary = "Each generation of young women, including those who are currently senior faculty, began by believing that gender discrimination..."
-interactability_reblog = "everyone"
+source_title = "rachelree.se"
 can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/51081751291/each-generation-of-young-women-including-those"
-source_url = "http://rachelree.se/?p=947"
-blog_name = "indirect"
 id_string = "51081751291"
+source_url = "http://rachelree.se/?p=947"
+can_reply = false
+display_avatar = true
 slug = "each-generation-of-young-women-including-those"
-tags = [ ]
+note_count = 0.0
 interactability_blaze = "everyone"
-id = 5.1081751291e+10
+post_url = "https://indirect.tumblr.com/post/51081751291/each-generation-of-young-women-including-those"
+interactability_reblog = "everyone"
+timestamp = 1369245676.0
+is_blocks_post_format = false
+is_blaze_pending = false
+source = "<a href=\"http://rachelree.se/?p=947\">Rachel Reese</a>"
+id = 51081751291.0
+format = "markdown"
+can_like = false
+can_reblog = false
+blog_name = "indirect"
+reblog_key = "SzuFcjqV"
 
 [tumblr.blog]
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

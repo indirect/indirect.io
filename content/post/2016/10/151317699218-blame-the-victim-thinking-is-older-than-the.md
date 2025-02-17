@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/151317699218/blame-the-victim-thinking-is-older-than-the"]
 date = 2016-10-04T02:43:29Z
-slug = "blame-the-victim-thinking-is-older-than-the"
 id = "151317699218"
-aliases = [ "/post/151317699218/blame-the-victim-thinking-is-older-than-the" ]
-tags = [ ]
+slug = "blame-the-victim-thinking-is-older-than-the"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-blog_name = "indirect"
-id_string = "151317699218"
-short_url = "https://tmblr.co/ZY3jby2CxFDgI"
-can_reply = false
-id = 1.51317699218e+11
-can_blaze = false
-state = "published"
-tags = [ ]
-can_like = false
-is_blazed = false
-is_blocks_post_format = false
-display_avatar = true
-format = "markdown"
-summary = "“Blame the victim” thinking is older than the Internet, of course. But that doesn’t make it right"
-note_count = 0.0
-text = "&ldquo;Blame the victim&rdquo; thinking is older than the Internet, of course. But that doesn&rsquo;t make it right"
 can_reblog = false
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/151317699218/blame-the-victim-thinking-is-older-than-the"
-slug = "blame-the-victim-thinking-is-older-than-the"
-timestamp = 1.475549009e+09
+display_avatar = true
+text = "&ldquo;Blame the victim&rdquo; thinking is older than the Internet, of course. But that doesn&rsquo;t make it right"
 source = "<a href=\"https://www.schneier.com/blog/archives/2016/10/security_design.html##%22Blame+the+victim%22+thinking+is+older+than+the+Internet%2C+of+course.+But+that+doesn%27t+make+it+right\">Security Design: Stop Trying to Fix the User - Schneier on Security</a>"
-interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+is_blocks_post_format = false
+is_blazed = false
+can_blaze = false
+can_like = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+date = "2016-10-04 02:43:29 GMT"
+timestamp = 1475549009.0
+type = "quote"
+id_string = "151317699218"
+id = 151317699218.0
+format = "markdown"
+slug = "blame-the-victim-thinking-is-older-than-the"
+post_url = "https://indirect.tumblr.com/post/151317699218/blame-the-victim-thinking-is-older-than-the"
+short_url = "https://tmblr.co/ZY3jby2CxFDgI"
+blog_name = "indirect"
+state = "published"
+summary = "“Blame the victim” thinking is older than the Internet, of course. But that doesn’t make it right"
+should_open_in_legacy = true
+can_reply = false
 is_blaze_pending = false
 reblog_key = "g5LQTFIp"
-should_open_in_legacy = true
-date = "2016-10-04 02:43:29 GMT"
+note_count = 0.0
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/760131358676926464/website-making-class-where-you-have-to"]
 date = 2024-08-29T07:49:13Z
-slug = "website-making-class-where-you-have-to"
 id = "760131358676926464"
-aliases = [ "/post/760131358676926464/website-making-class-where-you-have-to" ]
-tags = [ ]
+slug = "website-making-class-where-you-have-to"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-id_string = "760131358676926464"
+slug = "website-making-class-where-you-have-to"
+text = "website-making class where you have to recapitulate the history of the web &ndash; week 1 you can only use the very first HTML tags from HTML 1.0 or whatever, then over time you get to use <img/>, then CSS, JavaScript 1.0, XMLHttpRequest, etc"
 date = "2024-08-29 07:49:13 GMT"
+interactability_reblog = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
+id_string = "760131358676926464"
 state = "published"
-reblog_key = "FVjw58LF"
-short_url = "https://tmblr.co/ZY3jbygCXt60ai00"
-can_like = false
+summary = "website-making class where you have to recapitulate the history of the web – week 1 you can only use the very first HTML tags..."
+blog_name = "indirect"
 is_blazed = false
 post_url = "https://indirect.tumblr.com/post/760131358676926464/website-making-class-where-you-have-to"
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blaze_pending = false
-slug = "website-making-class-where-you-have-to"
-note_count = 0.0
-interactability_blaze = "everyone"
-id = 7.601313586769265e+17
-summary = "website-making class where you have to recapitulate the history of the web – week 1 you can only use the very first HTML tags..."
+timestamp = 1724917753.0
+short_url = "https://tmblr.co/ZY3jbygCXt60ai00"
 can_reblog = false
-text = "website-making class where you have to recapitulate the history of the web &ndash; week 1 you can only use the very first HTML tags from HTML 1.0 or whatever, then over time you get to use <img/>, then CSS, JavaScript 1.0, XMLHttpRequest, etc"
-interactability_reblog = "everyone"
-can_reply = false
 format = "markdown"
-tags = [ ]
-should_open_in_legacy = true
-display_avatar = true
-can_send_in_message = true
-can_blaze = false
-timestamp = 1.724917753e+09
+type = "quote"
+id = 7.601313586769265e+17
+note_count = 0.0
 source = "<a href=\"https://twitter.com/rsnous/status/1826032891996020967\">Omar in San Francisco (@rsnous)</a>"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+interactability_blaze = "everyone"
+display_avatar = true
+is_blaze_pending = false
+reblog_key = "FVjw58LF"
+should_open_in_legacy = true
+can_like = false
+can_reply = false
+can_blaze = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/rsnous/status/1826032891996020967\">Omar in San Francisco (@rsnous)</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/755951247650095104/a-new-life-awaits-you-in-the-offline-colonies"]
 date = 2024-07-14T04:28:09Z
-slug = "a-new-life-awaits-you-in-the-offline-colonies"
 id = "755951247650095104"
-aliases = [ "/post/755951247650095104/a-new-life-awaits-you-in-the-offline-colonies" ]
-tags = [ ]
+slug = "a-new-life-awaits-you-in-the-offline-colonies"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyfzhQUFie00"
+can_reply = false
 note_count = 0.0
+format = "markdown"
+summary = "a new life awaits you in the offline colonies"
 can_reblog = false
+is_blocks_post_format = false
+text = "a new life awaits you in the offline colonies"
+can_like = false
+display_avatar = true
+date = "2024-07-14 04:28:09 GMT"
+should_open_in_legacy = true
+is_blazed = false
+slug = "a-new-life-awaits-you-in-the-offline-colonies"
+interactability_reblog = "everyone"
+id = 7.559512476500951e+17
+id_string = "755951247650095104"
+post_url = "https://indirect.tumblr.com/post/755951247650095104/a-new-life-awaits-you-in-the-offline-colonies"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyfzhQUFie00"
+type = "quote"
+blog_name = "indirect"
 can_send_in_message = true
+can_blaze = false
+timestamp = 1720931289.0
+reblog_key = "aZmT8MZb"
 source = "<a href=\"https://bsky.app/profile/airminded.org/post/3kx5uvheyey2u\">Brett Holman (@airminded.org)</a>"
 interactability_blaze = "everyone"
-date = "2024-07-14 04:28:09 GMT"
-timestamp = 1.720931289e+09
-can_reply = false
-id_string = "755951247650095104"
 is_blaze_pending = false
-tags = [ ]
-text = "a new life awaits you in the offline colonies"
-slug = "a-new-life-awaits-you-in-the-offline-colonies"
-format = "markdown"
-reblog_key = "aZmT8MZb"
-summary = "a new life awaits you in the offline colonies"
-can_like = false
-is_blocks_post_format = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/755951247650095104/a-new-life-awaits-you-in-the-offline-colonies"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-display_avatar = true
-type = "quote"
-id = 7.559512476500951e+17
-state = "published"
 
 [tumblr.blog]
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

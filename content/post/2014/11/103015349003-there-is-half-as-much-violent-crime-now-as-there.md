@@ -1,77 +1,55 @@
 +++
+aliases = ["/post/103015349003/there-is-half-as-much-violent-crime-now-as-there"]
 date = 2014-11-19T04:07:34Z
-slug = "there-is-half-as-much-violent-crime-now-as-there"
 id = "103015349003"
-aliases = [ "/post/103015349003/there-is-half-as-much-violent-crime-now-as-there" ]
-tags = [ ]
+slug = "there-is-half-as-much-violent-crime-now-as-there"
 type = "tumblr-photo"
 
 [tumblr]
-note_count = 0.0
-state = "published"
 blog_name = "indirect"
+id = 103015349003.0
 id_string = "103015349003"
 is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1VyCNiB"
-date = "2014-11-19 04:07:34 GMT"
-summary = "There is half as much violent crime now as there was in 1994 (US, per capita)\n\n — @conradhackett"
-can_reblog = false
-display_avatar = true
-type = "photo"
-id = 1.03015349003e+11
-post_url = "https://indirect.tumblr.com/post/103015349003/there-is-half-as-much-violent-crime-now-as-there"
+timestamp = 1416370054.0
 reblog_key = "JDmfNaae"
-is_blocks_post_format = false
-is_blazed = false
-can_like = false
-link_url = "http://twitter.com/conradhackett/status/534322569420079104"
-should_open_in_legacy = true
-can_reply = false
+type = "photo"
+date = "2014-11-19 04:07:34 GMT"
 format = "html"
-tags = [ ]
-caption = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+short_url = "https://tmblr.co/ZY3jby1VyCNiB"
+can_like = false
 image_permalink = "https://indirect.tumblr.com/image/103015349003"
-interactability_blaze = "everyone"
-timestamp = 1.416370054e+09
-interactability_reblog = "everyone"
+display_avatar = true
+is_blocks_post_format = false
+summary = "There is half as much violent crime now as there was in 1994 (US, per capita)\n\n — @conradhackett"
+can_reply = false
+should_open_in_legacy = true
+note_count = 0.0
 can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/103015349003/there-is-half-as-much-violent-crime-now-as-there"
+interactability_blaze = "everyone"
+state = "published"
+can_blaze = false
 slug = "there-is-half-as-much-violent-crime-now-as-there"
+caption = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+link_url = "http://twitter.com/conradhackett/status/534322569420079104"
+can_reblog = false
+is_blazed = false
+interactability_reblog = "everyone"
 
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
-content = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> &mdash; <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
-
-[tumblr.trail.blog]
-can_be_followed = true
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
 
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-show_avatar = true
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_font = "Gibson"
+[tumblr.blog.tumblrmart_accessories]
 
-[tumblr.trail.post]
-id = "103015349003"
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -97,9 +75,9 @@ width = 500.0
 height = 369.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/0c/5a/04c210ea3b9cede554153d2374ee.png"
 width = 400.0
 height = 295.0
-url = "/images/0c/5a/04c210ea3b9cede554153d2374ee.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/11/f4/f6f7344de8bc29170ad32dae9764.png"
@@ -116,18 +94,38 @@ url = "/images/95/48/69b31bde92f442abb341f42f427a.png"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+content = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> &mdash; <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+is_current_item = true
 
-[tumblr.blog]
-can_show_badges = true
+[tumblr.trail.blog]
 name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+show_title = true
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+link_color = "#529ECC"
+show_description = true
+title_color = "#444444"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "103015349003"
 +++

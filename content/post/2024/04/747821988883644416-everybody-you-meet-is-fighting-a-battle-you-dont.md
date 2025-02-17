@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/747821988883644416/everybody-you-meet-is-fighting-a-battle-you-dont"]
 date = 2024-04-15T10:57:04Z
-slug = "everybody-you-meet-is-fighting-a-battle-you-dont"
 id = "747821988883644416"
-aliases = [ "/post/747821988883644416/everybody-you-meet-is-fighting-a-battle-you-dont" ]
-tags = [ ]
+slug = "everybody-you-meet-is-fighting-a-battle-you-dont"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-source = "<a href=\"https://twitter.com/DrakeGatsby/status/1779627191069823075\">jon drake (@DrakeGatsby)</a>"
-can_reblog = false
-interactability_reblog = "everyone"
 is_blocks_post_format = false
-blog_name = "indirect"
+date = "2024-04-15 10:57:04 GMT"
+text = "Everybody you meet is fighting a battle you don’t know about. Attack them. Now they’re fighting two battles"
+can_like = false
+type = "quote"
 slug = "everybody-you-meet-is-fighting-a-battle-you-dont"
 format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyfWp2C2ei00"
-text = "Everybody you meet is fighting a battle you don’t know about. Attack them. Now they’re fighting two battles"
-date = "2024-04-15 10:57:04 GMT"
-timestamp = 1.713178624e+09
-tags = [ ]
+source = "<a href=\"https://twitter.com/DrakeGatsby/status/1779627191069823075\">jon drake (@DrakeGatsby)</a>"
 can_send_in_message = true
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/747821988883644416/everybody-you-meet-is-fighting-a-battle-you-dont"
-note_count = 0.0
-summary = "Everybody you meet is fighting a battle you don’t know about. Attack them. Now they’re fighting two battles"
-can_like = false
-can_blaze = false
-reblog_key = "mUfXPtj9"
-interactability_blaze = "everyone"
-display_avatar = true
-type = "quote"
 id = 7.478219888836444e+17
-id_string = "747821988883644416"
 state = "published"
+short_url = "https://tmblr.co/ZY3jbyfWp2C2ei00"
+is_blazed = false
 should_open_in_legacy = true
 can_reply = false
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/747821988883644416/everybody-you-meet-is-fighting-a-battle-you-dont"
+reblog_key = "mUfXPtj9"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1713178624.0
+note_count = 0.0
+interactability_reblog = "everyone"
+can_reblog = false
+blog_name = "indirect"
+id_string = "747821988883644416"
+summary = "Everybody you meet is fighting a battle you don’t know about. Attack them. Now they’re fighting two battles"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 

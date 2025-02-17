@@ -1,88 +1,79 @@
 +++
+aliases = ["/post/699296668151169024/oneunderscore-the-four-tweets-that-sum-up-this"]
 date = 2022-10-27T20:07:50Z
-slug = "oneunderscore-the-four-tweets-that-sum-up-this"
 id = "699296668151169024"
-aliases = [ "/post/699296668151169024/oneunderscore-the-four-tweets-that-sum-up-this" ]
-tags = [ ]
+slug = "oneunderscore-the-four-tweets-that-sum-up-this"
 type = "tumblr-photo"
 
 [tumblr]
-format = "html"
-link_url = "http://twitter.com/xbhaskarx/status/1585469309135953920"
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/699296668151169024/oneunderscore-the-four-tweets-that-sum-up-this"
-type = "photo"
-id = 6.99296668151169e+17
-tags = [ ]
-can_send_in_message = true
-is_blaze_pending = false
-timestamp = 1.66690127e+09
-should_open_in_legacy = true
-state = "published"
-is_blocks_post_format = false
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbycqPfrPmy00"
-summary = "@oneunderscore__ The four tweets that sum up this app — @xbhaskarx"
-note_count = 0.0
-caption = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
-interactability_reblog = "everyone"
 is_blazed = false
-can_blaze = false
-can_reply = false
-display_avatar = true
-slug = "oneunderscore-the-four-tweets-that-sum-up-this"
-photoset_layout = "13"
+should_open_in_legacy = true
+is_blaze_pending = false
 can_like = false
-interactability_blaze = "everyone"
+can_send_in_message = true
 date = "2022-10-27 20:07:50 GMT"
+caption = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
+link_url = "http://twitter.com/xbhaskarx/status/1585469309135953920"
+interactability_reblog = "everyone"
+type = "photo"
+can_blaze = false
+id = 6.99296668151169e+17
 id_string = "699296668151169024"
+post_url = "https://indirect.tumblr.com/post/699296668151169024/oneunderscore-the-four-tweets-that-sum-up-this"
+slug = "oneunderscore-the-four-tweets-that-sum-up-this"
+timestamp = 1666901270.0
 reblog_key = "GoZ5nC3i"
+short_url = "https://tmblr.co/ZY3jbycqPfrPmy00"
+photoset_layout = "13"
+is_blocks_post_format = false
+state = "published"
+format = "html"
+summary = "@oneunderscore__ The four tweets that sum up this app — @xbhaskarx"
+can_reply = false
+blog_name = "indirect"
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reblog = false
+display_avatar = true
 
 [[tumblr.trail]]
+content_raw = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
 content = "<p>@oneunderscore__ The four tweets that sum up this app &mdash; <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
 
 [tumblr.trail.blog]
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
+title_font = "Gibson"
 show_title = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
+background_color = "#FAFAFA"
 header_bounds = ""
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_description = true
 show_header_image = false
+header_image_poster = ""
+header_stretch = true
 title_color = "#444444"
-title_font = "Gibson"
 title_font_weight = "bold"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
+show_description = true
 
 [tumblr.trail.post]
 id = "699296668151169024"
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -108,19 +99,19 @@ width = 540.0
 height = 346.0
 
 [[tumblr.photos.alt_sizes]]
+height = 321.0
 url = "/images/e9/fa/b9bf6de8178dcc7324ddcea0eabb.jpg"
 width = 500.0
-height = 321.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/3d/a4/421e99d97e22c5af5cb8df7009e6.jpg"
 width = 400.0
 height = 256.0
-url = "/images/3d/a4/421e99d97e22c5af5cb8df7009e6.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ed/04/15aea97a664b98d3c61f8d550118.jpg"
 width = 250.0
 height = 160.0
+url = "/images/ed/04/15aea97a664b98d3c61f8d550118.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/71/9d/fb778eb9445bd370795916f88a24.jpg"
@@ -141,14 +132,14 @@ width = 1170.0
 height = 843.0
 
 [[tumblr.photos.alt_sizes]]
+height = 843.0
 url = "/images/cb/3f/f6433640836d95fa3856f8012184.jpg"
 width = 1170.0
-height = 843.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/49/09/c26f965029877feeeb4dabc29500.jpg"
 width = 640.0
 height = 461.0
+url = "/images/49/09/c26f965029877feeeb4dabc29500.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2e/44/725bb24a7a6659974c1655584f0d.jpg"
@@ -171,9 +162,9 @@ width = 250.0
 height = 180.0
 
 [[tumblr.photos.alt_sizes]]
-height = 72.0
 url = "/images/37/f1/5064741fdb5eeb94ca836b695962.jpg"
 width = 100.0
+height = 72.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/51/dd/9df9c2f124eb6df7a6cbca699f45.jpg"
@@ -184,19 +175,19 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
+height = 750.0
+url = "/images/e0/2d/6ac4d64dd048cf1cd99e04f41e45.jpg"
+width = 1170.0
+
+[[tumblr.photos.alt_sizes]]
 url = "/images/e0/2d/6ac4d64dd048cf1cd99e04f41e45.jpg"
 width = 1170.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
-width = 1170.0
-height = 750.0
-url = "/images/e0/2d/6ac4d64dd048cf1cd99e04f41e45.jpg"
-
-[[tumblr.photos.alt_sizes]]
-height = 410.0
 url = "/images/a6/ce/4aa5038e72375dbd2dfc9c066506.jpg"
 width = 640.0
+height = 410.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9e/ba/f31e2a02270ce447319a5a8b2f6c.jpg"
@@ -204,19 +195,19 @@ width = 540.0
 height = 346.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/16/04/7fcd9ccfbebc6fe295acf0e55609.jpg"
 width = 500.0
 height = 321.0
+url = "/images/16/04/7fcd9ccfbebc6fe295acf0e55609.jpg"
 
 [[tumblr.photos.alt_sizes]]
-width = 400.0
 height = 256.0
 url = "/images/0e/0d/c8db50a88cbb5f2ac9ffc460b617.jpg"
+width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-height = 160.0
 url = "/images/79/63/84f7be6d8c82d4b71341dda7e44a.jpg"
 width = 250.0
+height = 160.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
@@ -272,11 +263,18 @@ width = 100.0
 height = 61.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6a/42/a123194b092b5ed1e7d77e90ab6f.jpg"
 width = 75.0
 height = 75.0
+url = "/images/6a/42/a123194b092b5ed1e7d77e90ab6f.jpg"
 
-[tumblr.reblog]
-comment = "<p>@oneunderscore__ The four tweets that sum up this app — <a href=\"http://twitter.com/xbhaskarx/status/1585469309135953920\">@xbhaskarx</a></p>"
-tree_html = ""
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

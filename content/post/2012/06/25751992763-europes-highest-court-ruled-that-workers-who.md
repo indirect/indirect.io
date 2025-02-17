@@ -1,40 +1,38 @@
 +++
+aliases = ["/post/25751992763/europes-highest-court-ruled-that-workers-who"]
 date = 2012-06-24T01:45:32Z
-slug = "europes-highest-court-ruled-that-workers-who"
 id = "25751992763"
-aliases = [ "/post/25751992763/europes-highest-court-ruled-that-workers-who" ]
-tags = [ ]
+slug = "europes-highest-court-ruled-that-workers-who"
 type = "tumblr-quote"
 
 [tumblr]
+post_url = "https://indirect.tumblr.com/post/25751992763/europes-highest-court-ruled-that-workers-who"
+can_blaze = false
+can_like = false
+interactability_reblog = "everyone"
+blog_name = "indirect"
 type = "quote"
 is_blocks_post_format = false
-slug = "europes-highest-court-ruled-that-workers-who"
-reblog_key = "0LwdHQum"
-note_count = 0.0
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id = 2.5751992763e+10
 is_blaze_pending = false
-timestamp = 1.340502332e+09
-can_blaze = false
-format = "markdown"
-post_url = "https://indirect.tumblr.com/post/25751992763/europes-highest-court-ruled-that-workers-who"
-short_url = "https://tmblr.co/ZY3jbyN_y3cx"
-interactability_reblog = "everyone"
-can_reblog = false
-date = "2012-06-24 01:45:32 GMT"
 state = "published"
-can_send_in_message = true
-can_reply = false
+format = "markdown"
+reblog_key = "0LwdHQum"
+slug = "europes-highest-court-ruled-that-workers-who"
 summary = "Europe’s highest court ruled that workers who happened to get sick on vacation were legally entitled to take another vacation."
-source = "<a href=\"http://marginalrevolution.com/marginalrevolution/2012/06/european-vacation.html\">Marginal Revolution</a>"
+can_send_in_message = true
 id_string = "25751992763"
-should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reply = false
+id = 25751992763.0
+date = "2012-06-24 01:45:32 GMT"
+short_url = "https://tmblr.co/ZY3jbyN_y3cx"
 text = "Europe’s highest court ruled that workers who happened to get sick on vacation were legally entitled to take another vacation."
 is_blazed = false
-tags = [ ]
-can_like = false
+timestamp = 1340502332.0
+should_open_in_legacy = true
+note_count = 0.0
+source = "<a href=\"http://marginalrevolution.com/marginalrevolution/2012/06/european-vacation.html\">Marginal Revolution</a>"
+can_reblog = false
 display_avatar = true
 
 [tumblr.reblog]
@@ -42,13 +40,13 @@ comment = "<p><a href=\"http://marginalrevolution.com/marginalrevolution/2012/06
 tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

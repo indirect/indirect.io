@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/744904353626931200/uk-rappers-be-like-ive-got-a-posh-flat-and-my"]
 date = 2024-03-14T06:02:30Z
-slug = "uk-rappers-be-like-ive-got-a-posh-flat-and-my"
 id = "744904353626931200"
-aliases = [ "/post/744904353626931200/uk-rappers-be-like-ive-got-a-posh-flat-and-my" ]
-tags = [ ]
+slug = "uk-rappers-be-like-ive-got-a-posh-flat-and-my"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "744904353626931200"
-reblog_key = "ZrpBo4EZ"
-can_reblog = false
-id = 7.449043536269312e+17
-is_blaze_pending = false
-timestamp = 1.71039615e+09
-format = "markdown"
-should_open_in_legacy = true
-source = "<a href=\"https://twitter.com/John_Attridge/status/1767826218622361716\">John Attridge (@John_Attridge)</a>"
 interactability_reblog = "everyone"
-state = "published"
-type = "quote"
-blog_name = "indirect"
-can_blaze = false
-summary = "UK rappers be like “I’ve got a posh flat and my bird is very comely, I own more motors than the marchioness of cholmondeley”"
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/744904353626931200/uk-rappers-be-like-ive-got-a-posh-flat-and-my"
-date = "2024-03-14 06:02:30 GMT"
-short_url = "https://tmblr.co/ZY3jbyfMRf0Taq00"
-note_count = 0.0
-slug = "uk-rappers-be-like-ive-got-a-posh-flat-and-my"
-tags = [ ]
-text = "UK rappers be like &ldquo;I&rsquo;ve got a posh flat and my bird is very comely, I own more motors than the marchioness of cholmondeley&rdquo;"
-interactability_blaze = "everyone"
+id = 7.449043536269312e+17
+reblog_key = "ZrpBo4EZ"
 can_send_in_message = true
 can_reply = false
+display_avatar = true
+is_blocks_post_format = false
+state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyfMRf0Taq00"
+blog_name = "indirect"
+summary = "UK rappers be like “I’ve got a posh flat and my bird is very comely, I own more motors than the marchioness of cholmondeley”"
+id_string = "744904353626931200"
+post_url = "https://indirect.tumblr.com/post/744904353626931200/uk-rappers-be-like-ive-got-a-posh-flat-and-my"
+date = "2024-03-14 06:02:30 GMT"
+timestamp = 1710396150.0
+text = "UK rappers be like &ldquo;I&rsquo;ve got a posh flat and my bird is very comely, I own more motors than the marchioness of cholmondeley&rdquo;"
+source = "<a href=\"https://twitter.com/John_Attridge/status/1767826218622361716\">John Attridge (@John_Attridge)</a>"
+slug = "uk-rappers-be-like-ive-got-a-posh-flat-and-my"
+should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reblog = false
+type = "quote"
 is_blazed = false
+is_blaze_pending = false
+can_blaze = false
 can_like = false
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 

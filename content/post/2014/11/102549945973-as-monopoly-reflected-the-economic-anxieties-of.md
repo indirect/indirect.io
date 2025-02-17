@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/102549945973/as-monopoly-reflected-the-economic-anxieties-of"]
 date = 2014-11-13T20:18:48Z
-slug = "as-monopoly-reflected-the-economic-anxieties-of"
 id = "102549945973"
-aliases = [ "/post/102549945973/as-monopoly-reflected-the-economic-anxieties-of" ]
-tags = [ ]
+slug = "as-monopoly-reflected-the-economic-anxieties-of"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
+id_string = "102549945973"
 is_blazed = false
-display_avatar = true
-can_send_in_message = true
+id = 102549945973.0
+state = "published"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+timestamp = 1415909928.0
+format = "markdown"
 is_blaze_pending = false
-tags = [ ]
-interactability_blaze = "everyone"
-note_count = 0.0
-text = "as Monopoly reflected the economic anxieties of its era, so Netrunner reflects the economic anxieties of its"
+summary = "as Monopoly reflected the economic anxieties of its era, so Netrunner reflects the economic anxieties of its"
+can_like = false
+can_send_in_message = true
+can_reply = false
+reblog_key = "rFYBihCb"
+short_url = "https://tmblr.co/ZY3jby1VWS-vr"
+display_avatar = true
 type = "quote"
+blog_name = "indirect"
+can_blaze = false
 post_url = "https://indirect.tumblr.com/post/102549945973/as-monopoly-reflected-the-economic-anxieties-of"
 slug = "as-monopoly-reflected-the-economic-anxieties-of"
-short_url = "https://tmblr.co/ZY3jby1VWS-vr"
-format = "markdown"
-should_open_in_legacy = true
-can_blaze = false
 date = "2014-11-13 20:18:48 GMT"
-timestamp = 1.415909928e+09
-reblog_key = "rFYBihCb"
-can_reblog = false
-can_reply = false
-id_string = "102549945973"
-summary = "as Monopoly reflected the economic anxieties of its era, so Netrunner reflects the economic anxieties of its"
+note_count = 0.0
+text = "as Monopoly reflected the economic anxieties of its era, so Netrunner reflects the economic anxieties of its"
 source = "<a href=\"http://killscreendaily.com/articles/why-netrunner-matters/##as+Monopoly+reflected+the+economic+anxieties+of+its+era%2C+so+Netrunner+reflects+the+economic+anxieties+of+its\">Why Netrunner matters</a>"
-can_like = false
-interactability_reblog = "everyone"
-state = "published"
-blog_name = "indirect"
-id = 1.02549945973e+11
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reblog = false
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 

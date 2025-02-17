@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/108217572318/department-of-homeland-security-oversight-report"]
 date = 2015-01-16T02:02:47Z
-title = "Department of Homeland Security oversight report: DHS is a terrifying failure"
-slug = "department-of-homeland-security-oversight-report"
 id = "108217572318"
-aliases = [ "/post/108217572318/department-of-homeland-security-oversight-report" ]
-tags = [ ]
+slug = "department-of-homeland-security-oversight-report"
+title = "Department of Homeland Security oversight report: DHS is a terrifying failure"
 type = "tumblr-link"
 
 [tumblr]
-blog_name = "indirect"
-date = "2015-01-16 02:02:47 GMT"
-tags = [ ]
-note_count = 0.0
-title = "Department of Homeland Security oversight report: DHS is a terrifying failure"
-url = "http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/"
-trail = [ ]
-can_reblog = false
-state = "published"
+display_avatar = true
 short_url = "https://tmblr.co/ZY3jby1aoHHlU"
-summary = "Department of Homeland Security oversight report: DHS is a terrifying failure"
+format = "markdown"
+reblog_key = "NATLf0nu"
+should_open_in_legacy = true
+title = "Department of Homeland Security oversight report: DHS is a terrifying failure"
+can_reply = false
+is_blocks_post_format = false
+slug = "department-of-homeland-security-oversight-report"
+interactability_blaze = "everyone"
+post_url = "https://indirect.tumblr.com/post/108217572318/department-of-homeland-security-oversight-report"
+interactability_reblog = "everyone"
+can_send_in_message = true
 is_blazed = false
 can_blaze = false
-is_blocks_post_format = false
-id = 1.08217572318e+11
-id_string = "108217572318"
-post_url = "https://indirect.tumblr.com/post/108217572318/department-of-homeland-security-oversight-report"
-publisher = "zdnet.com"
-type = "link"
-reblog_key = "NATLf0nu"
+timestamp = 1421373767.0
 description = ""
-can_send_in_message = true
-display_avatar = true
-slug = "department-of-homeland-security-oversight-report"
-timestamp = 1.421373767e+09
-format = "markdown"
+type = "link"
+id_string = "108217572318"
+summary = "Department of Homeland Security oversight report: DHS is a terrifying failure"
+note_count = 0.0
+url = "http://www.zdnet.com/article/department-of-homeland-security-oversight-report-dhs-is-a-terrifying-failure/"
+publisher = "zdnet.com"
 can_like = false
-can_reply = false
+blog_name = "indirect"
+id = 108217572318.0
 is_blaze_pending = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-should_open_in_legacy = true
+date = "2015-01-16 02:02:47 GMT"
+state = "published"
+can_reblog = false
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
 
 [tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

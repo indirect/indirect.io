@@ -1,59 +1,46 @@
 +++
+aliases = ["/post/102983300283/couple-people-were-asking-for-this-image-from"]
 date = 2014-11-18T21:13:44Z
-slug = "couple-people-were-asking-for-this-image-from"
 id = "102983300283"
-aliases = [ "/post/102983300283/couple-people-were-asking-for-this-image-from" ]
-tags = [ ]
+slug = "couple-people-were-asking-for-this-image-from"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
-note_count = 0.0
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/102983300283/couple-people-were-asking-for-this-image-from"
-interactability_reblog = "everyone"
 id_string = "102983300283"
-state = "published"
-reblog_key = "8SRG83fv"
-summary = "Couple people were asking for this image from today's comic. — @ZachWeiner"
-image_permalink = "https://indirect.tumblr.com/image/102983300283"
-can_reblog = false
+is_blaze_pending = false
 can_blaze = false
-id = 1.02983300283e+11
-tags = [ ]
-link_url = "http://twitter.com/ZachWeiner/status/534804165672062976"
-timestamp = 1.416345224e+09
-is_blocks_post_format = false
-is_blazed = false
-should_open_in_legacy = true
-can_send_in_message = true
-slug = "couple-people-were-asking-for-this-image-from"
-short_url = "https://tmblr.co/ZY3jby1VwI7Ix"
-can_reply = false
-display_avatar = true
-date = "2014-11-18 21:13:44 GMT"
-type = "photo"
-blog_name = "indirect"
 format = "html"
-caption = "<p>Couple people were asking for this image from today&rsquo;s comic. — <a href=\"http://twitter.com/ZachWeiner/status/534804165672062976\">@ZachWeiner</a></p>"
 can_like = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
+is_blocks_post_format = false
+reblog_key = "8SRG83fv"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/102983300283/couple-people-were-asking-for-this-image-from"
+short_url = "https://tmblr.co/ZY3jby1VwI7Ix"
+interactability_reblog = "everyone"
+type = "photo"
+summary = "Couple people were asking for this image from today's comic. — @ZachWeiner"
+note_count = 0.0
+is_blazed = false
+can_reply = false
+slug = "couple-people-were-asking-for-this-image-from"
+timestamp = 1416345224.0
+can_reblog = false
+display_avatar = true
+image_permalink = "https://indirect.tumblr.com/image/102983300283"
+can_send_in_message = true
+id = 102983300283.0
+date = "2014-11-18 21:13:44 GMT"
+state = "published"
+should_open_in_legacy = true
+caption = "<p>Couple people were asking for this image from today&rsquo;s comic. — <a href=\"http://twitter.com/ZachWeiner/status/534804165672062976\">@ZachWeiner</a></p>"
+link_url = "http://twitter.com/ZachWeiner/status/534804165672062976"
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>Couple people were asking for this image from today’s comic. — <a href=\"http://twitter.com/ZachWeiner/status/534804165672062976\">@ZachWeiner</a></p>"
 content = "<p>Couple people were asking for this image from today&rsquo;s comic. &mdash; <a href=\"http://twitter.com/ZachWeiner/status/534804165672062976\">@ZachWeiner</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -63,38 +50,49 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
-show_avatar = true
 show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-header_stretch = true
-show_description = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
+header_bounds = ""
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_poster = ""
+show_description = true
+show_header_image = false
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
+header_stretch = true
+show_avatar = true
 
 [tumblr.trail.post]
 id = "102983300283"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>Couple people were asking for this image from today’s comic. — <a href=\"http://twitter.com/ZachWeiner/status/534804165672062976\">@ZachWeiner</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/19/49/3c34f4641bad5f26e99ca5f64174.png"
 width = 600.0
 height = 1121.0
-url = "/images/19/49/3c34f4641bad5f26e99ca5f64174.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/19/49/3c34f4641bad5f26e99ca5f64174.png"
@@ -122,9 +120,9 @@ width = 321.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/9a/ba/6fdb11a49b7912a66bcf1225583a.png"
 width = 214.0
 height = 400.0
-url = "/images/9a/ba/6fdb11a49b7912a66bcf1225583a.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/6a/f3/149fdf751af8c3610ea8ff82ce41.png"

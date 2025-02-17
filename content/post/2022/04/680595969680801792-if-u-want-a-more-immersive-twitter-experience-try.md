@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/680595969680801792/if-u-want-a-more-immersive-twitter-experience-try"]
 date = 2022-04-04T10:08:16Z
-slug = "if-u-want-a-more-immersive-twitter-experience-try"
 id = "680595969680801792"
-aliases = [ "/post/680595969680801792/if-u-want-a-more-immersive-twitter-experience-try" ]
-tags = [ ]
+slug = "if-u-want-a-more-immersive-twitter-experience-try"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-blog_name = "indirect"
-is_blaze_pending = false
-state = "published"
-interactability_reblog = "everyone"
 can_reblog = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/680595969680801792/if-u-want-a-more-immersive-twitter-experience-try"
+date = "2022-04-04 10:08:16 GMT"
 reblog_key = "GLlFKgBO"
-tags = [ ]
-interactability_blaze = "everyone"
-can_like = false
+source = "<a href=\"http://twitter.com/dril_gpt2/status/1510330116039221248\">@dril_gpt2</a>"
+can_reply = false
+type = "quote"
+post_url = "https://indirect.tumblr.com/post/680595969680801792/if-u-want-a-more-immersive-twitter-experience-try"
+format = "html"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
 is_blocks_post_format = false
-id = 6.805959696808018e+17
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbybnzcsmOm00"
+summary = "if u want a more immersive twitter experience, try turning off ur wifi and screaming the word “ratio” into an abandoned house"
 note_count = 0.0
 text = "if u want a more immersive twitter experience, try turning off ur wifi and screaming the word &ldquo;ratio&rdquo; into an abandoned house"
+id = 6.805959696808018e+17
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1649066896.0
+state = "published"
+can_like = false
 can_send_in_message = true
-can_reply = false
-format = "html"
-display_avatar = true
-slug = "if-u-want-a-more-immersive-twitter-experience-try"
-timestamp = 1.649066896e+09
-source = "<a href=\"http://twitter.com/dril_gpt2/status/1510330116039221248\">@dril_gpt2</a>"
-id_string = "680595969680801792"
 is_blazed = false
-summary = "if u want a more immersive twitter experience, try turning off ur wifi and screaming the word “ratio” into an abandoned house"
-date = "2022-04-04 10:08:16 GMT"
-short_url = "https://tmblr.co/ZY3jbybnzcsmOm00"
-should_open_in_legacy = true
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+slug = "if-u-want-a-more-immersive-twitter-experience-try"
+interactability_blaze = "everyone"
+display_avatar = true
+id_string = "680595969680801792"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/dril_gpt2/status/1510330116039221248\">@dril_gpt2</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

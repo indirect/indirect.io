@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/185778892753/dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"]
 date = 2019-06-22T22:06:30Z
-slug = "dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"
 id = "185778892753"
-aliases = [ "/post/185778892753/dude-1-hey-bro-dude-2-yeah-bro-dude-1-can" ]
-tags = [ ]
+slug = "dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2019-06-22 22:06:30 GMT"
-interactability_reblog = "everyone"
-id_string = "185778892753"
-reblog_key = "S4cCVOR2"
-tags = [ ]
-source = "<a href=\"http://twitter.com/JohnBecicka/status/1141798177504464896\">@JohnBecicka</a>"
-blog_name = "indirect"
+type = "quote"
 can_blaze = false
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+reblog_key = "S4cCVOR2"
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/185778892753/dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"
+format = "html"
+can_like = false
+can_reblog = false
+blog_name = "indirect"
+is_blazed = false
+date = "2019-06-22 22:06:30 GMT"
+timestamp = 1561241190.0
+is_blocks_post_format = false
+id = 185778892753.0
 summary = "Dude 1: Hey, bro? \nDude 2: yeah bro? \nDude 1: Can you pass me that pamphlet? \nDude 2: Brochure"
 text = "Dude 1: Hey, bro?<br/>\nDude 2: yeah bro?<br/>\nDude 1: Can you pass me that pamphlet?<br/>\nDude 2: Brochure"
-can_send_in_message = true
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/185778892753/dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"
-timestamp = 1.56124119e+09
+id_string = "185778892753"
+state = "published"
 note_count = 0.0
-can_like = false
-type = "quote"
+source = "<a href=\"http://twitter.com/JohnBecicka/status/1141798177504464896\">@JohnBecicka</a>"
+can_reply = false
 is_blaze_pending = false
 slug = "dude-1-hey-bro-dude-2-yeah-bro-dude-1-can"
-format = "html"
-can_reblog = false
-id = 1.85778892753e+11
-is_blazed = false
-state = "published"
 short_url = "https://tmblr.co/ZY3jby2j1IE-H"
-should_open_in_legacy = true
-can_reply = false
-is_blocks_post_format = false
 interactability_blaze = "everyone"
+display_avatar = true
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

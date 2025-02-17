@@ -1,86 +1,49 @@
 +++
+aliases = ["/post/179628097588/andrewjacksonza"]
 date = 2018-10-31T18:58:23Z
-slug = "andrewjacksonza"
 id = "179628097588"
-aliases = [ "/post/179628097588/andrewjacksonza" ]
-tags = [ ]
+slug = "andrewjacksonza"
 type = "tumblr-photo"
 
 [tumblr]
-id = 1.79628097588e+11
-can_blaze = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-short_url = "https://tmblr.co/ZY3jby2dIgq0q"
-summary = "— @AndrewJacksonZA"
-date = "2018-10-31 18:58:23 GMT"
-is_blazed = false
-is_blocks_post_format = false
-can_send_in_message = true
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/179628097588/andrewjacksonza"
-can_reblog = false
-format = "html"
-reblog_key = "dg19GwlR"
-display_avatar = true
-note_count = 0.0
-link_url = "http://twitter.com/AndrewJacksonZA/status/1057228359791493121"
-timestamp = 1.541012303e+09
-state = "published"
 type = "photo"
-blog_name = "indirect"
-id_string = "179628097588"
-caption = "<p>— <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
+can_blaze = false
+state = "published"
+reblog_key = "dg19GwlR"
+note_count = 0.0
 image_permalink = "https://indirect.tumblr.com/image/179628097588"
-can_reply = false
-slug = "andrewjacksonza"
-tags = [ ]
-can_like = false
+short_url = "https://tmblr.co/ZY3jby2dIgq0q"
+should_open_in_legacy = true
 interactability_blaze = "everyone"
-
-[[tumblr.trail]]
-content_raw = "<p>— <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
-content = "<p>&mdash; <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image_poster = ""
-link_color = "#529ECC"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-header_bounds = ""
-header_stretch = true
-show_avatar = true
-show_description = true
-show_title = true
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "179628097588"
+can_reblog = false
+can_send_in_message = true
+is_blocks_post_format = false
+id = 179628097588.0
+can_like = false
+display_avatar = true
+format = "html"
+post_url = "https://indirect.tumblr.com/post/179628097588/andrewjacksonza"
+caption = "<p>— <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
+blog_name = "indirect"
+slug = "andrewjacksonza"
+timestamp = 1541012303.0
+summary = "— @AndrewJacksonZA"
+can_reply = false
+id_string = "179628097588"
+is_blazed = false
+is_blaze_pending = false
+link_url = "http://twitter.com/AndrewJacksonZA/status/1057228359791493121"
+date = "2018-10-31 18:58:23 GMT"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -118,9 +81,9 @@ width = 400.0
 height = 580.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1f/7f/89fadd5712f75d8caec08f96947e.jpg"
 width = 250.0
 height = 363.0
+url = "/images/1f/7f/89fadd5712f75d8caec08f96947e.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bf/bd/cf823da9643e45e48bf4b5702644.jpg"
@@ -135,4 +98,39 @@ height = 75.0
 [tumblr.reblog]
 comment = "<p>— <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>&mdash; <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>— <a href=\"http://twitter.com/AndrewJacksonZA/status/1057228359791493121\">@AndrewJacksonZA</a></p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_title = true
+title_color = "#444444"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+show_avatar = true
+show_header_image = false
+title_font = "Gibson"
+header_bounds = ""
+link_color = "#529ECC"
+show_description = true
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "179628097588"
 +++

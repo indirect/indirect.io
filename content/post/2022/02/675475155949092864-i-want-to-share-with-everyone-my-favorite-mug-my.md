@@ -1,55 +1,98 @@
 +++
+aliases = ["/post/675475155949092864/i-want-to-share-with-everyone-my-favorite-mug-my"]
 date = 2022-02-06T21:35:05Z
-slug = "i-want-to-share-with-everyone-my-favorite-mug-my"
 id = "675475155949092864"
-aliases = [ "/post/675475155949092864/i-want-to-share-with-everyone-my-favorite-mug-my" ]
-tags = [ ]
+slug = "i-want-to-share-with-everyone-my-favorite-mug-my"
 type = "tumblr-photo"
 
 [tumblr]
+slug = "i-want-to-share-with-everyone-my-favorite-mug-my"
+link_url = "http://twitter.com/TaliaRinger/status/1490362848727478278"
 blog_name = "indirect"
-summary = "I want to share with everyone my favorite mug: my vintage 1980 programming mug — @TaliaRinger"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/675475155949092864/i-want-to-share-with-everyone-my-favorite-mug-my"
+format = "html"
+should_open_in_legacy = true
+note_count = 0.0
 interactability_reblog = "everyone"
-display_avatar = true
-type = "photo"
-timestamp = 1.644183305e+09
-photoset_layout = "12"
+can_send_in_message = true
+state = "published"
 id = 6.754751559490929e+17
 id_string = "675475155949092864"
 is_blazed = false
+can_like = false
+timestamp = 1644183305.0
+type = "photo"
+reblog_key = "mxWP8ElT"
 caption = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug — <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
 interactability_blaze = "everyone"
-slug = "i-want-to-share-with-everyone-my-favorite-mug-my"
-date = "2022-02-06 21:35:05 GMT"
-format = "html"
-can_reply = false
-tags = [ ]
-should_open_in_legacy = true
-link_url = "http://twitter.com/TaliaRinger/status/1490362848727478278"
-can_send_in_message = true
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/675475155949092864/i-want-to-share-with-everyone-my-favorite-mug-my"
-reblog_key = "mxWP8ElT"
-is_blocks_post_format = false
-can_blaze = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbybVnHDKye00"
-note_count = 0.0
-can_like = false
 can_reblog = false
+can_reply = false
+is_blocks_post_format = false
+date = "2022-02-06 21:35:05 GMT"
+short_url = "https://tmblr.co/ZY3jbybVnHDKye00"
+summary = "I want to share with everyone my favorite mug: my vintage 1980 programming mug — @TaliaRinger"
+display_avatar = true
+photoset_layout = "12"
+can_blaze = false
+
+[[tumblr.trail]]
+content_raw = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug — <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
+content = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug &mdash; <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+show_description = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_title = true
+title_font_weight = "bold"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+avatar_shape = "square"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+header_bounds = ""
+
+[tumblr.trail.post]
+id = "675475155949092864"
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug — <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/fb/bb/97e2c46b7872db6b2bb5cbecd5ea.jpg"
-width = 1200.0
-height = 932.0
-
 [[tumblr.photos.alt_sizes]]
-width = 1200.0
 height = 932.0
 url = "/images/fb/bb/97e2c46b7872db6b2bb5cbecd5ea.jpg"
+width = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bb/94/ce45c3fa57a5bc41bd51a496f1d8.jpg"
@@ -86,8 +129,18 @@ url = "/images/72/88/4bda458f4c78eef0595ab9b99bf0.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+url = "/images/fb/bb/97e2c46b7872db6b2bb5cbecd5ea.jpg"
+width = 1200.0
+height = 932.0
+
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/b5/d0/01ac617236d90397aa01d9ddb009.jpg"
+width = 1200.0
+height = 1003.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b5/d0/01ac617236d90397aa01d9ddb009.jpg"
@@ -95,9 +148,9 @@ width = 1200.0
 height = 1003.0
 
 [[tumblr.photos.alt_sizes]]
+height = 535.0
 url = "/images/20/7b/fab243981be887699ee585d3c059.jpg"
 width = 640.0
-height = 535.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/70/09/b0678507d38032d0591ed1443bab.jpg"
@@ -125,22 +178,17 @@ width = 100.0
 height = 84.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/2d/a0/f69867c6ebf52b5f8bee719b63c5.jpg"
 width = 75.0
 height = 75.0
-url = "/images/2d/a0/f69867c6ebf52b5f8bee719b63c5.jpg"
-
-[tumblr.photos.original_size]
-width = 1200.0
-height = 1003.0
-url = "/images/b5/d0/01ac617236d90397aa01d9ddb009.jpg"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 857.0
 url = "/images/c4/3b/d8baca26456aa838703144726307.jpg"
 width = 1200.0
-height = 857.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c4/3b/d8baca26456aa838703144726307.jpg"
@@ -168,9 +216,9 @@ width = 400.0
 height = 286.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/25/bc/a7fe4e999eb927916cf145b9ea3f.jpg"
 width = 250.0
 height = 179.0
-url = "/images/25/bc/a7fe4e999eb927916cf145b9ea3f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/18/d1/74cabb2379f8e80baaa27cc331f7.jpg"
@@ -181,54 +229,4 @@ height = 71.0
 url = "/images/39/37/6768c241c136bf2ee8669ebb6aab.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.reblog]
-comment = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug — <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug — <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
-content = "<p>I want to share with everyone my favorite mug: my vintage 1980 programming mug &mdash; <a href=\"http://twitter.com/TaliaRinger/status/1490362848727478278\">@TaliaRinger</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "675475155949092864"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-link_color = "#529ECC"
-show_description = true
-title_font_weight = "bold"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-show_avatar = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_title = true
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 +++

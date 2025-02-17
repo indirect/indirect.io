@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/745806200217698304/im-sorry-but-the-idea-of-an-increasingly"]
 date = 2024-03-24T04:56:58Z
-slug = "im-sorry-but-the-idea-of-an-increasingly"
 id = "745806200217698304"
-aliases = [ "/post/745806200217698304/im-sorry-but-the-idea-of-an-increasingly" ]
-tags = [ ]
+slug = "im-sorry-but-the-idea-of-an-increasingly"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://twitter.com/nezumi_ningen/status/1771616649566650523\">karesenova valentine (@nezumi_ningen)</a>"
-can_like = false
-interactability_reblog = "everyone"
-is_blazed = false
-timestamp = 1.711256218e+09
-short_url = "https://tmblr.co/ZY3jbyfPeicZGe00"
-note_count = 1.0
-type = "quote"
-can_reblog = false
-id = 7.458062002176983e+17
-blog_name = "indirect"
 id_string = "745806200217698304"
-tags = [ ]
-can_send_in_message = true
-is_blocks_post_format = false
-state = "published"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-can_reply = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/745806200217698304/im-sorry-but-the-idea-of-an-increasingly"
-slug = "im-sorry-but-the-idea-of-an-increasingly"
-date = "2024-03-24 04:56:58 GMT"
-display_avatar = true
+is_blazed = false
 format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyfPeicZGe00"
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/745806200217698304/im-sorry-but-the-idea-of-an-increasingly"
 reblog_key = "Bx4bpfen"
+should_open_in_legacy = true
+note_count = 1.0
+can_like = false
+display_avatar = true
+id = 7.458062002176983e+17
+slug = "im-sorry-but-the-idea-of-an-increasingly"
+interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
+source = "<a href=\"https://twitter.com/nezumi_ningen/status/1771616649566650523\">karesenova valentine (@nezumi_ningen)</a>"
+can_send_in_message = true
+date = "2024-03-24 04:56:58 GMT"
+timestamp = 1711256218.0
+state = "published"
+can_blaze = false
 summary = "I’m sorry but the idea of an increasingly frustrated ISIS having to repeatedly insist that they did a terrorist attack because..."
 is_blaze_pending = false
 text = "I&rsquo;m sorry but the idea of an increasingly frustrated ISIS having to repeatedly insist that they did a terrorist attack because everyone has dumbass conspiracy brainworms now is objectively very funny"
+interactability_reblog = "everyone"
+type = "quote"
+blog_name = "indirect"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://twitter.com/nezumi_ningen/status/1771616649566650523\">karesenova valentine (@nezumi_ningen)</a></p>"
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/nezumi_ningen/status/1771616649566650523\">karesenova valentine (@nezumi_ningen)</a></p>"
-tree_html = ""
 +++

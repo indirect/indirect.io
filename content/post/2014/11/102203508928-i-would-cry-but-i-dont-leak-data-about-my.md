@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my"]
 date = 2014-11-09T19:13:49Z
-slug = "i-would-cry-but-i-dont-leak-data-about-my"
 id = "102203508928"
-aliases = [ "/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my" ]
-tags = [ ]
+slug = "i-would-cry-but-i-dont-leak-data-about-my"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
+blog_name = "indirect"
 state = "published"
-short_url = "https://tmblr.co/ZY3jby1VBpSZ0"
-id = 1.02203508928e+11
-id_string = "102203508928"
+summary = "I would cry, but I don’t leak data about my internal state."
+can_reblog = false
 can_blaze = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jby1VBpSZ0"
 note_count = 0.0
+can_send_in_message = true
+slug = "i-would-cry-but-i-dont-leak-data-about-my"
+reblog_key = "Jws4uT0u"
 text = "I would cry, but I don&rsquo;t leak data about my internal state."
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reblog = false
-date = "2014-11-09 19:13:49 GMT"
-can_reply = false
 type = "quote"
-is_blazed = false
-summary = "I would cry, but I don’t leak data about my internal state."
-post_url = "https://indirect.tumblr.com/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my"
-tags = [ ]
-source = "<a href=\"http://twitter.com/SwiftOnSecurity/status/531513451798339584\">@SwiftOnSecurity</a>"
-blog_name = "indirect"
-is_blaze_pending = false
-slug = "i-would-cry-but-i-dont-leak-data-about-my"
-format = "html"
-reblog_key = "Jws4uT0u"
-should_open_in_legacy = true
-can_send_in_message = true
+id = 102203508928.0
+display_avatar = true
 is_blocks_post_format = false
-timestamp = 1.415560429e+09
+date = "2014-11-09 19:13:49 GMT"
 can_like = false
+id_string = "102203508928"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my"
+timestamp = 1415560429.0
+interactability_blaze = "everyone"
+is_blazed = false
+should_open_in_legacy = true
+source = "<a href=\"http://twitter.com/SwiftOnSecurity/status/531513451798339584\">@SwiftOnSecurity</a>"
+can_reply = false
 
 [tumblr.blog]
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

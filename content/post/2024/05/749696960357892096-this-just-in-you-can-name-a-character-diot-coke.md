@@ -1,49 +1,47 @@
 +++
+aliases = ["/post/749696960357892096/this-just-in-you-can-name-a-character-diot-coke"]
 date = 2024-05-06T03:38:55Z
-slug = "this-just-in-you-can-name-a-character-diot-coke"
 id = "749696960357892096"
-aliases = [ "/post/749696960357892096/this-just-in-you-can-name-a-character-diot-coke" ]
-tags = [ ]
+slug = "this-just-in-you-can-name-a-character-diot-coke"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
 is_blazed = false
-state = "published"
-reblog_key = "MMidL2J6"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blaze_pending = false
-date = "2024-05-06 03:38:55 GMT"
-summary = "This just in: You can name a character Diot Coke in your historically accurate medieval fiction — Non-Ironically T.V.'s B. Dave..."
-is_blocks_post_format = false
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/749696960357892096"
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/749696960357892096/this-just-in-you-can-name-a-character-diot-coke"
-link_url = "https://twitter.com/BDaveWalters/status/1786975738211738001"
-caption = "<p>This just in: You can name a character Diot Coke in your historically accurate medieval fiction — <a href=\"https://twitter.com/BDaveWalters/status/1786975738211738001\">Non-Ironically T.V.&rsquo;s B. Dave Walters (@BDaveWalters)</a></p>"
-id_string = "749696960357892096"
-slug = "this-just-in-you-can-name-a-character-diot-coke"
-timestamp = 1.714966735e+09
-can_blaze = false
-tags = [ ]
 short_url = "https://tmblr.co/ZY3jbyfdTMdJKe00"
-type = "photo"
-format = "html"
-note_count = 0.0
+summary = "This just in: You can name a character Diot Coke in your historically accurate medieval fiction — Non-Ironically T.V.'s B. Dave..."
+is_blaze_pending = false
+should_open_in_legacy = true
 can_like = false
+id = 7.496969603578921e+17
+reblog_key = "MMidL2J6"
+note_count = 0.0
+caption = "<p>This just in: You can name a character Diot Coke in your historically accurate medieval fiction — <a href=\"https://twitter.com/BDaveWalters/status/1786975738211738001\">Non-Ironically T.V.&rsquo;s B. Dave Walters (@BDaveWalters)</a></p>"
+display_avatar = true
+date = "2024-05-06 03:38:55 GMT"
+state = "published"
+can_blaze = false
+link_url = "https://twitter.com/BDaveWalters/status/1786975738211738001"
+type = "photo"
+slug = "this-just-in-you-can-name-a-character-diot-coke"
+interactability_reblog = "everyone"
+id_string = "749696960357892096"
+post_url = "https://indirect.tumblr.com/post/749696960357892096/this-just-in-you-can-name-a-character-diot-coke"
+timestamp = 1714966735.0
+image_permalink = "https://indirect.tumblr.com/image/749696960357892096"
 can_reblog = false
 can_reply = false
+is_blocks_post_format = false
 blog_name = "indirect"
-id = 7.496969603578921e+17
+format = "html"
+interactability_blaze = "everyone"
+can_send_in_message = true
 
 [tumblr.blog]
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 
@@ -58,9 +56,9 @@ width = 736.0
 height = 1166.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/2f/5c/a3bbf6f939b7db215ec1d5252d7b.jpg"
 width = 736.0
 height = 1166.0
-url = "/images/2f/5c/a3bbf6f939b7db215ec1d5252d7b.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0b/8f/e78434b5812c881bd4f91067dcb2.jpg"
@@ -83,9 +81,9 @@ width = 379.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/5d/d8/327c381bc0619ed3b6b059adbd51.jpg"
 width = 250.0
 height = 396.0
-url = "/images/5d/d8/327c381bc0619ed3b6b059adbd51.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2c/9d/2240333aedf34f7b2b2ab1fc18de.jpg"
@@ -108,30 +106,30 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-title_color = "#444444"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
-background_color = "#FAFAFA"
+show_avatar = true
+body_font = "Helvetica Neue"
 header_bounds = ""
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-title_font_weight = "bold"
-show_avatar = true
-show_header_image = false
+header_stretch = true
+show_description = true
 show_title = true
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 
 [tumblr.trail.post]
 id = "749696960357892096"

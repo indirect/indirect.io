@@ -1,57 +1,40 @@
 +++
+aliases = ["/post/761396128771080192/i-made-this-wobb-wobbuuu"]
 date = 2024-09-12T06:52:12Z
-slug = "i-made-this-wobb-wobbuuu"
 id = "761396128771080192"
-aliases = [ "/post/761396128771080192/i-made-this-wobb-wobbuuu" ]
-tags = [ ]
+slug = "i-made-this-wobb-wobbuuu"
 type = "tumblr-photo"
 
 [tumblr]
-display_avatar = true
-can_blaze = false
-format = "html"
-tags = [ ]
-caption = "<p>i made this — <a href=\"https://twitter.com/wobbuuu/status/1833720994336280898\">wobb ◂Ⓘ▸ (@wobbuuu)</a></p>"
-interactability_reblog = "everyone"
-can_reblog = false
-date = "2024-09-12 06:52:12 GMT"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbygH1RwymW00"
-should_open_in_legacy = true
-link_url = "https://twitter.com/wobbuuu/status/1833720994336280898"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/761396128771080192/i-made-this-wobb-wobbuuu"
-summary = "i made this — wobb ◂Ⓘ▸ (@wobbuuu)"
-can_reply = false
-id_string = "761396128771080192"
-image_permalink = "https://indirect.tumblr.com/image/761396128771080192"
-is_blaze_pending = false
-note_count = 0.0
-type = "photo"
 blog_name = "indirect"
-slug = "i-made-this-wobb-wobbuuu"
-reblog_key = "9igoaWV2"
-can_like = false
-interactability_blaze = "everyone"
-can_send_in_message = true
 id = 7.613961287710802e+17
 is_blazed = false
-timestamp = 1.726123932e+09
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>i made this — <a href=\"https://twitter.com/wobbuuu/status/1833720994336280898\">wobb ◂Ⓘ▸ (@wobbuuu)</a></p>"
-tree_html = ""
+is_blaze_pending = false
+timestamp = 1726123932.0
+image_permalink = "https://indirect.tumblr.com/image/761396128771080192"
+reblog_key = "9igoaWV2"
+short_url = "https://tmblr.co/ZY3jbygH1RwymW00"
+note_count = 0.0
+interactability_blaze = "everyone"
+type = "photo"
+can_reply = false
+slug = "i-made-this-wobb-wobbuuu"
+state = "published"
+format = "html"
+caption = "<p>i made this — <a href=\"https://twitter.com/wobbuuu/status/1833720994336280898\">wobb ◂Ⓘ▸ (@wobbuuu)</a></p>"
+should_open_in_legacy = true
+id_string = "761396128771080192"
+can_blaze = false
+link_url = "https://twitter.com/wobbuuu/status/1833720994336280898"
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
+summary = "i made this — wobb ◂Ⓘ▸ (@wobbuuu)"
+can_reblog = false
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/761396128771080192/i-made-this-wobb-wobbuuu"
+date = "2024-09-12 06:52:12 GMT"
+interactability_reblog = "everyone"
 
 [[tumblr.photos]]
 caption = ""
@@ -72,14 +55,14 @@ width = 640.0
 height = 435.0
 
 [[tumblr.photos.alt_sizes]]
+height = 367.0
 url = "/images/41/94/72d78bb4f582fd3a656ee755b9ea.png"
 width = 540.0
-height = 367.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/70/91/6408124176638a303d7132298706.png"
 width = 500.0
 height = 339.0
-url = "/images/70/91/6408124176638a303d7132298706.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/80/ea/9277466600de1826a39ddfa56c0f.png"
@@ -101,6 +84,10 @@ url = "/images/7e/a4/eea52cdfca90e6f97261d61802c6.png"
 width = 75.0
 height = 75.0
 
+[tumblr.reblog]
+comment = "<p>i made this — <a href=\"https://twitter.com/wobbuuu/status/1833720994336280898\">wobb ◂Ⓘ▸ (@wobbuuu)</a></p>"
+tree_html = ""
+
 [[tumblr.trail]]
 is_root_item = true
 content_raw = "<p>i made this — <a href=\"https://twitter.com/wobbuuu/status/1833720994336280898\">wobb ◂Ⓘ▸ (@wobbuuu)</a></p>"
@@ -108,31 +95,42 @@ content = "<p>i made this &mdash; <a href=\"https://twitter.com/wobbuuu/status/1
 is_current_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-link_color = "#529ECC"
-show_title = true
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-title_font = "Gibson"
-background_color = "#FAFAFA"
-header_bounds = ""
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-title_color = "#444444"
+show_avatar = true
+title_font = "Gibson"
+header_bounds = ""
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_header_image = false
+show_title = true
 title_font_weight = "bold"
+show_description = true
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_color = "#444444"
 
 [tumblr.trail.post]
 id = "761396128771080192"
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

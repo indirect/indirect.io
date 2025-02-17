@@ -1,44 +1,46 @@
 +++
+aliases = ["/post/624113888287440896/celery-is-bone-in-water"]
 date = 2020-07-19T23:29:45Z
-slug = "celery-is-bone-in-water"
 id = "624113888287440896"
-aliases = [ "/post/624113888287440896/celery-is-bone-in-water" ]
-tags = [ ]
+slug = "celery-is-bone-in-water"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blocks_post_format = false
-can_like = false
-can_send_in_message = true
-text = "celery is bone-in water"
-id = 6.241138882874409e+17
-date = "2020-07-19 23:29:45 GMT"
-state = "published"
-can_reblog = false
-timestamp = 1.595201385e+09
-is_blaze_pending = false
-slug = "celery-is-bone-in-water"
+short_url = "https://tmblr.co/ZY3jbyYfJ4PImi00"
+summary = "celery is bone-in water"
+id_string = "624113888287440896"
+blog_name = "indirect"
+is_blazed = false
 format = "html"
 note_count = 0.0
-can_reply = false
-should_open_in_legacy = true
-is_blazed = false
-summary = "celery is bone-in water"
-source = "<a href=\"http://twitter.com/trashbearsinc/status/1284942790468804610\">@trashbearsinc</a>"
-blog_name = "indirect"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyYfJ4PImi00"
-interactability_reblog = "everyone"
-id_string = "624113888287440896"
-post_url = "https://indirect.tumblr.com/post/624113888287440896/celery-is-bone-in-water"
-interactability_blaze = "everyone"
 display_avatar = true
+type = "quote"
 reblog_key = "you2xOM4"
-tags = [ ]
+can_like = false
+source = "<a href=\"http://twitter.com/trashbearsinc/status/1284942790468804610\">@trashbearsinc</a>"
+is_blocks_post_format = false
+is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/624113888287440896/celery-is-bone-in-water"
+timestamp = 1595201385.0
+slug = "celery-is-bone-in-water"
+date = "2020-07-19 23:29:45 GMT"
+state = "published"
+text = "celery is bone-in water"
+can_send_in_message = true
+id = 6.241138882874409e+17
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/trashbearsinc/status/1284942790468804610\">@trashbearsinc</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
@@ -47,8 +49,4 @@ url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/trashbearsinc/status/1284942790468804610\">@trashbearsinc</a></p>"
-tree_html = ""
 +++

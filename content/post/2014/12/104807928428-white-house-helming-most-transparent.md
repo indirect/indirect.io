@@ -1,105 +1,68 @@
 +++
+aliases = ["/post/104807928428/white-house-helming-most-transparent"]
 date = 2014-12-10T02:20:13Z
-slug = "white-house-helming-most-transparent"
 id = "104807928428"
-aliases = [ "/post/104807928428/white-house-helming-most-transparent" ]
-tags = [ ]
+slug = "white-house-helming-most-transparent"
 type = "tumblr-photo"
 
 [tumblr]
-slug = "white-house-helming-most-transparent"
-blog_name = "indirect"
-id_string = "104807928428"
+should_open_in_legacy = true
+note_count = 0.0
+can_reply = false
+id = 104807928428.0
 can_blaze = false
 reblog_key = "Zk9KV7fH"
-type = "photo"
-date = "2014-12-10 02:20:13 GMT"
 caption = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. — <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
-timestamp = 1.418178013e+09
-is_blocks_post_format = false
-id = 1.04807928428e+11
-post_url = "https://indirect.tumblr.com/post/104807928428/white-house-helming-most-transparent"
 can_like = false
 interactability_reblog = "everyone"
-can_send_in_message = true
-state = "published"
-tags = [ ]
-note_count = 0.0
-display_avatar = true
-is_blazed = false
-can_reply = false
-format = "html"
-summary = "White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. —..."
-image_permalink = "https://indirect.tumblr.com/image/104807928428"
-can_reblog = false
-is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jby1Xd2X9i"
-should_open_in_legacy = true
+is_blaze_pending = false
+is_blazed = false
+slug = "white-house-helming-most-transparent"
+summary = "White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. —..."
+can_send_in_message = true
 link_url = "http://twitter.com/attackerman/status/542366915684216832"
+post_url = "https://indirect.tumblr.com/post/104807928428/white-house-helming-most-transparent"
+date = "2014-12-10 02:20:13 GMT"
+format = "html"
+can_reblog = false
+display_avatar = true
+type = "photo"
+is_blocks_post_format = false
+blog_name = "indirect"
+timestamp = 1418178013.0
+image_permalink = "https://indirect.tumblr.com/image/104807928428"
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. — <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. — <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
-content = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. &mdash; <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-title_font = "Gibson"
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-title_color = "#444444"
-avatar_shape = "square"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "104807928428"
+id_string = "104807928428"
+state = "published"
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. — <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/76/ad/3a57d4fe1ab929478d123f7e03b3.png"
 width = 598.0
 height = 61.0
+url = "/images/76/ad/3a57d4fe1ab929478d123f7e03b3.png"
 
 [[tumblr.photos.alt_sizes]]
-width = 598.0
 height = 61.0
 url = "/images/76/ad/3a57d4fe1ab929478d123f7e03b3.png"
+width = 598.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7f/ce/e39f578f512530327d5b5efbc7fa.png"
@@ -130,4 +93,39 @@ height = 10.0
 url = "/images/00/b6/95277dbffe22d6b8fb7ab5aa1f1b.png"
 width = 75.0
 height = 61.0
+
+[[tumblr.trail]]
+content = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. &mdash; <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>White House, helming Most Transparent Administration in History, withheld over 9000 CIA torture documents to Senate. — <a href=\"http://twitter.com/attackerman/status/542366915684216832\">@attackerman</a></p>"
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+title_color = "#444444"
+title_font = "Gibson"
+show_description = true
+show_header_image = false
+show_title = true
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_avatar = true
+body_font = "Helvetica Neue"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "104807928428"
 +++

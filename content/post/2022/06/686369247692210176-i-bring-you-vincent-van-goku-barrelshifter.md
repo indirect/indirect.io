@@ -1,59 +1,108 @@
 +++
+aliases = ["/post/686369247692210176/i-bring-you-vincent-van-goku-barrelshifter"]
 date = 2022-06-07T03:32:02Z
-slug = "i-bring-you-vincent-van-goku-barrelshifter"
 id = "686369247692210176"
-aliases = [ "/post/686369247692210176/i-bring-you-vincent-van-goku-barrelshifter" ]
-tags = [ ]
+slug = "i-bring-you-vincent-van-goku-barrelshifter"
 type = "tumblr-photo"
 
 [tumblr]
-can_send_in_message = true
-id = 6.863692476922102e+17
-image_permalink = "https://indirect.tumblr.com/image/686369247692210176"
-can_reply = false
-display_avatar = true
-caption = "<p>I bring you Vincent van Goku — <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
-format = "html"
-tags = [ ]
-summary = "I bring you Vincent van Goku — @barrelshifter"
-can_reblog = false
-date = "2022-06-07 03:32:02 GMT"
-short_url = "https://tmblr.co/ZY3jbyc6UJ6vSa00"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-is_blaze_pending = false
-is_blazed = false
-slug = "i-bring-you-vincent-van-goku-barrelshifter"
-reblog_key = "iYHaK1va"
-link_url = "http://twitter.com/barrelshifter/status/1533971720473718784"
 id_string = "686369247692210176"
+post_url = "https://indirect.tumblr.com/post/686369247692210176/i-bring-you-vincent-van-goku-barrelshifter"
+slug = "i-bring-you-vincent-van-goku-barrelshifter"
+date = "2022-06-07 03:32:02 GMT"
+image_permalink = "https://indirect.tumblr.com/image/686369247692210176"
+interactability_blaze = "everyone"
+can_send_in_message = true
+state = "published"
+blog_name = "indirect"
+summary = "I bring you Vincent van Goku — @barrelshifter"
+link_url = "http://twitter.com/barrelshifter/status/1533971720473718784"
+interactability_reblog = "everyone"
+type = "photo"
+reblog_key = "iYHaK1va"
+is_blocks_post_format = false
+is_blazed = false
+id = 6.863692476922102e+17
+is_blaze_pending = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyc6UJ6vSa00"
+note_count = 0.0
+timestamp = 1654572722.0
+caption = "<p>I bring you Vincent van Goku — <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
+can_reblog = false
+can_reply = false
 can_blaze = false
-timestamp = 1.654572722e+09
 should_open_in_legacy = true
 can_like = false
-type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/686369247692210176/i-bring-you-vincent-van-goku-barrelshifter"
-state = "published"
-note_count = 0.0
-interactability_blaze = "everyone"
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p>I bring you Vincent van Goku — <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
 tree_html = ""
 
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>I bring you Vincent van Goku — <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
+content = "<p>I bring you Vincent van Goku &mdash; <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_description = true
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_header_image = false
+title_color = "#444444"
+body_font = "Helvetica Neue"
+show_title = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+
+[tumblr.trail.post]
+id = "686369247692210176"
+
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
-height = 911.0
+[tumblr.photos.original_size]
 url = "/images/71/d8/1fa407ec341c498042ef120a1738.jpg"
 width = 1200.0
+height = 911.0
 
 [[tumblr.photos.alt_sizes]]
-height = 486.0
+url = "/images/71/d8/1fa407ec341c498042ef120a1738.jpg"
+width = 1200.0
+height = 911.0
+
+[[tumblr.photos.alt_sizes]]
 url = "/images/29/56/e214b2c0bd74edceac155f7f6f55.jpg"
 width = 640.0
+height = 486.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cc/9c/d30c81b212e7ef960fe5ec067903.jpg"
@@ -84,55 +133,4 @@ height = 76.0
 url = "/images/9a/69/76fb56cb44645854b66e2e7a261f.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/71/d8/1fa407ec341c498042ef120a1738.jpg"
-width = 1200.0
-height = 911.0
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>I bring you Vincent van Goku — <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
-content = "<p>I bring you Vincent van Goku &mdash; <a href=\"http://twitter.com/barrelshifter/status/1533971720473718784\">@barrelshifter</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-header_image_poster = ""
-link_color = "#529ECC"
-title_color = "#444444"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-show_header_image = false
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_description = true
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "686369247692210176"
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

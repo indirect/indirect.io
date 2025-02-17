@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/2559501267/new-years-resolution-clean-up-tomorrow"]
 date = 2011-01-02T00:11:54Z
-slug = "new-years-resolution-clean-up-tomorrow"
 id = "2559501267"
-aliases = [ "/post/2559501267/new-years-resolution-clean-up-tomorrow" ]
-tags = [ ]
+slug = "new-years-resolution-clean-up-tomorrow"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
+should_open_in_legacy = true
+note_count = 0.0
 interactability_reblog = "everyone"
-display_avatar = true
-slug = "new-years-resolution-clean-up-tomorrow"
-can_reblog = false
+can_reply = false
+is_blocks_post_format = false
 blog_name = "indirect"
-is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/2559501267/new-years-resolution-clean-up-tomorrow"
+source = "rachel, with the resolution you can keep all year long!"
 can_send_in_message = true
-type = "quote"
-id_string = "2559501267"
-format = "markdown"
 reblog_key = "osHbS4CF"
+text = "New year&rsquo;s resolution: Clean up, tomorrow!"
+id_string = "2559501267"
+date = "2011-01-02 00:11:54 GMT"
+interactability_blaze = "everyone"
+can_like = false
+state = "published"
+is_blazed = false
+is_blaze_pending = false
+can_blaze = false
+type = "quote"
+format = "markdown"
+timestamp = 1293927114.0
 short_url = "https://tmblr.co/ZY3jby2OZkFJ"
 summary = "New year’s resolution: Clean up, tomorrow!"
-post_url = "https://indirect.tumblr.com/post/2559501267/new-years-resolution-clean-up-tomorrow"
-timestamp = 1.293927114e+09
-state = "published"
-note_count = 0.0
-tags = [ ]
-text = "New year&rsquo;s resolution: Clean up, tomorrow!"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-id = 2.559501267e+09
-can_blaze = false
-date = "2011-01-02 00:11:54 GMT"
-can_reply = false
-should_open_in_legacy = true
-source = "rachel, with the resolution you can keep all year long!"
-can_like = false
+can_reblog = false
+display_avatar = true
+id = 2559501267.0
+slug = "new-years-resolution-clean-up-tomorrow"
 
 [tumblr.reblog]
 comment = "<p>rachel, with the resolution you can keep all year long!</p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

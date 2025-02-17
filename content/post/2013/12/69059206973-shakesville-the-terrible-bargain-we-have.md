@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/69059206973/shakesville-the-terrible-bargain-we-have"]
 date = 2013-12-05T07:34:45Z
-title = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
-slug = "shakesville-the-terrible-bargain-we-have"
 id = "69059206973"
-aliases = [ "/post/69059206973/shakesville-the-terrible-bargain-we-have" ]
-tags = [ ]
+slug = "shakesville-the-terrible-bargain-we-have"
+title = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
 type = "tumblr-link"
 
 [tumblr]
-interactability_blaze = "everyone"
-display_avatar = true
-is_blazed = false
-reblog_key = "JskhvpDu"
-tags = [ ]
-type = "link"
-state = "published"
-summary = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
+can_reply = false
 note_count = 0.0
-description = ""
-can_blaze = false
-slug = "shakesville-the-terrible-bargain-we-have"
-trail = [ ]
-can_send_in_message = true
+title = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
+id = 69059206973.0
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1386228885.0
+state = "published"
+type = "link"
 is_blocks_post_format = false
+blog_name = "indirect"
+slug = "shakesville-the-terrible-bargain-we-have"
+interactability_blaze = "everyone"
 id_string = "69059206973"
+post_url = "https://indirect.tumblr.com/post/69059206973/shakesville-the-terrible-bargain-we-have"
+should_open_in_legacy = true
+can_send_in_message = true
+can_blaze = false
+display_avatar = true
+publisher = "shakesville.com"
+reblog_key = "JskhvpDu"
+short_url = "https://tmblr.co/ZY3jby10KFzyz"
+description = ""
+interactability_reblog = "everyone"
+can_reblog = false
+url = "http://www.shakesville.com/2012/03/terrible-bargain-we-have-regretfully.html"
+can_like = false
 date = "2013-12-05 07:34:45 GMT"
 format = "markdown"
-should_open_in_legacy = true
-title = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
-url = "http://www.shakesville.com/2012/03/terrible-bargain-we-have-regretfully.html"
-id = 6.9059206973e+10
-publisher = "shakesville.com"
-can_reply = false
-short_url = "https://tmblr.co/ZY3jby10KFzyz"
-can_like = false
-can_reblog = false
-blog_name = "indirect"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/69059206973/shakesville-the-terrible-bargain-we-have"
-timestamp = 1.386228885e+09
-interactability_reblog = "everyone"
+summary = "Shakesville: The Terrible Bargain We Have Regretfully Struck"
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

@@ -1,57 +1,55 @@
 +++
+aliases = ["/post/56996644888/a-part-time-food-truck-worker-with-300-twitter"]
 date = 2013-07-31T20:20:03Z
-slug = "a-part-time-food-truck-worker-with-300-twitter"
 id = "56996644888"
-aliases = [ "/post/56996644888/a-part-time-food-truck-worker-with-300-twitter" ]
-tags = [ ]
+slug = "a-part-time-food-truck-worker-with-300-twitter"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyr5GyWO"
 summary = "A part-time food-truck worker with 300 Twitter followers managed to shame some Wall Street firm into getting him fired"
-note_count = 0.0
-source_url = "http://www.theawl.com/2013/07/millennial-fired-for-tweet?utm_content=bufferf553f&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer"
-source_title = "The Awl"
-can_reply = false
-is_blocks_post_format = false
-tags = [ ]
-text = "A part-time food-truck worker with 300 Twitter followers managed to shame some Wall Street firm into getting him fired"
-source = "<a href=\"http://www.theawl.com/2013/07/millennial-fired-for-tweet?utm_content=bufferf553f&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer\">I Got Fired For Tweeting</a>"
-display_avatar = true
-can_blaze = false
-format = "markdown"
-bookmarklet = true
-can_like = false
-can_reblog = false
-id = 5.6996644888e+10
-is_blaze_pending = false
-reblog_key = "N0ZAExtN"
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 can_send_in_message = true
-type = "quote"
-is_blazed = false
-blog_name = "indirect"
-date = "2013-07-31 20:20:03 GMT"
-id_string = "56996644888"
-slug = "a-part-time-food-truck-worker-with-300-twitter"
+id = 56996644888.0
 post_url = "https://indirect.tumblr.com/post/56996644888/a-part-time-food-truck-worker-with-300-twitter"
-should_open_in_legacy = true
-timestamp = 1.375302003e+09
+date = "2013-07-31 20:20:03 GMT"
+can_like = false
+display_avatar = true
+type = "quote"
 state = "published"
+source_title = "The Awl"
+text = "A part-time food-truck worker with 300 Twitter followers managed to shame some Wall Street firm into getting him fired"
+is_blazed = false
+bookmarklet = true
+can_reblog = false
+can_blaze = false
+format = "markdown"
+should_open_in_legacy = true
+note_count = 0.0
+is_blaze_pending = false
+slug = "a-part-time-food-truck-worker-with-300-twitter"
+short_url = "https://tmblr.co/ZY3jbyr5GyWO"
+can_reply = false
+blog_name = "indirect"
+source_url = "http://www.theawl.com/2013/07/millennial-fired-for-tweet?utm_content=bufferf553f&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer"
+source = "<a href=\"http://www.theawl.com/2013/07/millennial-fired-for-tweet?utm_content=bufferf553f&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer\">I Got Fired For Tweeting</a>"
+is_blocks_post_format = false
+id_string = "56996644888"
+timestamp = 1375302003.0
+reblog_key = "N0ZAExtN"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://www.theawl.com/2013/07/millennial-fired-for-tweet?utm_content=bufferf553f&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer\">I Got Fired For Tweeting</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

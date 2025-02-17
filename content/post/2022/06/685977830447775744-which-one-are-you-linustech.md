@@ -1,100 +1,83 @@
 +++
+aliases = ["/post/685977830447775744/which-one-are-you-linustech"]
 date = 2022-06-02T19:50:37Z
-slug = "which-one-are-you-linustech"
 id = "685977830447775744"
-aliases = [ "/post/685977830447775744/which-one-are-you-linustech" ]
-tags = [ ]
+slug = "which-one-are-you-linustech"
 type = "tumblr-photo"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-can_reply = false
-can_blaze = false
-reblog_key = "rAhRCNDK"
-link_url = "http://twitter.com/LinusTech/status/1532157559750410241"
-image_permalink = "https://indirect.tumblr.com/image/685977830447775744"
-id_string = "685977830447775744"
-post_url = "https://indirect.tumblr.com/post/685977830447775744/which-one-are-you-linustech"
-caption = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
-tags = [ ]
 summary = "which one are you? — @LinusTech"
-is_blaze_pending = false
-slug = "which-one-are-you-linustech"
+interactability_blaze = "everyone"
+can_reblog = false
 short_url = "https://tmblr.co/ZY3jbyc55JFBeW00"
-note_count = 0.0
+date = "2022-06-02 19:50:37 GMT"
+should_open_in_legacy = true
+can_reply = false
 is_blazed = false
+slug = "which-one-are-you-linustech"
+image_permalink = "https://indirect.tumblr.com/image/685977830447775744"
+can_like = false
+is_blaze_pending = false
+note_count = 0.0
 display_avatar = true
 type = "photo"
-blog_name = "indirect"
-id = 6.859778304477757e+17
-date = "2022-06-02 19:50:37 GMT"
 is_blocks_post_format = false
-timestamp = 1.654199437e+09
-state = "published"
+blog_name = "indirect"
+can_blaze = false
+id = 6.859778304477757e+17
+id_string = "685977830447775744"
+timestamp = 1654199437.0
 format = "html"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
+caption = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/685977830447775744/which-one-are-you-linustech"
+state = "published"
+reblog_key = "rAhRCNDK"
+link_url = "http://twitter.com/LinusTech/status/1532157559750410241"
+interactability_reblog = "everyone"
 
 [[tumblr.trail]]
-content_raw = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
 content = "<p>which one are you? &mdash; <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
 
 [tumblr.trail.blog]
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
+title_font = "Gibson"
+background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+avatar_shape = "square"
+header_image_poster = ""
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
+show_avatar = true
 show_title = true
 title_color = "#444444"
-title_font = "Gibson"
-avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-background_color = "#FAFAFA"
 header_stretch = true
 link_color = "#529ECC"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_description = true
-title_font_weight = "bold"
+show_header_image = false
 
 [tumblr.trail.post]
 id = "685977830447775744"
-
-[tumblr.reblog]
-comment = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
-tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/4d/04/22cfd2163ce2f830fd8a69a5e384.jpg"
 width = 1200.0
 height = 1200.0
+url = "/images/4d/04/22cfd2163ce2f830fd8a69a5e384.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4d/04/22cfd2163ce2f830fd8a69a5e384.jpg"
@@ -107,14 +90,14 @@ width = 640.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/4b/4d/9152208f52cacb565f78f040b736.jpg"
 width = 540.0
 height = 540.0
-url = "/images/4b/4d/9152208f52cacb565f78f040b736.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/33/ff/cf5a9c8dbe3f59fa6c55865789a1.jpg"
 width = 500.0
 height = 500.0
+url = "/images/33/ff/cf5a9c8dbe3f59fa6c55865789a1.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b8/a7/aa14f24885fdcbc9730242e5e4da.jpg"
@@ -132,7 +115,22 @@ width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/62/77/342f912f2a921beaefc1eda58b90.jpg"
 width = 75.0
+height = 75.0
+
+[tumblr.reblog]
+comment = "<p>which one are you? — <a href=\"http://twitter.com/LinusTech/status/1532157559750410241\">@LinusTech</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/631709160197718016/me-i-would-like-to-exchange-money-for-an-escape"]
 date = 2020-10-11T19:33:21Z
-slug = "me-i-would-like-to-exchange-money-for-an-escape"
 id = "631709160197718016"
-aliases = [ "/post/631709160197718016/me-i-would-like-to-exchange-money-for-an-escape" ]
-tags = [ ]
+slug = "me-i-would-like-to-exchange-money-for-an-escape"
 type = "tumblr-quote"
 
 [tumblr]
 slug = "me-i-would-like-to-exchange-money-for-an-escape"
-format = "html"
-display_avatar = true
-can_blaze = false
-tags = [ ]
-can_like = false
-can_reblog = false
-date = "2020-10-11 19:33:21 GMT"
-reblog_key = "sfsWrmm7"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-id = 6.31709160197718e+17
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyZ4I29UyW00"
-can_send_in_message = true
-type = "quote"
+timestamp = 1602444801.0
 state = "published"
-source = "<a href=\"http://twitter.com/whitequark/status/1315196362389106688\">@whitequark</a>"
-interactability_blaze = "everyone"
-can_reply = false
-is_blocks_post_format = false
 should_open_in_legacy = true
-note_count = 1.0
-id_string = "631709160197718016"
-timestamp = 1.602444801e+09
-summary = "me: “i would like to exchange money for an escape from soul-crushing existence”\n steam: “based on your preferences we recommend..."
-text = "me: &ldquo;i would like to exchange money for an escape from soul-crushing existence&rdquo;\n<br/>steam: &ldquo;based on your preferences we recommend you: soul-crushing existence simulator&rdquo;"
+display_avatar = true
 is_blaze_pending = false
 post_url = "https://indirect.tumblr.com/post/631709160197718016/me-i-would-like-to-exchange-money-for-an-escape"
+interactability_blaze = "everyone"
+date = "2020-10-11 19:33:21 GMT"
+can_like = false
+is_blocks_post_format = false
+id = 6.31709160197718e+17
+note_count = 1.0
+source = "<a href=\"http://twitter.com/whitequark/status/1315196362389106688\">@whitequark</a>"
+reblog_key = "sfsWrmm7"
+short_url = "https://tmblr.co/ZY3jbyZ4I29UyW00"
+can_blaze = false
+text = "me: &ldquo;i would like to exchange money for an escape from soul-crushing existence&rdquo;\n<br/>steam: &ldquo;based on your preferences we recommend you: soul-crushing existence simulator&rdquo;"
+type = "quote"
+id_string = "631709160197718016"
+is_blazed = false
+interactability_reblog = "everyone"
+can_reblog = false
+blog_name = "indirect"
+format = "html"
+summary = "me: “i would like to exchange money for an escape from soul-crushing existence”\n steam: “based on your preferences we recommend..."
+can_send_in_message = true
+can_reply = false
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

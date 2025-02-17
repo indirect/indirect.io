@@ -1,53 +1,51 @@
 +++
+aliases = ["/post/83892391987/100-you-worked-at-the-next-google-and-are-rich"]
 date = 2014-04-26T06:43:30Z
-slug = "100-you-worked-at-the-next-google-and-are-rich"
 id = "83892391987"
-aliases = [ "/post/83892391987/100-you-worked-at-the-next-google-and-are-rich" ]
-tags = [ ]
+slug = "100-you-worked-at-the-next-google-and-are-rich"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2014-04-26 06:43:30 GMT"
-state = "published"
-interactability_reblog = "everyone"
+can_blaze = false
+type = "quote"
 post_url = "https://indirect.tumblr.com/post/83892391987/100-you-worked-at-the-next-google-and-are-rich"
-format = "markdown"
-text = "100: You worked at the next Google, and are rich beyond the dreams of avarice. Congratulations. (Perceptive readers will note that 100 does not actually show up on a d100 or rand(100).)"
-short_url = "https://tmblr.co/ZY3jby1E8O50p"
-note_count = 0.0
-is_blocks_post_format = false
-id = 8.3892391987e+10
-is_blaze_pending = false
-source_url = "http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"
-source_title = "kalzumeus.com"
-interactability_blaze = "everyone"
-can_reblog = false
-source = "<a href=\"http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/\">Don&rsquo;t Call Yourself A Programmer, And Other Career Advice</a>"
-id_string = "83892391987"
-is_blazed = false
+interactability_reblog = "everyone"
 should_open_in_legacy = true
-bookmarklet = true
+text = "100: You worked at the next Google, and are rich beyond the dreams of avarice. Congratulations. (Perceptive readers will note that 100 does not actually show up on a d100 or rand(100).)"
+source = "<a href=\"http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/\">Don&rsquo;t Call Yourself A Programmer, And Other Career Advice</a>"
+state = "published"
+is_blocks_post_format = false
+id = 83892391987.0
+is_blazed = false
+slug = "100-you-worked-at-the-next-google-and-are-rich"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1E8O50p"
+summary = "100: You worked at the next Google, and are rich beyond the dreams of avarice. Congratulations. (Perceptive readers will note..."
 can_like = false
 can_send_in_message = true
+timestamp = 1398494610.0
+id_string = "83892391987"
+source_url = "http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"
+interactability_blaze = "everyone"
 can_reply = false
-type = "quote"
-timestamp = 1.39849461e+09
-tags = [ ]
-summary = "100: You worked at the next Google, and are rich beyond the dreams of avarice. Congratulations. (Perceptive readers will note..."
-slug = "100-you-worked-at-the-next-google-and-are-rich"
-reblog_key = "9YinDRAE"
 display_avatar = true
+bookmarklet = true
+note_count = 0.0
+source_title = "kalzumeus.com"
+reblog_key = "9YinDRAE"
 blog_name = "indirect"
-can_blaze = false
+date = "2014-04-26 06:43:30 GMT"
+can_reblog = false
+is_blaze_pending = false
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

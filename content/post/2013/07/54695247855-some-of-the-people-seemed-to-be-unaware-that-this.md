@@ -1,41 +1,39 @@
 +++
+aliases = ["/post/54695247855/some-of-the-people-seemed-to-be-unaware-that-this"]
 date = 2013-07-05T20:25:25Z
-slug = "some-of-the-people-seemed-to-be-unaware-that-this"
 id = "54695247855"
-aliases = [ "/post/54695247855/some-of-the-people-seemed-to-be-unaware-that-this" ]
-tags = [ ]
+slug = "some-of-the-people-seemed-to-be-unaware-that-this"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/54695247855/some-of-the-people-seemed-to-be-unaware-that-this"
-tags = [ ]
-can_like = false
-summary = "Some of the people seemed to be unaware that this was an actual old game that existed as they asked if the retro-style graphics..."
-source = "<a href=\"http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/\">Majority of Gamers Today Can’t Finish Level 1 in Super Mario Bros.</a>"
-interactability_blaze = "everyone"
-display_avatar = true
-reblog_key = "yzwTPeWk"
-can_blaze = false
 date = "2013-07-05 20:25:25 GMT"
-should_open_in_legacy = true
 type = "quote"
-id = 5.4695247855e+10
-text = "Some of the people seemed to be unaware that this was an actual old game that existed as they asked if the retro-style graphics were supposed to be a throwback to old Nintendo games."
-can_send_in_message = true
-is_blocks_post_format = false
-timestamp = 1.373055925e+09
+id_string = "54695247855"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_blaze = false
+state = "published"
 format = "markdown"
+reblog_key = "yzwTPeWk"
+summary = "Some of the people seemed to be unaware that this was an actual old game that existed as they asked if the retro-style graphics..."
+should_open_in_legacy = true
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/54695247855/some-of-the-people-seemed-to-be-unaware-that-this"
+slug = "some-of-the-people-seemed-to-be-unaware-that-this"
+can_like = false
+can_send_in_message = true
+id = 54695247855.0
+is_blazed = false
+is_blaze_pending = false
+source = "<a href=\"http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/\">Majority of Gamers Today Can’t Finish Level 1 in Super Mario Bros.</a>"
 can_reblog = false
 can_reply = false
+display_avatar = true
+timestamp = 1373055925.0
 note_count = 0.0
-slug = "some-of-the-people-seemed-to-be-unaware-that-this"
-state = "published"
+is_blocks_post_format = false
 short_url = "https://tmblr.co/ZY3jbyoy5p-l"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-id_string = "54695247855"
-is_blazed = false
+text = "Some of the people seemed to be unaware that this was an actual old game that existed as they asked if the retro-style graphics were supposed to be a throwback to old Nintendo games."
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/\">Majority of Gamers Today Can’t Finish Level 1 in Super Mario Bros.</a></p>"
@@ -43,7 +41,7 @@ tree_html = ""
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"

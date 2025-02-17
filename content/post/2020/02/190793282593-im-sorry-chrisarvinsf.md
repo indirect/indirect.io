@@ -1,54 +1,93 @@
 +++
+aliases = ["/post/190793282593/im-sorry-chrisarvinsf"]
 date = 2020-02-12T19:25:28Z
-slug = "im-sorry-chrisarvinsf"
 id = "190793282593"
-aliases = [ "/post/190793282593/im-sorry-chrisarvinsf" ]
-tags = [ ]
+slug = "im-sorry-chrisarvinsf"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/190793282593/im-sorry-chrisarvinsf"
-summary = "i'm sorry — @chrisarvinsf"
-interactability_reblog = "everyone"
-id = 1.90793282593e+11
-is_blaze_pending = false
-tags = [ ]
-image_permalink = "https://indirect.tumblr.com/image/190793282593"
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jby2niAdGX"
-can_reply = false
-display_avatar = true
-can_blaze = false
-slug = "im-sorry-chrisarvinsf"
-reblog_key = "wAhGDKV3"
-can_send_in_message = true
 type = "photo"
-state = "published"
-should_open_in_legacy = true
-link_url = "http://twitter.com/chrisarvinsf/status/1227456464173879298"
-blog_name = "indirect"
-is_blazed = false
-interactability_blaze = "everyone"
+id = 190793282593.0
+can_reblog = false
+is_blocks_post_format = false
+reblog_key = "wAhGDKV3"
+summary = "i'm sorry — @chrisarvinsf"
+image_permalink = "https://indirect.tumblr.com/image/190793282593"
+timestamp = 1581535528.0
 id_string = "190793282593"
-timestamp = 1.581535528e+09
+can_blaze = false
+display_avatar = true
+state = "published"
 format = "html"
 note_count = 1.0
+link_url = "http://twitter.com/chrisarvinsf/status/1227456464173879298"
 can_like = false
-date = "2020-02-12 19:25:28 GMT"
+interactability_reblog = "everyone"
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/190793282593/im-sorry-chrisarvinsf"
+slug = "im-sorry-chrisarvinsf"
 caption = "<p>i&rsquo;m sorry — <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
-can_reblog = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+blog_name = "indirect"
+date = "2020-02-12 19:25:28 GMT"
+is_blaze_pending = false
+should_open_in_legacy = true
+can_reply = false
+short_url = "https://tmblr.co/ZY3jby2niAdGX"
 
 [tumblr.reblog]
 comment = "<p>i’m sorry — <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
 tree_html = ""
 
+[[tumblr.trail]]
+content = "<p>i&rsquo;m sorry &mdash; <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>i’m sorry — <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+show_title = true
+avatar_shape = "square"
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+show_header_image = false
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_stretch = true
+title_color = "#444444"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_avatar = true
+title_font_weight = "bold"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+
+[tumblr.trail.post]
+id = "190793282593"
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.photos]]
 caption = ""
-
-[tumblr.photos.original_size]
-height = 824.0
-url = "/images/70/fc/16e8e126f788c5dae1532ed25eeb.jpg"
-width = 1199.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/70/fc/16e8e126f788c5dae1532ed25eeb.jpg"
@@ -71,9 +110,9 @@ width = 500.0
 height = 344.0
 
 [[tumblr.photos.alt_sizes]]
-height = 275.0
 url = "/images/c7/c9/9d9590de25a1875a2b1307084071.jpg"
 width = 400.0
+height = 275.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7d/3e/21d71dccc4dd751bbc7b720740e7.jpg"
@@ -81,58 +120,17 @@ width = 250.0
 height = 172.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/26/4c/21920d8bd0eb0625d5072f0c0872.jpg"
 width = 100.0
 height = 69.0
-url = "/images/26/4c/21920d8bd0eb0625d5072f0c0872.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/ae/83/b6845ae7c219c07696a0783aef42.jpg"
 width = 75.0
-height = 75.0
 
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content = "<p>i&rsquo;m sorry &mdash; <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>i’m sorry — <a href=\"http://twitter.com/chrisarvinsf/status/1227456464173879298\">@chrisarvinsf</a></p>"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-background_color = "#FAFAFA"
-header_stretch = true
-show_description = true
-show_title = true
-title_font_weight = "bold"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-avatar_shape = "square"
-link_color = "#529ECC"
-show_avatar = true
-title_color = "#444444"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-
-[tumblr.trail.post]
-id = "190793282593"
+[tumblr.photos.original_size]
+url = "/images/70/fc/16e8e126f788c5dae1532ed25eeb.jpg"
+width = 1199.0
+height = 824.0
 +++

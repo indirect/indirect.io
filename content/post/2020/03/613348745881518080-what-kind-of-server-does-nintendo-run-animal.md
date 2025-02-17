@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/613348745881518080/what-kind-of-server-does-nintendo-run-animal"]
 date = 2020-03-23T03:42:25Z
-slug = "what-kind-of-server-does-nintendo-run-animal"
 id = "613348745881518080"
-aliases = [ "/post/613348745881518080/what-kind-of-server-does-nintendo-run-animal" ]
-tags = [ ]
+slug = "what-kind-of-server-does-nintendo-run-animal"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "613348745881518080"
-note_count = 0.0
-text = "what kind of server does Nintendo run Animal Crossing on?\n<br/>\n<br/>Tom NUC"
-interactability_reblog = "everyone"
-can_send_in_message = true
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/613348745881518080/what-kind-of-server-does-nintendo-run-animal"
-should_open_in_legacy = true
-can_like = false
-interactability_blaze = "everyone"
 id = 6.133487458815181e+17
-is_blaze_pending = false
+timestamp = 1584934945.0
 state = "published"
-summary = "what kind of server does Nintendo run Animal Crossing on?\n \n Tom NUC"
-is_blocks_post_format = false
-can_blaze = false
-tags = [ ]
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyY33Mz9im00"
-type = "quote"
-date = "2020-03-23 03:42:25 GMT"
-timestamp = 1.584934945e+09
+note_count = 0.0
 display_avatar = true
 is_blazed = false
-slug = "what-kind-of-server-does-nintendo-run-animal"
-reblog_key = "zEdq8Ct5"
+short_url = "https://tmblr.co/ZY3jbyY33Mz9im00"
+text = "what kind of server does Nintendo run Animal Crossing on?\n<br/>\n<br/>Tom NUC"
 source = "<a href=\"http://twitter.com/alicegoldfuss/status/1241811133675081728\">@alicegoldfuss</a>"
-can_reblog = false
 can_reply = false
+type = "quote"
+reblog_key = "zEdq8Ct5"
+can_like = false
+is_blocks_post_format = false
+blog_name = "indirect"
+id_string = "613348745881518080"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/613348745881518080/what-kind-of-server-does-nintendo-run-animal"
+summary = "what kind of server does Nintendo run Animal Crossing on?\n \n Tom NUC"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+slug = "what-kind-of-server-does-nintendo-run-animal"
+date = "2020-03-23 03:42:25 GMT"
+format = "html"
+can_reblog = false
+can_blaze = false
+should_open_in_legacy = true
+can_send_in_message = true
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://twitter.com/alicegoldfuss/status/1241811133675081728\">@alicegoldfuss</a></p>"
 
 [tumblr.blog]
-title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/alicegoldfuss/status/1241811133675081728\">@alicegoldfuss</a></p>"
-tree_html = ""
 +++

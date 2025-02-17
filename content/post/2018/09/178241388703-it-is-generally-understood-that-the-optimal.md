@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/178241388703/it-is-generally-understood-that-the-optimal"]
 date = 2018-09-19T08:29:12Z
-slug = "it-is-generally-understood-that-the-optimal"
 id = "178241388703"
-aliases = [ "/post/178241388703/it-is-generally-understood-that-the-optimal" ]
-tags = [ ]
+slug = "it-is-generally-understood-that-the-optimal"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-source = "<a href=\"http://twitter.com/hels/status/1042061066694520833\">@hels</a>"
-blog_name = "indirect"
-id = 1.78241388703e+11
-id_string = "178241388703"
-is_blaze_pending = false
-can_reblog = false
-can_blaze = false
-timestamp = 1.537345752e+09
-format = "html"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jby2c00y2V"
-interactability_blaze = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/178241388703/it-is-generally-understood-that-the-optimal"
-summary = "It is generally understood that the optimal overall MK players are middleweights: Yoshi of course, but also Peach, Wa/Luigi. No..."
-should_open_in_legacy = true
-can_send_in_message = true
 reblog_key = "g0sQ7l2v"
 text = "It is generally understood that the optimal overall MK players are middleweights: Yoshi of course, but also Peach, Wa/Luigi. No one drives as Mario. People who drive as Mario in Mario Kart are cops."
-interactability_reblog = "everyone"
-slug = "it-is-generally-understood-that-the-optimal"
-can_like = false
-can_reply = false
-note_count = 0.0
 type = "quote"
-is_blazed = false
+is_blocks_post_format = false
+blog_name = "indirect"
 date = "2018-09-19 08:29:12 GMT"
+can_reply = false
+id = 178241388703.0
+state = "published"
+format = "html"
+should_open_in_legacy = true
+can_send_in_message = true
+id_string = "178241388703"
+slug = "it-is-generally-understood-that-the-optimal"
+timestamp = 1537345752.0
+short_url = "https://tmblr.co/ZY3jby2c00y2V"
+can_like = false
+display_avatar = true
+is_blaze_pending = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/178241388703/it-is-generally-understood-that-the-optimal"
+summary = "It is generally understood that the optimal overall MK players are middleweights: Yoshi of course, but also Peach, Wa/Luigi. No..."
+note_count = 0.0
+source = "<a href=\"http://twitter.com/hels/status/1042061066694520833\">@hels</a>"
+can_blaze = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/hels/status/1042061066694520833\">@hels</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

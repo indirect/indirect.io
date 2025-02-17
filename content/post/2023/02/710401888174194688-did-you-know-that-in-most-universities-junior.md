@@ -1,45 +1,39 @@
 +++
+aliases = ["/post/710401888174194688/did-you-know-that-in-most-universities-junior"]
 date = 2023-02-27T10:00:35Z
-slug = "did-you-know-that-in-most-universities-junior"
 id = "710401888174194688"
-aliases = [ "/post/710401888174194688/did-you-know-that-in-most-universities-junior" ]
-tags = [ ]
+slug = "did-you-know-that-in-most-universities-junior"
 type = "tumblr-quote"
 
 [tumblr]
-text = "did you know that in most universities junior academicians are now required to help supervise examinations for random undergrad classes?\n<br/>\n<br/>&hellip; yeah they&rsquo;re calling it &ldquo;postdoc ergo proctor doc&rdquo;"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
+id = 7.104018881741947e+17
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jbydRsi3WOy00"
 is_blaze_pending = false
 post_url = "https://indirect.tumblr.com/post/710401888174194688/did-you-know-that-in-most-universities-junior"
-note_count = 0.0
-display_avatar = true
-can_like = false
-interactability_reblog = "everyone"
-state = "published"
-is_blazed = false
-date = "2023-02-27 10:00:35 GMT"
-timestamp = 1.677492035e+09
 format = "html"
-can_send_in_message = true
-id = 7.104018881741947e+17
-summary = "did you know that in most universities junior academicians are now required to help supervise examinations for random undergrad..."
-id_string = "710401888174194688"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbydRsi3WOy00"
+note_count = 0.0
+text = "did you know that in most universities junior academicians are now required to help supervise examinations for random undergrad classes?\n<br/>\n<br/>&hellip; yeah they&rsquo;re calling it &ldquo;postdoc ergo proctor doc&rdquo;"
 can_reblog = false
-source = "<a href=\"http://twitter.com/ManishEarth/status/1629586716339351552\">@ManishEarth</a>"
-type = "quote"
+is_blocks_post_format = false
 can_blaze = false
-should_open_in_legacy = true
+state = "published"
+display_avatar = true
+slug = "did-you-know-that-in-most-universities-junior"
+summary = "did you know that in most universities junior academicians are now required to help supervise examinations for random undergrad..."
+can_send_in_message = true
+can_like = false
+type = "quote"
 blog_name = "indirect"
 reblog_key = "BUItmhuu"
+should_open_in_legacy = true
 can_reply = false
-slug = "did-you-know-that-in-most-universities-junior"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/ManishEarth/status/1629586716339351552\">@ManishEarth</a></p>"
-tree_html = ""
+id_string = "710401888174194688"
+source = "<a href=\"http://twitter.com/ManishEarth/status/1629586716339351552\">@ManishEarth</a>"
+interactability_blaze = "everyone"
+date = "2023-02-27 10:00:35 GMT"
+timestamp = 1677492035.0
+interactability_reblog = "everyone"
 
 [tumblr.blog]
 can_show_badges = true
@@ -48,7 +42,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/ManishEarth/status/1629586716339351552\">@ManishEarth</a></p>"
+tree_html = ""
 +++

@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/33624572089/android-phones-are-totally-winning-the-density"]
 date = 2012-10-15T04:50:11Z
-slug = "android-phones-are-totally-winning-the-density"
 id = "33624572089"
-aliases = [ "/post/33624572089/android-phones-are-totally-winning-the-density" ]
-tags = [ ]
+slug = "android-phones-are-totally-winning-the-density"
 type = "tumblr-quote"
 
 [tumblr]
+blog_name = "indirect"
+id_string = "33624572089"
+is_blaze_pending = false
+text = "<p>Android phones are totally winning the density war.</p>\n\n<p>(You can say that again.)</p>"
+can_send_in_message = true
+id = 33624572089.0
+is_blazed = false
+slug = "android-phones-are-totally-winning-the-density"
+timestamp = 1350276611.0
+reblog_key = "bN4Blm8q"
+date = "2012-10-15 04:50:11 GMT"
+short_url = "https://tmblr.co/ZY3jbyVKBa2v"
+source = "<a href=\"http://www.macworld.com/article/2011748/macalope-its-a-living.html\">The Macalope Weekly</a>"
+type = "quote"
 summary = "Android phones are totally winning the density war.\n\n (You can say that again.)"
 can_like = false
-id_string = "33624572089"
-source = "<a href=\"http://www.macworld.com/article/2011748/macalope-its-a-living.html\">The Macalope Weekly</a>"
-display_avatar = true
-text = "<p>Android phones are totally winning the density war.</p>\n\n<p>(You can say that again.)</p>"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyVKBa2v"
 note_count = 0.0
-can_reblog = false
-state = "published"
 is_blocks_post_format = false
-can_blaze = false
-slug = "android-phones-are-totally-winning-the-density"
 format = "markdown"
-reblog_key = "bN4Blm8q"
-can_reply = false
-date = "2012-10-15 04:50:11 GMT"
-type = "quote"
-is_blazed = false
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-can_send_in_message = true
-id = 3.3624572089e+10
-is_blaze_pending = false
+can_blaze = false
 post_url = "https://indirect.tumblr.com/post/33624572089/android-phones-are-totally-winning-the-density"
-timestamp = 1.350276611e+09
-tags = [ ]
+state = "published"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
+display_avatar = true
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.macworld.com/article/2011748/macalope-its-a-living.html\">The Macalope Weekly</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

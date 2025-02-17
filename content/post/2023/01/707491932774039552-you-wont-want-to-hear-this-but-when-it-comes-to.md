@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/707491932774039552/you-wont-want-to-hear-this-but-when-it-comes-to"]
 date = 2023-01-26T07:08:05Z
-slug = "you-wont-want-to-hear-this-but-when-it-comes-to"
 id = "707491932774039552"
-aliases = [ "/post/707491932774039552/you-wont-want-to-hear-this-but-when-it-comes-to" ]
-tags = [ ]
+slug = "you-wont-want-to-hear-this-but-when-it-comes-to"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-id_string = "707491932774039552"
-is_blaze_pending = false
-tags = [ ]
-can_send_in_message = true
-is_blazed = false
-format = "html"
-summary = "You won’t want to hear this but when it comes to kink at Pride I’m afraid we, as a community, in a public place, need to show..."
-interactability_reblog = "everyone"
-id = 7.074919327740396e+17
-timestamp = 1.674716885e+09
-note_count = 0.0
 can_reblog = false
-display_avatar = true
+timestamp = 1674716885.0
 blog_name = "indirect"
-slug = "you-wont-want-to-hear-this-but-when-it-comes-to"
-state = "published"
+id = 7.074919327740396e+17
 short_url = "https://tmblr.co/ZY3jbydHX2eMSu00"
-text = "You won’t want to hear this but when it comes to kink at Pride I’m afraid we, as a community, in a public place, need to show more restraints"
+summary = "You won’t want to hear this but when it comes to kink at Pride I’m afraid we, as a community, in a public place, need to show..."
 type = "quote"
-is_blocks_post_format = false
-can_blaze = false
+is_blaze_pending = false
+note_count = 0.0
+interactability_reblog = "everyone"
+date = "2023-01-26 07:08:05 GMT"
+text = "You won’t want to hear this but when it comes to kink at Pride I’m afraid we, as a community, in a public place, need to show more restraints"
+can_like = false
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/707491932774039552/you-wont-want-to-hear-this-but-when-it-comes-to"
 reblog_key = "WSyKBSYQ"
 should_open_in_legacy = true
-date = "2023-01-26 07:08:05 GMT"
-can_like = false
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/707491932774039552/you-wont-want-to-hear-this-but-when-it-comes-to"
 source = "<a href=\"http://twitter.com/thestuffofmemes/status/1618306436370685952\">@thestuffofmemes</a>"
+interactability_blaze = "everyone"
+can_reply = false
+is_blazed = false
+state = "published"
+display_avatar = true
+can_blaze = false
+slug = "you-wont-want-to-hear-this-but-when-it-comes-to"
+format = "html"
+is_blocks_post_format = false
+id_string = "707491932774039552"
 
 [tumblr.blog]
+title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
-title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/thestuffofmemes/status/1618306436370685952\">@thestuffofmemes</a></p>"
+tree_html = ""
 +++

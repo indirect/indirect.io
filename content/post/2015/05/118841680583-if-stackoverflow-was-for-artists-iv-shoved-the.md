@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/118841680583/if-stackoverflow-was-for-artists-iv-shoved-the"]
 date = 2015-05-13T04:50:54Z
-slug = "if-stackoverflow-was-for-artists-iv-shoved-the"
 id = "118841680583"
-aliases = [ "/post/118841680583/if-stackoverflow-was-for-artists-iv-shoved-the" ]
-tags = [ ]
+slug = "if-stackoverflow-was-for-artists-iv-shoved-the"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "118841680583"
-tags = [ ]
-should_open_in_legacy = true
-can_send_in_message = true
-display_avatar = true
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/118841680583/if-stackoverflow-was-for-artists-iv-shoved-the"
-summary = "if stackoverflow was for artists “iv shoved the paintbrush up my nose and it wont paint” “try holding it” “no no my nose is how..."
 text = "if stackoverflow was for artists &ldquo;iv shoved the paintbrush up my nose and it wont paint&rdquo; &ldquo;try holding it&rdquo; &ldquo;no no my nose is how iv done it&rdquo;"
-can_like = false
-is_blocks_post_format = false
-is_blaze_pending = false
-date = "2015-05-13 04:50:54 GMT"
-id = 1.18841680583e+11
-slug = "if-stackoverflow-was-for-artists-iv-shoved-the"
-state = "published"
-interactability_blaze = "everyone"
-is_blazed = false
-timestamp = 1.431492654e+09
-reblog_key = "zMeB1WAq"
-interactability_reblog = "everyone"
-short_url = "https://tmblr.co/ZY3jby1khX2B7"
+can_reply = false
+should_open_in_legacy = true
 note_count = 0.0
 source = "<a href=\"http://twitter.com/slipperyseal/status/598324845647040513\">@slipperyseal</a>"
-can_reblog = false
+state = "published"
+post_url = "https://indirect.tumblr.com/post/118841680583/if-stackoverflow-was-for-artists-iv-shoved-the"
+slug = "if-stackoverflow-was-for-artists-iv-shoved-the"
 blog_name = "indirect"
-can_blaze = false
-format = "html"
+is_blazed = false
 type = "quote"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/slipperyseal/status/598324845647040513\">@slipperyseal</a></p>"
-tree_html = ""
+can_send_in_message = true
+id = 118841680583.0
+interactability_reblog = "everyone"
+format = "html"
+timestamp = 1431492654.0
+is_blocks_post_format = false
+id_string = "118841680583"
+is_blaze_pending = false
+interactability_blaze = "everyone"
+display_avatar = true
+date = "2015-05-13 04:50:54 GMT"
+summary = "if stackoverflow was for artists “iv shoved the paintbrush up my nose and it wont paint” “try holding it” “no no my nose is how..."
+can_like = false
+can_reblog = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1khX2B7"
+reblog_key = "zMeB1WAq"
 
 [tumblr.blog]
-updated = 1.738205153e+09
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://twitter.com/slipperyseal/status/598324845647040513\">@slipperyseal</a></p>"
 +++

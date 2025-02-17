@@ -1,81 +1,40 @@
 +++
+aliases = ["/post/89087538848/stephen-hawking-and-john-oliver-scienceporn"]
 date = 2014-06-17T20:23:39Z
-slug = "stephen-hawking-and-john-oliver-scienceporn"
 id = "89087538848"
-aliases = [ "/post/89087538848/stephen-hawking-and-john-oliver-scienceporn" ]
-tags = [ ]
+slug = "stephen-hawking-and-john-oliver-scienceporn"
 type = "tumblr-photo"
 
 [tumblr]
-summary = "Stephen Hawking and John Oliver — @SciencePorn"
-id = 8.9087538848e+10
-id_string = "89087538848"
+blog_name = "indirect"
 is_blazed = false
-is_blaze_pending = false
 reblog_key = "0HkBJXxQ"
+note_count = 0.0
+caption = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
 link_url = "http://twitter.com/SciencePorn/status/478618775273893888"
-type = "photo"
-is_blocks_post_format = false
-should_open_in_legacy = true
-post_url = "https://indirect.tumblr.com/post/89087538848/stephen-hawking-and-john-oliver-scienceporn"
-short_url = "https://tmblr.co/ZY3jby1I_1-QW"
-display_avatar = true
-can_blaze = false
-state = "published"
-image_permalink = "https://indirect.tumblr.com/image/89087538848"
 can_like = false
 interactability_reblog = "everyone"
-can_reblog = false
-blog_name = "indirect"
-date = "2014-06-17 20:23:39 GMT"
-timestamp = 1.403036619e+09
-interactability_blaze = "everyone"
-can_reply = false
-tags = [ ]
-caption = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
+id = 89087538848.0
+timestamp = 1403036619.0
+summary = "Stephen Hawking and John Oliver — @SciencePorn"
+is_blaze_pending = false
 slug = "stephen-hawking-and-john-oliver-scienceporn"
-note_count = 0.0
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 can_send_in_message = true
+type = "photo"
+post_url = "https://indirect.tumblr.com/post/89087538848/stephen-hawking-and-john-oliver-scienceporn"
+date = "2014-06-17 20:23:39 GMT"
+state = "published"
+display_avatar = true
+id_string = "89087538848"
 format = "html"
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
-content = "<p>Stephen Hawking and John Oliver &mdash; <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-title_font = "Gibson"
-title_font_weight = "bold"
-title_color = "#444444"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-
-[tumblr.trail.post]
-id = "89087538848"
-
-[tumblr.reblog]
-comment = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
-tree_html = ""
+short_url = "https://tmblr.co/ZY3jby1I_1-QW"
+image_permalink = "https://indirect.tumblr.com/image/89087538848"
+can_reply = false
+is_blocks_post_format = false
+can_blaze = false
+can_reblog = false
 
 [[tumblr.photos]]
 caption = ""
@@ -106,14 +65,14 @@ width = 324.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
+height = 600.0
 url = "/images/48/49/ae54d32283d14176acd533d53dfc.jpg"
 width = 259.0
-height = 600.0
 
 [[tumblr.photos.alt_sizes]]
+height = 400.0
 url = "/images/e4/40/bd97f5a36c20a89ebbbb17ae24df.jpg"
 width = 173.0
-height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/54/1c/ce86e118815572d846e628f99649.jpg"
@@ -121,18 +80,57 @@ width = 86.0
 height = 200.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/29/0b/492be71a77e6f0ac5edc16f8e823.jpg"
 width = 75.0
-height = 75.0
+
+[tumblr.reblog]
+comment = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>Stephen Hawking and John Oliver — <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
+content = "<p>Stephen Hawking and John Oliver &mdash; <a href=\"http://twitter.com/SciencePorn/status/478618775273893888\">@SciencePorn</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+show_title = true
+title_color = "#444444"
+header_bounds = ""
+header_image_poster = ""
+header_stretch = true
+show_header_image = false
+avatar_shape = "square"
+
+[tumblr.trail.post]
+id = "89087538848"
 +++

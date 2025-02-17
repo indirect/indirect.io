@@ -1,40 +1,38 @@
 +++
+aliases = ["/post/686646048711688192/please-pdf-is-my-father-call-me-pdf-1"]
 date = 2022-06-10T04:51:41Z
-slug = "please-pdf-is-my-father-call-me-pdf-1"
 id = "686646048711688192"
-aliases = [ "/post/686646048711688192/please-pdf-is-my-father-call-me-pdf-1" ]
-tags = [ ]
+slug = "please-pdf-is-my-father-call-me-pdf-1"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
 can_reply = false
-slug = "please-pdf-is-my-father-call-me-pdf-1"
-timestamp = 1.654836701e+09
-tags = [ ]
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/686646048711688192/please-pdf-is-my-father-call-me-pdf-1"
-state = "published"
-text = "Please, pdf is my father. Call me pdf (1)"
-is_blaze_pending = false
-can_blaze = false
-can_send_in_message = true
-is_blocks_post_format = false
 id = 6.866460487116882e+17
-id_string = "686646048711688192"
-type = "quote"
-date = "2022-06-10 04:51:41 GMT"
-reblog_key = "3CJ7MnoN"
-short_url = "https://tmblr.co/ZY3jbyc7TF5xui00"
-blog_name = "indirect"
 is_blazed = false
+reblog_key = "3CJ7MnoN"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+timestamp = 1654836701.0
+short_url = "https://tmblr.co/ZY3jbyc7TF5xui00"
+can_send_in_message = true
+blog_name = "indirect"
+id_string = "686646048711688192"
 format = "html"
-summary = "Please, pdf is my father. Call me pdf (1)"
 should_open_in_legacy = true
-interactability_blaze = "everyone"
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/686646048711688192/please-pdf-is-my-father-call-me-pdf-1"
+slug = "please-pdf-is-my-father-call-me-pdf-1"
+text = "Please, pdf is my father. Call me pdf (1)"
 can_reblog = false
-note_count = 0.0
+type = "quote"
+state = "published"
+interactability_blaze = "everyone"
+display_avatar = true
+can_blaze = false
+date = "2022-06-10 04:51:41 GMT"
 source = "<a href=\"http://twitter.com/Mikerowavables/status/1534361804188618752\">@Mikerowavables</a>"
+summary = "Please, pdf is my father. Call me pdf (1)"
+note_count = 0.0
 can_like = false
 
 [tumblr.blog]
@@ -44,7 +42,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

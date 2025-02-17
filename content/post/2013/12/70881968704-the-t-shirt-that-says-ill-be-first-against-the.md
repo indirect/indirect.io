@@ -1,95 +1,47 @@
 +++
+aliases = ["/post/70881968704/the-t-shirt-that-says-ill-be-first-against-the"]
 date = 2013-12-23T09:22:06Z
-slug = "the-t-shirt-that-says-ill-be-first-against-the"
 id = "70881968704"
-aliases = [ "/post/70881968704/the-t-shirt-that-says-ill-be-first-against-the" ]
-tags = [ ]
+slug = "the-t-shirt-that-says-ill-be-first-against-the"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-id_string = "70881968704"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby120vG90"
-summary = "the t-shirt that says \"I'll be first against the wall when the provably Friendly utilitarianist AI comes online\" (via @vogon)"
-interactability_reblog = "everyone"
-date = "2013-12-23 09:22:06 GMT"
-tags = [ ]
 link_url = "https://twitter.com/vogon/status/414897864431525888"
-display_avatar = true
-is_blazed = false
+interactability_reblog = "everyone"
 post_url = "https://indirect.tumblr.com/post/70881968704/the-t-shirt-that-says-ill-be-first-against-the"
-should_open_in_legacy = true
-note_count = 0.0
-source_title = "twitter.com"
+format = "markdown"
+reblog_key = "SB4j470s"
 caption = "<p>the t-shirt that says &ldquo;I&rsquo;ll be first against the wall when the provably Friendly utilitarianist AI comes online&rdquo; (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
 blog_name = "indirect"
-is_blaze_pending = false
-timestamp = 1.387790526e+09
+short_url = "https://tmblr.co/ZY3jby120vG90"
+bookmarklet = true
+note_count = 0.0
+source_url = "https://twitter.com/vogon/status/414897864431525888"
 image_permalink = "https://indirect.tumblr.com/image/70881968704"
+is_blocks_post_format = false
+id = 70881968704.0
+slug = "the-t-shirt-that-says-ill-be-first-against-the"
+summary = "the t-shirt that says \"I'll be first against the wall when the provably Friendly utilitarianist AI comes online\" (via @vogon)"
+type = "photo"
+can_blaze = false
 can_like = false
+can_reply = false
+display_avatar = true
+is_blazed = false
+is_blaze_pending = false
+id_string = "70881968704"
+timestamp = 1387790526.0
+source_title = "twitter.com"
+interactability_blaze = "everyone"
 can_reblog = false
 can_send_in_message = true
-id = 7.0881968704e+10
-can_blaze = false
-reblog_key = "SB4j470s"
-interactability_blaze = "everyone"
-bookmarklet = true
-source_url = "https://twitter.com/vogon/status/414897864431525888"
-can_reply = false
-is_blocks_post_format = false
-slug = "the-t-shirt-that-says-ill-be-first-against-the"
+date = "2013-12-23 09:22:06 GMT"
 state = "published"
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p>the t-shirt that says “I’ll be first against the wall when the provably Friendly utilitarianist AI comes online” (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
 tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>the t-shirt that says “I’ll be first against the wall when the provably Friendly utilitarianist AI comes online” (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
-content = "<p>the t-shirt that says &ldquo;I&rsquo;ll be first against the wall when the provably Friendly utilitarianist AI comes online&rdquo; (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-show_header_image = false
-show_title = true
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-title_font_weight = "bold"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-title_font = "Gibson"
-header_bounds = ""
-show_avatar = true
-
-[tumblr.trail.post]
-id = "70881968704"
 
 [[tumblr.photos]]
 caption = ""
@@ -100,27 +52,73 @@ width = 455.0
 height = 542.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/c0/31/086e57aeb42b6735415f8063f0f9.jpg"
 width = 455.0
 height = 542.0
-url = "/images/c0/31/086e57aeb42b6735415f8063f0f9.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 476.0
 url = "/images/3f/25/07375a97dec9350d945797755feb.jpg"
 width = 400.0
-height = 476.0
 
 [[tumblr.photos.alt_sizes]]
+height = 298.0
 url = "/images/16/13/a03306a9ec033c4fade12f3c12e8.jpg"
 width = 250.0
-height = 298.0
 
 [[tumblr.photos.alt_sizes]]
+height = 119.0
 url = "/images/cc/34/99a1e6ac6c16cb71a1aab22d6406.jpg"
 width = 100.0
-height = 119.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f2/c8/aae25c939378956b4b4067b8759e.jpg"
 width = 75.0
 height = 75.0
-url = "/images/f2/c8/aae25c939378956b4b4067b8759e.jpg"
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content = "<p>the t-shirt that says &ldquo;I&rsquo;ll be first against the wall when the provably Friendly utilitarianist AI comes online&rdquo; (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>the t-shirt that says “I’ll be first against the wall when the provably Friendly utilitarianist AI comes online” (via <a href=\"https://twitter.com/vogon/status/414897864431525888\">@vogon</a>)</p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_title = true
+title_color = "#444444"
+show_description = true
+show_header_image = false
+show_avatar = true
+header_stretch = true
+link_color = "#529ECC"
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font = "Gibson"
+avatar_shape = "square"
+
+[tumblr.trail.post]
+id = "70881968704"
 +++

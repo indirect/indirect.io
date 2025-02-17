@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/616168645124571136/boomers-call-you-without-texting-first-gen-x"]
 date = 2020-04-23T06:43:31Z
-slug = "boomers-call-you-without-texting-first-gen-x"
 id = "616168645124571136"
-aliases = [ "/post/616168645124571136/boomers-call-you-without-texting-first-gen-x" ]
-tags = [ ]
+slug = "boomers-call-you-without-texting-first-gen-x"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-id_string = "616168645124571136"
-short_url = "https://tmblr.co/ZY3jbyYD4Xu_Oa00"
+is_blazed = false
 format = "html"
-summary = "Boomers: call you without texting first\n \n Gen X: text you first, then call\n \n Millennials: text only\n \n Gen Z: facetime you..."
-interactability_reblog = "everyone"
-id = 6.161686451245711e+17
+can_like = false
+display_avatar = true
 date = "2020-04-23 06:43:31 GMT"
-can_reply = false
-timestamp = 1.587624211e+09
-state = "published"
-type = "quote"
-blog_name = "indirect"
-can_blaze = false
-reblog_key = "mEaELI6n"
 note_count = 0.0
 slug = "boomers-call-you-without-texting-first-gen-x"
-source = "<a href=\"http://twitter.com/RachelMComedy/status/1251573767370833924\">@RachelMComedy</a>"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+id_string = "616168645124571136"
+state = "published"
+reblog_key = "mEaELI6n"
+summary = "Boomers: call you without texting first\n \n Gen X: text you first, then call\n \n Millennials: text only\n \n Gen Z: facetime you..."
 can_reblog = false
 can_send_in_message = true
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/616168645124571136/boomers-call-you-without-texting-first-gen-x"
-tags = [ ]
+blog_name = "indirect"
+can_blaze = false
+timestamp = 1587624211.0
+short_url = "https://tmblr.co/ZY3jbyYD4Xu_Oa00"
 should_open_in_legacy = true
-text = "Boomers: call you without texting first\n<br/>\n<br/>Gen X: text you first, then call\n<br/>\n<br/>Millennials: text only\n<br/>\n<br/>Gen Z: facetime you without texting first what the FUCK"
-display_avatar = true
+source = "<a href=\"http://twitter.com/RachelMComedy/status/1251573767370833924\">@RachelMComedy</a>"
+type = "quote"
 is_blocks_post_format = false
-is_blazed = false
-interactability_blaze = "everyone"
+id = 6.161686451245711e+17
+post_url = "https://indirect.tumblr.com/post/616168645124571136/boomers-call-you-without-texting-first-gen-x"
+can_reply = false
+is_blaze_pending = false
+text = "Boomers: call you without texting first\n<br/>\n<br/>Gen X: text you first, then call\n<br/>\n<br/>Millennials: text only\n<br/>\n<br/>Gen Z: facetime you without texting first what the FUCK"
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

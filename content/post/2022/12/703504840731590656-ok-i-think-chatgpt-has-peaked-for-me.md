@@ -1,59 +1,46 @@
 +++
+aliases = ["/post/703504840731590656/ok-i-think-chatgpt-has-peaked-for-me"]
 date = 2022-12-13T06:54:57Z
-slug = "ok-i-think-chatgpt-has-peaked-for-me"
 id = "703504840731590656"
-aliases = [ "/post/703504840731590656/ok-i-think-chatgpt-has-peaked-for-me" ]
-tags = [ ]
+slug = "ok-i-think-chatgpt-has-peaked-for-me"
 type = "tumblr-photo"
 
 [tumblr]
-caption = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
-can_like = false
-can_reblog = false
-timestamp = 1.670914497e+09
 is_blaze_pending = false
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyd3MUpXam00"
-state = "published"
-can_reply = false
-is_blazed = false
-should_open_in_legacy = true
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/703504840731590656"
-type = "photo"
-slug = "ok-i-think-chatgpt-has-peaked-for-me"
-format = "html"
-interactability_blaze = "everyone"
 can_send_in_message = true
-summary = "Ok I think ChatGPT has peaked for me — @TimClarePoet"
-id = 7.035048407315907e+17
+can_reply = false
+short_url = "https://tmblr.co/ZY3jbyd3MUpXam00"
+image_permalink = "https://indirect.tumblr.com/image/703504840731590656"
 id_string = "703504840731590656"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+display_avatar = true
+timestamp = 1670914497.0
+can_blaze = false
+slug = "ok-i-think-chatgpt-has-peaked-for-me"
+reblog_key = "k3x1P1CC"
+summary = "Ok I think ChatGPT has peaked for me — @TimClarePoet"
+is_blocks_post_format = false
+id = 7.035048407315907e+17
 post_url = "https://indirect.tumblr.com/post/703504840731590656/ok-i-think-chatgpt-has-peaked-for-me"
 date = "2022-12-13 06:54:57 GMT"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-can_blaze = false
-reblog_key = "k3x1P1CC"
-link_url = "http://twitter.com/TimClarePoet/status/1602330734357782530"
+format = "html"
+should_open_in_legacy = true
+can_like = false
+type = "photo"
+caption = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
+can_reblog = false
+state = "published"
 blog_name = "indirect"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
+is_blazed = false
+note_count = 0.0
+link_url = "http://twitter.com/TimClarePoet/status/1602330734357782530"
 
 [[tumblr.trail]]
+content_raw = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
 content = "<p>Ok I think ChatGPT has peaked for me &mdash; <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
 
 [tumblr.trail.blog]
 share_following = false
@@ -63,34 +50,49 @@ active = true
 share_likes = false
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
 avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-show_title = true
-title_font = "Gibson"
 show_avatar = true
-show_description = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
 title_font_weight = "bold"
 background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_title = true
+title_font = "Gibson"
+header_bounds = ""
+link_color = "#529ECC"
+show_description = true
 show_header_image = false
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_color = "#444444"
 
 [tumblr.trail.post]
 id = "703504840731590656"
+
+[tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/f4/9f/e3a5c4835347cb8ed0ba05b41a62.jpg"
 width = 599.0
 height = 1199.0
-url = "/images/f4/9f/e3a5c4835347cb8ed0ba05b41a62.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f4/9f/e3a5c4835347cb8ed0ba05b41a62.jpg"
@@ -131,8 +133,4 @@ height = 200.0
 url = "/images/7b/13/5a79f0d8477e242da6788ee0b61d.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.reblog]
-comment = "<p>Ok I think ChatGPT has peaked for me — <a href=\"http://twitter.com/TimClarePoet/status/1602330734357782530\">@TimClarePoet</a></p>"
-tree_html = ""
 +++

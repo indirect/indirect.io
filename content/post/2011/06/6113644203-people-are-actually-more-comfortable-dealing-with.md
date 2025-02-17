@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/6113644203/people-are-actually-more-comfortable-dealing-with"]
 date = 2011-06-02T18:49:31Z
-slug = "people-are-actually-more-comfortable-dealing-with"
 id = "6113644203"
-aliases = [ "/post/6113644203/people-are-actually-more-comfortable-dealing-with" ]
-tags = [ ]
+slug = "people-are-actually-more-comfortable-dealing-with"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2011-06-02 18:49:31 GMT"
-should_open_in_legacy = true
 text = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is not as self-evident."
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/6113644203/people-are-actually-more-comfortable-dealing-with"
+reblog_key = "n9yYs6Zo"
+format = "markdown"
+can_like = false
+type = "quote"
+blog_name = "indirect"
+state = "published"
+display_avatar = true
+is_blazed = false
+date = "2011-06-02 18:49:31 GMT"
+summary = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is..."
+should_open_in_legacy = true
+note_count = 0.0
+can_reblog = false
 can_send_in_message = true
 is_blocks_post_format = false
-can_blaze = false
 short_url = "https://tmblr.co/ZY3jby5iPiwh"
-can_reblog = false
-slug = "people-are-actually-more-comfortable-dealing-with"
-timestamp = 1.307040571e+09
-state = "published"
-summary = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is..."
-id = 6.113644203e+09
-interactability_reblog = "everyone"
-tags = [ ]
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/6113644203/people-are-actually-more-comfortable-dealing-with"
-format = "markdown"
-reblog_key = "n9yYs6Zo"
-note_count = 0.0
-source = "David Allen, <em>Getting Things Done</em>"
-id_string = "6113644203"
-can_like = false
-can_reply = false
-display_avatar = true
-blog_name = "indirect"
 interactability_blaze = "everyone"
-type = "quote"
-is_blazed = false
-
-[tumblr.reblog]
-comment = "<p>David Allen, <em>Getting Things Done</em></p>"
-tree_html = ""
+slug = "people-are-actually-more-comfortable-dealing-with"
+source = "David Allen, <em>Getting Things Done</em>"
+id = 6113644203.0
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1307040571.0
+interactability_reblog = "everyone"
+id_string = "6113644203"
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>David Allen, <em>Getting Things Done</em></p>"
+tree_html = ""
 +++

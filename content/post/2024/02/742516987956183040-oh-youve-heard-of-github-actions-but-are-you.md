@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/742516987956183040/oh-youve-heard-of-github-actions-but-are-you"]
 date = 2024-02-16T21:36:20Z
-slug = "oh-youve-heard-of-github-actions-but-are-you"
 id = "742516987956183040"
-aliases = [ "/post/742516987956183040/oh-youve-heard-of-github-actions-but-are-you" ]
-tags = [ ]
+slug = "oh-youve-heard-of-github-actions-but-are-you"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-source = "<a href=\"https://mastodon.catgirl.cloud/@sophie/111941932731441454\">@sophie</a>"
-can_like = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyfDyqGwqa00"
-display_avatar = true
-type = "quote"
-blog_name = "indirect"
-should_open_in_legacy = true
-note_count = 2.0
-can_reblog = false
-id_string = "742516987956183040"
-format = "markdown"
-can_reply = false
-is_blaze_pending = false
-can_blaze = false
-tags = [ ]
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-reblog_key = "uvMTRZID"
-summary = "oh: you’ve heard of github actions, but are you ready for github consequences?"
-date = "2024-02-16 21:36:20 GMT"
-id = 7.42516987956183e+17
-post_url = "https://indirect.tumblr.com/post/742516987956183040/oh-youve-heard-of-github-actions-but-are-you"
 slug = "oh-youve-heard-of-github-actions-but-are-you"
-timestamp = 1.70811938e+09
+state = "published"
 text = "oh: you&rsquo;ve heard of github actions, but are you ready for github consequences?"
+interactability_reblog = "everyone"
 can_send_in_message = true
+display_avatar = true
+is_blaze_pending = false
+timestamp = 1708119380.0
+short_url = "https://tmblr.co/ZY3jbyfDyqGwqa00"
+id = 7.42516987956183e+17
+note_count = 2.0
+interactability_blaze = "everyone"
+type = "quote"
+can_blaze = false
+format = "markdown"
+source = "<a href=\"https://mastodon.catgirl.cloud/@sophie/111941932731441454\">@sophie</a>"
+can_reply = false
+blog_name = "indirect"
+id_string = "742516987956183040"
+should_open_in_legacy = true
+is_blazed = false
+reblog_key = "uvMTRZID"
+can_like = false
+can_reblog = false
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/742516987956183040/oh-youve-heard-of-github-actions-but-are-you"
+date = "2024-02-16 21:36:20 GMT"
+summary = "oh: you’ve heard of github actions, but are you ready for github consequences?"
 
 [tumblr.reblog]
-comment = "<p><a href=\"https://mastodon.catgirl.cloud/@sophie/111941932731441454\">@sophie</a></p>"
 tree_html = ""
+comment = "<p><a href=\"https://mastodon.catgirl.cloud/@sophie/111941932731441454\">@sophie</a></p>"
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

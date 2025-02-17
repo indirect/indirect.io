@@ -1,41 +1,39 @@
 +++
+aliases = ["/post/180724580463/most-pokémon-trainers-are-children-and-now-i"]
 date = 2018-12-02T18:25:24Z
-slug = "most-pokémon-trainers-are-children-and-now-i"
 id = "180724580463"
-aliases = [ "/post/180724580463/most-pokémon-trainers-are-children-and-now-i" ]
-tags = [ ]
+slug = "most-pokémon-trainers-are-children-and-now-i"
 type = "tumblr-quote"
 
 [tumblr]
-text = "Most Pokémon trainers are children and now I suspect it’s like a supernatural dog fighting ring run by wayward feral orphans"
-interactability_reblog = "everyone"
-can_send_in_message = true
-date = "2018-12-02 18:25:24 GMT"
-interactability_blaze = "everyone"
-state = "published"
-should_open_in_legacy = true
-type = "quote"
-is_blocks_post_format = false
-id_string = "180724580463"
+id = 180724580463.0
 post_url = "https://indirect.tumblr.com/post/180724580463/most-pok%C3%A9mon-trainers-are-children-and-now-i"
-timestamp = 1.543775124e+09
-short_url = "https://tmblr.co/ZY3jby2eK1a1l"
-summary = "Most Pokémon trainers are children and now I suspect it’s like a supernatural dog fighting ring run by wayward feral orphans"
-can_reblog = false
-id = 1.80724580463e+11
+slug = "most-pokémon-trainers-are-children-and-now-i"
+id_string = "180724580463"
 format = "html"
 reblog_key = "1fRSbYcW"
-tags = [ ]
-note_count = 0.0
-source = "<a href=\"http://twitter.com/ChuckWendig/status/1069064347886981120\">@ChuckWendig</a>"
+should_open_in_legacy = true
 can_like = false
+summary = "Most Pokémon trainers are children and now I suspect it’s like a supernatural dog fighting ring run by wayward feral orphans"
+is_blocks_post_format = false
+blog_name = "indirect"
 is_blazed = false
 is_blaze_pending = false
+date = "2018-12-02 18:25:24 GMT"
+timestamp = 1543775124.0
+text = "Most Pokémon trainers are children and now I suspect it’s like a supernatural dog fighting ring run by wayward feral orphans"
 can_blaze = false
+short_url = "https://tmblr.co/ZY3jby2eK1a1l"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 can_reply = false
 display_avatar = true
-blog_name = "indirect"
-slug = "most-pokémon-trainers-are-children-and-now-i"
+note_count = 0.0
+source = "<a href=\"http://twitter.com/ChuckWendig/status/1069064347886981120\">@ChuckWendig</a>"
+type = "quote"
+state = "published"
+can_reblog = false
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ChuckWendig/status/1069064347886981120\">@ChuckWendig</a></p>"
@@ -48,7 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

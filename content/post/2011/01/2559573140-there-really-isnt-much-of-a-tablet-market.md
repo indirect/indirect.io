@@ -1,55 +1,52 @@
 +++
+aliases = ["/post/2559573140/there-really-isnt-much-of-a-tablet-market"]
 date = 2011-01-02T00:17:00Z
-title = "There really isn't much of a \"tablet\" market"
-slug = "there-really-isnt-much-of-a-tablet-market"
 id = "2559573140"
-aliases = [ "/post/2559573140/there-really-isnt-much-of-a-tablet-market" ]
-tags = [ ]
+slug = "there-really-isnt-much-of-a-tablet-market"
+title = "There really isn't much of a \"tablet\" market"
 type = "tumblr-link"
 
 [tumblr]
 id_string = "2559573140"
-format = "markdown"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jby2OZ-oK"
-note_count = 0.0
-can_like = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/2559573140/there-really-isnt-much-of-a-tablet-market"
-slug = "there-really-isnt-much-of-a-tablet-market"
-state = "published"
-bookmarklet = true
-title = "There really isn't much of a \"tablet\" market"
-id = 2.55957314e+09
 is_blaze_pending = false
-timestamp = 1.29392742e+09
-trail = [ ]
-blog_name = "indirect"
-date = "2011-01-02 00:17:00 GMT"
+timestamp = 1293927420.0
 should_open_in_legacy = true
-url = "http://www.marco.org/2546655554"
-can_send_in_message = true
-can_reply = false
-type = "link"
-is_blocks_post_format = false
 publisher = "marco.org"
 is_blazed = false
+slug = "there-really-isnt-much-of-a-tablet-market"
+format = "markdown"
+note_count = 0.0
+display_avatar = true
 can_blaze = false
+date = "2011-01-02 00:17:00 GMT"
+type = "link"
+id = 2559573140.0
+state = "published"
 reblog_key = "A2bJooER"
 description = ""
+is_blocks_post_format = false
 summary = "There really isn't much of a \"tablet\" market"
+bookmarklet = true
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 can_reblog = false
+url = "http://www.marco.org/2546655554"
+blog_name = "indirect"
+interactability_blaze = "everyone"
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/2559573140/there-really-isnt-much-of-a-tablet-market"
+short_url = "https://tmblr.co/ZY3jby2OZ-oK"
+title = "There really isn't much of a \"tablet\" market"
+can_like = false
+can_reply = false
 
 [tumblr.blog]
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/751116383404916736/used-to-be-as-a-frog-you-could-say-ribbit-but"]
 date = 2024-05-21T19:40:03Z
-slug = "used-to-be-as-a-frog-you-could-say-ribbit-but"
 id = "751116383404916736"
-aliases = [ "/post/751116383404916736/used-to-be-as-a-frog-you-could-say-ribbit-but" ]
-tags = [ ]
+slug = "used-to-be-as-a-frog-you-could-say-ribbit-but"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-id_string = "751116383404916736"
-is_blazed = false
-state = "published"
-format = "markdown"
-reblog_key = "WrXKovd5"
-summary = "used to be as a frog you could say “ribbit.” but you can’t do that anymore. because of croak"
-is_blocks_post_format = false
-timestamp = 1.716320403e+09
-note_count = 0.0
-interactability_blaze = "everyone"
-date = "2024-05-21 19:40:03 GMT"
-source = "<a href=\"https://twitter.com/tinygreenbug/status/1792646979735916979\">sarah (@tinygreenbug)</a>"
-can_like = false
-display_avatar = true
-id = 7.511163834049167e+17
-post_url = "https://indirect.tumblr.com/post/751116383404916736/used-to-be-as-a-frog-you-could-say-ribbit-but"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blaze_pending = false
-can_blaze = false
+type = "quote"
 short_url = "https://tmblr.co/ZY3jbyfiW5y1qu00"
 can_reblog = false
-can_send_in_message = true
-type = "quote"
+state = "published"
+blog_name = "indirect"
+is_blazed = false
+is_blaze_pending = false
 slug = "used-to-be-as-a-frog-you-could-say-ribbit-but"
-tags = [ ]
+can_send_in_message = true
+can_reply = false
+date = "2024-05-21 19:40:03 GMT"
+can_like = false
+interactability_blaze = "everyone"
+display_avatar = true
+summary = "used to be as a frog you could say “ribbit.” but you can’t do that anymore. because of croak"
+should_open_in_legacy = true
 text = "used to be as a frog you could say “ribbit.” but you can’t do that anymore. because of croak"
+id = 7.511163834049167e+17
+id_string = "751116383404916736"
+post_url = "https://indirect.tumblr.com/post/751116383404916736/used-to-be-as-a-frog-you-could-say-ribbit-but"
+timestamp = 1716320403.0
+format = "markdown"
+note_count = 0.0
+source = "<a href=\"https://twitter.com/tinygreenbug/status/1792646979735916979\">sarah (@tinygreenbug)</a>"
+is_blocks_post_format = false
+can_blaze = false
+reblog_key = "WrXKovd5"
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/tinygreenbug/status/1792646979735916979\">sarah (@tinygreenbug)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

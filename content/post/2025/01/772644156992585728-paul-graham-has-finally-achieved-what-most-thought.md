@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought"]
 date = 2025-01-14T10:34:48Z
-slug = "paul-graham-has-finally-achieved-what-most-thought"
 id = "772644156992585728"
-aliases = [ "/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought" ]
-tags = [ ]
+slug = "paul-graham-has-finally-achieved-what-most-thought"
 type = "tumblr-quote"
 
 [tumblr]
-format = "markdown"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbygu_yHZKm00"
-source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a>"
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought"
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-type = "quote"
-blog_name = "indirect"
-summary = "paul graham has finally achieved what most thought impossible: he’s written a post so bad that the hacker news comments are..."
+state = "published"
 interactability_blaze = "everyone"
 can_reply = false
-id = 7.726441569925857e+17
-reblog_key = "QdgUllIt"
-can_send_in_message = true
-text = "paul graham has finally achieved what most thought impossible: he&rsquo;s written a post so bad that the hacker news comments are actually better than it"
-id_string = "772644156992585728"
-is_blazed = false
-date = "2025-01-14 10:34:48 GMT"
-timestamp = 1.736850888e+09
-display_avatar = true
-is_blaze_pending = false
-slug = "paul-graham-has-finally-achieved-what-most-thought"
-can_like = false
+type = "quote"
 can_blaze = false
+post_url = "https://indirect.tumblr.com/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought"
+reblog_key = "QdgUllIt"
+should_open_in_legacy = true
+can_like = false
+slug = "paul-graham-has-finally-achieved-what-most-thought"
+date = "2025-01-14 10:34:48 GMT"
+summary = "paul graham has finally achieved what most thought impossible: he’s written a post so bad that the hacker news comments are..."
+note_count = 0.0
+can_reblog = false
+timestamp = 1736850888.0
+text = "paul graham has finally achieved what most thought impossible: he&rsquo;s written a post so bad that the hacker news comments are actually better than it"
+can_send_in_message = true
+id = 7.726441569925857e+17
+is_blazed = false
+is_blaze_pending = false
+source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a>"
 is_blocks_post_format = false
-state = "published"
+format = "markdown"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+id_string = "772644156992585728"
+short_url = "https://tmblr.co/ZY3jbygu_yHZKm00"
+display_avatar = true
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a></p>"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a></p>"
-tree_html = ""
 +++

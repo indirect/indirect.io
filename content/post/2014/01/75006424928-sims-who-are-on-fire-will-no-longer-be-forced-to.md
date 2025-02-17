@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/75006424928/sims-who-are-on-fire-will-no-longer-be-forced-to"]
 date = 2014-01-30T02:41:20Z
-slug = "sims-who-are-on-fire-will-no-longer-be-forced-to"
 id = "75006424928"
-aliases = [ "/post/75006424928/sims-who-are-on-fire-will-no-longer-be-forced-to" ]
-tags = [ ]
+slug = "sims-who-are-on-fire-will-no-longer-be-forced-to"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-timestamp = 1.39104968e+09
-state = "published"
-short_url = "https://tmblr.co/ZY3jby15skpTW"
-note_count = 0.0
-slug = "sims-who-are-on-fire-will-no-longer-be-forced-to"
-date = "2014-01-30 02:41:20 GMT"
-source = "<a href=\"http://kotaku.com/pregnant-sims-can-no-longer-brawl-and-other-amazing-s-1506014739\">The Sims release notes</a>"
-interactability_blaze = "everyone"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/75006424928/sims-who-are-on-fire-will-no-longer-be-forced-to"
-format = "markdown"
-text = "Sims who are on fire will no longer be forced to attend graduation before they can put themselves out."
-type = "quote"
-id = 7.5006424928e+10
 is_blaze_pending = false
-summary = "Sims who are on fire will no longer be forced to attend graduation before they can put themselves out."
-can_like = false
+can_blaze = false
 can_reblog = false
-reblog_key = "zAsYA0o8"
-blog_name = "indirect"
-id_string = "75006424928"
+can_reply = false
+summary = "Sims who are on fire will no longer be forced to attend graduation before they can put themselves out."
 interactability_reblog = "everyone"
-can_send_in_message = true
-tags = [ ]
-should_open_in_legacy = true
+state = "published"
+post_url = "https://indirect.tumblr.com/post/75006424928/sims-who-are-on-fire-will-no-longer-be-forced-to"
+text = "Sims who are on fire will no longer be forced to attend graduation before they can put themselves out."
+source = "<a href=\"http://kotaku.com/pregnant-sims-can-no-longer-brawl-and-other-amazing-s-1506014739\">The Sims release notes</a>"
+slug = "sims-who-are-on-fire-will-no-longer-be-forced-to"
+is_blocks_post_format = false
+id_string = "75006424928"
+is_blazed = false
+format = "markdown"
+date = "2014-01-30 02:41:20 GMT"
+timestamp = 1391049680.0
+reblog_key = "zAsYA0o8"
+note_count = 0.0
 display_avatar = true
+type = "quote"
+id = 75006424928.0
+interactability_blaze = "everyone"
+blog_name = "indirect"
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jby15skpTW"
+should_open_in_legacy = true
+can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://kotaku.com/pregnant-sims-can-no-longer-brawl-and-other-amazing-s-1506014739\">The Sims release notes</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

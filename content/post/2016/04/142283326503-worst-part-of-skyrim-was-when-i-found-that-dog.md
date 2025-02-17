@@ -1,40 +1,49 @@
 +++
+aliases = ["/post/142283326503/worst-part-of-skyrim-was-when-i-found-that-dog"]
 date = 2016-04-05T06:50:14Z
-slug = "worst-part-of-skyrim-was-when-i-found-that-dog"
 id = "142283326503"
-aliases = [ "/post/142283326503/worst-part-of-skyrim-was-when-i-found-that-dog" ]
-tags = [ ]
+slug = "worst-part-of-skyrim-was-when-i-found-that-dog"
 type = "tumblr-text"
 
 [tumblr]
-is_blazed = false
-is_blaze_pending = false
-can_send_in_message = true
-display_avatar = true
 is_blocks_post_format = false
-tags = [ ]
-should_open_in_legacy = false
-id = 1.42283326503e+11
-id_string = "142283326503"
-date = "2016-04-05 06:50:14 GMT"
-timestamp = 1.459839014e+09
-format = "markdown"
 note_count = 2.0
-interactability_blaze = "everyone"
+can_like = false
+can_reply = false
+should_open_in_legacy = false
 can_blaze = false
 state = "published"
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/142283326503/worst-part-of-skyrim-was-when-i-found-that-dog"
-reblog_key = "oG1kn5lN"
-can_like = false
-slug = "worst-part-of-skyrim-was-when-i-found-that-dog"
-short_url = "https://tmblr.co/ZY3jby24WlqGd"
-summary = "worst part of Skyrim was when I found that dog whose owner died in a cabin, and then I of course had to adopt the dog bc i'm not..."
 body = "<p>worst part of Skyrim was when I found that dog whose owner died in a cabin, and then I of course had to adopt the dog bc i&rsquo;m not a monster</p>\n\n<p>and I fucking love this dog, but i&rsquo;m wondering around trying to solve quests and save the world and junk, but this good dog</p>\n\n<p>this good dog always tries to help out fighting giants and dragons, and it&rsquo;s like &lsquo;NO DON&rsquo;T HURT MY DOG&rsquo;</p>\n\n<p>and i have to fight like 300% harder to save my dog from being eaten by a dragon and i&rsquo;ve honestly never been so anxious</p>\n\n<p>so then I find out that I can build a homestead and my dog can live there, so the next four days of my life are building shit</p>\n\n<p>while bandits and dragons still attack my dog while i&rsquo;m bloody mining ore and building a goddamn solarium for my pooch</p>\n\n<p>and then the dog won&rsquo;t stay in the house, and I discover I have to adopt a child first, and the child has to like my dog</p>\n\n<p>so i go to an orphanage, to discover they are being mistreated by an evil woman, so I kill her</p>\n\n<p>but then I can&rsquo;t adopt a child any more because they are free! So I wander Skyrim looking for a parent-free child somewhere</p>\n\n<p>and I don&rsquo;t even like children</p>\n\n<p>and then finally I find some girl begging in Whiterun, and she&rsquo;s all like 'thanks Mum!&rsquo; (I play a lady cat-wizard)</p>\n\n<p>and then I discover that the girl WON&rsquo;T MOVE INTO MY HOUSE BECAUSE I DIDN&rsquo;T MAKE A PROPER BED FOR HER</p>\n\n<p>SO I DECIDE TO BUILD A NEW HOUSE, ON A FUCKING LAKE BECAUSE I FIGURE IT WILL BE A GOOD PLACE TO RAISE CHILDREN OR WHATEVER</p>\n\n<p>BUT FIRST I HAVE TO BECOME A THANE OF FALKREATH AND DO ALL THESE QUESTS TO HELP PEOPLE BEFORE THEY GIVE ME A PLOT OF LAND</p>\n\n<p>and my dog is STILL following me around STILL nearly dying in every fight, and I&rsquo;m just a tense, scared motherfucker</p>\n\n<p>anyway, then I meet another goddamn dog on the road, but it&rsquo;s a fucking demon dog, and it comes with me too</p>\n\n<p>and it&rsquo;s like - months have passed by in the game, the world is being invaded by dragons, and I&rsquo;m just focused on real estate</p>\n\n<p>finally i build my new lakefront house, and go find my daughter (who has been living on the streets for about two months)</p>\n\n<p>it&rsquo;s like - LITERALLY, beggars can&rsquo;t be choosers, but bc i didn&rsquo;t make a nice bed for her, she sleeps on a bench in Whiterun</p>\n\n<p>and she moves in to my house, which is right next to a cave of wolves and a necromancers summoning circle, but whatev</p>\n\n<p>and I walk into the house, with my goddamn dog, waiting for her to adopt my dog so I can go save the world</p>\n\n<p>and she&rsquo;s ADOPTED A FUCKING RAT</p>\n\n<p>THERE IS THIS GORGEOUS, BRAVE DOG WHO JUST WANTS TO SETTLE DOWN IN FRONT OF A HEARTH</p>\n\n<p>AND SHE&rsquo;S FLOUNCING AROUND WITH A GIANT RAT</p>\n\n<p>in the meantime, I get married to a lady named Mjoll the Lioness, bc she&rsquo;s hot to trot and will be a good lesbian mother</p>\n\n<p>and weirdly, her 'friend&rsquo; Aerin, moves into our house too</p>\n\n<p>and it&rsquo;s like - do we have a polyamorous relationship and are raising our homeless daughter and her rat? bc that&rsquo;s cool</p>\n\n<p>so I&rsquo;m like 'i&rsquo;ll go and find a brother for my new daughter&rsquo; and he can adopt the dog. Hopefully.</p>\n\n<p>and it works out - the boy wants my dog, my dog likes the boy, everything is fine, the dog has been successfully adopted.</p>\n\n<p>and finally i can go back to being the saviour of Tamriel.</p>\n\n<p>although I then discover that Mjoll&rsquo;s &ldquo;friend&rdquo; Aerin keeps yelling 'stupid dog&rsquo; at my gorgeous dog.</p>\n\n<p>so I waited until he was outside and I try to make him fuck off back to his OWN HOUSE</p>\n\n<p>my theory was that I could shout him into the lake? anyway, I misjudged and shouted him into the necromancer circle</p>\n\n<p>and he died</p>\n\n<p>and my wife saw me kill him, and attacked me, and I didn&rsquo;t want to kill her, so i ran away</p>\n\n<p>so I just never went back to my house, but even though I destroyed my marriage and killed a man</p>\n\n<p>i know that my dog is safe.</p>\n\n<p>THE END. THANK YOU</p>\n\n<p>— <a href=\"https://twitter.com/patricklenton/status/717163582115307521\">@PatrickLenton, 4 Apr 2016</a></p>"
+interactability_reblog = "everyone"
 can_reblog = false
-can_reply = false
-type = "text"
+can_send_in_message = true
+id_string = "142283326503"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/142283326503/worst-part-of-skyrim-was-when-i-found-that-dog"
+slug = "worst-part-of-skyrim-was-when-i-found-that-dog"
+interactability_blaze = "everyone"
+display_avatar = true
 blog_name = "indirect"
+format = "markdown"
+type = "text"
+id = 142283326503.0
+is_blazed = false
+summary = "worst part of Skyrim was when I found that dog whose owner died in a cabin, and then I of course had to adopt the dog bc i'm not..."
+reblog_key = "oG1kn5lN"
+short_url = "https://tmblr.co/ZY3jby24WlqGd"
+timestamp = 1459839014.0
+date = "2016-04-05 06:50:14 GMT"
+
+[tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>worst part of Skyrim was when I found that dog whose owner died in a cabin, and then I of course had to adopt the dog bc i’m not a monster</p>\n\n<p>and I fucking love this dog, but i’m wondering around trying to solve quests and save the world and junk, but this good dog</p>\n\n<p>this good dog always tries to help out fighting giants and dragons, and it’s like ‘NO DON’T HURT MY DOG’</p>\n\n<p>and i have to fight like 300% harder to save my dog from being eaten by a dragon and i’ve honestly never been so anxious</p>\n\n<p>so then I find out that I can build a homestead and my dog can live there, so the next four days of my life are building shit</p>\n\n<p>while bandits and dragons still attack my dog while i’m bloody mining ore and building a goddamn solarium for my pooch</p>\n\n<p>and then the dog won’t stay in the house, and I discover I have to adopt a child first, and the child has to like my dog</p>\n\n<p>so i go to an orphanage, to discover they are being mistreated by an evil woman, so I kill her</p>\n\n<p>but then I can’t adopt a child any more because they are free! So I wander Skyrim looking for a parent-free child somewhere</p>\n\n<p>and I don’t even like children</p>\n\n<p>and then finally I find some girl begging in Whiterun, and she’s all like 'thanks Mum!’ (I play a lady cat-wizard)</p>\n\n<p>and then I discover that the girl WON’T MOVE INTO MY HOUSE BECAUSE I DIDN’T MAKE A PROPER BED FOR HER</p>\n\n<p>SO I DECIDE TO BUILD A NEW HOUSE, ON A FUCKING LAKE BECAUSE I FIGURE IT WILL BE A GOOD PLACE TO RAISE CHILDREN OR WHATEVER</p>\n\n<p>BUT FIRST I HAVE TO BECOME A THANE OF FALKREATH AND DO ALL THESE QUESTS TO HELP PEOPLE BEFORE THEY GIVE ME A PLOT OF LAND</p>\n\n<p>and my dog is STILL following me around STILL nearly dying in every fight, and I’m just a tense, scared motherfucker</p>\n\n<p>anyway, then I meet another goddamn dog on the road, but it’s a fucking demon dog, and it comes with me too</p>\n\n<p>and it’s like - months have passed by in the game, the world is being invaded by dragons, and I’m just focused on real estate</p>\n\n<p>finally i build my new lakefront house, and go find my daughter (who has been living on the streets for about two months)</p>\n\n<p>it’s like - LITERALLY, beggars can’t be choosers, but bc i didn’t make a nice bed for her, she sleeps on a bench in Whiterun</p>\n\n<p>and she moves in to my house, which is right next to a cave of wolves and a necromancers summoning circle, but whatev</p>\n\n<p>and I walk into the house, with my goddamn dog, waiting for her to adopt my dog so I can go save the world</p>\n\n<p>and she’s ADOPTED A FUCKING RAT</p>\n\n<p>THERE IS THIS GORGEOUS, BRAVE DOG WHO JUST WANTS TO SETTLE DOWN IN FRONT OF A HEARTH</p>\n\n<p>AND SHE’S FLOUNCING AROUND WITH A GIANT RAT</p>\n\n<p>in the meantime, I get married to a lady named Mjoll the Lioness, bc she’s hot to trot and will be a good lesbian mother</p>\n\n<p>and weirdly, her 'friend’ Aerin, moves into our house too</p>\n\n<p>and it’s like - do we have a polyamorous relationship and are raising our homeless daughter and her rat? bc that’s cool</p>\n\n<p>so I’m like 'i’ll go and find a brother for my new daughter’ and he can adopt the dog. Hopefully.</p>\n\n<p>and it works out - the boy wants my dog, my dog likes the boy, everything is fine, the dog has been successfully adopted.</p>\n\n<p>and finally i can go back to being the saviour of Tamriel.</p>\n\n<p>although I then discover that Mjoll’s “friend” Aerin keeps yelling 'stupid dog’ at my gorgeous dog.</p>\n\n<p>so I waited until he was outside and I try to make him fuck off back to his OWN HOUSE</p>\n\n<p>my theory was that I could shout him into the lake? anyway, I misjudged and shouted him into the necromancer circle</p>\n\n<p>and he died</p>\n\n<p>and my wife saw me kill him, and attacked me, and I didn’t want to kill her, so i ran away</p>\n\n<p>so I just never went back to my house, but even though I destroyed my marriage and killed a man</p>\n\n<p>i know that my dog is safe.</p>\n\n<p>THE END. THANK YOU</p>\n\n<p>— <a href=\"https://twitter.com/patricklenton/status/717163582115307521\">@PatrickLenton, 4 Apr 2016</a></p>"
@@ -54,35 +63,24 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
 background_color = "#FAFAFA"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_font_weight = "bold"
 header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+show_title = true
+avatar_shape = "square"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_poster = ""
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
 link_color = "#529ECC"
 show_avatar = true
-show_description = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
 show_header_image = false
-avatar_shape = "square"
 
 [tumblr.trail.post]
 id = "142283326503"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

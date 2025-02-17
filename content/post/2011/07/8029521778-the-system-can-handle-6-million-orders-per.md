@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/8029521778/the-system-can-handle-6-million-orders-per"]
 date = 2011-07-25T03:57:09Z
-slug = "the-system-can-handle-6-million-orders-per"
 id = "8029521778"
-aliases = [ "/post/8029521778/the-system-can-handle-6-million-orders-per" ]
-tags = [ ]
+slug = "the-system-can-handle-6-million-orders-per"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "the-system-can-handle-6-million-orders-per"
-can_blaze = false
 note_count = 0.0
-can_send_in_message = true
-state = "published"
-short_url = "https://tmblr.co/ZY3jby7UcCTo"
-source = "<a href=\"http://martinfowler.com/articles/lmax.html\">The LMAX Architecture</a>"
 can_like = false
-id = 8.029521778e+09
-interactability_reblog = "everyone"
-type = "quote"
-is_blaze_pending = false
-reblog_key = "1xhM3d0y"
-summary = "The system […] can handle 6 million orders per second on a single thread"
-can_reply = false
-is_blocks_post_format = false
+id = 8029521778.0
 is_blazed = false
-date = "2011-07-25 03:57:09 GMT"
-timestamp = 1.311566229e+09
-tags = [ ]
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/8029521778/the-system-can-handle-6-million-orders-per"
 display_avatar = true
+is_blocks_post_format = false
+date = "2011-07-25 03:57:09 GMT"
+source = "<a href=\"http://martinfowler.com/articles/lmax.html\">The LMAX Architecture</a>"
+is_blaze_pending = false
+slug = "the-system-can-handle-6-million-orders-per"
 blog_name = "indirect"
 id_string = "8029521778"
-post_url = "https://indirect.tumblr.com/post/8029521778/the-system-can-handle-6-million-orders-per"
-should_open_in_legacy = true
+timestamp = 1311566229.0
 text = "The system [&hellip;] can handle 6 million orders per second on a single thread"
+reblog_key = "1xhM3d0y"
+short_url = "https://tmblr.co/ZY3jby7UcCTo"
+interactability_reblog = "everyone"
+type = "quote"
+should_open_in_legacy = true
+can_send_in_message = true
+can_reply = false
+format = "markdown"
+summary = "The system […] can handle 6 million orders per second on a single thread"
 interactability_blaze = "everyone"
 can_reblog = false
-format = "markdown"
+state = "published"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://martinfowler.com/articles/lmax.html\">The LMAX Architecture</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 
 [tumblr.blog.tumblrmart_accessories]
 +++

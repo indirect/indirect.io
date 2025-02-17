@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/690367463197655040/oh-you-want-to-be-an-academic-you-mean-being-a"]
 date = 2022-07-21T06:41:58Z
-slug = "oh-you-want-to-be-an-academic-you-mean-being-a"
 id = "690367463197655040"
-aliases = [ "/post/690367463197655040/oh-you-want-to-be-an-academic-you-mean-being-a" ]
-tags = [ ]
+slug = "oh-you-want-to-be-an-academic-you-mean-being-a"
 type = "tumblr-quote"
 
 [tumblr]
+id = 6.90367463197655e+17
+can_blaze = false
+date = "2022-07-21 06:41:58 GMT"
+can_send_in_message = true
 state = "published"
-should_open_in_legacy = true
-blog_name = "indirect"
-timestamp = 1.658385718e+09
-can_like = false
-display_avatar = true
-interactability_reblog = "everyone"
-summary = "Oh you want to be an academic? You mean being a content creator for Elsevier?"
 source = "<a href=\"http://twitter.com/brettkarlan/status/1549110061372416000\">@brettkarlan</a>"
+text = "Oh you want to be an academic? You mean being a content creator for Elsevier?"
+can_like = false
+can_reply = false
+type = "quote"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/690367463197655040/oh-you-want-to-be-an-academic-you-mean-being-a"
+timestamp = 1658385718.0
+reblog_key = "rsdr6BQh"
+should_open_in_legacy = true
+display_avatar = true
+blog_name = "indirect"
+id_string = "690367463197655040"
+short_url = "https://tmblr.co/ZY3jbycKhOpGOa00"
+is_blocks_post_format = false
+is_blazed = false
+format = "html"
 note_count = 0.0
 interactability_blaze = "everyone"
 can_reblog = false
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/690367463197655040/oh-you-want-to-be-an-academic-you-mean-being-a"
-date = "2022-07-21 06:41:58 GMT"
-tags = [ ]
-id_string = "690367463197655040"
-is_blazed = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jbycKhOpGOa00"
-text = "Oh you want to be an academic? You mean being a content creator for Elsevier?"
-is_blocks_post_format = false
-id = 6.90367463197655e+17
 slug = "oh-you-want-to-be-an-academic-you-mean-being-a"
-reblog_key = "rsdr6BQh"
-can_send_in_message = true
-can_reply = false
-is_blaze_pending = false
-can_blaze = false
+summary = "Oh you want to be an academic? You mean being a content creator for Elsevier?"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

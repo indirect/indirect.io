@@ -1,50 +1,98 @@
 +++
+aliases = ["/post/749351708383232000/20735-httpstcokvmavpvnxz-yana-exaltiora"]
 date = 2024-05-02T08:11:17Z
-slug = "20735-httpstcokvmavpvnxz-yana-exaltiora"
 id = "749351708383232000"
-aliases = [ "/post/749351708383232000/20735-httpstcokvmavpvnxz-yana-exaltiora" ]
-tags = [ ]
+slug = "20735-httpstcokvmavpvnxz-yana-exaltiora"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-tags = [ ]
-can_like = false
-type = "photo"
-short_url = "https://tmblr.co/ZY3jbyfcEsYM0y00"
 summary = "20735. https://t.co/kVmavpvnXz — yana (@exaltiora)"
-should_open_in_legacy = true
+blog_name = "indirect"
 is_blaze_pending = false
 slug = "20735-httpstcokvmavpvnxz-yana-exaltiora"
 state = "published"
-reblog_key = "RIriFtTW"
-can_reply = false
-id = 7.49351708383232e+17
-id_string = "749351708383232000"
-can_blaze = false
-timestamp = 1.714637477e+09
-format = "html"
-interactability_reblog = "everyone"
-display_avatar = true
-blog_name = "indirect"
 is_blazed = false
+timestamp = 1714637477.0
 link_url = "https://twitter.com/exaltiora/status/1772674086633677243"
-image_permalink = "https://indirect.tumblr.com/image/749351708383232000"
-note_count = 0.0
 caption = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> — <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
+can_like = false
+display_avatar = true
+reblog_key = "RIriFtTW"
+short_url = "https://tmblr.co/ZY3jbyfcEsYM0y00"
+interactability_reblog = "everyone"
+type = "photo"
 can_reblog = false
 can_send_in_message = true
 post_url = "https://indirect.tumblr.com/post/749351708383232000/20735-httpstcokvmavpvnxz-yana-exaltiora"
+format = "html"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reply = false
+is_blocks_post_format = false
+can_blaze = false
 date = "2024-05-02 08:11:17 GMT"
+note_count = 0.0
+image_permalink = "https://indirect.tumblr.com/image/749351708383232000"
+id = 7.49351708383232e+17
+id_string = "749351708383232000"
+
+[tumblr.reblog]
+comment = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> — <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> — <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
+content = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> &mdash; <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+show_header_image = false
+show_title = true
+title_color = "#444444"
+header_image_poster = ""
+show_avatar = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_description = true
+background_color = "#FAFAFA"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+avatar_shape = "square"
+
+[tumblr.trail.post]
+id = "749351708383232000"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 1200.0
 url = "/images/3b/b7/ea7e1cb99f16a5806342660de6b0.jpg"
 width = 1102.0
-height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3b/b7/ea7e1cb99f16a5806342660de6b0.jpg"
@@ -62,9 +110,9 @@ width = 540.0
 height = 588.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1a/8d/5c2d78198be99733e722240464c3.jpg"
 width = 500.0
 height = 544.0
+url = "/images/1a/8d/5c2d78198be99733e722240464c3.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/23/90/7c630b6a7e7206ae6a3d88815614.jpg"
@@ -72,67 +120,17 @@ width = 400.0
 height = 436.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a3/9e/4d75c5ad7622f899adc48f85ac8a.jpg"
 width = 250.0
 height = 272.0
+url = "/images/a3/9e/4d75c5ad7622f899adc48f85ac8a.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 109.0
 url = "/images/0a/2e/40fb7c8949fcf6dd96290dc424d8.jpg"
 width = 100.0
-height = 109.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/45/31/4f72d9d98da0a292abb94c4b6172.jpg"
 width = 75.0
 height = 75.0
-url = "/images/45/31/4f72d9d98da0a292abb94c4b6172.jpg"
-
-[tumblr.reblog]
-comment = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> — <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> &mdash; <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>20735. <a href=\"https://t.co/kVmavpvnXz\">https://t.co/kVmavpvnXz</a> — <a href=\"https://twitter.com/exaltiora/status/1772674086633677243\">yana (@exaltiora)</a></p>"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-header_stretch = true
-show_header_image = false
-
-[tumblr.trail.post]
-id = "749351708383232000"
 +++

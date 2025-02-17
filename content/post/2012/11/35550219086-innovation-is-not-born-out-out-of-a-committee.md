@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/35550219086/innovation-is-not-born-out-out-of-a-committee"]
 date = 2012-11-12T06:47:31Z
-slug = "innovation-is-not-born-out-out-of-a-committee"
 id = "35550219086"
-aliases = [ "/post/35550219086/innovation-is-not-born-out-out-of-a-committee" ]
-tags = [ ]
+slug = "innovation-is-not-born-out-out-of-a-committee"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-text = "Innovation is not born out out of a committee; innovation is a fight. It’s messy, people die, but when the battle is over, something unimaginably significant has been achieved."
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/35550219086/innovation-is-not-born-out-out-of-a-committee"
-can_like = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 type = "quote"
-blog_name = "indirect"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyX6zKjE"
 is_blocks_post_format = false
-id = 3.5550219086e+10
+blog_name = "indirect"
 can_blaze = false
 date = "2012-11-12 06:47:31 GMT"
-timestamp = 1.352702851e+09
-note_count = 0.0
-can_send_in_message = true
-is_blazed = false
-reblog_key = "qspCv15l"
-summary = "Innovation is not born out out of a committee; innovation is a fight. It’s messy, people die, but when the battle is over,..."
-source = "<a href=\"http://www.randsinrepose.com/archives/2012/11/11/innovation_is_a_fight.html\">Innovation is a Fight</a>"
 id_string = "35550219086"
-can_reblog = false
-display_avatar = true
-slug = "innovation-is-not-born-out-out-of-a-committee"
-format = "markdown"
-tags = [ ]
+reblog_key = "qspCv15l"
+should_open_in_legacy = true
 can_reply = false
+display_avatar = true
+id = 35550219086.0
+is_blazed = false
+source = "<a href=\"http://www.randsinrepose.com/archives/2012/11/11/innovation_is_a_fight.html\">Innovation is a Fight</a>"
+interactability_reblog = "everyone"
+format = "markdown"
+is_blaze_pending = false
+timestamp = 1352702851.0
+short_url = "https://tmblr.co/ZY3jbyX6zKjE"
+interactability_blaze = "everyone"
+can_like = false
+post_url = "https://indirect.tumblr.com/post/35550219086/innovation-is-not-born-out-out-of-a-committee"
+note_count = 0.0
+can_reblog = false
+can_send_in_message = true
+state = "published"
+summary = "Innovation is not born out out of a committee; innovation is a fight. It’s messy, people die, but when the battle is over,..."
+slug = "innovation-is-not-born-out-out-of-a-committee"
+text = "Innovation is not born out out of a committee; innovation is a fight. It’s messy, people die, but when the battle is over, something unimaginably significant has been achieved."
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.randsinrepose.com/archives/2012/11/11/innovation_is_a_fight.html\">Innovation is a Fight</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

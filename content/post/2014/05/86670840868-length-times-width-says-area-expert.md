@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/86670840868/length-times-width-says-area-expert"]
 date = 2014-05-24T06:58:37Z
-slug = "length-times-width-says-area-expert"
 id = "86670840868"
-aliases = [ "/post/86670840868/length-times-width-says-area-expert" ]
-tags = [ ]
+slug = "length-times-width-says-area-expert"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-state = "published"
-tags = [ ]
-text = "&ldquo;Length times width,&rdquo; says area expert."
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/86670840868/length-times-width-says-area-expert"
-date = "2014-05-24 06:58:37 GMT"
-reblog_key = "5jUoKnLT"
-source = "<a href=\"http://twitter.com/TheThomason/status/443085967843291137\">@TheThomason</a>"
-is_blaze_pending = false
-slug = "length-times-width-says-area-expert"
-timestamp = 1.400914717e+09
-should_open_in_legacy = true
-can_reply = false
-format = "html"
-note_count = 0.0
-interactability_reblog = "everyone"
-id_string = "86670840868"
-short_url = "https://tmblr.co/ZY3jby1Gj-1Ga"
 summary = "“Length times width,” says area expert."
+can_reblog = false
+date = "2014-05-24 06:58:37 GMT"
+is_blaze_pending = false
+note_count = 0.0
+can_send_in_message = true
+id_string = "86670840868"
+can_blaze = false
+format = "html"
+text = "&ldquo;Length times width,&rdquo; says area expert."
+source = "<a href=\"http://twitter.com/TheThomason/status/443085967843291137\">@TheThomason</a>"
+post_url = "https://indirect.tumblr.com/post/86670840868/length-times-width-says-area-expert"
+slug = "length-times-width-says-area-expert"
+can_reply = false
 type = "quote"
 is_blocks_post_format = false
-id = 8.6670840868e+10
-can_like = false
-blog_name = "indirect"
+should_open_in_legacy = true
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/TheThomason/status/443085967843291137\">@TheThomason</a></p>"
-tree_html = ""
+is_blazed = false
+state = "published"
+reblog_key = "5jUoKnLT"
+can_like = false
+interactability_reblog = "everyone"
+timestamp = 1400914717.0
+blog_name = "indirect"
+id = 86670840868.0
+display_avatar = true
+short_url = "https://tmblr.co/ZY3jby1Gj-1Ga"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/TheThomason/status/443085967843291137\">@TheThomason</a></p>"
+tree_html = ""
 +++

@@ -1,46 +1,90 @@
 +++
+aliases = ["/post/104019679648/antoniofrench-responds-to-question-why-arent"]
 date = 2014-11-30T22:53:56Z
-slug = "antoniofrench-responds-to-question-why-arent"
 id = "104019679648"
-aliases = [ "/post/104019679648/antoniofrench-responds-to-question-why-arent" ]
-tags = [ ]
+slug = "antoniofrench-responds-to-question-why-arent"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-id = 1.04019679648e+11
-id_string = "104019679648"
-timestamp = 1.417388036e+09
-summary = ".@AntonioFrench responds to question: \"Why aren't black peoples this outraged over black-on-black killings?\" — @mrmedina"
-caption = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
-short_url = "https://tmblr.co/ZY3jby1Wu3bcW"
 link_url = "http://twitter.com/mrmedina/status/539129900247318528"
+summary = ".@AntonioFrench responds to question: \"Why aren't black peoples this outraged over black-on-black killings?\" — @mrmedina"
+can_reblog = false
 blog_name = "indirect"
+id = 104019679648.0
+date = "2014-11-30 22:53:56 GMT"
+can_like = false
+interactability_blaze = "everyone"
+can_send_in_message = true
 is_blaze_pending = false
+state = "published"
+type = "photo"
+can_blaze = false
+format = "html"
+reblog_key = "gMRqFezm"
+should_open_in_legacy = true
+id_string = "104019679648"
 slug = "antoniofrench-responds-to-question-why-arent"
+caption = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
+can_reply = false
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/104019679648/antoniofrench-responds-to-question-why-arent"
+timestamp = 1417388036.0
+short_url = "https://tmblr.co/ZY3jby1Wu3bcW"
+note_count = 0.0
 image_permalink = "https://indirect.tumblr.com/image/104019679648"
+interactability_reblog = "everyone"
 is_blocks_post_format = false
 is_blazed = false
-post_url = "https://indirect.tumblr.com/post/104019679648/antoniofrench-responds-to-question-why-arent"
-state = "published"
-should_open_in_legacy = true
-can_like = false
-can_send_in_message = true
-reblog_key = "gMRqFezm"
-interactability_reblog = "everyone"
-display_avatar = true
-can_blaze = false
-date = "2014-11-30 22:53:56 GMT"
-tags = [ ]
-format = "html"
-interactability_blaze = "everyone"
-can_reply = false
-note_count = 0.0
-can_reblog = false
 
 [tumblr.reblog]
 comment = "<p>.@AntonioFrench responds to question: “Why aren’t black peoples this outraged over black-on-black killings?” — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>.@AntonioFrench responds to question: “Why aren’t black peoples this outraged over black-on-black killings?” — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
+content = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; &mdash; <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+background_color = "#FAFAFA"
+header_image_poster = ""
+show_header_image = false
+show_title = true
+avatar_shape = "square"
+header_bounds = ""
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+title_font_weight = "bold"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
+title_color = "#444444"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "104019679648"
+
+[tumblr.blog]
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -84,50 +128,4 @@ height = 100.0
 url = "/images/89/66/39e7cc62e0cf5f432ac57132d868.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>.@AntonioFrench responds to question: “Why aren’t black peoples this outraged over black-on-black killings?” — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
-content = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; &mdash; <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_title = true
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-show_description = true
-title_color = "#444444"
-title_font = "Gibson"
-avatar_shape = "square"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_header_image = false
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "104019679648"
 +++

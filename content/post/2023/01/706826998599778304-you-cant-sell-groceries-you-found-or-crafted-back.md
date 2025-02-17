@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/706826998599778304/you-cant-sell-groceries-you-found-or-crafted-back"]
 date = 2023-01-18T22:59:14Z
-slug = "you-cant-sell-groceries-you-found-or-crafted-back"
 id = "706826998599778304"
-aliases = [ "/post/706826998599778304/you-cant-sell-groceries-you-found-or-crafted-back" ]
-tags = [ ]
+slug = "you-cant-sell-groceries-you-found-or-crafted-back"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/706826998599778304/you-cant-sell-groceries-you-found-or-crafted-back"
-short_url = "https://tmblr.co/ZY3jbydF9sa9CW00"
-should_open_in_legacy = true
-can_reply = false
-blog_name = "indirect"
-is_blaze_pending = false
-can_blaze = false
-slug = "you-cant-sell-groceries-you-found-or-crafted-back"
-is_blocks_post_format = false
 note_count = 0.0
-id_string = "706826998599778304"
-interactability_blaze = "everyone"
-display_avatar = true
-type = "quote"
-timestamp = 1.674082754e+09
+timestamp = 1674082754.0
+id = 7.068269985997783e+17
 date = "2023-01-18 22:59:14 GMT"
 state = "published"
-interactability_reblog = "everyone"
-summary = "you can’t sell groceries you found or crafted back to the supermarket. that’s one thing video games got wrong"
-source = "<a href=\"http://twitter.com/prawn_meat/status/1615823739962421249\">@prawn_meat</a>"
-id = 7.068269985997783e+17
-format = "html"
+blog_name = "indirect"
 reblog_key = "hDVyvG9C"
-tags = [ ]
-text = "you can&rsquo;t sell groceries you found or crafted back to the supermarket. that&rsquo;s one thing video games got wrong"
-can_reblog = false
+source = "<a href=\"http://twitter.com/prawn_meat/status/1615823739962421249\">@prawn_meat</a>"
 can_send_in_message = true
+type = "quote"
+short_url = "https://tmblr.co/ZY3jbydF9sa9CW00"
+summary = "you can’t sell groceries you found or crafted back to the supermarket. that’s one thing video games got wrong"
+text = "you can&rsquo;t sell groceries you found or crafted back to the supermarket. that&rsquo;s one thing video games got wrong"
+can_reply = false
+interactability_reblog = "everyone"
+is_blazed = false
+is_blaze_pending = false
+format = "html"
+is_blocks_post_format = false
+can_blaze = false
+can_like = false
+interactability_blaze = "everyone"
+display_avatar = true
+id_string = "706826998599778304"
+post_url = "https://indirect.tumblr.com/post/706826998599778304/you-cant-sell-groceries-you-found-or-crafted-back"
+can_reblog = false
+slug = "you-cant-sell-groceries-you-found-or-crafted-back"
+should_open_in_legacy = true
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

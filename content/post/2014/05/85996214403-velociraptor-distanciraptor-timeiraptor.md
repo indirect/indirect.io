@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/85996214403/velociraptor-distanciraptor-timeiraptor"]
 date = 2014-05-17T10:31:04Z
-slug = "velociraptor-distanciraptor-timeiraptor"
 id = "85996214403"
-aliases = [ "/post/85996214403/velociraptor-distanciraptor-timeiraptor" ]
-tags = [ ]
+slug = "velociraptor-distanciraptor-timeiraptor"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-format = "markdown"
-tags = [ ]
-note_count = 0.0
-can_send_in_message = true
-type = "quote"
-id = 8.5996214403e+10
-source = "<a href=\"https://twitter.com/ScienceTip/status/467313609023180800\">@ScienceTip</a>"
-display_avatar = true
-can_blaze = false
-date = "2014-05-17 10:31:04 GMT"
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/85996214403/velociraptor-distanciraptor-timeiraptor"
-timestamp = 1.400322664e+09
-text = "Velociraptor = Distanciraptor / Timeiraptor"
-reblog_key = "MMj3o9D9"
+can_reply = false
+is_blazed = false
 short_url = "https://tmblr.co/ZY3jby1G5nXY3"
 can_like = false
-interactability_reblog = "everyone"
-can_reply = false
+id = 85996214403.0
 id_string = "85996214403"
-is_blazed = false
-summary = "Velociraptor = Distanciraptor / Timeiraptor"
-blog_name = "indirect"
 is_blaze_pending = false
-slug = "velociraptor-distanciraptor-timeiraptor"
 should_open_in_legacy = true
+note_count = 0.0
+interactability_reblog = "everyone"
+can_send_in_message = true
+can_blaze = false
+type = "quote"
 is_blocks_post_format = false
+timestamp = 1400322664.0
+state = "published"
+format = "markdown"
+reblog_key = "MMj3o9D9"
+can_reblog = false
+post_url = "https://indirect.tumblr.com/post/85996214403/velociraptor-distanciraptor-timeiraptor"
+text = "Velociraptor = Distanciraptor / Timeiraptor"
+display_avatar = true
+summary = "Velociraptor = Distanciraptor / Timeiraptor"
+source = "<a href=\"https://twitter.com/ScienceTip/status/467313609023180800\">@ScienceTip</a>"
 interactability_blaze = "everyone"
+blog_name = "indirect"
+slug = "velociraptor-distanciraptor-timeiraptor"
+date = "2014-05-17 10:31:04 GMT"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/ScienceTip/status/467313609023180800\">@ScienceTip</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/27823497/i-hate-you-so-much"]
 date = 2008-03-03T09:36:58Z
-slug = "i-hate-you-so-much"
 id = "27823497"
-aliases = [ "/post/27823497/i-hate-you-so-much" ]
-tags = [ ]
+slug = "i-hate-you-so-much"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-can_send_in_message = true
 text = "I HATE YOU SO MUCH"
-state = "published"
-is_blocks_post_format = false
-id = 2.7823497e+07
+can_reblog = false
 can_blaze = false
-reblog_key = "4LtQoHNH"
+date = "2008-03-03 09:36:58 GMT"
+timestamp = 1204537018.0
+format = "html"
+interactability_reblog = "everyone"
 can_reply = false
-id_string = "27823497"
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/27823497/i-hate-you-so-much"
+note_count = 0.0
 source = "keaton"
 can_like = false
-timestamp = 1.204537018e+09
-format = "html"
-can_reblog = false
+can_send_in_message = true
+state = "published"
+short_url = "https://tmblr.co/ZY3jby1g8s9"
+id = 27823497.0
 is_blazed = false
+should_open_in_legacy = true
+is_blocks_post_format = false
+blog_name = "indirect"
 is_blaze_pending = false
 slug = "i-hate-you-so-much"
-tags = [ ]
+reblog_key = "4LtQoHNH"
 interactability_blaze = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/27823497/i-hate-you-so-much"
-short_url = "https://tmblr.co/ZY3jby1g8s9"
-summary = "I HATE YOU SO MUCH"
-date = "2008-03-03 09:36:58 GMT"
-should_open_in_legacy = true
-display_avatar = true
 type = "quote"
-note_count = 0.0
+id_string = "27823497"
+summary = "I HATE YOU SO MUCH"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

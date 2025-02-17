@@ -1,52 +1,45 @@
 +++
+aliases = ["/post/87260176548/kids-react-to-old-computers"]
 date = 2014-05-30T02:26:02Z
-title = "KIDS REACT TO OLD COMPUTERS"
-slug = "kids-react-to-old-computers"
 id = "87260176548"
-aliases = [ "/post/87260176548/kids-react-to-old-computers" ]
-tags = [ ]
+slug = "kids-react-to-old-computers"
+title = "KIDS REACT TO OLD COMPUTERS"
 type = "tumblr-link"
 
 [tumblr]
-slug = "kids-react-to-old-computers"
-should_open_in_legacy = true
 is_blocks_post_format = false
-is_blaze_pending = false
-date = "2014-05-30 02:26:02 GMT"
-note_count = 0.0
-description = ""
+url = "https://youtube.com/watch?v=PF7EpEnglgk"
 type = "link"
-id_string = "87260176548"
-post_url = "https://indirect.tumblr.com/post/87260176548/kids-react-to-old-computers"
-tags = [ ]
-publisher = "youtube.com"
-id = 8.7260176548e+10
-can_blaze = false
-trail = [ ]
-can_send_in_message = true
-blog_name = "indirect"
-timestamp = 1.401416762e+09
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby1HH7A2a"
-summary = "KIDS REACT TO OLD COMPUTERS"
-interactability_blaze = "everyone"
-can_like = false
-interactability_reblog = "everyone"
-can_reply = false
-display_avatar = true
-is_blazed = false
-state = "published"
+slug = "kids-react-to-old-computers"
+date = "2014-05-30 02:26:02 GMT"
 reblog_key = "E3TBYYmL"
 title = "KIDS REACT TO OLD COMPUTERS"
+interactability_reblog = "everyone"
+can_blaze = false
+state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1HH7A2a"
+can_send_in_message = true
+can_reply = false
+blog_name = "indirect"
+is_blaze_pending = false
+can_like = false
+post_url = "https://indirect.tumblr.com/post/87260176548/kids-react-to-old-computers"
+timestamp = 1401416762.0
+summary = "KIDS REACT TO OLD COMPUTERS"
+publisher = "youtube.com"
+display_avatar = true
+note_count = 0.0
+interactability_blaze = "everyone"
 can_reblog = false
-url = "https://youtube.com/watch?v=PF7EpEnglgk"
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
+id_string = "87260176548"
+id = 87260176548.0
+is_blazed = false
+should_open_in_legacy = true
+description = ""
 
 [tumblr.blog]
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
@@ -55,4 +48,8 @@ url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 +++

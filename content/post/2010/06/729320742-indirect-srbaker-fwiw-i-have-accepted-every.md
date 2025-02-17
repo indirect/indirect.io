@@ -1,59 +1,57 @@
 +++
+aliases = ["/post/729320742/indirect-srbaker-fwiw-i-have-accepted-every"]
 date = 2010-06-23T17:30:00Z
-slug = "indirect-srbaker-fwiw-i-have-accepted-every"
 id = "729320742"
-aliases = [ "/post/729320742/indirect-srbaker-fwiw-i-have-accepted-every" ]
-tags = [ ]
+slug = "indirect-srbaker-fwiw-i-have-accepted-every"
 type = "tumblr-chat"
 
 [tumblr]
-id = 7.29320742e+08
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyhU8qc"
-can_like = false
-format = "html"
-should_open_in_legacy = true
-summary = "indirect: srbaker: fwiw, I have accepted every bundler patch with passing specs so far, although obviously I've only been able..."
-note_count = 0.0
-reblog_key = "gKZAN4ds"
 can_reblog = false
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blaze_pending = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/729320742/indirect-srbaker-fwiw-i-have-accepted-every"
-interactability_blaze = "everyone"
 can_send_in_message = true
-display_avatar = true
-type = "chat"
-id_string = "729320742"
+id = 729320742.0
+can_like = false
 is_blazed = false
 date = "2010-06-23 17:30:00 GMT"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyhU8qc"
 can_reply = false
-timestamp = 1.2773142e+09
 body = "indirect: srbaker: fwiw, I have accepted every bundler patch with passing specs so far, although obviously I've only been able to do that recently\r\nsrbaker: indirect: yeah, i'm glad things turned around"
+note_count = 0.0
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+is_blaze_pending = false
+timestamp = 1277314200.0
+should_open_in_legacy = true
 slug = "indirect-srbaker-fwiw-i-have-accepted-every"
-tags = [ ]
+display_avatar = true
 interactability_reblog = "everyone"
+type = "chat"
+can_blaze = false
+state = "published"
+reblog_key = "gKZAN4ds"
+summary = "indirect: srbaker: fwiw, I have accepted every bundler patch with passing specs so far, although obviously I've only been able..."
+blog_name = "indirect"
+id_string = "729320742"
+post_url = "https://indirect.tumblr.com/post/729320742/indirect-srbaker-fwiw-i-have-accepted-every"
 
 [[tumblr.dialogue]]
-name = "indirect"
 label = "indirect:"
 phrase = "srbaker: fwiw, I have accepted every bundler patch with passing specs so far, although obviously I've only been able to do that recently"
+name = "indirect"
 
 [[tumblr.dialogue]]
-name = "srbaker"
 label = "srbaker:"
 phrase = "indirect: yeah, i'm glad things turned around"
+name = "srbaker"
 
 [tumblr.blog]
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/85808049213/mentally-thinking-about-different-business-ideas"]
 date = 2014-05-15T10:43:35Z
-slug = "mentally-thinking-about-different-business-ideas"
 id = "85808049213"
-aliases = [ "/post/85808049213/mentally-thinking-about-different-business-ideas" ]
-tags = [ ]
+slug = "mentally-thinking-about-different-business-ideas"
 type = "tumblr-quote"
 
 [tumblr]
 type = "quote"
-id = 8.5808049213e+10
-summary = "mentally thinking about different business ideas & stuff thought “what if there was a food truck that just served ice cream” &..."
-source = "<a href=\"https://twitter.com/DinkMagic/status/466572046948782080\">@DinkMagic</a>"
-can_reblog = false
-is_blocks_post_format = false
-tags = [ ]
-interactability_blaze = "everyone"
 blog_name = "indirect"
-timestamp = 1.400150615e+09
-note_count = 0.0
-can_send_in_message = true
-is_blazed = false
-is_blaze_pending = false
-slug = "mentally-thinking-about-different-business-ideas"
-text = "mentally thinking about different business ideas &amp; stuff thought &ldquo;what if there was a food truck that just served ice cream&rdquo; &amp; got excited"
-display_avatar = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/85808049213/mentally-thinking-about-different-business-ideas"
+can_reblog = false
 interactability_reblog = "everyone"
-can_like = false
-state = "published"
-id_string = "85808049213"
-date = "2014-05-15 10:43:35 GMT"
-should_open_in_legacy = true
-format = "markdown"
-reblog_key = "orBQgU8t"
+id = 85808049213.0
+timestamp = 1400150615.0
 short_url = "https://tmblr.co/ZY3jby1FwZkmz"
+text = "mentally thinking about different business ideas &amp; stuff thought &ldquo;what if there was a food truck that just served ice cream&rdquo; &amp; got excited"
+can_send_in_message = true
+state = "published"
+source = "<a href=\"https://twitter.com/DinkMagic/status/466572046948782080\">@DinkMagic</a>"
+id_string = "85808049213"
+is_blazed = false
+post_url = "https://indirect.tumblr.com/post/85808049213/mentally-thinking-about-different-business-ideas"
+slug = "mentally-thinking-about-different-business-ideas"
+interactability_blaze = "everyone"
+can_like = false
+can_blaze = false
+format = "markdown"
+note_count = 0.0
+is_blocks_post_format = false
+is_blaze_pending = false
+date = "2014-05-15 10:43:35 GMT"
+reblog_key = "orBQgU8t"
+summary = "mentally thinking about different business ideas & stuff thought “what if there was a food truck that just served ice cream” &..."
+should_open_in_legacy = true
 can_reply = false
+display_avatar = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

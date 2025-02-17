@@ -1,66 +1,52 @@
 +++
+aliases = ["/post/106694118618/1971-american-airlines-ad-veryoldpics"]
 date = 2014-12-31T07:57:47Z
-slug = "1971-american-airlines-ad-veryoldpics"
 id = "106694118618"
-aliases = [ "/post/106694118618/1971-american-airlines-ad-veryoldpics" ]
-tags = [ ]
+slug = "1971-american-airlines-ad-veryoldpics"
 type = "tumblr-photo"
 
 [tumblr]
+display_avatar = true
 date = "2014-12-31 07:57:47 GMT"
-format = "html"
-note_count = 0.0
+state = "published"
 reblog_key = "G2OFBOY2"
-tags = [ ]
-can_like = false
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+slug = "1971-american-airlines-ad-veryoldpics"
 blog_name = "indirect"
+id = 106694118618.0
 id_string = "106694118618"
 post_url = "https://indirect.tumblr.com/post/106694118618/1971-american-airlines-ad-veryoldpics"
-timestamp = 1.420012667e+09
-caption = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
-type = "photo"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1ZNTmpQ"
-can_reply = false
-is_blazed = false
-is_blaze_pending = false
-id = 1.06694118618e+11
-summary = "1971 American Airlines ad. — @VeryOldPics"
-link_url = "http://twitter.com/VeryOldPics/status/550096564858126338"
-image_permalink = "https://indirect.tumblr.com/image/106694118618"
-is_blocks_post_format = false
-can_blaze = false
-slug = "1971-american-airlines-ad-veryoldpics"
-can_reblog = false
-should_open_in_legacy = true
+format = "html"
 can_send_in_message = true
-display_avatar = true
+image_permalink = "https://indirect.tumblr.com/image/106694118618"
+timestamp = 1420012667.0
+is_blocks_post_format = false
+is_blazed = false
+type = "photo"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reblog = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1ZNTmpQ"
+note_count = 0.0
+link_url = "http://twitter.com/VeryOldPics/status/550096564858126338"
+can_like = false
+is_blaze_pending = false
+summary = "1971 American Airlines ad. — @VeryOldPics"
+caption = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
+can_reply = false
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/62/6d/f0e08092805b8ac23f22c5a91d34.jpg"
-width = 599.0
-height = 388.0
-
 [[tumblr.photos.alt_sizes]]
+height = 388.0
 url = "/images/62/6d/f0e08092805b8ac23f22c5a91d34.jpg"
 width = 599.0
-height = 388.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c1/03/926fc81efdcf444c1eb4490b721c.jpg"
@@ -92,42 +78,54 @@ url = "/images/fb/8b/561af41438f232a254efb068d1e2.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+url = "/images/62/6d/f0e08092805b8ac23f22c5a91d34.jpg"
+width = 599.0
+height = 388.0
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
 content = "<p>1971 American Airlines ad. &mdash; <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
 is_current_item = true
+is_root_item = true
+content_raw = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
 
 [tumblr.trail.blog]
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 avatar_shape = "square"
-header_bounds = ""
-show_header_image = false
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+body_font = "Helvetica Neue"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
 header_image_poster = ""
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_bounds = ""
+show_title = true
+title_font = "Gibson"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
-show_description = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
 link_color = "#529ECC"
-show_avatar = true
+show_description = true
 
 [tumblr.trail.post]
 id = "106694118618"
-
-[tumblr.reblog]
-comment = "<p>1971 American Airlines ad. — <a href=\"http://twitter.com/VeryOldPics/status/550096564858126338\">@VeryOldPics</a></p>"
-tree_html = ""
 +++

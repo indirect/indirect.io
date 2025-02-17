@@ -1,48 +1,42 @@
 +++
+aliases = ["/post/52981978064/third-amendment-rights-group-celebrates-another"]
 date = 2013-06-14T23:38:51Z
-slug = "third-amendment-rights-group-celebrates-another"
 id = "52981978064"
-aliases = [ "/post/52981978064/third-amendment-rights-group-celebrates-another" ]
-tags = [ ]
+slug = "third-amendment-rights-group-celebrates-another"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "52981978064"
-timestamp = 1.371253131e+09
-tags = [ ]
-bookmarklet = true
-source_title = "The Onion"
-can_blaze = false
-format = "markdown"
-note_count = 0.0
-can_send_in_message = true
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/52981978064/third-amendment-rights-group-celebrates-another"
-date = "2013-06-14 23:38:51 GMT"
-short_url = "https://tmblr.co/ZY3jbynL_DFG"
-interactability_blaze = "everyone"
-display_avatar = true
+source_url = "http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/"
 type = "quote"
+is_blocks_post_format = false
 blog_name = "indirect"
-id = 5.2981978064e+10
-reblog_key = "j4YLbYZq"
-state = "published"
+id_string = "52981978064"
+date = "2013-06-14 23:38:51 GMT"
+timestamp = 1371253131.0
+interactability_blaze = "everyone"
+note_count = 0.0
+slug = "third-amendment-rights-group-celebrates-another"
 can_like = false
 can_reblog = false
-is_blocks_post_format = false
+reblog_key = "j4YLbYZq"
+can_reply = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jbynL_DFG"
+can_send_in_message = true
+id = 52981978064.0
 is_blazed = false
 is_blaze_pending = false
-should_open_in_legacy = true
-source_url = "http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/"
-interactability_reblog = "everyone"
-source = "<a href=\"http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/\">America&rsquo;s Finest News Source</a>"
-slug = "third-amendment-rights-group-celebrates-another"
+bookmarklet = true
+display_avatar = true
+post_url = "https://indirect.tumblr.com/post/52981978064/third-amendment-rights-group-celebrates-another"
 summary = "Third Amendment Rights Group Celebrates Another Successful Year"
+format = "markdown"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_blaze = false
+source_title = "The Onion"
 text = "Third Amendment Rights Group Celebrates Another Successful Year"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/\">America’s Finest News Source</a></p>"
-tree_html = ""
+source = "<a href=\"http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/\">America&rsquo;s Finest News Source</a>"
 
 [tumblr.blog]
 can_show_badges = true
@@ -51,7 +45,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://www.theonion.com/articles/third-amendment-rights-group-celebrates-another-su,2296/\">America’s Finest News Source</a></p>"
 +++

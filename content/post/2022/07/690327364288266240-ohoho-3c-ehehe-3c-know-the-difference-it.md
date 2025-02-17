@@ -1,45 +1,39 @@
 +++
+aliases = ["/post/690327364288266240/ohoho-3c-ehehe-3c-know-the-difference-it"]
 date = 2022-07-20T20:04:37Z
-slug = "ohoho-3c-ehehe-3c-know-the-difference-it"
 id = "690327364288266240"
-aliases = [ "/post/690327364288266240/ohoho-3c-ehehe-3c-know-the-difference-it" ]
-tags = [ ]
+slug = "ohoho-3c-ehehe-3c-know-the-difference-it"
 type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-can_blaze = false
-slug = "ohoho-3c-ehehe-3c-know-the-difference-it"
-timestamp = 1.658347477e+09
-format = "html"
-reblog_key = "2L80nCXV"
-short_url = "https://tmblr.co/ZY3jbycKYHIF8a00"
-is_blazed = false
-summary = "ohoho: :3c\n ehehe: >:3c\n \n know the difference it could save your life"
 note_count = 0.0
-interactability_reblog = "everyone"
+can_reblog = false
+can_reply = false
 display_avatar = true
-source = "<a href=\"http://twitter.com/sirocyl/status/1549634575726530560\">@sirocyl</a>"
+can_blaze = false
+timestamp = 1658347477.0
+format = "html"
+short_url = "https://tmblr.co/ZY3jbycKYHIF8a00"
+summary = "ohoho: :3c\n ehehe: >:3c\n \n know the difference it could save your life"
+text = "ohoho: :3c\n<br/>ehehe: &gt;:3c\n<br/>\n<br/>know the difference it could save your life"
 type = "quote"
 id_string = "690327364288266240"
-can_reply = false
-is_blocks_post_format = false
-id = 6.903273642882662e+17
+is_blazed = false
+source = "<a href=\"http://twitter.com/sirocyl/status/1549634575726530560\">@sirocyl</a>"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-state = "published"
-can_like = false
+date = "2022-07-20 20:04:37 GMT"
 interactability_blaze = "everyone"
 post_url = "https://indirect.tumblr.com/post/690327364288266240/ohoho-3c-ehehe-3c-know-the-difference-it"
+can_like = false
+state = "published"
+id = 6.903273642882662e+17
+slug = "ohoho-3c-ehehe-3c-know-the-difference-it"
 should_open_in_legacy = true
-can_reblog = false
 can_send_in_message = true
-date = "2022-07-20 20:04:37 GMT"
-tags = [ ]
-text = "ohoho: :3c\n<br/>ehehe: &gt;:3c\n<br/>\n<br/>know the difference it could save your life"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/sirocyl/status/1549634575726530560\">@sirocyl</a></p>"
-tree_html = ""
+is_blocks_post_format = false
+reblog_key = "2L80nCXV"
 
 [tumblr.blog]
 can_show_badges = true
@@ -48,7 +42,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/sirocyl/status/1549634575726530560\">@sirocyl</a></p>"
+tree_html = ""
 +++

@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/746434754269855744/im-going-to-start-referring-to-reviewers-as"]
 date = 2024-03-31T03:27:34Z
-slug = "im-going-to-start-referring-to-reviewers-as"
 id = "746434754269855744"
-aliases = [ "/post/746434754269855744/im-going-to-start-referring-to-reviewers-as" ]
-tags = [ ]
+slug = "im-going-to-start-referring-to-reviewers-as"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "746434754269855744"
+state = "published"
+text = "I&rsquo;m going to start referring to reviewers as &ldquo;state-level actors pressuring me to change my code&rdquo;."
+can_send_in_message = true
+display_avatar = true
+interactability_reblog = "everyone"
 post_url = "https://indirect.tumblr.com/post/746434754269855744/im-going-to-start-referring-to-reviewers-as"
-should_open_in_legacy = true
-can_like = false
-blog_name = "indirect"
-date = "2024-03-31 03:27:34 GMT"
 reblog_key = "kMlqVs8B"
-source = "<a href=\"https://mamot.fr/@gallais/112184543584944696\">@gallais</a>"
+short_url = "https://tmblr.co/ZY3jbyfRtdH8Gi00"
+interactability_blaze = "everyone"
 slug = "im-going-to-start-referring-to-reviewers-as"
+summary = "I’m going to start referring to reviewers as “state-level actors pressuring me to change my code”."
+can_reblog = false
+format = "markdown"
+source = "<a href=\"https://mamot.fr/@gallais/112184543584944696\">@gallais</a>"
 can_reply = false
 id = 7.464347542698557e+17
-timestamp = 1.711855654e+09
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyfRtdH8Gi00"
-note_count = 0.0
-text = "I&rsquo;m going to start referring to reviewers as &ldquo;state-level actors pressuring me to change my code&rdquo;."
-display_avatar = true
-state = "published"
-format = "markdown"
-can_reblog = false
 is_blazed = false
+timestamp = 1711855654.0
+should_open_in_legacy = true
 can_blaze = false
+date = "2024-03-31 03:27:34 GMT"
+note_count = 0.0
+can_like = false
 type = "quote"
+is_blocks_post_format = false
+blog_name = "indirect"
+id_string = "746434754269855744"
 is_blaze_pending = false
-summary = "I’m going to start referring to reviewers as “state-level actors pressuring me to change my code”."
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_send_in_message = true
 
 [tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

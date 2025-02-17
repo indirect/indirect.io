@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/26329864855/if-anyone-is-angrier-than-the-republican-party"]
 date = 2012-07-02T05:35:34Z
-slug = "if-anyone-is-angrier-than-the-republican-party"
 id = "26329864855"
-aliases = [ "/post/26329864855/if-anyone-is-angrier-than-the-republican-party" ]
-tags = [ ]
+slug = "if-anyone-is-angrier-than-the-republican-party"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-id_string = "26329864855"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/26329864855/if-anyone-is-angrier-than-the-republican-party"
-reblog_key = "yXm23aSY"
-timestamp = 1.341207334e+09
-should_open_in_legacy = true
-is_blocks_post_format = false
-can_like = false
-can_send_in_message = true
-can_reply = false
-state = "published"
-tags = [ ]
-source = "<a href=\"http://www.theonion.com/articles/republicans-leukemia-team-up-to-repeal-health-care,17215/\">Republicans, Leukemia Team Up To Repeal Health Care Law</a>"
-blog_name = "indirect"
-note_count = 0.0
-id = 2.6329864855e+10
-is_blaze_pending = false
-can_blaze = false
+id = 26329864855.0
 slug = "if-anyone-is-angrier-than-the-republican-party"
+timestamp = 1341207334.0
 format = "markdown"
-text = "If anyone is angrier than the Republican Party that children can no longer be denied coverage for having preexisting conditions, it’s leukemia"
-can_reblog = false
-date = "2012-07-02 05:35:34 GMT"
 short_url = "https://tmblr.co/ZY3jbyOXOTgN"
+note_count = 0.0
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+is_blaze_pending = false
 summary = "If anyone is angrier than the Republican Party that children can no longer be denied coverage for having preexisting conditions,..."
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+type = "quote"
+can_like = false
+blog_name = "indirect"
+id_string = "26329864855"
+state = "published"
+reblog_key = "yXm23aSY"
+source = "<a href=\"http://www.theonion.com/articles/republicans-leukemia-team-up-to-repeal-health-care,17215/\">Republicans, Leukemia Team Up To Repeal Health Care Law</a>"
+can_reblog = false
+is_blazed = false
+can_blaze = false
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/26329864855/if-anyone-is-angrier-than-the-republican-party"
+date = "2012-07-02 05:35:34 GMT"
+should_open_in_legacy = true
+text = "If anyone is angrier than the Republican Party that children can no longer be denied coverage for having preexisting conditions, it’s leukemia"
+can_send_in_message = true
 display_avatar = true
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/668257149599842304/a-popular-myth-is-that-people-who-are-very"]
 date = 2021-11-19T05:28:00Z
-slug = "a-popular-myth-is-that-people-who-are-very"
 id = "668257149599842304"
-aliases = [ "/post/668257149599842304/a-popular-myth-is-that-people-who-are-very" ]
-tags = [ ]
+slug = "a-popular-myth-is-that-people-who-are-very"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "668257149599842304"
-slug = "a-popular-myth-is-that-people-who-are-very"
-note_count = 0.0
-can_reblog = false
-blog_name = "indirect"
-id = 6.682571495998423e+17
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-state = "published"
-tags = [ ]
-source = "<a href=\"http://twitter.com/cakesandcourage/status/1461481653059129345\">@cakesandcourage</a>"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_blaze = false
-is_blaze_pending = false
-format = "html"
-is_blocks_post_format = false
-is_blazed = false
-can_like = false
-type = "quote"
-reblog_key = "MBPgNxsL"
-short_url = "https://tmblr.co/ZY3jbyb685P4Wu00"
 post_url = "https://indirect.tumblr.com/post/668257149599842304/a-popular-myth-is-that-people-who-are-very"
 date = "2021-11-19 05:28:00 GMT"
-timestamp = 1.63729968e+09
-summary = "a popular myth is that people who are Very Computer have computers that work. nothing could be further from the truth. the Very..."
+timestamp = 1637299680.0
+format = "html"
 text = "a popular myth is that people who are Very Computer have computers that work. nothing could be further from the truth. the Very Computer are capable of generating much more novel and fascinating ways to make computers not fucking work and exercise this capability wantonly"
+is_blaze_pending = false
+interactability_blaze = "everyone"
+can_reblog = false
+blog_name = "indirect"
+slug = "a-popular-myth-is-that-people-who-are-very"
+note_count = 0.0
+source = "<a href=\"http://twitter.com/cakesandcourage/status/1461481653059129345\">@cakesandcourage</a>"
+is_blocks_post_format = false
+can_blaze = false
+state = "published"
+should_open_in_legacy = true
 can_reply = false
+summary = "a popular myth is that people who are Very Computer have computers that work. nothing could be further from the truth. the Very..."
+type = "quote"
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jbyb685P4Wu00"
+can_like = false
+interactability_reblog = "everyone"
+can_send_in_message = true
+id = 6.682571495998423e+17
+id_string = "668257149599842304"
+reblog_key = "MBPgNxsL"
 display_avatar = true
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/cakesandcourage/status/1461481653059129345\">@cakesandcourage</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

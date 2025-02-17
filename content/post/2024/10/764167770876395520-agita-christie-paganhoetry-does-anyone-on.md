@@ -1,42 +1,44 @@
 +++
+aliases = ["/post/764167770876395520/agita-christie-paganhoetry-does-anyone-on"]
 date = 2024-10-12T21:06:16Z
-slug = "agita-christie-paganhoetry-does-anyone-on"
 id = "764167770876395520"
-aliases = [ "/post/764167770876395520/agita-christie-paganhoetry-does-anyone-on" ]
-tags = [ ]
+slug = "agita-christie-paganhoetry-does-anyone-on"
 type = "tumblr-photo"
 
 [tumblr]
+is_blaze_pending = false
+is_blazed = false
+format = "html"
+can_like = false
+display_avatar = true
 type = "photo"
 date = "2024-10-12 21:06:16 GMT"
-format = "html"
-should_open_in_legacy = true
-can_like = false
+link_url = "https://twitter.com/thatdutchperson/status/1844788767845958052"
+can_reblog = false
 is_blocks_post_format = false
-id_string = "764167770876395520"
-is_blazed = false
-summary = "Agita Christie (@pagan_hoetry): Does anyone on this website have a normal opinion on NYC\n\n\nThis is the only correct opinion —..."
-can_blaze = false
-timestamp = 1.728767176e+09
-interactability_reblog = "everyone"
-display_avatar = true
-is_blaze_pending = false
-state = "published"
-blog_name = "indirect"
-id = 7.641677708763955e+17
-tags = [ ]
+post_url = "https://indirect.tumblr.com/post/764167770876395520/agita-christie-paganhoetry-does-anyone-on"
 caption = "<blockquote><p>\n<a href=\"https://twitter.com/pagan_hoetry/status/1844762787504906642\">Agita Christie (@pagan_hoetry)</a>: Does anyone on this website have a normal opinion on NYC\n</p></blockquote>\n\nThis is the only correct opinion — <a href=\"https://twitter.com/thatdutchperson/status/1844788767845958052\">Spanky McDutcherson 🔸 (@thatdutchperson)</a>"
 interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/764167770876395520/agita-christie-paganhoetry-does-anyone-on"
-reblog_key = "xHJtIaoj"
-note_count = 0.0
-link_url = "https://twitter.com/thatdutchperson/status/1844788767845958052"
 can_send_in_message = true
+id = 7.641677708763955e+17
+state = "published"
+can_blaze = false
+reblog_key = "xHJtIaoj"
+short_url = "https://tmblr.co/ZY3jbygQtedpuy00"
+summary = "Agita Christie (@pagan_hoetry): Does anyone on this website have a normal opinion on NYC\n\n\nThis is the only correct opinion —..."
+note_count = 0.0
+interactability_reblog = "everyone"
+blog_name = "indirect"
+timestamp = 1728767176.0
+should_open_in_legacy = true
 can_reply = false
+id_string = "764167770876395520"
 slug = "agita-christie-paganhoetry-does-anyone-on"
 image_permalink = "https://indirect.tumblr.com/image/764167770876395520"
-short_url = "https://tmblr.co/ZY3jbygQtedpuy00"
-can_reblog = false
+
+[tumblr.reblog]
+comment = "<p><blockquote><p>\n<a href=\"https://twitter.com/pagan_hoetry/status/1844762787504906642\">Agita Christie (@pagan_hoetry)</a>: Does anyone on this website have a normal opinion on NYC\n</p></blockquote>\n\nThis is the only correct opinion — <a href=\"https://twitter.com/thatdutchperson/status/1844788767845958052\">Spanky McDutcherson 🔸 (@thatdutchperson)</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p><blockquote><p>\n<a href=\"https://twitter.com/pagan_hoetry/status/1844762787504906642\">Agita Christie (@pagan_hoetry)</a>: Does anyone on this website have a normal opinion on NYC\n</p></blockquote>\n\nThis is the only correct opinion — <a href=\"https://twitter.com/thatdutchperson/status/1844788767845958052\">Spanky McDutcherson 🔸 (@thatdutchperson)</a></p>"
@@ -44,34 +46,34 @@ content = "<p><blockquote><p>\n<a href=\"https://twitter.com/pagan_hoetry/status
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.post]
-id = "764167770876395520"
-
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-show_avatar = true
-show_header_image = false
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
 header_bounds = ""
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+title_font_weight = "bold"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+show_header_image = false
+avatar_shape = "square"
+show_avatar = true
+show_title = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_stretch = true
+show_description = true
+title_color = "#444444"
+background_color = "#FAFAFA"
+
+[tumblr.trail.post]
+id = "764167770876395520"
 
 [[tumblr.photos]]
 caption = ""
@@ -82,9 +84,9 @@ width = 1170.0
 height = 617.0
 
 [[tumblr.photos.alt_sizes]]
+height = 617.0
 url = "/images/0a/dd/4914572c203200f621b3eaeb57f0.jpg"
 width = 1170.0
-height = 617.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/22/62/9de5e334dda8d7c76e5a9ce39be2.jpg"
@@ -92,9 +94,9 @@ width = 640.0
 height = 338.0
 
 [[tumblr.photos.alt_sizes]]
+width = 540.0
 height = 285.0
 url = "/images/df/e1/3b681c8aed95ff0f5b23813845d0.jpg"
-width = 540.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/df/69/3d13ee0ce1cfc7dfd04dd307a01e.jpg"
@@ -117,22 +119,18 @@ width = 100.0
 height = 53.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6b/f4/79b15cf58b0194f31b0292f41bee.jpg"
 width = 75.0
 height = 75.0
+url = "/images/6b/f4/79b15cf58b0194f31b0292f41bee.jpg"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><blockquote><p>\n<a href=\"https://twitter.com/pagan_hoetry/status/1844762787504906642\">Agita Christie (@pagan_hoetry)</a>: Does anyone on this website have a normal opinion on NYC\n</p></blockquote>\n\nThis is the only correct opinion — <a href=\"https://twitter.com/thatdutchperson/status/1844788767845958052\">Spanky McDutcherson 🔸 (@thatdutchperson)</a></p>"
-tree_html = ""
 +++

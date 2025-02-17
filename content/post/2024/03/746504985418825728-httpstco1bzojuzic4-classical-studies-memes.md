@@ -1,63 +1,61 @@
 +++
+aliases = ["/post/746504985418825728/httpstco1bzojuzic4-classical-studies-memes"]
 date = 2024-03-31T22:03:51Z
-slug = "httpstco1bzojuzic4-classical-studies-memes"
 id = "746504985418825728"
-aliases = [ "/post/746504985418825728/httpstco1bzojuzic4-classical-studies-memes" ]
-tags = [ ]
+slug = "httpstco1bzojuzic4-classical-studies-memes"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyfS7bG_ye00"
-can_reply = false
-id = 7.465049854188257e+17
-can_send_in_message = true
-type = "photo"
-reblog_key = "Bo980vAG"
-interactability_blaze = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-blog_name = "indirect"
-can_blaze = false
-timestamp = 1.711922631e+09
-image_permalink = "https://indirect.tumblr.com/image/746504985418825728"
-caption = "<p><a href=\"https://t.co/1bZoJuziC4\">https://t.co/1bZoJuziC4</a> — <a href=\"https://twitter.com/CSMFHT/status/1774351302224687426\">Classical Studies Memes for Hellenistic Teens (@CSMFHT)</a></p>"
-link_url = "https://twitter.com/CSMFHT/status/1774351302224687426"
-interactability_reblog = "everyone"
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/746504985418825728/httpstco1bzojuzic4-classical-studies-memes"
-note_count = 1.0
-id_string = "746504985418825728"
 is_blazed = false
-slug = "httpstco1bzojuzic4-classical-studies-memes"
-format = "html"
-summary = "https://t.co/1bZoJuziC4 — Classical Studies Memes for Hellenistic Teens (@CSMFHT)"
-should_open_in_legacy = true
-can_like = false
-is_blaze_pending = false
-date = "2024-03-31 22:03:51 GMT"
+can_blaze = false
 state = "published"
-tags = [ ]
+id = 7.465049854188257e+17
+id_string = "746504985418825728"
+date = "2024-03-31 22:03:51 GMT"
+reblog_key = "Bo980vAG"
+summary = "https://t.co/1bZoJuziC4 — Classical Studies Memes for Hellenistic Teens (@CSMFHT)"
+caption = "<p><a href=\"https://t.co/1bZoJuziC4\">https://t.co/1bZoJuziC4</a> — <a href=\"https://twitter.com/CSMFHT/status/1774351302224687426\">Classical Studies Memes for Hellenistic Teens (@CSMFHT)</a></p>"
+is_blocks_post_format = false
+should_open_in_legacy = true
+note_count = 1.0
+can_like = false
+interactability_reblog = "everyone"
+can_send_in_message = true
+display_avatar = true
+is_blaze_pending = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyfS7bG_ye00"
+image_permalink = "https://indirect.tumblr.com/image/746504985418825728"
+can_reblog = false
+timestamp = 1711922631.0
+link_url = "https://twitter.com/CSMFHT/status/1774351302224687426"
+interactability_blaze = "everyone"
+can_reply = false
+type = "photo"
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/746504985418825728/httpstco1bzojuzic4-classical-studies-memes"
+slug = "httpstco1bzojuzic4-classical-studies-memes"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://t.co/1bZoJuziC4\">https://t.co/1bZoJuziC4</a> — <a href=\"https://twitter.com/CSMFHT/status/1774351302224687426\">Classical Studies Memes for Hellenistic Teens (@CSMFHT)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
+is_root_item = true
 content_raw = "<p><a href=\"https://t.co/1bZoJuziC4\">https://t.co/1bZoJuziC4</a> — <a href=\"https://twitter.com/CSMFHT/status/1774351302224687426\">Classical Studies Memes for Hellenistic Teens (@CSMFHT)</a></p>"
 content = "<p><a href=\"https://t.co/1bZoJuziC4\">https://t.co/1bZoJuziC4</a> &mdash; <a href=\"https://twitter.com/CSMFHT/status/1774351302224687426\">Classical Studies Memes for Hellenistic Teens (@CSMFHT)</a></p>"
 is_current_item = true
-is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -67,21 +65,21 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_title = true
-header_stretch = true
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
 body_font = "Helvetica Neue"
 show_header_image = false
-title_font = "Gibson"
-background_color = "#FAFAFA"
-header_bounds = ""
+avatar_shape = "square"
 header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_poster = ""
+link_color = "#529ECC"
+show_avatar = true
 title_color = "#444444"
 title_font_weight = "bold"
-avatar_shape = "square"
+header_bounds = ""
+header_stretch = true
+show_description = true
+show_title = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
 header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 

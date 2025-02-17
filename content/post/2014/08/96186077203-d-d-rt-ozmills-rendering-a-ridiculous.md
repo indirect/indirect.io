@@ -1,100 +1,53 @@
 +++
+aliases = ["/post/96186077203/d-d-rt-ozmills-rendering-a-ridiculous"]
 date = 2014-08-30T17:47:52Z
-slug = "d-d-rt-ozmills-rendering-a-ridiculous"
 id = "96186077203"
-aliases = [ "/post/96186077203/d-d-rt-ozmills-rendering-a-ridiculous" ]
-tags = [ ]
+slug = "d-d-rt-ozmills-rendering-a-ridiculous"
 type = "tumblr-photo"
 
 [tumblr]
-id_string = "96186077203"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jby1Pb8n0J"
-summary = ":D .... D: RT @ozmills: Rendering a ridiculous comics pose in 3D — @SuperRetroid"
-caption = "<p>:D &hellip;. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/96186077203"
-is_blocks_post_format = false
-state = "published"
-interactability_blaze = "everyone"
-can_reblog = false
-type = "photo"
-post_url = "https://indirect.tumblr.com/post/96186077203/d-d-rt-ozmills-rendering-a-ridiculous"
-note_count = 0.0
+timestamp = 1409420872.0
+format = "html"
 can_like = false
 interactability_reblog = "everyone"
-is_blaze_pending = false
-date = "2014-08-30 17:47:52 GMT"
-format = "html"
-can_send_in_message = true
-is_blazed = false
-can_blaze = false
-timestamp = 1.409420872e+09
-blog_name = "indirect"
-can_reply = false
-id = 9.6186077203e+10
 slug = "d-d-rt-ozmills-rendering-a-ridiculous"
-should_open_in_legacy = true
-link_url = "http://twitter.com/SuperRetroid/status/505706371732746240"
-display_avatar = true
+date = "2014-08-30 17:47:52 GMT"
+state = "published"
+is_blaze_pending = false
+summary = ":D .... D: RT @ozmills: Rendering a ridiculous comics pose in 3D — @SuperRetroid"
+image_permalink = "https://indirect.tumblr.com/image/96186077203"
+is_blazed = false
 reblog_key = "xMBZqhNm"
-
-[tumblr.reblog]
-comment = "<p>:D …. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>:D …. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
-content = "<p>:D &hellip;. D: RT @ozmills: Rendering a ridiculous comics pose in 3D &mdash; <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-show_title = true
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-show_header_image = false
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "96186077203"
+caption = "<p>:D &hellip;. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
+link_url = "http://twitter.com/SuperRetroid/status/505706371732746240"
+can_reblog = false
+can_send_in_message = true
+type = "photo"
+can_blaze = false
+display_avatar = true
+id = 96186077203.0
+short_url = "https://tmblr.co/ZY3jby1Pb8n0J"
+interactability_blaze = "everyone"
+note_count = 0.0
+is_blocks_post_format = false
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/96186077203/d-d-rt-ozmills-rendering-a-ridiculous"
+should_open_in_legacy = true
+can_reply = false
+id_string = "96186077203"
 
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
-height = 804.0
+[tumblr.photos.original_size]
 url = "/images/1e/f5/dad05ff0be2a0474c39c59ab9441.jpg"
 width = 597.0
+height = 804.0
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/1e/f5/dad05ff0be2a0474c39c59ab9441.jpg"
+width = 597.0
+height = 804.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/91/04/76f430cf0eabe86c0ffc229469e7.jpg"
@@ -126,8 +79,53 @@ url = "/images/3b/aa/f1abf380599e111abb8a78c3522b.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/1e/f5/dad05ff0be2a0474c39c59ab9441.jpg"
-width = 597.0
-height = 804.0
+[tumblr.reblog]
+comment = "<p>:D …. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>:D …. D: RT @ozmills: Rendering a ridiculous comics pose in 3D — <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
+content = "<p>:D &hellip;. D: RT @ozmills: Rendering a ridiculous comics pose in 3D &mdash; <a href=\"http://twitter.com/SuperRetroid/status/505706371732746240\">@SuperRetroid</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+link_color = "#529ECC"
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_stretch = true
+show_header_image = false
+title_color = "#444444"
+body_font = "Helvetica Neue"
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_poster = ""
+show_avatar = true
+show_description = true
+show_title = true
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "96186077203"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

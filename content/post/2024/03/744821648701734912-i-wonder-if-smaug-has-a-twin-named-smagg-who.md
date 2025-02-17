@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/744821648701734912/i-wonder-if-smaug-has-a-twin-named-smagg-who"]
 date = 2024-03-13T08:07:56Z
-slug = "i-wonder-if-smaug-has-a-twin-named-smagg-who"
 id = "744821648701734912"
-aliases = [ "/post/744821648701734912/i-wonder-if-smaug-has-a-twin-named-smagg-who" ]
-tags = [ ]
+slug = "i-wonder-if-smaug-has-a-twin-named-smagg-who"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-reblog_key = "bE2r1PVu"
-should_open_in_legacy = true
-text = "i wonder if smaug has a twin named smagg, who hordes silver instead"
-id = 7.448216487017349e+17
-short_url = "https://tmblr.co/ZY3jbyfM8rVVuq00"
-summary = "i wonder if smaug has a twin named smagg, who hordes silver instead"
-interactability_reblog = "everyone"
-is_blaze_pending = false
-format = "markdown"
-can_like = false
-can_reblog = false
 can_blaze = false
-state = "published"
-note_count = 0.0
-source = "<a href=\"https://twitter.com/sailorhg/status/1767784287984902218\">sailor mercury (@sailorhg)</a>"
-can_send_in_message = true
 post_url = "https://indirect.tumblr.com/post/744821648701734912/i-wonder-if-smaug-has-a-twin-named-smagg-who"
-slug = "i-wonder-if-smaug-has-a-twin-named-smagg-who"
-interactability_blaze = "everyone"
-type = "quote"
-blog_name = "indirect"
-id_string = "744821648701734912"
 date = "2024-03-13 08:07:56 GMT"
-tags = [ ]
+can_like = false
+is_blaze_pending = false
+source = "<a href=\"https://twitter.com/sailorhg/status/1767784287984902218\">sailor mercury (@sailorhg)</a>"
+short_url = "https://tmblr.co/ZY3jbyfM8rVVuq00"
+should_open_in_legacy = true
+is_blocks_post_format = false
+state = "published"
+reblog_key = "bE2r1PVu"
+note_count = 0.0
+interactability_blaze = "everyone"
+id = 7.448216487017349e+17
+slug = "i-wonder-if-smaug-has-a-twin-named-smagg-who"
+summary = "i wonder if smaug has a twin named smagg, who hordes silver instead"
 can_reply = false
-is_blazed = false
-timestamp = 1.710317276e+09
+id_string = "744821648701734912"
+timestamp = 1710317276.0
+text = "i wonder if smaug has a twin named smagg, who hordes silver instead"
+can_reblog = false
+can_send_in_message = true
+blog_name = "indirect"
+format = "markdown"
 display_avatar = true
+interactability_reblog = "everyone"
+type = "quote"
+is_blazed = false
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://twitter.com/sailorhg/status/1767784287984902218\">sailor mercury (@sailorhg)</a></p>"
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/sailorhg/status/1767784287984902218\">sailor mercury (@sailorhg)</a></p>"
-tree_html = ""
 +++

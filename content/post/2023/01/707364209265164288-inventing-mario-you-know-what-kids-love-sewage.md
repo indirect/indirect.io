@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage"]
 date = 2023-01-24T21:17:58Z
-slug = "inventing-mario-you-know-what-kids-love-sewage"
 id = "707364209265164288"
-aliases = [ "/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage" ]
-tags = [ ]
+slug = "inventing-mario-you-know-what-kids-love-sewage"
 type = "tumblr-quote"
 
 [tumblr]
 is_blazed = false
-state = "published"
-tags = [ ]
-summary = "(Inventing Mario) you know what kids love?? sewage"
-interactability_reblog = "everyone"
-type = "quote"
-is_blocks_post_format = false
-date = "2023-01-24 21:17:58 GMT"
-source = "<a href=\"https://mstdn.social/@lolennui/109740135334524526\">@lolennui</a>"
-can_reblog = false
-can_reply = false
-display_avatar = true
 can_like = false
-id_string = "707364209265164288"
-post_url = "https://indirect.tumblr.com/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage"
-timestamp = 1.674595078e+09
-note_count = 0.0
-is_blaze_pending = false
-slug = "inventing-mario-you-know-what-kids-love-sewage"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbydH400a4q00"
-interactability_blaze = "everyone"
-id = 7.073642092651643e+17
-can_blaze = false
-text = "(Inventing Mario) you know what kids love?? sewage"
-can_send_in_message = true
-blog_name = "indirect"
+display_avatar = true
 reblog_key = "3MLkzotb"
 should_open_in_legacy = true
+can_reblog = false
+can_send_in_message = true
+can_reply = false
+state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbydH400a4q00"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+id = 7.073642092651643e+17
+id_string = "707364209265164288"
+can_blaze = false
+slug = "inventing-mario-you-know-what-kids-love-sewage"
+timestamp = 1674595078.0
+interactability_blaze = "everyone"
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage"
+date = "2023-01-24 21:17:58 GMT"
+summary = "(Inventing Mario) you know what kids love?? sewage"
+type = "quote"
+note_count = 0.0
+text = "(Inventing Mario) you know what kids love?? sewage"
+source = "<a href=\"https://mstdn.social/@lolennui/109740135334524526\">@lolennui</a>"
 
 [tumblr.blog]
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"https://mstdn.social/@lolennui/109740135334524526\">@lolennui</a></p>"
+tree_html = ""
 +++

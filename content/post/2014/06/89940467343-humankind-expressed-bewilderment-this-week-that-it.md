@@ -1,57 +1,55 @@
 +++
+aliases = ["/post/89940467343/humankind-expressed-bewilderment-this-week-that-it"]
 date = 2014-06-26T06:37:31Z
-slug = "humankind-expressed-bewilderment-this-week-that-it"
 id = "89940467343"
-aliases = [ "/post/89940467343/humankind-expressed-bewilderment-this-week-that-it" ]
-tags = [ ]
+slug = "humankind-expressed-bewilderment-this-week-that-it"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "humankind-expressed-bewilderment-this-week-that-it"
-state = "published"
-id = 8.9940467343e+10
-text = "humankind expressed bewilderment this week that it has yet to devise a better alternative to governing itself than always letting power-hungry assholes run everything"
-short_url = "https://tmblr.co/ZY3jby1JmtfwF"
-bookmarklet = true
-source = "<a href=\"http://www.theonion.com/articles/humanity-surprised-it-still-hasnt-figured-out-bett,36361/\">America&rsquo;s Finest News Source</a>"
-can_reply = false
-date = "2014-06-26 06:37:31 GMT"
-blog_name = "indirect"
-is_blazed = false
 post_url = "https://indirect.tumblr.com/post/89940467343/humankind-expressed-bewilderment-this-week-that-it"
+is_blazed = false
 format = "markdown"
-should_open_in_legacy = true
+reblog_key = "P821LxVI"
+source = "<a href=\"http://www.theonion.com/articles/humanity-surprised-it-still-hasnt-figured-out-bett,36361/\">America&rsquo;s Finest News Source</a>"
 interactability_blaze = "everyone"
-display_avatar = true
-type = "quote"
+id = 89940467343.0
+timestamp = 1403764651.0
+can_reblog = false
+date = "2014-06-26 06:37:31 GMT"
+interactability_reblog = "everyone"
+can_reply = false
 id_string = "89940467343"
-can_blaze = false
+state = "published"
+bookmarklet = true
 source_url = "http://www.theonion.com/articles/humanity-surprised-it-still-hasnt-figured-out-bett,36361/?utm_source=Twitter&utm_medium=SocialMarketing&utm_campaign=Default:2:Default"
 can_like = false
-is_blocks_post_format = false
-reblog_key = "P821LxVI"
+can_blaze = false
+should_open_in_legacy = true
+can_send_in_message = true
+summary = "humankind expressed bewilderment this week that it has yet to devise a better alternative to governing itself than always..."
 note_count = 0.0
 source_title = "The Onion"
-timestamp = 1.403764651e+09
-tags = [ ]
-interactability_reblog = "everyone"
-can_reblog = false
+is_blocks_post_format = false
+blog_name = "indirect"
+slug = "humankind-expressed-bewilderment-this-week-that-it"
+short_url = "https://tmblr.co/ZY3jby1JmtfwF"
+text = "humankind expressed bewilderment this week that it has yet to devise a better alternative to governing itself than always letting power-hungry assholes run everything"
+display_avatar = true
+type = "quote"
 is_blaze_pending = false
-summary = "humankind expressed bewilderment this week that it has yet to devise a better alternative to governing itself than always..."
-can_send_in_message = true
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://www.theonion.com/articles/humanity-surprised-it-still-hasnt-figured-out-bett,36361/\">America’s Finest News Source</a></p>"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.theonion.com/articles/humanity-surprised-it-still-hasnt-figured-out-bett,36361/\">America’s Finest News Source</a></p>"
-tree_html = ""
 +++

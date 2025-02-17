@@ -1,56 +1,54 @@
 +++
+aliases = ["/post/116442425388/cops-have-killed-way-more-americans-in-america"]
 date = 2015-04-15T04:11:44Z
-slug = "cops-have-killed-way-more-americans-in-america"
 id = "116442425388"
-aliases = [ "/post/116442425388/cops-have-killed-way-more-americans-in-america" ]
-tags = [ ]
+slug = "cops-have-killed-way-more-americans-in-america"
 type = "tumblr-quote"
 
 [tumblr]
-tags = [ ]
-state = "published"
-post_url = "https://indirect.tumblr.com/post/116442425388/cops-have-killed-way-more-americans-in-america"
-can_reply = false
-id_string = "116442425388"
-note_count = 0.0
-text = "Cops have killed way more Americans in America than terrorists\u00a0have"
-source = "<a href=\"http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html\">Boing Boing</a>"
-is_blocks_post_format = false
-slug = "cops-have-killed-way-more-americans-in-america"
-date = "2015-04-15 04:11:44 GMT"
-reblog_key = "86R7hFMM"
-source_title = "Boing Boing"
-type = "quote"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby1iSWcWi"
-can_like = false
 blog_name = "indirect"
-source_url = "http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html"
-interactability_blaze = "everyone"
-can_reblog = false
-can_send_in_message = true
-is_blaze_pending = false
-format = "markdown"
-summary = "Cops have killed way more Americans in America than terrorists\u00a0have"
-display_avatar = true
-id = 1.16442425388e+11
 can_blaze = false
+timestamp = 1429071104.0
+summary = "Cops have killed way more Americans in America than terrorists have"
+can_reblog = false
+type = "quote"
+is_blocks_post_format = false
+format = "markdown"
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/116442425388/cops-have-killed-way-more-americans-in-america"
+reblog_key = "86R7hFMM"
+text = "Cops have killed way more Americans in America than terrorists have"
+can_like = false
+source = "<a href=\"http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html\">Boing Boing</a>"
+id_string = "116442425388"
+is_blazed = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jby1iSWcWi"
 should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+display_avatar = true
+slug = "cops-have-killed-way-more-americans-in-america"
 interactability_reblog = "everyone"
-timestamp = 1.429071104e+09
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html\">Boing Boing</a></p>"
-tree_html = ""
+id = 116442425388.0
+can_reply = false
+source_title = "Boing Boing"
+is_blaze_pending = false
+date = "2015-04-15 04:11:44 GMT"
+source_url = "http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://boingboing.net/2015/04/14/cops-have-killed-way-more-amer.html\">Boing Boing</a></p>"
+tree_html = ""
 +++

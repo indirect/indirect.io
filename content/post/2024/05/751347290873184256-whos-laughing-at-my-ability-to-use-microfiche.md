@@ -1,50 +1,48 @@
 +++
+aliases = ["/post/751347290873184256/whos-laughing-at-my-ability-to-use-microfiche"]
 date = 2024-05-24T08:50:14Z
-slug = "whos-laughing-at-my-ability-to-use-microfiche"
 id = "751347290873184256"
-aliases = [ "/post/751347290873184256/whos-laughing-at-my-ability-to-use-microfiche" ]
-tags = [ ]
+slug = "whos-laughing-at-my-ability-to-use-microfiche"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "751347290873184256"
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyfjKc5NSi00"
-note_count = 0.0
-text = "Who’s laughing at my ability to use microfiche, Readers Guide, Nexis, and the OED now, motherfuckers?"
-post_url = "https://indirect.tumblr.com/post/751347290873184256/whos-laughing-at-my-ability-to-use-microfiche"
-state = "published"
+interactability_blaze = "everyone"
 type = "quote"
-is_blocks_post_format = false
-is_blazed = false
+note_count = 0.0
 is_blaze_pending = false
 slug = "whos-laughing-at-my-ability-to-use-microfiche"
 can_reblog = false
-summary = "Who’s laughing at my ability to use microfiche, Readers Guide, Nexis, and the OED now, motherfuckers?"
-can_like = false
-can_reply = false
-timestamp = 1.716540614e+09
-interactability_reblog = "everyone"
+is_blocks_post_format = false
 blog_name = "indirect"
-date = "2024-05-24 08:50:14 GMT"
 reblog_key = "hDcueKTO"
-source = "<a href=\"https://bsky.app/profile/jetjocko.bsky.social/post/3kt7eoqr2n22o\">Adam Rogers (@jetjocko.bsky.social)</a>"
-display_avatar = true
-id = 7.513472908731843e+17
-can_blaze = false
-should_open_in_legacy = true
+short_url = "https://tmblr.co/ZY3jbyfjKc5NSi00"
 can_send_in_message = true
+text = "Who’s laughing at my ability to use microfiche, Readers Guide, Nexis, and the OED now, motherfuckers?"
+display_avatar = true
+id_string = "751347290873184256"
+can_blaze = false
+date = "2024-05-24 08:50:14 GMT"
 format = "markdown"
-interactability_blaze = "everyone"
+source = "<a href=\"https://bsky.app/profile/jetjocko.bsky.social/post/3kt7eoqr2n22o\">Adam Rogers (@jetjocko.bsky.social)</a>"
+can_like = false
+interactability_reblog = "everyone"
+id = 7.513472908731843e+17
+is_blazed = false
+summary = "Who’s laughing at my ability to use microfiche, Readers Guide, Nexis, and the OED now, motherfuckers?"
+should_open_in_legacy = true
+can_reply = false
+post_url = "https://indirect.tumblr.com/post/751347290873184256/whos-laughing-at-my-ability-to-use-microfiche"
+timestamp = 1716540614.0
+state = "published"
 
 [tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

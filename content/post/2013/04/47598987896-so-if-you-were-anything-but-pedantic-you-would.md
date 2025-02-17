@@ -1,57 +1,55 @@
 +++
+aliases = ["/post/47598987896/so-if-you-were-anything-but-pedantic-you-would"]
 date = 2013-04-10T04:25:31Z
-slug = "so-if-you-were-anything-but-pedantic-you-would"
 id = "47598987896"
-aliases = [ "/post/47598987896/so-if-you-were-anything-but-pedantic-you-would" ]
-tags = [ ]
+slug = "so-if-you-were-anything-but-pedantic-you-would"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-id_string = "47598987896"
-id = 4.7598987896e+10
-date = "2013-04-10 04:25:31 GMT"
-summary = "So if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.”"
-note_count = 0.0
-text = "So if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.”"
-source = "<a href=\"http://www.dancingphysicist.com/grammar-that/\">Grammar that!</a>"
-interactability_reblog = "everyone"
-can_reblog = false
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyiL7kfu"
-display_avatar = true
-is_blazed = false
-timestamp = 1.365567931e+09
-state = "published"
-source_url = "http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&post=20945281#comment-20945281"
-source_title = "Ars Technica"
 slug = "so-if-you-were-anything-but-pedantic-you-would"
-format = "markdown"
-can_send_in_message = true
+source_url = "http://arstechnica.com/science/2010/10/giant-virus-found-in-tiny-predator/?comments=1&post=20945281#comment-20945281"
+can_reblog = false
+id = 47598987896.0
+id_string = "47598987896"
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/47598987896/so-if-you-were-anything-but-pedantic-you-would"
+bookmarklet = true
+interactability_blaze = "everyone"
 can_reply = false
 is_blocks_post_format = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/47598987896/so-if-you-were-anything-but-pedantic-you-would"
-tags = [ ]
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-reblog_key = "ojJvHBe8"
-bookmarklet = true
+is_blazed = false
+note_count = 0.0
+source = "<a href=\"http://www.dancingphysicist.com/grammar-that/\">Grammar that!</a>"
 can_like = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.dancingphysicist.com/grammar-that/\">Grammar that!</a></p>"
-tree_html = ""
+interactability_reblog = "everyone"
+state = "published"
+source_title = "Ars Technica"
+timestamp = 1365567931.0
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyiL7kfu"
+should_open_in_legacy = true
+can_send_in_message = true
+display_avatar = true
+type = "quote"
+is_blaze_pending = false
+date = "2013-04-10 04:25:31 GMT"
+format = "markdown"
+reblog_key = "ojJvHBe8"
+summary = "So if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.”"
+text = "So if you were anything but pedantic, you would exclaim “that requires the ablative of source! In the singular.”"
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.dancingphysicist.com/grammar-that/\">Grammar that!</a></p>"
+tree_html = ""
 +++

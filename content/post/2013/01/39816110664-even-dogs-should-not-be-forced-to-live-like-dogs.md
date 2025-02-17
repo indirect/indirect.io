@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/39816110664/even-dogs-should-not-be-forced-to-live-like-dogs"]
 date = 2013-01-06T06:20:14Z
-slug = "even-dogs-should-not-be-forced-to-live-like-dogs"
 id = "39816110664"
-aliases = [ "/post/39816110664/even-dogs-should-not-be-forced-to-live-like-dogs" ]
-tags = [ ]
+slug = "even-dogs-should-not-be-forced-to-live-like-dogs"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "39816110664"
-source = "Samurai Jack"
-is_blazed = false
-date = "2013-01-06 06:20:14 GMT"
-reblog_key = "PBlDwK7T"
-summary = "Even dogs should not be forced to live like dogs!"
-should_open_in_legacy = true
-can_send_in_message = true
-can_reply = false
 display_avatar = true
+id_string = "39816110664"
+post_url = "https://indirect.tumblr.com/post/39816110664/even-dogs-should-not-be-forced-to-live-like-dogs"
+note_count = 0.0
+id = 39816110664.0
+can_blaze = false
 blog_name = "indirect"
-format = "markdown"
-tags = [ ]
+is_blaze_pending = false
+summary = "Even dogs should not be forced to live like dogs!"
+can_send_in_message = true
+is_blocks_post_format = false
+is_blazed = false
+slug = "even-dogs-should-not-be-forced-to-live-like-dogs"
 text = "Even dogs should not be forced to live like dogs!"
 can_like = false
-interactability_blaze = "everyone"
-type = "quote"
-timestamp = 1.357453214e+09
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyb5EQ98"
-id = 3.9816110664e+10
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/39816110664/even-dogs-should-not-be-forced-to-live-like-dogs"
 interactability_reblog = "everyone"
-is_blocks_post_format = false
-slug = "even-dogs-should-not-be-forced-to-live-like-dogs"
+type = "quote"
+timestamp = 1357453214.0
+reblog_key = "PBlDwK7T"
+short_url = "https://tmblr.co/ZY3jbyb5EQ98"
+can_reply = false
+state = "published"
+interactability_blaze = "everyone"
+date = "2013-01-06 06:20:14 GMT"
+format = "markdown"
+should_open_in_legacy = true
+source = "Samurai Jack"
 can_reblog = false
-is_blaze_pending = false
-note_count = 0.0
-
-[tumblr.reblog]
-comment = "<p>Samurai Jack</p>"
-tree_html = ""
 
 [tumblr.blog]
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Samurai Jack</p>"
+tree_html = ""
 +++

@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can"]
 date = 2022-04-23T02:00:35Z
-slug = "pizza-is-just-a-charcuterie-board-where-you-can"
 id = "682286630558679040"
-aliases = [ "/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can" ]
-tags = [ ]
+slug = "pizza-is-just-a-charcuterie-board-where-you-can"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-can_blaze = false
-format = "html"
-interactability_reblog = "everyone"
-can_reply = false
-is_blocks_post_format = false
-id = 6.82286630558679e+17
-is_blaze_pending = false
-timestamp = 1.650679235e+09
-summary = "Pizza is just a charcuterie board where you can also eat the board."
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can"
-slug = "pizza-is-just-a-charcuterie-board-where-you-can"
-tags = [ ]
-source = "<a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a>"
-display_avatar = true
 state = "published"
+blog_name = "indirect"
 should_open_in_legacy = true
+source = "<a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a>"
+interactability_blaze = "everyone"
+date = "2022-04-23 02:00:35 GMT"
+format = "html"
+can_reply = false
+id = 6.82286630558679e+17
+can_blaze = false
+interactability_reblog = "everyone"
+type = "quote"
+slug = "pizza-is-just-a-charcuterie-board-where-you-can"
+summary = "Pizza is just a charcuterie board where you can also eat the board."
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
 id_string = "682286630558679040"
 is_blazed = false
-date = "2022-04-23 02:00:35 GMT"
-reblog_key = "61tdALRh"
-type = "quote"
+timestamp = 1650679235.0
 short_url = "https://tmblr.co/ZY3jbybt_1DPSi00"
+display_avatar = true
+is_blaze_pending = false
+post_url = "https://indirect.tumblr.com/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can"
+reblog_key = "61tdALRh"
 note_count = 0.0
-can_reblog = false
-can_send_in_message = true
 text = "Pizza is just a charcuterie board where you can also eat the board."
-can_like = false
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a></p>"
+can_reblog = false
 
 [tumblr.blog]
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a></p>"
+tree_html = ""
 +++

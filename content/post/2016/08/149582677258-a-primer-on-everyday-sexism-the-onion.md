@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/149582677258/a-primer-on-everyday-sexism-the-onion"]
 date = 2016-08-28T02:51:19Z
-title = "A Primer On Everyday Sexism - The Onion"
-slug = "a-primer-on-everyday-sexism-the-onion"
 id = "149582677258"
-aliases = [ "/post/149582677258/a-primer-on-everyday-sexism-the-onion" ]
-tags = [ ]
+slug = "a-primer-on-everyday-sexism-the-onion"
+title = "A Primer On Everyday Sexism - The Onion"
 type = "tumblr-link"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-should_open_in_legacy = true
-url = "http://www.theonion.com/infographic/primer-everyday-sexism-53591"
-can_like = false
+id = 149582677258.0
 state = "published"
-title = "A Primer On Everyday Sexism - The Onion"
-type = "link"
-date = "2016-08-28 02:51:19 GMT"
-short_url = "https://tmblr.co/ZY3jby2BJqeKA"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-interactability_blaze = "everyone"
-can_reblog = false
-can_send_in_message = true
-can_reply = false
-id = 1.49582677258e+11
-format = "html"
-description = ""
-is_blocks_post_format = false
-id_string = "149582677258"
-post_url = "https://indirect.tumblr.com/post/149582677258/a-primer-on-everyday-sexism-the-onion"
-reblog_key = "A5JaVIaO"
 summary = "A Primer On Everyday Sexism - The Onion"
-note_count = 0.0
-trail = [ ]
-slug = "a-primer-on-everyday-sexism-the-onion"
-display_avatar = true
-is_blazed = false
-timestamp = 1.472352679e+09
-tags = [ ]
+reblog_key = "A5JaVIaO"
+url = "http://www.theonion.com/infographic/primer-everyday-sexism-53591"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+can_blaze = false
+post_url = "https://indirect.tumblr.com/post/149582677258/a-primer-on-everyday-sexism-the-onion"
+date = "2016-08-28 02:51:19 GMT"
+title = "A Primer On Everyday Sexism - The Onion"
 publisher = "theonion.com"
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
+id_string = "149582677258"
+slug = "a-primer-on-everyday-sexism-the-onion"
+timestamp = 1472352679.0
+type = "link"
+is_blaze_pending = false
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jby2BJqeKA"
+should_open_in_legacy = true
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
+can_send_in_message = true
+blog_name = "indirect"
+format = "html"
+note_count = 0.0
+interactability_reblog = "everyone"
+can_reblog = false
+can_reply = false
+display_avatar = true
+can_like = false
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
+
+[tumblr.blog]
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 +++

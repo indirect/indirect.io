@@ -1,58 +1,55 @@
 +++
+aliases = ["/post/64723493458/opsec-for-hackers-wfreedom-fighters"]
 date = 2013-10-21T23:36:58Z
-title = "Opsec For Hackers^WFreedom Fighters"
-slug = "opsec-for-hackers-wfreedom-fighters"
 id = "64723493458"
-aliases = [ "/post/64723493458/opsec-for-hackers-wfreedom-fighters" ]
-tags = [ ]
+slug = "opsec-for-hackers-wfreedom-fighters"
+title = "Opsec For Hackers^WFreedom Fighters"
 type = "tumblr-link"
 
 [tumblr]
-can_reblog = false
-can_send_in_message = true
-type = "link"
-post_url = "https://indirect.tumblr.com/post/64723493458/opsec-for-hackers-wfreedom-fighters"
-date = "2013-10-21 23:36:58 GMT"
-note_count = 0.0
-trail = [ ]
-can_like = false
-can_reply = false
-id = 6.4723493458e+10
-can_blaze = false
-format = "markdown"
-title = "Opsec For Hackers^WFreedom Fighters"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blazed = false
-state = "published"
-is_blocks_post_format = false
-publisher = "files.arko.net"
 interactability_reblog = "everyone"
-slug = "opsec-for-hackers-wfreedom-fighters"
-reblog_key = "saUL5WKU"
-short_url = "https://tmblr.co/ZY3jbyyHqY9I"
-url = "http://files.arko.net/3v1M0s3m1Y1E/opsec%20after%20lulzsec.pdf"
 display_avatar = true
-id_string = "64723493458"
-tags = [ ]
-description = ""
-timestamp = 1.382398618e+09
-summary = "Opsec For Hackers^WFreedom Fighters"
 should_open_in_legacy = true
+note_count = 0.0
+title = "Opsec For Hackers^WFreedom Fighters"
+state = "published"
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyyHqY9I"
+can_like = false
+can_blaze = false
+can_send_in_message = true
+post_url = "https://indirect.tumblr.com/post/64723493458/opsec-for-hackers-wfreedom-fighters"
+slug = "opsec-for-hackers-wfreedom-fighters"
 is_blaze_pending = false
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
+format = "markdown"
+reblog_key = "saUL5WKU"
+description = ""
+can_reblog = false
+url = "http://files.arko.net/3v1M0s3m1Y1E/opsec%20after%20lulzsec.pdf"
+date = "2013-10-21 23:36:58 GMT"
+is_blocks_post_format = false
+id_string = "64723493458"
+is_blazed = false
+can_reply = false
+timestamp = 1382398618.0
+summary = "Opsec For Hackers^WFreedom Fighters"
+publisher = "files.arko.net"
+type = "link"
+interactability_blaze = "everyone"
+id = 64723493458.0
 
 [tumblr.blog]
+updated = 1739757070.0
+can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

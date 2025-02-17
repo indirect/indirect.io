@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/707682031531917312/in-technical-interviews-always-ask-if-the"]
 date = 2023-01-28T09:29:37Z
-slug = "in-technical-interviews-always-ask-if-the"
 id = "707682031531917312"
-aliases = [ "/post/707682031531917312/in-technical-interviews-always-ask-if-the" ]
-tags = [ ]
+slug = "in-technical-interviews-always-ask-if-the"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-can_send_in_message = true
-timestamp = 1.674898177e+09
-reblog_key = "parUKU2T"
-short_url = "https://tmblr.co/ZY3jbydICGxdOm00"
+slug = "in-technical-interviews-always-ask-if-the"
 summary = "in technical interviews always ask if the interviewee thinks that we might live in a computer simulation and if they say yes..."
-state = "published"
+can_reblog = false
 can_reply = false
+timestamp = 1674898177.0
+short_url = "https://tmblr.co/ZY3jbydICGxdOm00"
+source = "<a href=\"https://botsin.space/@computerfact/109764084001867216\">@computerfact</a>"
 display_avatar = true
 can_blaze = false
-date = "2023-01-28 09:29:37 GMT"
-note_count = 0.0
-can_reblog = false
-is_blocks_post_format = false
-is_blazed = false
-is_blaze_pending = false
+reblog_key = "parUKU2T"
 interactability_reblog = "everyone"
 type = "quote"
-slug = "in-technical-interviews-always-ask-if-the"
-tags = [ ]
-should_open_in_legacy = true
-can_like = false
-id = 7.076820315319173e+17
-format = "markdown"
-source = "<a href=\"https://botsin.space/@computerfact/109764084001867216\">@computerfact</a>"
-id_string = "707682031531917312"
-post_url = "https://indirect.tumblr.com/post/707682031531917312/in-technical-interviews-always-ask-if-the"
+date = "2023-01-28 09:29:37 GMT"
 text = "in technical interviews always ask if the interviewee thinks that we might live in a computer simulation and if they say yes then dont hire them because they have no idea how computers work"
+id = 7.076820315319173e+17
 interactability_blaze = "everyone"
+format = "markdown"
+note_count = 0.0
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
+post_url = "https://indirect.tumblr.com/post/707682031531917312/in-technical-interviews-always-ask-if-the"
+blog_name = "indirect"
+id_string = "707682031531917312"
+state = "published"
+should_open_in_legacy = true
+is_blazed = false
+is_blaze_pending = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://botsin.space/@computerfact/109764084001867216\">@computerfact</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"https://botsin.space/@computerfact/109764084001867216\">@computerfact</a></p>"
 +++

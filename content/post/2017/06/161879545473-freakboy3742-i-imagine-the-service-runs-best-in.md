@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/161879545473/freakboy3742-i-imagine-the-service-runs-best-in"]
 date = 2017-06-16T04:57:18Z
-slug = "freakboy3742-i-imagine-the-service-runs-best-in"
 id = "161879545473"
-aliases = [ "/post/161879545473/freakboy3742-i-imagine-the-service-runs-best-in" ]
-tags = [ ]
+slug = "freakboy3742-i-imagine-the-service-runs-best-in"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-is_blaze_pending = false
-timestamp = 1.497589038e+09
-can_reply = false
-type = "quote"
-is_blazed = false
-note_count = 0.0
-id_string = "161879545473"
-date = "2017-06-16 04:57:18 GMT"
-text = "@freakboy3742 I imagine the service runs best in the Bourne shell 😏"
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id = 1.61879545473e+11
-summary = "@freakboy3742 I imagine the service runs best in the Bourne shell 😏"
-can_send_in_message = true
-is_blocks_post_format = false
-can_blaze = false
-state = "published"
-reblog_key = "bKbcVZmG"
-tags = [ ]
-should_open_in_legacy = true
+id = 161879545473.0
+id_string = "161879545473"
+is_blaze_pending = false
 source = "<a href=\"http://twitter.com/kathryn_ex/status/875411135503224833\">@kathryn_ex</a>"
+interactability_blaze = "everyone"
+timestamp = 1497589038.0
+should_open_in_legacy = true
+can_like = false
+short_url = "https://tmblr.co/ZY3jby2MmnTQ1"
+is_blocks_post_format = false
+can_reblog = false
+can_send_in_message = true
 post_url = "https://indirect.tumblr.com/post/161879545473/freakboy3742-i-imagine-the-service-runs-best-in"
 slug = "freakboy3742-i-imagine-the-service-runs-best-in"
-format = "html"
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jby2MmnTQ1"
-can_like = false
+date = "2017-06-16 04:57:18 GMT"
+summary = "@freakboy3742 I imagine the service runs best in the Bourne shell 😏"
+type = "quote"
+can_blaze = false
+note_count = 0.0
+text = "@freakboy3742 I imagine the service runs best in the Bourne shell 😏"
 display_avatar = true
+reblog_key = "bKbcVZmG"
+can_reply = false
+blog_name = "indirect"
+is_blazed = false
+state = "published"
+format = "html"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/kathryn_ex/status/875411135503224833\">@kathryn_ex</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.tumblr.com/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739757070.0
+can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/kathryn_ex/status/875411135503224833\">@kathryn_ex</a></p>"
 +++

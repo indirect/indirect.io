@@ -1,48 +1,42 @@
 +++
+aliases = ["/post/87575442153/lets-fast-track-an-alt-version-with-mankind"]
 date = 2014-06-02T06:33:04Z
-slug = "lets-fast-track-an-alt-version-with-mankind"
 id = "87575442153"
-aliases = [ "/post/87575442153/lets-fast-track-an-alt-version-with-mankind" ]
-tags = [ ]
+slug = "lets-fast-track-an-alt-version-with-mankind"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-is_blocks_post_format = false
-format = "markdown"
-tags = [ ]
+interactability_blaze = "everyone"
+can_reblog = false
+bookmarklet = true
+post_url = "https://indirect.tumblr.com/post/87575442153/lets-fast-track-an-alt-version-with-mankind"
+short_url = "https://tmblr.co/ZY3jby1HZvpBf"
+id = 87575442153.0
 can_blaze = false
 date = "2014-06-02 06:33:04 GMT"
-bookmarklet = true
-source = "<a href=\"http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth\">Client Feedback On the Creation of the Earth.</a>"
-can_send_in_message = true
-display_avatar = true
-timestamp = 1.401690784e+09
-id_string = "87575442153"
-can_reblog = false
-source_url = "http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth"
-type = "quote"
-is_blaze_pending = false
-slug = "lets-fast-track-an-alt-version-with-mankind"
-short_url = "https://tmblr.co/ZY3jby1HZvpBf"
-interactability_reblog = "everyone"
-source_title = "mcsweeneys.net"
-blog_name = "indirect"
-id = 8.7575442153e+10
-post_url = "https://indirect.tumblr.com/post/87575442153/lets-fast-track-an-alt-version-with-mankind"
-reblog_key = "8CTpQgEu"
-note_count = 0.0
-text = "Let’s fast-track an alt version with mankind removed. Doable?"
-interactability_blaze = "everyone"
-is_blazed = false
-should_open_in_legacy = true
+format = "markdown"
 can_like = false
+is_blaze_pending = false
+source = "<a href=\"http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth\">Client Feedback On the Creation of the Earth.</a>"
+interactability_reblog = "everyone"
+can_send_in_message = true
 can_reply = false
+slug = "lets-fast-track-an-alt-version-with-mankind"
+timestamp = 1401690784.0
+should_open_in_legacy = true
+source_title = "mcsweeneys.net"
+text = "Let’s fast-track an alt version with mankind removed. Doable?"
+is_blocks_post_format = false
+blog_name = "indirect"
+state = "published"
+reblog_key = "8CTpQgEu"
 summary = "Let’s fast-track an alt version with mankind removed. Doable?"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth\">Client Feedback On the Creation of the Earth.</a></p>"
-tree_html = ""
+note_count = 0.0
+type = "quote"
+id_string = "87575442153"
+is_blazed = false
+display_avatar = true
+source_url = "http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth"
 
 [tumblr.blog]
 can_show_badges = true
@@ -51,7 +45,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth\">Client Feedback On the Creation of the Earth.</a></p>"
+tree_html = ""
 +++

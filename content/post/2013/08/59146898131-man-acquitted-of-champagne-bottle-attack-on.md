@@ -1,53 +1,51 @@
 +++
+aliases = ["/post/59146898131/man-acquitted-of-champagne-bottle-attack-on"]
 date = 2013-08-23T23:59:16Z
-slug = "man-acquitted-of-champagne-bottle-attack-on"
 id = "59146898131"
-aliases = [ "/post/59146898131/man-acquitted-of-champagne-bottle-attack-on" ]
-tags = [ ]
+slug = "man-acquitted-of-champagne-bottle-attack-on"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-id = 5.9146898131e+10
-is_blaze_pending = false
-should_open_in_legacy = true
-bookmarklet = true
-id_string = "59146898131"
-can_blaze = false
+timestamp = 1377302356.0
+short_url = "https://tmblr.co/ZY3jbyt5RWhJ"
+can_like = false
+text = "Man Acquitted of Champagne Bottle Attack on Dubstep Fan"
+post_url = "https://indirect.tumblr.com/post/59146898131/man-acquitted-of-champagne-bottle-attack-on"
 date = "2013-08-23 23:59:16 GMT"
-format = "markdown"
+blog_name = "indirect"
+id_string = "59146898131"
 is_blazed = false
+reblog_key = "mPiMmpWr"
+id = 59146898131.0
+should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reply = false
 slug = "man-acquitted-of-champagne-bottle-attack-on"
 state = "published"
-text = "Man Acquitted of Champagne Bottle Attack on Dubstep Fan"
-source = "<a href=\"http://sfpublicdefender.org/2013/08/23/man-acquitted-of-champagne-bottle-attack-on-dubstep-fan/\">San Francisco Public Defender&rsquo;s Office</a>"
-interactability_blaze = "everyone"
-timestamp = 1.377302356e+09
+type = "quote"
+can_blaze = false
+summary = "Man Acquitted of Champagne Bottle Attack on Dubstep Fan"
 interactability_reblog = "everyone"
-is_blocks_post_format = false
-can_like = false
+source_title = "sfpublicdefender.org"
 can_reblog = false
-can_reply = false
-tags = [ ]
-short_url = "https://tmblr.co/ZY3jbyt5RWhJ"
-note_count = 0.0
+display_avatar = true
+source = "<a href=\"http://sfpublicdefender.org/2013/08/23/man-acquitted-of-champagne-bottle-attack-on-dubstep-fan/\">San Francisco Public Defender&rsquo;s Office</a>"
+is_blocks_post_format = false
+is_blaze_pending = false
+format = "markdown"
+bookmarklet = true
 source_url = "http://sfpublicdefender.org/2013/08/23/man-acquitted-of-champagne-bottle-attack-on-dubstep-fan/"
 can_send_in_message = true
-summary = "Man Acquitted of Champagne Bottle Attack on Dubstep Fan"
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/59146898131/man-acquitted-of-champagne-bottle-attack-on"
-reblog_key = "mPiMmpWr"
-source_title = "sfpublicdefender.org"
-display_avatar = true
 
 [tumblr.blog]
+can_show_badges = true
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
-can_show_badges = true
-name = "indirect"
+updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

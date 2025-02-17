@@ -1,54 +1,52 @@
 +++
+aliases = ["/post/52267528122/as-the-saying-goes-in-this-web-20-world-you-get"]
 date = 2013-06-06T01:58:27Z
-slug = "as-the-saying-goes-in-this-web-20-world-you-get"
 id = "52267528122"
-aliases = [ "/post/52267528122/as-the-saying-goes-in-this-web-20-world-you-get" ]
-tags = [ ]
+slug = "as-the-saying-goes-in-this-web-20-world-you-get"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-can_blaze = false
-slug = "as-the-saying-goes-in-this-web-20-world-you-get"
-state = "published"
-tags = [ ]
-note_count = 0.0
-is_blocks_post_format = false
-blog_name = "indirect"
-id = 5.2267528122e+10
-summary = "as the saying goes, in this Web 2.0 world, you get what you wait for"
-should_open_in_legacy = true
-timestamp = 1.370483907e+09
-format = "markdown"
-can_reblog = false
-can_reply = false
-id_string = "52267528122"
+id = 52267528122.0
+timestamp = 1370483907.0
 reblog_key = "mdSZ6NF1"
-source = "<a href=\"http://plover.net/~bonds/fame.html\">MY FIVE-STEP PLAN FOR FAME</a>"
-date = "2013-06-06 01:58:27 GMT"
-can_send_in_message = true
-type = "quote"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/52267528122/as-the-saying-goes-in-this-web-20-world-you-get"
 interactability_reblog = "everyone"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbymhOo_w"
+id_string = "52267528122"
+is_blazed = false
+can_blaze = false
 text = "as the saying goes, in this Web 2.0 world, you get what you wait for"
-interactability_blaze = "everyone"
+can_like = false
+slug = "as-the-saying-goes-in-this-web-20-world-you-get"
+format = "markdown"
+source = "<a href=\"http://plover.net/~bonds/fame.html\">MY FIVE-STEP PLAN FOR FAME</a>"
+can_reblog = false
+can_send_in_message = true
+is_blocks_post_format = false
+state = "published"
+summary = "as the saying goes, in this Web 2.0 world, you get what you wait for"
 display_avatar = true
+blog_name = "indirect"
+post_url = "https://indirect.tumblr.com/post/52267528122/as-the-saying-goes-in-this-web-20-world-you-get"
+short_url = "https://tmblr.co/ZY3jbymhOo_w"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blaze_pending = false
+date = "2013-06-06 01:58:27 GMT"
+note_count = 0.0
+can_reply = false
+type = "quote"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://plover.net/~bonds/fame.html\">MY FIVE-STEP PLAN FOR FAME</a></p>"
 
 [tumblr.blog]
+url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1.738205153e+09
+updated = 1739757070.0
 can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://plover.net/~bonds/fame.html\">MY FIVE-STEP PLAN FOR FAME</a></p>"
-tree_html = ""
 +++
