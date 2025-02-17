@@ -24,5 +24,6 @@ hugo() {
   "${hugo_bin}" "$@"
 }
 
-set -x
-hugo server --disableFastRender --gc --buildDrafts --buildExpired --buildFuture
+# hugo server --disableFastRender --gc --buildDrafts --buildExpired --buildFuture
+set -v
+hugo server --buildDrafts --buildExpired --buildFuture
