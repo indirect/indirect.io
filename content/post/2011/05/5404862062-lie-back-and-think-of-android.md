@@ -6,37 +6,41 @@ slug = "lie-back-and-think-of-android"
 type = "tumblr-quote"
 
 [tumblr]
-source_title = "ftrain.com"
-text = "Lie back and think of Android."
-state = "published"
-id = 5404862062.0
-timestamp = 1305158040.0
-summary = "Lie back and think of Android."
-should_open_in_legacy = true
-post_url = "https://indirect.io/post/5404862062/lie-back-and-think-of-android"
 bookmarklet = true
+note_count = 0.0
+text = "Lie back and think of Android."
+can_reply = false
+is_blazed = false
 is_blaze_pending = false
-can_blaze = false
+slug = "lie-back-and-think-of-android"
+reblog_key = "Ul3xBGE2"
 source = "<a href=\"http://www.ftrain.com/alunch.html\">Antilunchism</a>"
 type = "quote"
-is_blazed = false
-date = "2011-05-11 23:54:00 GMT"
-reblog_key = "Ul3xBGE2"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
 id_string = "5404862062"
+can_send_in_message = true
+blog_name = "indirect"
+can_blaze = false
+post_url = "https://indirect.io/post/5404862062/lie-back-and-think-of-android"
+interactability_blaze = "everyone"
+id = 5404862062.0
+source_title = "ftrain.com"
+can_like = false
+is_blocks_post_format = false
+summary = "Lie back and think of Android."
+date = "2011-05-11 23:54:00 GMT"
+can_reblog = false
 display_avatar = true
-slug = "lie-back-and-think-of-android"
+state = "published"
+timestamp = 1305158040.0
+source_url = "http://www.ftrain.com/alunch.html"
+interactability_reblog = "everyone"
 format = "markdown"
 short_url = "https://tmblr.co/ZY3jby529wPk"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-is_blocks_post_format = false
-blog_name = "indirect"
-source_url = "http://www.ftrain.com/alunch.html"
-can_like = false
+should_open_in_legacy = true
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.ftrain.com/alunch.html\">Antilunchism</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = false
@@ -45,11 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.ftrain.com/alunch.html\">Antilunchism</a></p>"
-tree_html = ""
 +++

@@ -6,39 +6,72 @@ slug = "an-elder-millennial-posing-next-to-her-first"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-post_url = "https://indirect.io/post/755498394994327552/an-elder-millennial-posing-next-to-her-first"
-should_open_in_legacy = true
-blog_name = "indirect"
-state = "published"
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyfy4ScM0y00"
-id_string = "755498394994327552"
 caption = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
 interactability_reblog = "everyone"
-can_reblog = false
-id = 7.554983949943276e+17
-slug = "an-elder-millennial-posing-next-to-her-first"
-timestamp = 1720499415.0
-note_count = 1.0
-can_like = false
-can_send_in_message = true
-display_avatar = true
-is_blaze_pending = false
-can_blaze = false
-link_url = "https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u"
-can_reply = false
-type = "photo"
-is_blocks_post_format = false
 summary = "an elder millennial posing next to her first shelter in Minecraft (2011) — juno. stump (@juno.bsky.social)"
 image_permalink = "https://indirect.io/image/755498394994327552"
+can_reblog = false
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbyfy4ScM0y00"
+can_like = false
+type = "photo"
+can_blaze = false
+post_url = "https://indirect.io/post/755498394994327552/an-elder-millennial-posing-next-to-her-first"
+format = "html"
 interactability_blaze = "everyone"
-date = "2024-07-09 04:30:15 GMT"
+can_reply = false
+is_blazed = false
+slug = "an-elder-millennial-posing-next-to-her-first"
 reblog_key = "tVikT1ub"
+is_blocks_post_format = false
+should_open_in_legacy = true
+link_url = "https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u"
+blog_name = "indirect"
+id = 7.554983949943276e+17
+timestamp = 1720499415.0
+note_count = 1.0
+id_string = "755498394994327552"
+date = "2024-07-09 04:30:15 GMT"
+display_avatar = true
+is_blaze_pending = false
+state = "published"
 
-[tumblr.reblog]
-comment = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
+content = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) &mdash; <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+header_stretch = true
+show_description = true
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+show_avatar = true
+show_title = true
+
+[tumblr.trail.post]
+id = "755498394994327552"
 
 [[tumblr.photos]]
 caption = ""
@@ -49,9 +82,9 @@ width = 1000.0
 height = 739.0
 
 [[tumblr.photos.alt_sizes]]
+height = 739.0
 url = "/images/e2/3a/aa468cb3b7393bbb5dc898cff65a.jpg"
 width = 1000.0
-height = 739.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ce/1d/2b506a620f4721043a4c5c45d020.jpg"
@@ -79,60 +112,27 @@ width = 250.0
 height = 185.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/50/e5/1b7a5e9e4a90ec51af4c81d07ff3.jpg"
 width = 100.0
 height = 74.0
-url = "/images/50/e5/1b7a5e9e4a90ec51af4c81d07ff3.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2f/9e/59f12401da4b536b1256f1bbe652.jpg"
 width = 75.0
 height = 75.0
+url = "/images/2f/9e/59f12401da4b536b1256f1bbe652.jpg"
+
+[tumblr.reblog]
+comment = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) &mdash; <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-show_description = true
-header_full_width = 3000.0
-header_full_height = 1055.0
-background_color = "#FAFAFA"
-header_bounds = ""
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-title_font = "Gibson"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-
-[tumblr.trail.post]
-id = "755498394994327552"
 +++

@@ -6,50 +6,50 @@ slug = "in-the-real-world-if-you-build-a-bookshelf-and"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "107708589098"
-slug = "in-the-real-world-if-you-build-a-bookshelf-and"
-timestamp = 1420915161.0
-interactability_reblog = "everyone"
-format = "markdown"
-reblog_key = "YFT2tMvD"
-can_reblog = false
-type = "quote"
-date = "2015-01-10 18:39:21 GMT"
-note_count = 0.0
-source = "<a href=\"https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/\">The Matasano Crypto Challenges (Pinboard Blog)</a>"
-is_blocks_post_format = false
-is_blazed = false
 post_url = "https://indirect.io/post/107708589098/in-the-real-world-if-you-build-a-bookshelf-and"
-short_url = "https://tmblr.co/ZY3jby1aJxgGg"
-interactability_blaze = "everyone"
-can_send_in_message = true
-is_blaze_pending = false
-can_blaze = false
+date = "2015-01-10 18:39:21 GMT"
+reblog_key = "YFT2tMvD"
 text = "In the real world, if you build a bookshelf and forget to tighten one of the screws all the way, it does not burn down your house"
-can_reply = false
-should_open_in_legacy = true
-source_url = "https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/"
-display_avatar = true
+can_send_in_message = true
 id = 107708589098.0
+id_string = "107708589098"
+can_blaze = false
+interactability_blaze = "everyone"
+type = "quote"
+slug = "in-the-real-world-if-you-build-a-bookshelf-and"
 state = "published"
-summary = "In the real world, if you build a bookshelf and forget to tighten one of the screws all the way, it does not burn down your..."
 source_title = "blog.pinboard.in"
+is_blocks_post_format = false
+timestamp = 1420915161.0
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1aJxgGg"
+source = "<a href=\"https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/\">The Matasano Crypto Challenges (Pinboard Blog)</a>"
+interactability_reblog = "everyone"
 blog_name = "indirect"
+is_blazed = false
 bookmarklet = true
+note_count = 0.0
+source_url = "https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/"
+can_reply = false
+display_avatar = true
+should_open_in_legacy = true
+can_reblog = false
+is_blaze_pending = false
 can_like = false
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+summary = "In the real world, if you build a bookshelf and forget to tighten one of the screws all the way, it does not burn down your..."
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/\">The Matasano Crypto Challenges (Pinboard Blog)</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

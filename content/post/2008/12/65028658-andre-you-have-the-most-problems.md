@@ -6,43 +6,43 @@ slug = "andre-you-have-the-most-problems"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-state = "published"
-format = "html"
-note_count = 0.0
-text = "Andre, you have the most problems"
-can_like = false
-timestamp = 1229376035.0
-slug = "andre-you-have-the-most-problems"
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jby3u48o"
-summary = "Andre, you have the most problems"
-id = 65028658.0
-id_string = "65028658"
-is_blazed = false
-source = "rachel"
-is_blaze_pending = false
-date = "2008-12-15 21:20:35 GMT"
-interactability_blaze = "everyone"
-can_reply = false
-should_open_in_legacy = true
-type = "quote"
-can_blaze = false
 post_url = "https://indirect.io/post/65028658/andre-you-have-the-most-problems"
+date = "2008-12-15 21:20:35 GMT"
+short_url = "https://tmblr.co/ZY3jby3u48o"
+can_like = false
+id_string = "65028658"
+is_blaze_pending = false
+format = "html"
+text = "Andre, you have the most problems"
+interactability_blaze = "everyone"
+display_avatar = true
+is_blocks_post_format = false
 reblog_key = "sgmDaXFX"
-blog_name = "indirect"
-interactability_reblog = "everyone"
-can_reblog = false
 can_send_in_message = true
+timestamp = 1229376035.0
+note_count = 0.0
+can_reply = false
+id = 65028658.0
+is_blazed = false
+summary = "Andre, you have the most problems"
+can_reblog = false
+type = "quote"
+blog_name = "indirect"
+can_blaze = false
+slug = "andre-you-have-the-most-problems"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+state = "published"
+source = "rachel"
 
 [tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

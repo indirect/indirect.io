@@ -6,47 +6,47 @@ slug = "once-you-have-enough-talent-persistence-is-a"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-display_avatar = true
-type = "quote"
-can_blaze = false
-slug = "once-you-have-enough-talent-persistence-is-a"
-timestamp = 1368092292.0
-interactability_reblog = "everyone"
-can_reblog = false
-is_blocks_post_format = false
+summary = "once you have enough talent, persistence is a better predictor of high achievement than intelligence"
+text = "once you have enough talent, persistence is a better predictor of high achievement than intelligence"
 is_blazed = false
-post_url = "https://indirect.io/post/50002803703/once-you-have-enough-talent-persistence-is-a"
-should_open_in_legacy = true
-source = "Sandi Metz, La Conf 2013"
-can_send_in_message = true
-id = 50002803703.0
 is_blaze_pending = false
-state = "published"
+post_url = "https://indirect.io/post/50002803703/once-you-have-enough-talent-persistence-is-a"
+slug = "once-you-have-enough-talent-persistence-is-a"
+date = "2013-05-09 09:38:12 GMT"
+short_url = "https://tmblr.co/ZY3jbykaPZlt"
+note_count = 0.0
+can_reply = false
+type = "quote"
+blog_name = "indirect"
+id_string = "50002803703"
+interactability_blaze = "everyone"
+can_reblog = false
+display_avatar = true
+is_blocks_post_format = false
+id = 50002803703.0
+can_blaze = false
 format = "markdown"
 reblog_key = "hFcaSdti"
-short_url = "https://tmblr.co/ZY3jbykaPZlt"
-text = "once you have enough talent, persistence is a better predictor of high achievement than intelligence"
-note_count = 0.0
-id_string = "50002803703"
-blog_name = "indirect"
-date = "2013-05-09 09:38:12 GMT"
-summary = "once you have enough talent, persistence is a better predictor of high achievement than intelligence"
+can_send_in_message = true
+state = "published"
+should_open_in_legacy = true
+source = "Sandi Metz, La Conf 2013"
 can_like = false
-can_reply = false
+interactability_reblog = "everyone"
+timestamp = 1368092292.0
 
 [tumblr.reblog]
 comment = "<p>Sandi Metz, La Conf 2013</p>"
 tree_html = ""
 
 [tumblr.blog]
-title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

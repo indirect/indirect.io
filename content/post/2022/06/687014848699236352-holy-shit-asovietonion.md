@@ -6,35 +6,83 @@ slug = "holy-shit-asovietonion"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
+id = 6.870148486992364e+17
+note_count = 0.0
+type = "photo"
+summary = "holy shit — @ASovietOnion"
 display_avatar = true
+id_string = "687014848699236352"
+slug = "holy-shit-asovietonion"
+date = "2022-06-14 06:33:33 GMT"
+reblog_key = "548EF7uX"
+is_blocks_post_format = false
+state = "published"
+interactability_reblog = "everyone"
 timestamp = 1655188413.0
+photoset_layout = "13"
+can_reblog = false
+can_send_in_message = true
 short_url = "https://tmblr.co/ZY3jbyc8n5ri8m00"
 should_open_in_legacy = true
-caption = "<p>holy shit — <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
-can_reply = false
-state = "published"
-id_string = "687014848699236352"
-format = "html"
 link_url = "http://twitter.com/ASovietOnion/status/1536375850979012610"
-id = 6.870148486992364e+17
-is_blaze_pending = false
-date = "2022-06-14 06:33:33 GMT"
-type = "photo"
-blog_name = "indirect"
 can_blaze = false
-photoset_layout = "13"
-can_like = false
-note_count = 0.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reblog = false
-is_blocks_post_format = false
 post_url = "https://indirect.io/post/687014848699236352/holy-shit-asovietonion"
-reblog_key = "548EF7uX"
-summary = "holy shit — @ASovietOnion"
-slug = "holy-shit-asovietonion"
-can_send_in_message = true
+caption = "<p>holy shit — <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
+interactability_blaze = "everyone"
+can_reply = false
+blog_name = "indirect"
+is_blazed = false
+is_blaze_pending = false
+format = "html"
+can_like = false
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>holy shit — <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
+content = "<p>holy shit &mdash; <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+show_header_image = false
+header_full_width = 3000.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+avatar_shape = "square"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "687014848699236352"
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -50,9 +98,9 @@ width = 1200.0
 height = 860.0
 
 [[tumblr.photos.alt_sizes]]
+height = 459.0
 url = "/images/57/97/528d047bf43bad1b57d984554340.jpg"
 width = 640.0
-height = 459.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b0/ed/c779315420c4bce9206e33c19a3d.jpg"
@@ -70,9 +118,9 @@ width = 400.0
 height = 287.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/64/f6/38b59fb26fefcdb1c08702c6e669.jpg"
 width = 250.0
 height = 179.0
+url = "/images/64/f6/38b59fb26fefcdb1c08702c6e669.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b5/89/0358ed97d32fcc3c0bc5d32094da.jpg"
@@ -80,17 +128,17 @@ width = 100.0
 height = 72.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/35/34/0ec928729068ef468a64b82b737e.jpg"
 width = 75.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/a6/ce/c51b3605e6691f1e83b2280ae920.jpg"
 width = 1200.0
 height = 984.0
+url = "/images/a6/ce/c51b3605e6691f1e83b2280ae920.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a6/ce/c51b3605e6691f1e83b2280ae920.jpg"
@@ -98,14 +146,14 @@ width = 1200.0
 height = 984.0
 
 [[tumblr.photos.alt_sizes]]
+height = 525.0
 url = "/images/9d/74/a85d85a91867d4bdad9608abd303.jpg"
 width = 640.0
-height = 525.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/b2/03/d58b8d944c1bd4c8e16321b353dc.jpg"
 width = 540.0
 height = 443.0
-url = "/images/b2/03/d58b8d944c1bd4c8e16321b353dc.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/18/8e/791fb9ca4d9288f02762041b8b1e.jpg"
@@ -128,9 +176,9 @@ width = 100.0
 height = 82.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/11/e4/0b039c417837ac724e3e15243f60.jpg"
 width = 75.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -176,9 +224,9 @@ width = 100.0
 height = 96.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/5d/4c/45abe854ea63f0fe90675510e40a.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -189,9 +237,9 @@ width = 1200.0
 height = 950.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/43/54/76db30c0d1ab7f3f3b419e699f9a.jpg"
 width = 1200.0
 height = 950.0
-url = "/images/43/54/76db30c0d1ab7f3f3b419e699f9a.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/dc/4e/eee01ce2352e44a06cee677dee2a.jpg"
@@ -199,9 +247,9 @@ width = 640.0
 height = 507.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/cf/4b/a593ce401d958a8a17bbb4c6dcb2.jpg"
 width = 540.0
 height = 428.0
-url = "/images/cf/4b/a593ce401d958a8a17bbb4c6dcb2.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/51/48/29260f78e9a1596a3dcf7fa83285.jpg"
@@ -214,9 +262,9 @@ width = 400.0
 height = 317.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ec/f2/8ff837deaefa84d5fae6280f3a53.jpg"
 width = 250.0
 height = 198.0
+url = "/images/ec/f2/8ff837deaefa84d5fae6280f3a53.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bd/a3/62a9ebb9eb794a4ee2a4ef9bf13d.jpg"
@@ -228,55 +276,7 @@ url = "/images/96/3a/224fb6defdcf28ef21cf545c4b09.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-content_raw = "<p>holy shit — <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
-content = "<p>holy shit &mdash; <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "687014848699236352"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-show_description = true
-body_font = "Helvetica Neue"
-header_image_poster = ""
-link_color = "#529ECC"
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_full_width = 3000.0
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-show_header_image = false
-header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-show_avatar = true
-title_font = "Gibson"
-
 [tumblr.reblog]
 comment = "<p>holy shit — <a href=\"http://twitter.com/ASovietOnion/status/1536375850979012610\">@ASovietOnion</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

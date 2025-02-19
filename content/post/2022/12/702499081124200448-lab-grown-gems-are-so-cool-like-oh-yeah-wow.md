@@ -6,85 +6,85 @@ slug = "lab-grown-gems-are-so-cool-like-oh-yeah-wow"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-is_blaze_pending = false
-slug = "lab-grown-gems-are-so-cool-like-oh-yeah-wow"
-should_open_in_legacy = true
-description = "<p>Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. — <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
-reblog_key = "vsuVCthU"
-can_reply = false
-timestamp = 1669955330.0
-can_reblog = false
+can_like = false
 can_send_in_message = true
-type = "link"
+is_blocks_post_format = false
 is_blazed = false
+state = "published"
+format = "html"
+url = "https://twitter.com/i/web/status/1597846097619140608"
+type = "link"
+date = "2022-12-02 04:28:50 GMT"
+interactability_blaze = "everyone"
+id = 7.024990811242004e+17
+timestamp = 1669955330.0
 post_url = "https://indirect.io/post/702499081124200448/lab-grown-gems-are-so-cool-like-oh-yeah-wow"
+slug = "lab-grown-gems-are-so-cool-like-oh-yeah-wow"
 short_url = "https://tmblr.co/ZY3jbyc-np4vSa00"
 note_count = 0.0
-interactability_reblog = "everyone"
-display_avatar = true
-id = 7.024990811242004e+17
-can_blaze = false
-can_like = false
-date = "2022-12-02 04:28:50 GMT"
-format = "html"
-summary = "Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get..."
-blog_name = "indirect"
-url = "https://twitter.com/i/web/status/1597846097619140608"
-interactability_blaze = "everyone"
-id_string = "702499081124200448"
-state = "published"
 publisher = "twitter.com"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_reply = false
+display_avatar = true
+id_string = "702499081124200448"
+is_blaze_pending = false
+can_blaze = false
+summary = "Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get..."
+description = "<p>Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. — <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
+can_reblog = false
+blog_name = "indirect"
+reblog_key = "vsuVCthU"
 
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. — <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. — <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
 content = "<p>Lab grown gems are so cool. Like oh yeah wow that&rsquo;s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. &mdash; <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
-title_font = "Gibson"
-avatar_shape = "square"
-header_image_poster = ""
-header_stretch = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_bounds = ""
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_poster = ""
 show_avatar = true
+show_title = true
+title_color = "#444444"
 title_font_weight = "bold"
 header_full_height = 1055.0
+avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 show_description = true
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_font = "Gibson"
+header_full_width = 3000.0
 
 [tumblr.trail.post]
 id = "702499081124200448"
 
-[tumblr.reblog]
-comment = "<p>Lab grown gems are so cool. Like oh yeah wow that’s a nice ring, looks like you paid 10 grand and tortured several kids to get it. I got one just like it from Etsy that some guy made in a big instant pot. — <a href=\"http://twitter.com/Papapishu/status/1597846097619140608\">@Papapishu</a></p>"
-tree_html = ""
+[tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

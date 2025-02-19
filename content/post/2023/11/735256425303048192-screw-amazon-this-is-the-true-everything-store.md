@@ -6,44 +6,48 @@ slug = "screw-amazon-this-is-the-true-everything-store"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyeq9zB10m00"
-note_count = 1.0
-should_open_in_legacy = true
-link_url = "https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l"
-can_reblog = false
-can_reply = false
-type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.io/post/735256425303048192/screw-amazon-this-is-the-true-everything-store"
-state = "published"
-reblog_key = "XGFZbduN"
-caption = "<p>screw Amazon, this is the *true* Everything Store — <a href=\"https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l\">Phoebe Barton 🚀 🇺🇳 (@phoebebarton.bsky.social)</a></p>"
-image_permalink = "https://indirect.io/image/735256425303048192"
 id_string = "735256425303048192"
+reblog_key = "XGFZbduN"
+note_count = 1.0
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+image_permalink = "https://indirect.io/image/735256425303048192"
+timestamp = 1701195168.0
+type = "photo"
+id = 7.352564253030482e+17
+is_blaze_pending = false
+can_blaze = false
 format = "html"
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
-slug = "screw-amazon-this-is-the-true-everything-store"
+short_url = "https://tmblr.co/ZY3jbyeq9zB10m00"
+should_open_in_legacy = true
 summary = "screw Amazon, this is the *true* Everything Store — Phoebe Barton 🚀 🇺🇳 (@phoebebarton.bsky.social)"
 can_like = false
-is_blazed = false
-is_blaze_pending = false
-is_blocks_post_format = false
-interactability_blaze = "everyone"
-id = 7.352564253030482e+17
-can_blaze = false
+can_reblog = false
+can_reply = false
+display_avatar = true
+blog_name = "indirect"
+post_url = "https://indirect.io/post/735256425303048192/screw-amazon-this-is-the-true-everything-store"
 date = "2023-11-28 18:12:48 GMT"
-timestamp = 1701195168.0
+interactability_reblog = "everyone"
+slug = "screw-amazon-this-is-the-true-everything-store"
+state = "published"
+link_url = "https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l"
+can_send_in_message = true
+is_blazed = false
+caption = "<p>screw Amazon, this is the *true* Everything Store — <a href=\"https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l\">Phoebe Barton 🚀 🇺🇳 (@phoebebarton.bsky.social)</a></p>"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>screw Amazon, this is the *true* Everything Store — <a href=\"https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l\">Phoebe Barton 🚀 🇺🇳 (@phoebebarton.bsky.social)</a></p>"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -51,24 +55,24 @@ url = "https://indirect.io/"
 caption = ""
 
 [tumblr.photos.original_size]
-height = 1000.0
-url = "/images/06/f3/3ca1a85eb0d94e46e4c99c78f95d.jpg"
-width = 1000.0
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/06/f3/3ca1a85eb0d94e46e4c99c78f95d.jpg"
 width = 1000.0
 height = 1000.0
 
 [[tumblr.photos.alt_sizes]]
-height = 640.0
+url = "/images/06/f3/3ca1a85eb0d94e46e4c99c78f95d.jpg"
+width = 1000.0
+height = 1000.0
+
+[[tumblr.photos.alt_sizes]]
 url = "/images/cd/62/28d06a1089ca409825c1dedcba50.jpg"
 width = 640.0
+height = 640.0
 
 [[tumblr.photos.alt_sizes]]
+height = 540.0
 url = "/images/25/b4/1883956725eef0d8b362705ad45c.jpg"
 width = 540.0
-height = 540.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/83/be/5b36aeb78e1b50ae6f69a5de35d2.jpg"
@@ -110,29 +114,25 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_description = true
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 link_color = "#529ECC"
 show_title = true
 title_color = "#444444"
+title_font_weight = "bold"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+show_header_image = false
 header_full_width = 3000.0
 header_full_height = 1055.0
-header_bounds = ""
-show_header_image = false
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
 title_font = "Gibson"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
 show_avatar = true
-title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "735256425303048192"
-
-[tumblr.reblog]
-comment = "<p>screw Amazon, this is the *true* Everything Store — <a href=\"https://bsky.app/profile/phoebebarton.bsky.social/post/3kf6s3nirp62l\">Phoebe Barton 🚀 🇺🇳 (@phoebebarton.bsky.social)</a></p>"
-tree_html = ""
 +++

@@ -6,34 +6,45 @@ slug = "furries-dont-use-litter-boxes-thats-an"
 type = "tumblr-text"
 
 [tumblr]
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jbybmwNemWq00"
 slug = "furries-dont-use-litter-boxes-thats-an"
-should_open_in_legacy = false
-body = "<p>&gt; furries don’t use litter boxes! That’s an otherkin thing. At least get the taxonomy right when you’re going to try and publish this kind of nonsense.</p>"
+can_reblog = false
 can_send_in_message = true
-can_reply = false
-title = ""
-id_string = "680300254742134784"
-is_blazed = false
-interactability_blaze = "everyone"
-id = 6.803002547421348e+17
-state = "published"
-blog_name = "indirect"
-format = "html"
-note_count = 0.0
-post_url = "https://indirect.io/post/680300254742134784/furries-dont-use-litter-boxes-thats-an"
-date = "2022-04-01 03:48:00 GMT"
-timestamp = 1648784880.0
-can_like = false
-interactability_reblog = "everyone"
-display_avatar = true
-summary = "> furries don’t use litter boxes! That’s an otherkin thing. At least get the taxonomy right when you’re going to try and publish..."
-type = "text"
 is_blocks_post_format = true
-is_blaze_pending = false
-can_blaze = false
+blog_name = "indirect"
 reblog_key = "1LSZpquQ"
+short_url = "https://tmblr.co/ZY3jbybmwNemWq00"
+display_avatar = true
+state = "published"
+can_reply = false
+type = "text"
+id_string = "680300254742134784"
+summary = "> furries don’t use litter boxes! That’s an otherkin thing. At least get the taxonomy right when you’re going to try and publish..."
+can_like = false
+can_blaze = false
+post_url = "https://indirect.io/post/680300254742134784/furries-dont-use-litter-boxes-thats-an"
+timestamp = 1648784880.0
+format = "html"
+body = "<p>&gt; furries don’t use litter boxes! That’s an otherkin thing. At least get the taxonomy right when you’re going to try and publish this kind of nonsense.</p>"
+is_blaze_pending = false
+date = "2022-04-01 03:48:00 GMT"
+title = ""
+interactability_reblog = "everyone"
+id = 6.803002547421348e+17
+should_open_in_legacy = false
+note_count = 0.0
+interactability_blaze = "everyone"
+is_blazed = false
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>&gt; furries don’t use litter boxes! That’s an otherkin thing. At least get the taxonomy right when you’re going to try and publish this kind of nonsense.</p>"
@@ -46,44 +57,33 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
 header_full_width = 3000.0
-header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-title_font = "Gibson"
-header_bounds = ""
-show_avatar = true
-show_description = true
-show_title = true
+title_font_weight = "bold"
 avatar_shape = "square"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
 header_image_poster = ""
 header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_description = true
 show_header_image = false
-title_color = "#444444"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-title_font_weight = "bold"
+title_font = "Gibson"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_stretch = true
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "680300254742134784"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

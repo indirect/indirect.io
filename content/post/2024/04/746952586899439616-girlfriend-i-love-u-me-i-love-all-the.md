@@ -6,43 +6,43 @@ slug = "girlfriend-i-love-u-me-i-love-all-the"
 type = "tumblr-quote"
 
 [tumblr]
-id = 7.469525868994396e+17
-is_blocks_post_format = false
-can_like = false
-id_string = "746952586899439616"
+format = "markdown"
+should_open_in_legacy = true
+can_reblog = false
+display_avatar = true
+can_send_in_message = true
 is_blaze_pending = false
-reblog_key = "El13x60W"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyfTjMkMCq00"
+summary = "girlfriend: i love u\n \n\n \nme: i love all the letters in the alphabet equally"
+note_count = 0.0
+source = "<a href=\"https://bsky.app/profile/frovo.bsky.social/post/3kpe2mfjp3l2c\">FROVO (@frovo.bsky.social)</a>"
+can_like = false
+is_blazed = false
+can_blaze = false
+slug = "girlfriend-i-love-u-me-i-love-all-the"
+date = "2024-04-05 20:38:17 GMT"
+timestamp = 1712349497.0
+id = 7.469525868994396e+17
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-post_url = "https://indirect.io/post/746952586899439616/girlfriend-i-love-u-me-i-love-all-the"
-slug = "girlfriend-i-love-u-me-i-love-all-the"
-date = "2024-04-05 20:38:17 GMT"
-state = "published"
-format = "markdown"
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbyfTjMkMCq00"
-summary = "girlfriend: i love u\n \n\n \nme: i love all the letters in the alphabet equally"
+id_string = "746952586899439616"
+reblog_key = "El13x60W"
 text = "<p>girlfriend: i love u\n<br/></p>\n\n<p><br/>\nme: i love all the letters in the alphabet equally</p>"
-type = "quote"
-timestamp = 1712349497.0
-source = "<a href=\"https://bsky.app/profile/frovo.bsky.social/post/3kpe2mfjp3l2c\">FROVO (@frovo.bsky.social)</a>"
-can_send_in_message = true
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/746952586899439616/girlfriend-i-love-u-me-i-love-all-the"
 can_reply = false
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

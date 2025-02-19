@@ -6,44 +6,44 @@ slug = "because-i-had-pretty-much-this-exact-conversation"
 type = "tumblr-photo"
 
 [tumblr]
+caption = "<p>Because I had pretty much this exact conversation a while back, and I know I&rsquo;m far from alone. — <a href=\"http://twitter.com/MMASammich/status/492069297389187073\">@MMASammich</a></p>"
+can_reply = false
+is_blocks_post_format = false
+id_string = "92755494153"
 is_blazed = false
-is_blaze_pending = false
-format = "html"
+post_url = "https://indirect.io/post/92755494153/because-i-had-pretty-much-this-exact-conversation"
 date = "2014-07-24 19:54:53 GMT"
 can_like = false
-can_send_in_message = true
-id = 92755494153.0
-can_blaze = false
-state = "published"
-image_permalink = "https://indirect.io/image/92755494153"
 type = "photo"
-blog_name = "indirect"
+is_blaze_pending = false
 interactability_reblog = "everyone"
-can_reblog = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+slug = "because-i-had-pretty-much-this-exact-conversation"
 reblog_key = "HIcVYQKh"
 short_url = "https://tmblr.co/ZY3jby1MOg8K9"
-summary = "Because I had pretty much this exact conversation a while back, and I know I'm far from alone. — @MMASammich"
-note_count = 11.0
-caption = "<p>Because I had pretty much this exact conversation a while back, and I know I&rsquo;m far from alone. — <a href=\"http://twitter.com/MMASammich/status/492069297389187073\">@MMASammich</a></p>"
 link_url = "http://twitter.com/MMASammich/status/492069297389187073"
-can_reply = false
-slug = "because-i-had-pretty-much-this-exact-conversation"
-id_string = "92755494153"
-post_url = "https://indirect.io/post/92755494153/because-i-had-pretty-much-this-exact-conversation"
+image_permalink = "https://indirect.io/image/92755494153"
+can_blaze = false
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-timestamp = 1406231693.0
+note_count = 11.0
+can_reblog = false
 display_avatar = true
+blog_name = "indirect"
+id = 92755494153.0
+state = "published"
+format = "html"
+timestamp = 1406231693.0
+summary = "Because I had pretty much this exact conversation a while back, and I know I'm far from alone. — @MMASammich"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -58,32 +58,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+active = true
+share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
-share_likes = false
 
 [tumblr.trail.blog.theme]
-show_title = true
-title_font = "Gibson"
-header_full_height = 1055.0
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
 header_image_poster = ""
 header_stretch = true
 show_description = true
-title_color = "#444444"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-title_font_weight = "bold"
-header_full_width = 3000.0
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-background_color = "#FAFAFA"
-show_avatar = true
 show_header_image = false
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "92755494153"
@@ -92,19 +92,19 @@ id = "92755494153"
 caption = ""
 
 [tumblr.photos.original_size]
-height = 840.0
-url = "/images/dc/46/5a8f4c004d7a4a87522b6cd6dff6.png"
-width = 600.0
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/dc/46/5a8f4c004d7a4a87522b6cd6dff6.png"
 width = 600.0
 height = 840.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/dc/46/5a8f4c004d7a4a87522b6cd6dff6.png"
+width = 600.0
+height = 840.0
+
+[[tumblr.photos.alt_sizes]]
+height = 756.0
 url = "/images/bc/ec/7bd19e9a5428af2b85623360670e.png"
 width = 540.0
-height = 756.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/01/5d/8c350a2a9113e99b9c3baf468acb.png"

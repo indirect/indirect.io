@@ -6,85 +6,48 @@ slug = "this-kid-gets-it-httpstcoepfd1zfudm"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2016-09-12 20:58:51 GMT"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-timestamp = 1473713931.0
-format = "html"
+reblog_key = "16mXQjgI"
 summary = "This kid gets it. https://t.co/EpFd1zfuDM — @_youhadonejob1"
 interactability_reblog = "everyone"
-can_reply = false
-can_blaze = false
-image_permalink = "https://indirect.io/image/150324956793"
-can_like = false
+interactability_blaze = "everyone"
 can_send_in_message = true
-id = 150324956793.0
-id_string = "150324956793"
-note_count = 0.0
-link_url = "http://twitter.com/_youhadonejob1/status/774984966446940160"
 display_avatar = true
-type = "photo"
-is_blaze_pending = false
-reblog_key = "16mXQjgI"
-should_open_in_legacy = true
+link_url = "http://twitter.com/_youhadonejob1/status/774984966446940160"
+blog_name = "indirect"
+slug = "this-kid-gets-it-httpstcoepfd1zfudm"
+date = "2016-09-12 20:58:51 GMT"
+can_reblog = false
+can_reply = false
 is_blazed = false
 post_url = "https://indirect.io/post/150324956793/this-kid-gets-it-httpstcoepfd1zfudm"
-short_url = "https://tmblr.co/ZY3jby2C04Cvv"
-state = "published"
+timestamp = 1473713931.0
+note_count = 0.0
 caption = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> — <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
+type = "photo"
 is_blocks_post_format = false
-slug = "this-kid-gets-it-httpstcoepfd1zfudm"
-can_reblog = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jby2C04Cvv"
+image_permalink = "https://indirect.io/image/150324956793"
+can_blaze = false
+should_open_in_legacy = true
+can_like = false
+is_blaze_pending = false
+id = 150324956793.0
+id_string = "150324956793"
+format = "html"
 
 [tumblr.reblog]
 comment = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> — <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
 tree_html = ""
 
-[[tumblr.trail]]
-content_raw = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> — <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
-content = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> &mdash; <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-header_full_width = 3000.0
-avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-show_description = true
-header_full_height = 1055.0
-background_color = "#FAFAFA"
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "150324956793"
-
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -92,9 +55,9 @@ updated = 1739927643.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/62/58/30edc47fb926ba5897fd12f0e7b9.jpg"
 width = 640.0
 height = 579.0
+url = "/images/62/58/30edc47fb926ba5897fd12f0e7b9.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/62/58/30edc47fb926ba5897fd12f0e7b9.jpg"
@@ -117,9 +80,9 @@ width = 400.0
 height = 362.0
 
 [[tumblr.photos.alt_sizes]]
+height = 226.0
 url = "/images/55/62/18e9c3f46b71064b512ee2d10940.jpg"
 width = 250.0
-height = 226.0
 
 [[tumblr.photos.alt_sizes]]
 height = 90.0
@@ -130,4 +93,41 @@ width = 100.0
 url = "/images/c1/2f/a04486fdfa66a32429442c98454f.jpg"
 width = 75.0
 height = 75.0
+
+[[tumblr.trail]]
+content_raw = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> — <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
+content = "<p>This kid gets it. <a href=\"https://t.co/EpFd1zfuDM\">https://t.co/EpFd1zfuDM</a> &mdash; <a href=\"http://twitter.com/_youhadonejob1/status/774984966446940160\">@_youhadonejob1</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
+show_avatar = true
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_title = true
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+
+[tumblr.trail.post]
+id = "150324956793"
 +++

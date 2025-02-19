@@ -6,87 +6,72 @@ slug = "teetering-on-the-brink-of-an-epiphany-yezzer"
 type = "tumblr-photo"
 
 [tumblr]
-is_blocks_post_format = false
-format = "html"
-interactability_reblog = "everyone"
-can_reblog = false
-post_url = "https://indirect.io/post/114289806343/teetering-on-the-brink-of-an-epiphany-yezzer"
-short_url = "https://tmblr.co/ZY3jby1gSD0m7"
-note_count = 0.0
-can_blaze = false
-reblog_key = "cNE6zBo3"
-can_send_in_message = true
-type = "photo"
-id_string = "114289806343"
-image_permalink = "https://indirect.io/image/114289806343"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id = 114289806343.0
-is_blazed = false
-date = "2015-03-22 06:36:37 GMT"
-state = "published"
-caption = "<p>&ldquo;Teetering on the brink of an epiphany&rdquo; — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
-link_url = "http://twitter.com/yezzer/status/508013445506424832"
-is_blaze_pending = false
-should_open_in_legacy = true
-can_reply = false
-display_avatar = true
 slug = "teetering-on-the-brink-of-an-epiphany-yezzer"
-timestamp = 1427006197.0
-summary = "\"Teetering on the brink of an epiphany\" — @yezzer"
+date = "2015-03-22 06:36:37 GMT"
+image_permalink = "https://indirect.io/image/114289806343"
+is_blazed = false
+state = "published"
+note_count = 0.0
+link_url = "http://twitter.com/yezzer/status/508013445506424832"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+display_avatar = true
+id_string = "114289806343"
+post_url = "https://indirect.io/post/114289806343/teetering-on-the-brink-of-an-epiphany-yezzer"
+can_reblog = false
+type = "photo"
+blog_name = "indirect"
+can_blaze = false
+should_open_in_legacy = true
+is_blocks_post_format = false
+id = 114289806343.0
+short_url = "https://tmblr.co/ZY3jby1gSD0m7"
 can_like = false
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>“Teetering on the brink of an epiphany” — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
-tree_html = ""
+can_send_in_message = true
+is_blaze_pending = false
+reblog_key = "cNE6zBo3"
+summary = "\"Teetering on the brink of an epiphany\" — @yezzer"
+caption = "<p>&ldquo;Teetering on the brink of an epiphany&rdquo; — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
+format = "html"
+can_reply = false
+timestamp = 1427006197.0
 
 [[tumblr.trail]]
-content_raw = "<p>“Teetering on the brink of an epiphany” — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
-content = "<p>&ldquo;Teetering on the brink of an epiphany&rdquo; &mdash; <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
 is_current_item = true
 is_root_item = true
-
-[tumblr.trail.post]
-id = "114289806343"
+content_raw = "<p>“Teetering on the brink of an epiphany” — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
+content = "<p>&ldquo;Teetering on the brink of an epiphany&rdquo; &mdash; <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-show_title = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_stretch = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_full_width = 3000.0
+header_bounds = ""
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-header_full_width = 3000.0
-header_full_height = 1055.0
-show_avatar = true
+header_stretch = true
 title_font = "Gibson"
-avatar_shape = "square"
-header_bounds = ""
-link_color = "#529ECC"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+show_header_image = false
+show_title = true
+title_font_weight = "bold"
 show_description = true
+title_color = "#444444"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+
+[tumblr.trail.post]
+id = "114289806343"
 
 [[tumblr.photos]]
 caption = ""
@@ -117,17 +102,32 @@ width = 400.0
 height = 395.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cf/c6/6c57e401a94e0839a81d184cdc6f.jpg"
 width = 250.0
 height = 247.0
+url = "/images/cf/c6/6c57e401a94e0839a81d184cdc6f.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/38/45/11beca2b3962cd951ea9753b9eef.jpg"
 width = 100.0
 height = 99.0
+url = "/images/38/45/11beca2b3962cd951ea9753b9eef.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d2/a0/e2c02f1ec307ceb8c96194a4bd9d.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = "<p>“Teetering on the brink of an epiphany” — <a href=\"http://twitter.com/yezzer/status/508013445506424832\">@yezzer</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

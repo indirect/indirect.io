@@ -6,86 +6,47 @@ slug = "claude-handles-an-insane-request-remove-the"
 type = "tumblr-photo"
 
 [tumblr]
-display_avatar = true
 can_blaze = false
+should_open_in_legacy = true
 format = "html"
-interactability_reblog = "everyone"
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jbyf-1WL4Ou00"
-caption = "<p>👀Claude handles an insane request:\n<br/>“Remove the squid”\n<br/>\n<br/>“The document appears to be the full text of the novel &ldquo;All Quiet on the Western Front&rdquo; by Erich Maria Remarque. It doesn&rsquo;t contain any mention of squid that I can see.”\n<br/>\n<br/>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
-can_send_in_message = true
-post_url = "https://indirect.io/post/756329882113507328/claude-handles-an-insane-request-remove-the"
-slug = "claude-handles-an-insane-request-remove-the"
+link_url = "https://twitter.com/emollick/status/1813753156431384851"
 timestamp = 1721292382.0
+reblog_key = "PEQTipcH"
 can_reply = false
+post_url = "https://indirect.io/post/756329882113507328/claude-handles-an-insane-request-remove-the"
+display_avatar = true
+caption = "<p>👀Claude handles an insane request:\n<br/>“Remove the squid”\n<br/>\n<br/>“The document appears to be the full text of the novel &ldquo;All Quiet on the Western Front&rdquo; by Erich Maria Remarque. It doesn&rsquo;t contain any mention of squid that I can see.”\n<br/>\n<br/>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
+photoset_layout = "13"
+is_blazed = false
+slug = "claude-handles-an-insane-request-remove-the"
+can_like = false
+blog_name = "indirect"
+date = "2024-07-18 08:46:22 GMT"
+summary = "👀Claude handles an insane request:\n “Remove the squid”\n \n “The document appears to be the full text of the novel \"All Quiet on..."
+note_count = 2.0
+interactability_blaze = "everyone"
+type = "photo"
+id_string = "756329882113507328"
+interactability_reblog = "everyone"
+can_send_in_message = true
+id = 7.563298821135073e+17
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyf-1WL4Ou00"
+can_reblog = false
 is_blocks_post_format = false
 is_blaze_pending = false
-date = "2024-07-18 08:46:22 GMT"
-state = "published"
-reblog_key = "PEQTipcH"
-should_open_in_legacy = true
-type = "photo"
-summary = "👀Claude handles an insane request:\n “Remove the squid”\n \n “The document appears to be the full text of the novel \"All Quiet on..."
-photoset_layout = "13"
-can_like = false
-interactability_blaze = "everyone"
-id = 7.563298821135073e+17
-is_blazed = false
-note_count = 2.0
-link_url = "https://twitter.com/emollick/status/1813753156431384851"
-blog_name = "indirect"
-id_string = "756329882113507328"
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>👀Claude handles an insane request:\n<br>“Remove the squid”\n<br>\n<br>“The document appears to be the full text of the novel “All Quiet on the Western Front” by Erich Maria Remarque. It doesn’t contain any mention of squid that I can see.”\n<br>\n<br>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
-content = "<p>&#128064;Claude handles an insane request:\n<br />&ldquo;Remove the squid&rdquo;\n<br />\n<br />&ldquo;The document appears to be the full text of the novel &ldquo;All Quiet on the Western Front&rdquo; by Erich Maria Remarque. It doesn&rsquo;t contain any mention of squid that I can see.&rdquo;\n<br />\n<br />&ldquo;Figure out a way to remove the &#129425;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&ldquo; <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> &mdash; <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-link_color = "#529ECC"
-header_full_height = 1055.0
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-title_font = "Gibson"
-header_full_width = 3000.0
-show_description = true
-show_title = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "756329882113507328"
+[tumblr.reblog]
+comment = "<p>👀Claude handles an insane request:\n<br>“Remove the squid”\n<br>\n<br>“The document appears to be the full text of the novel “All Quiet on the Western Front” by Erich Maria Remarque. It doesn’t contain any mention of squid that I can see.”\n<br>\n<br>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/b4/a3/6d636a6fea13b3efa3fd55d6c3fc.jpg"
+width = 711.0
+height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b4/a3/6d636a6fea13b3efa3fd55d6c3fc.jpg"
@@ -93,14 +54,14 @@ width = 711.0
 height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
-height = 960.0
 url = "/images/97/0d/63d0991006641f3cc5431ed9b31d.jpg"
 width = 569.0
+height = 960.0
 
 [[tumblr.photos.alt_sizes]]
+height = 810.0
 url = "/images/51/d9/a7d8553fa40af83cafb481210aa6.jpg"
 width = 480.0
-height = 810.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f2/65/11ba6f4a4a19e1315f946760cd78.jpg"
@@ -118,19 +79,14 @@ width = 237.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/75/4f/cda72f33f5733cfa547f5ca10046.jpg"
 width = 100.0
 height = 169.0
+url = "/images/75/4f/cda72f33f5733cfa547f5ca10046.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/00/9b/31056e8e655dfbde275bdeca1de1.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/b4/a3/6d636a6fea13b3efa3fd55d6c3fc.jpg"
-width = 711.0
-height = 1199.0
 
 [[tumblr.photos]]
 caption = ""
@@ -156,9 +112,9 @@ width = 419.0
 height = 810.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/15/05/c2d15a1c0fbdbf09a37a69af5255.jpg"
 width = 388.0
 height = 750.0
-url = "/images/15/05/c2d15a1c0fbdbf09a37a69af5255.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/1d/50/9774c0a55b71dfb7f9186f1a1a11.jpg"
@@ -183,10 +139,15 @@ height = 75.0
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
+[tumblr.photos.original_size]
+url = "/images/7a/4d/7cd1bafb90519210d4d9a0827722.jpg"
 width = 450.0
 height = 1200.0
+
+[[tumblr.photos.alt_sizes]]
 url = "/images/7a/4d/7cd1bafb90519210d4d9a0827722.jpg"
+width = 450.0
+height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e8/53/c82d16cae3edc5b99dce09e5cb0c.jpg"
@@ -219,14 +180,9 @@ width = 75.0
 height = 200.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/84/79/52a0e4b51e33bd6c4b19385ae53d.jpg"
 width = 75.0
 height = 75.0
-url = "/images/84/79/52a0e4b51e33bd6c4b19385ae53d.jpg"
-
-[tumblr.photos.original_size]
-url = "/images/7a/4d/7cd1bafb90519210d4d9a0827722.jpg"
-width = 450.0
-height = 1200.0
 
 [[tumblr.photos]]
 caption = ""
@@ -247,9 +203,9 @@ height = 960.0
 url = "/images/a4/83/ed2f0922739376ee6858c63c095c.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e8/65/d51f35bf9a2cfdcbf2264d29c434.jpg"
 width = 311.0
 height = 810.0
+url = "/images/e8/65/d51f35bf9a2cfdcbf2264d29c434.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/73/b4/d061587fe4b562d91f6b270ee1be.jpg"
@@ -267,16 +223,60 @@ width = 154.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
+height = 200.0
 url = "/images/c1/1f/b90af8e569c4261ce7137904b5fc.jpg"
 width = 77.0
-height = 200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/21/87/6787ac1f7e6784c2087427ab9a09.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>👀Claude handles an insane request:\n<br>“Remove the squid”\n<br>\n<br>“The document appears to be the full text of the novel “All Quiet on the Western Front” by Erich Maria Remarque. It doesn’t contain any mention of squid that I can see.”\n<br>\n<br>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+content = "<p>&#128064;Claude handles an insane request:\n<br />&ldquo;Remove the squid&rdquo;\n<br />\n<br />&ldquo;The document appears to be the full text of the novel &ldquo;All Quiet on the Western Front&rdquo; by Erich Maria Remarque. It doesn&rsquo;t contain any mention of squid that I can see.&rdquo;\n<br />\n<br />&ldquo;Figure out a way to remove the &#129425;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&ldquo; <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> &mdash; <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>👀Claude handles an insane request:\n<br>“Remove the squid”\n<br>\n<br>“The document appears to be the full text of the novel “All Quiet on the Western Front” by Erich Maria Remarque. It doesn’t contain any mention of squid that I can see.”\n<br>\n<br>“Figure out a way to remove the 🦑​​​​​​​​​​​​​​​​“ <a href=\"https://t.co/8yirBmSuIl\">https://t.co/8yirBmSuIl</a> — <a href=\"https://twitter.com/emollick/status/1813753156431384851\">Ethan Mollick (@emollick)</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+title_color = "#444444"
+title_font = "Gibson"
+link_color = "#529ECC"
+show_description = true
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_title = true
+title_font_weight = "bold"
+header_full_height = 1055.0
+show_avatar = true
+show_header_image = false
+header_stretch = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "756329882113507328"
+
+[tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,38 +6,38 @@ slug = "this-might-be-the-funniest-text-post-tumblr-ever"
 type = "tumblr-photo"
 
 [tumblr]
-is_blocks_post_format = false
+type = "photo"
+is_blaze_pending = false
+blog_name = "indirect"
 id = 7.486162821680824e+17
-post_url = "https://indirect.io/post/748616282168082432/this-might-be-the-funniest-text-post-tumblr-ever"
+date = "2024-04-24 05:22:00 GMT"
+is_blocks_post_format = false
 timestamp = 1713936120.0
-interactability_blaze = "everyone"
 short_url = "https://tmblr.co/ZY3jbyfZdehJiy00"
-slug = "this-might-be-the-funniest-text-post-tumblr-ever"
+link_url = "https://twitter.com/stablestrategys/status/1782609100519428555"
+can_like = false
+interactability_reblog = "everyone"
+state = "published"
 caption = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> — <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
 image_permalink = "https://indirect.io/image/748616282168082432"
-interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+id_string = "748616282168082432"
+slug = "this-might-be-the-funniest-text-post-tumblr-ever"
+summary = "this might be the funniest text post tumblr ever spat out https://t.co/XCSCsu9iZM — the mind that knows itself..."
 format = "html"
-note_count = 0.0
-link_url = "https://twitter.com/stablestrategys/status/1782609100519428555"
-state = "published"
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
 should_open_in_legacy = true
 display_avatar = true
-type = "photo"
-id_string = "748616282168082432"
-summary = "this might be the funniest text post tumblr ever spat out https://t.co/XCSCsu9iZM — the mind that knows itself..."
-can_like = false
+is_blazed = false
+post_url = "https://indirect.io/post/748616282168082432/this-might-be-the-funniest-text-post-tumblr-ever"
 can_reblog = false
 can_send_in_message = true
 can_reply = false
-is_blaze_pending = false
-date = "2024-04-24 05:22:00 GMT"
+can_blaze = false
 reblog_key = "p8hdqzLQ"
+note_count = 0.0
 
 [tumblr.blog]
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
@@ -51,8 +51,50 @@ uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 comment = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> — <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
 tree_html = ""
 
+[[tumblr.trail]]
+content = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> &mdash; <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> — <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_poster = ""
+header_stretch = true
+show_description = true
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
+show_title = true
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "748616282168082432"
+
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+height = 597.0
+url = "/images/26/c6/3e381f38890284fe8497eeb26edd.jpg"
+width = 828.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/26/c6/3e381f38890284fe8497eeb26edd.jpg"
@@ -65,9 +107,9 @@ width = 640.0
 height = 461.0
 
 [[tumblr.photos.alt_sizes]]
+height = 389.0
 url = "/images/92/a7/8d6a313273dca10c3f2d73e541c1.jpg"
 width = 540.0
-height = 389.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ca/8c/b7a7333b6b0b61d92d8a537e5a88.jpg"
@@ -85,54 +127,12 @@ width = 250.0
 height = 180.0
 
 [[tumblr.photos.alt_sizes]]
-height = 72.0
 url = "/images/e8/e7/5916aac407a3060a63bcebff0035.jpg"
 width = 100.0
+height = 72.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d4/2c/677013afcc74fc1e7b365ecf7f5c.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-width = 828.0
-height = 597.0
-url = "/images/26/c6/3e381f38890284fe8497eeb26edd.jpg"
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> — <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
-content = "<p>this might be the funniest text post tumblr ever spat out <a href=\"https://t.co/XCSCsu9iZM\">https://t.co/XCSCsu9iZM</a> &mdash; <a href=\"https://twitter.com/stablestrategys/status/1782609100519428555\">the mind that knows itself (@stablestrategys)</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_full_width = 3000.0
-header_full_height = 1055.0
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-show_description = true
-show_header_image = false
-body_font = "Helvetica Neue"
-header_stretch = true
-title_color = "#444444"
-avatar_shape = "square"
-
-[tumblr.trail.post]
-id = "748616282168082432"
 +++

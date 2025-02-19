@@ -6,52 +6,52 @@ slug = "me-why-you-bummed-out-them-my-brain-wont-stop"
 type = "tumblr-chat"
 
 [tumblr]
-date = "2013-03-12 04:12:21 GMT"
-body = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
-can_like = false
 can_send_in_message = true
-display_avatar = true
-blog_name = "indirect"
-is_blaze_pending = false
-state = "published"
-is_blazed = false
-slug = "me-why-you-bummed-out-them-my-brain-wont-stop"
-format = "markdown"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-timestamp = 1363061541.0
-interactability_blaze = "everyone"
-can_reply = false
-post_url = "https://indirect.io/post/45168118009/me-why-you-bummed-out-them-my-brain-wont-stop"
-short_url = "https://tmblr.co/ZY3jbyg4EiZv"
-summary = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
 type = "chat"
 is_blocks_post_format = false
-can_blaze = false
+should_open_in_legacy = true
 note_count = 0.0
-can_reblog = false
+interactability_blaze = "everyone"
+is_blaze_pending = false
+summary = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
+can_like = false
+interactability_reblog = "everyone"
 id = 45168118009.0
+display_avatar = true
 id_string = "45168118009"
+is_blazed = false
+date = "2013-03-12 04:12:21 GMT"
+can_reply = false
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyg4EiZv"
+body = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
+post_url = "https://indirect.io/post/45168118009/me-why-you-bummed-out-them-my-brain-wont-stop"
+timestamp = 1363061541.0
 reblog_key = "OEBeZs2W"
+can_blaze = false
+slug = "me-why-you-bummed-out-them-my-brain-wont-stop"
+state = "published"
+can_reblog = false
+format = "markdown"
+
+[[tumblr.dialogue]]
+name = "Me"
+label = "Me:"
+phrase = "Why you bummed out?"
+
+[[tumblr.dialogue]]
+name = "Them"
+label = "Them:"
+phrase = "My brain won't stop _thinking_."
 
 [tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.dialogue]]
-label = "Me:"
-phrase = "Why you bummed out?"
-name = "Me"
-
-[[tumblr.dialogue]]
-phrase = "My brain won't stop _thinking_."
-name = "Them"
-label = "Them:"
 +++

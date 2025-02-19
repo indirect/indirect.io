@@ -6,50 +6,50 @@ slug = "understand-what-women-like-like-jewelry-and"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-display_avatar = true
-type = "quote"
 id_string = "114021232673"
-is_blaze_pending = false
-date = "2015-03-19 04:27:32 GMT"
 note_count = 0.0
-summary = "understand what women like, like jewelry and dresses, and stuff like that"
-can_blaze = false
-reblog_key = "yKtGn7GV"
-source_url = "http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/"
-can_reply = false
-short_url = "https://tmblr.co/ZY3jby1gCCV0X"
-text = "understand what women like, like jewelry and dresses, and stuff like that"
-is_blocks_post_format = false
-id = 114021232673.0
-slug = "understand-what-women-like-like-jewelry-and"
-should_open_in_legacy = true
-bookmarklet = true
-source_title = "dailydot.com"
-source = "<a href=\"http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/\">sexism is everywhere at tech events</a>"
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/114021232673/understand-what-women-like-like-jewelry-and"
-interactability_blaze = "everyone"
-can_send_in_message = true
-format = "markdown"
 can_like = false
-can_reblog = false
-blog_name = "indirect"
-is_blazed = false
+display_avatar = true
 timestamp = 1426739252.0
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/\">sexism is everywhere at tech events</a></p>"
-tree_html = ""
+state = "published"
+source_url = "http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/"
+interactability_reblog = "everyone"
+can_reblog = false
+source_title = "dailydot.com"
+slug = "understand-what-women-like-like-jewelry-and"
+id = 114021232673.0
+is_blazed = false
+can_blaze = false
+type = "quote"
+bookmarklet = true
+can_reply = false
+interactability_blaze = "everyone"
+short_url = "https://tmblr.co/ZY3jby1gCCV0X"
+summary = "understand what women like, like jewelry and dresses, and stuff like that"
+text = "understand what women like, like jewelry and dresses, and stuff like that"
+date = "2015-03-19 04:27:32 GMT"
+is_blocks_post_format = false
+blog_name = "indirect"
+post_url = "https://indirect.io/post/114021232673/understand-what-women-like-like-jewelry-and"
+reblog_key = "yKtGn7GV"
+can_send_in_message = true
+is_blaze_pending = false
+format = "markdown"
+should_open_in_legacy = true
+source = "<a href=\"http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/\">sexism is everywhere at tech events</a>"
 
 [tumblr.blog]
-updated = 1739927643.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.dailydot.com/technology/eric-schmidt-sxsw-sexism/\">sexism is everywhere at tech events</a></p>"
+tree_html = ""
 +++

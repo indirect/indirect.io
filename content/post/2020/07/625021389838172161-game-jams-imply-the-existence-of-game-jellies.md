@@ -6,38 +6,34 @@ slug = "game-jams-imply-the-existence-of-game-jellies"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyYiXQH_Kq01"
-can_reblog = false
-timestamp = 1596066846.0
-note_count = 1.0
-can_like = false
-post_url = "https://indirect.io/post/625021389838172161/game-jams-imply-the-existence-of-game-jellies"
-slug = "game-jams-imply-the-existence-of-game-jellies"
-text = "Game jams imply the existence of game jellies, game compotes, and game preserves"
-source = "<a href=\"http://twitter.com/wynrush/status/1288622758503514113\">@wynrush</a>"
-can_reply = false
-id_string = "625021389838172161"
-reblog_key = "1sfUyoXk"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-display_avatar = true
-id = 6.250213898381722e+17
-can_blaze = false
 state = "published"
-format = "html"
+text = "Game jams imply the existence of game jellies, game compotes, and game preserves"
+can_like = false
+is_blaze_pending = false
+note_count = 1.0
+display_avatar = true
 type = "quote"
 is_blocks_post_format = false
-date = "2020-07-29 23:54:06 GMT"
-summary = "Game jams imply the existence of game jellies, game compotes, and game preserves"
-is_blaze_pending = false
-can_send_in_message = true
 is_blazed = false
+post_url = "https://indirect.io/post/625021389838172161/game-jams-imply-the-existence-of-game-jellies"
+format = "html"
+summary = "Game jams imply the existence of game jellies, game compotes, and game preserves"
+source = "<a href=\"http://twitter.com/wynrush/status/1288622758503514113\">@wynrush</a>"
+can_send_in_message = true
+id_string = "625021389838172161"
+can_blaze = false
+timestamp = 1596066846.0
+should_open_in_legacy = true
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/wynrush/status/1288622758503514113\">@wynrush</a></p>"
-tree_html = ""
+can_reply = false
+id = 6.250213898381722e+17
+slug = "game-jams-imply-the-existence-of-game-jellies"
+reblog_key = "1sfUyoXk"
+can_reblog = false
+blog_name = "indirect"
+date = "2020-07-29 23:54:06 GMT"
+short_url = "https://tmblr.co/ZY3jbyYiXQH_Kq01"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
 name = "indirect"
@@ -45,8 +41,12 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://twitter.com/wynrush/status/1288622758503514113\">@wynrush</a></p>"
 +++

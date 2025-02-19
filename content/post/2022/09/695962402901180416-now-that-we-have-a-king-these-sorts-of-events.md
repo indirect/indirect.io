@@ -6,35 +6,46 @@ slug = "now-that-we-have-a-king-these-sorts-of-events"
 type = "tumblr-photo"
 
 [tumblr]
-note_count = 0.0
-type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.io/post/695962402901180416/now-that-we-have-a-king-these-sorts-of-events"
-format = "html"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-short_url = "https://tmblr.co/ZY3jbyceZXuvyy00"
-summary = "Now that we have a king, these sorts of events will all take much longer, since he can only move along the floor one square at a..."
-id = 6.959624029011804e+17
-slug = "now-that-we-have-a-king-these-sorts-of-events"
-reblog_key = "c2KivSgI"
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-is_blazed = false
-can_blaze = false
-date = "2022-09-21 00:51:08 GMT"
-timestamp = 1663721468.0
-link_url = "http://twitter.com/David_Strathdee/status/1571804677834153986"
-state = "published"
-can_like = false
-interactability_blaze = "everyone"
 can_reply = false
+can_blaze = false
+format = "html"
+image_permalink = "https://indirect.io/image/695962402901180416"
+reblog_key = "c2KivSgI"
+summary = "Now that we have a king, these sorts of events will all take much longer, since he can only move along the floor one square at a..."
+can_like = false
+can_send_in_message = true
 is_blocks_post_format = false
 id_string = "695962402901180416"
+is_blazed = false
+post_url = "https://indirect.io/post/695962402901180416/now-that-we-have-a-king-these-sorts-of-events"
+short_url = "https://tmblr.co/ZY3jbyceZXuvyy00"
+note_count = 0.0
+link_url = "http://twitter.com/David_Strathdee/status/1571804677834153986"
+blog_name = "indirect"
 caption = "<p>Now that we have a king, these sorts of events will all take much longer, since he can only move along the floor one square at a time. #queensfuneral — <a href=\"http://twitter.com/David_Strathdee/status/1571804677834153986\">@David_Strathdee</a></p>"
-image_permalink = "https://indirect.io/image/695962402901180416"
+display_avatar = true
+slug = "now-that-we-have-a-king-these-sorts-of-events"
+date = "2022-09-21 00:51:08 GMT"
 is_blaze_pending = false
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+timestamp = 1663721468.0
+state = "published"
+type = "photo"
+id = 6.959624029011804e+17
+can_reblog = false
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
 content_raw = "<p>Now that we have a king, these sorts of events will all take much longer, since he can only move along the floor one square at a time. #queensfuneral — <a href=\"http://twitter.com/David_Strathdee/status/1571804677834153986\">@David_Strathdee</a></p>"
@@ -43,32 +54,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_full_width = 3000.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
 title_color = "#444444"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_header_image = false
+show_title = true
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_description = true
 title_font = "Gibson"
 title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image_poster = ""
-show_avatar = true
-show_title = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-show_description = true
-show_header_image = false
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
-header_full_width = 3000.0
-header_full_height = 1055.0
 
 [tumblr.trail.post]
 id = "695962402901180416"
@@ -77,9 +88,9 @@ id = "695962402901180416"
 caption = ""
 
 [tumblr.photos.original_size]
+height = 630.0
 url = "/images/3a/3e/cda262e5d11d41b659fe24a3511f.jpg"
 width = 534.0
-height = 630.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3a/3e/cda262e5d11d41b659fe24a3511f.jpg"
@@ -87,9 +98,9 @@ width = 534.0
 height = 630.0
 
 [[tumblr.photos.alt_sizes]]
+height = 590.0
 url = "/images/2b/da/a911b325242043488d33c8472ff4.jpg"
 width = 500.0
-height = 590.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ba/3f/efbe63215899dfb39c616805d32e.jpg"
@@ -114,15 +125,4 @@ height = 75.0
 [tumblr.reblog]
 comment = "<p>Now that we have a king, these sorts of events will all take much longer, since he can only move along the floor one square at a time. #queensfuneral — <a href=\"http://twitter.com/David_Strathdee/status/1571804677834153986\">@David_Strathdee</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

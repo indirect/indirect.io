@@ -6,47 +6,47 @@ slug = "people-are-actually-more-comfortable-dealing-with"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
+is_blazed = false
+format = "markdown"
+note_count = 0.0
 type = "quote"
-is_blaze_pending = false
+state = "published"
 can_blaze = false
-post_url = "https://indirect.io/post/6113644203/people-are-actually-more-comfortable-dealing-with"
-date = "2011-06-02 18:49:31 GMT"
+slug = "people-are-actually-more-comfortable-dealing-with"
+reblog_key = "n9yYs6Zo"
+should_open_in_legacy = true
+can_like = false
+timestamp = 1307040571.0
 is_blocks_post_format = false
 blog_name = "indirect"
-id_string = "6113644203"
-timestamp = 1307040571.0
-state = "published"
-should_open_in_legacy = true
-is_blazed = false
-interactability_blaze = "everyone"
-format = "markdown"
-source = "David Allen, <em>Getting Things Done</em>"
-reblog_key = "n9yYs6Zo"
-note_count = 0.0
-slug = "people-are-actually-more-comfortable-dealing-with"
 summary = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is..."
-can_send_in_message = true
-display_avatar = true
-can_reply = false
+source = "David Allen, <em>Getting Things Done</em>"
 interactability_reblog = "everyone"
-id = 6113644203.0
+interactability_blaze = "everyone"
+display_avatar = true
+id_string = "6113644203"
 short_url = "https://tmblr.co/ZY3jby5iPiwh"
-text = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is not as self-evident."
 can_reblog = false
+can_send_in_message = true
+text = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is not as self-evident."
+date = "2011-06-02 18:49:31 GMT"
+id = 6113644203.0
+is_blaze_pending = false
+post_url = "https://indirect.io/post/6113644203/people-are-actually-more-comfortable-dealing-with"
+can_reply = false
 
 [tumblr.reblog]
-comment = "<p>David Allen, <em>Getting Things Done</em></p>"
 tree_html = ""
+comment = "<p>David Allen, <em>Getting Things Done</em></p>"
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

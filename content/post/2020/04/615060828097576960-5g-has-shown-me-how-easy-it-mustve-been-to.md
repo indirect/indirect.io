@@ -6,47 +6,47 @@ slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-state = "published"
-interactability_reblog = "everyone"
-is_blazed = false
-text = "5G has shown me how easy it must&rsquo;ve been to convert my ancestors to christianity"
-source = "<a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a>"
-can_reply = false
-display_avatar = true
-is_blocks_post_format = false
-summary = "5G has shown me how easy it must’ve been to convert my ancestors to christianity"
-interactability_blaze = "everyone"
-can_send_in_message = true
-type = "quote"
-slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
-reblog_key = "oInTW3zF"
-blog_name = "indirect"
-id = 6.15060828097577e+17
-format = "html"
-can_reblog = false
-id_string = "615060828097576960"
 is_blaze_pending = false
-post_url = "https://indirect.io/post/615060828097576960/5g-has-shown-me-how-easy-it-mustve-been-to"
-timestamp = 1586567714.0
-short_url = "https://tmblr.co/ZY3jbyY98f1_0u00"
+can_blaze = false
 date = "2020-04-11 01:15:14 GMT"
-should_open_in_legacy = true
+summary = "5G has shown me how easy it must’ve been to convert my ancestors to christianity"
+text = "5G has shown me how easy it must&rsquo;ve been to convert my ancestors to christianity"
+id_string = "615060828097576960"
+timestamp = 1586567714.0
+reblog_key = "oInTW3zF"
+state = "published"
+source = "<a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a>"
+display_avatar = true
+type = "quote"
+is_blocks_post_format = false
+can_reblog = false
+interactability_reblog = "everyone"
+can_reply = false
+is_blazed = false
+interactability_blaze = "everyone"
+blog_name = "indirect"
+slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
+short_url = "https://tmblr.co/ZY3jbyY98f1_0u00"
 note_count = 0.0
 can_like = false
+can_send_in_message = true
+id = 6.15060828097577e+17
+post_url = "https://indirect.io/post/615060828097576960/5g-has-shown-me-how-easy-it-mustve-been-to"
+format = "html"
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

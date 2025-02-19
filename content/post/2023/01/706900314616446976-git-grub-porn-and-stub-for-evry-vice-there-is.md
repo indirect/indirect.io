@@ -6,34 +6,34 @@ slug = "git-grub-porn-and-stub-for-evry-vice-there-is"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
+type = "quote"
+can_blaze = false
+date = "2023-01-19 18:24:34 GMT"
 interactability_blaze = "everyone"
-id_string = "706900314616446976"
+can_reply = false
 reblog_key = "asIsJF06"
-can_reblog = false
-text = "Git, grub, porn, and stub<br/>For ev'ry vice there is a hub"
-can_like = false
+summary = "Git, grub, porn, and stub For ev'ry vice there is a hub"
+note_count = 0.0
 interactability_reblog = "everyone"
-is_blazed = false
-slug = "git-grub-porn-and-stub-for-evry-vice-there-is"
-should_open_in_legacy = true
 timestamp = 1674152674.0
 state = "published"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbydFQXT0Kq00"
-can_send_in_message = true
-date = "2023-01-19 18:24:34 GMT"
-display_avatar = true
 is_blocks_post_format = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/706900314616446976/git-grub-porn-and-stub-for-evry-vice-there-is"
-source = "<a href=\"https://tech.lgbt/@prehensile/109712109805257940\">@prehensile</a>"
-type = "quote"
-id = 7.06900314616447e+17
-can_blaze = false
-summary = "Git, grub, porn, and stub For ev'ry vice there is a hub"
-can_reply = false
 blog_name = "indirect"
+is_blazed = false
+can_reblog = false
+post_url = "https://indirect.io/post/706900314616446976/git-grub-porn-and-stub-for-evry-vice-there-is"
+should_open_in_legacy = true
+id_string = "706900314616446976"
+format = "markdown"
+slug = "git-grub-porn-and-stub-for-evry-vice-there-is"
+can_send_in_message = true
+display_avatar = true
+id = 7.06900314616447e+17
+short_url = "https://tmblr.co/ZY3jbydFQXT0Kq00"
+text = "Git, grub, porn, and stub<br/>For ev'ry vice there is a hub"
+source = "<a href=\"https://tech.lgbt/@prehensile/109712109805257940\">@prehensile</a>"
+is_blaze_pending = false
+can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://tech.lgbt/@prehensile/109712109805257940\">@prehensile</a></p>"
@@ -46,7 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "actually-its-a-bidemic"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2020-03-24 09:55:38 GMT"
+is_blocks_post_format = false
+id_string = "613462822901383168"
 can_reblog = false
+text = "Actually, it&rsquo;s a bidemic"
+can_reply = false
 is_blaze_pending = false
+can_blaze = false
+reblog_key = "mrR4zKgU"
 should_open_in_legacy = true
 note_count = 0.0
-source = "<a href=\"http://twitter.com/eevee/status/1242312737243287552\">@eevee</a>"
-can_send_in_message = true
-can_reply = false
+is_blazed = false
+slug = "actually-its-a-bidemic"
+state = "published"
+interactability_blaze = "everyone"
 display_avatar = true
 interactability_reblog = "everyone"
-blog_name = "indirect"
-id = 6.134628229013832e+17
-id_string = "613462822901383168"
-post_url = "https://indirect.io/post/613462822901383168/actually-its-a-bidemic"
-summary = "Actually, it’s a bidemic"
+source = "<a href=\"http://twitter.com/eevee/status/1242312737243287552\">@eevee</a>"
 type = "quote"
-is_blazed = false
+blog_name = "indirect"
+post_url = "https://indirect.io/post/613462822901383168/actually-its-a-bidemic"
 timestamp = 1585043738.0
-state = "published"
-format = "html"
-reblog_key = "mrR4zKgU"
 short_url = "https://tmblr.co/ZY3jbyY3TI-fyW00"
-slug = "actually-its-a-bidemic"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-text = "Actually, it&rsquo;s a bidemic"
 can_like = false
-can_blaze = false
+id = 6.134628229013832e+17
+date = "2020-03-24 09:55:38 GMT"
+format = "html"
+summary = "Actually, it’s a bidemic"
+can_send_in_message = true
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/eevee/status/1242312737243287552\">@eevee</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

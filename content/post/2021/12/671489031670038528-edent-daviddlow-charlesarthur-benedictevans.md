@@ -6,42 +6,42 @@ slug = "edent-daviddlow-charlesarthur-benedictevans"
 type = "tumblr-text"
 
 [tumblr]
-blog_name = "indirect"
-date = "2021-12-24 21:37:23 GMT"
-format = "html"
-reblog_key = "SHSTFyFE"
 short_url = "https://tmblr.co/ZY3jbybHcxTpGu00"
-summary = "@edent: @daviddlow @charlesarthur @benedictevans I've droned on endlessly about how you can't expect normal people to use the..."
-should_open_in_legacy = false
-display_avatar = true
-state = "published"
-type = "text"
-id = 6.714890316700385e+17
-timestamp = 1640381843.0
-id_string = "671489031670038528"
-can_like = false
-interactability_reblog = "everyone"
-can_blaze = false
-post_url = "https://indirect.io/post/671489031670038528/edent-daviddlow-charlesarthur-benedictevans"
-note_count = 0.0
 can_send_in_message = true
-can_reply = false
-is_blaze_pending = false
-slug = "edent-daviddlow-charlesarthur-benedictevans"
-body = "<blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I&rsquo;ve droned on endlessly about how you can&rsquo;t expect normal people to use the command line. That&rsquo;s what Alexa is. If you don&rsquo;t say the *precise* invocation correctly, you get an error.\n<br/>And because there&rsquo;s no display, you have to remember dozens of different commands. It&rsquo;s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don&rsquo;t seem to stick for most people is that they&rsquo;re actually command line interfaces, but even less discoverable because they don&rsquo;t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a>"
+display_avatar = true
 is_blocks_post_format = false
 is_blazed = false
+summary = "@edent: @daviddlow @charlesarthur @benedictevans I've droned on endlessly about how you can't expect normal people to use the..."
+post_url = "https://indirect.io/post/671489031670038528/edent-daviddlow-charlesarthur-benedictevans"
+date = "2021-12-24 21:37:23 GMT"
+body = "<blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I&rsquo;ve droned on endlessly about how you can&rsquo;t expect normal people to use the command line. That&rsquo;s what Alexa is. If you don&rsquo;t say the *precise* invocation correctly, you get an error.\n<br/>And because there&rsquo;s no display, you have to remember dozens of different commands. It&rsquo;s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don&rsquo;t seem to stick for most people is that they&rsquo;re actually command line interfaces, but even less discoverable because they don&rsquo;t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a>"
+id_string = "671489031670038528"
+reblog_key = "SHSTFyFE"
+should_open_in_legacy = false
+blog_name = "indirect"
+is_blaze_pending = false
+can_blaze = false
+state = "published"
+type = "text"
+slug = "edent-daviddlow-charlesarthur-benedictevans"
+timestamp = 1640381843.0
+format = "html"
+note_count = 0.0
+can_reply = false
+id = 6.714890316700385e+17
+can_like = false
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 can_reblog = false
 
 [tumblr.blog]
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -55,6 +55,9 @@ content = "<p><blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403
 is_current_item = true
 is_root_item = true
 
+[tumblr.trail.post]
+id = "671489031670038528"
+
 [tumblr.trail.blog]
 name = "indirect"
 active = true
@@ -63,26 +66,23 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
+body_font = "Helvetica Neue"
+header_stretch = true
+link_color = "#529ECC"
 show_title = true
-title_color = "#444444"
+show_avatar = true
+show_header_image = false
+title_font = "Gibson"
 title_font_weight = "bold"
 header_full_width = 3000.0
+header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_image_poster = ""
-header_stretch = true
-header_full_height = 1055.0
-header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-show_description = true
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_avatar = true
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-link_color = "#529ECC"
-
-[tumblr.trail.post]
-id = "671489031670038528"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_bounds = ""
+show_description = true
+title_color = "#444444"
 +++

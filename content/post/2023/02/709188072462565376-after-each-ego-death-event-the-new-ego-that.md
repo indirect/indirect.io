@@ -6,44 +6,44 @@ slug = "after-each-ego-death-event-the-new-ego-that"
 type = "tumblr-quote"
 
 [tumblr]
-text = "after each ego death event, the new ego that arises is less brittle, more resilient.  what will destroy the sixth iteration of a person, the first iteration could not have survived mere contemplation of.  eventually the capacity to let someone be wrong on the internet emerges"
-interactability_reblog = "everyone"
-display_avatar = true
-slug = "after-each-ego-death-event-the-new-ego-that"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbydNYijY4q00"
-id = 7.091880724625654e+17
+can_reply = false
 timestamp = 1676334450.0
+state = "published"
+is_blocks_post_format = false
+slug = "after-each-ego-death-event-the-new-ego-that"
+interactability_blaze = "everyone"
+is_blazed = false
 reblog_key = "k0sX6Ue5"
-summary = "after each ego death event, the new ego that arises is less brittle, more resilient.  what will destroy the sixth iteration of a..."
-can_reblog = false
-can_send_in_message = true
+note_count = 0.0
+text = "after each ego death event, the new ego that arises is less brittle, more resilient.  what will destroy the sixth iteration of a person, the first iteration could not have survived mere contemplation of.  eventually the capacity to let someone be wrong on the internet emerges"
 blog_name = "indirect"
-format = "html"
+id = 7.091880724625654e+17
+source = "<a href=\"http://twitter.com/chaosprime/status/987913353405370368\">@chaosprime</a>"
+date = "2023-02-14 00:27:30 GMT"
+can_like = false
+interactability_reblog = "everyone"
+can_send_in_message = true
+type = "quote"
 id_string = "709188072462565376"
 is_blaze_pending = false
-date = "2023-02-14 00:27:30 GMT"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-source = "<a href=\"http://twitter.com/chaosprime/status/987913353405370368\">@chaosprime</a>"
-can_like = false
-can_reply = false
-type = "quote"
-can_blaze = false
-post_url = "https://indirect.io/post/709188072462565376/after-each-ego-death-event-the-new-ego-that"
-is_blazed = false
 should_open_in_legacy = true
-note_count = 0.0
+post_url = "https://indirect.io/post/709188072462565376/after-each-ego-death-event-the-new-ego-that"
+display_avatar = true
+can_blaze = false
+can_reblog = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbydNYijY4q00"
+summary = "after each ego death event, the new ego that arises is less brittle, more resilient.  what will destroy the sixth iteration of a..."
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/chaosprime/status/987913353405370368\">@chaosprime</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"

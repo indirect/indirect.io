@@ -6,47 +6,47 @@ slug = "if-someone-says-i-dont-understand-but-doesnt"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "86849711778"
-state = "published"
-note_count = 2.0
-interactability_reblog = "everyone"
+id = 86849711778.0
+post_url = "https://indirect.io/post/86849711778/if-someone-says-i-dont-understand-but-doesnt"
+format = "html"
+slug = "if-someone-says-i-dont-understand-but-doesnt"
+reblog_key = "jjNebr8i"
 can_send_in_message = true
 can_reply = false
-post_url = "https://indirect.io/post/86849711778/if-someone-says-i-dont-understand-but-doesnt"
-id = 86849711778.0
-format = "html"
-can_like = false
-can_reblog = false
-slug = "if-someone-says-i-dont-understand-but-doesnt"
-source = "<a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a>"
 type = "quote"
-blog_name = "indirect"
+is_blocks_post_format = false
 is_blaze_pending = false
-can_blaze = false
-interactability_blaze = "everyone"
-display_avatar = true
-summary = "If someone says “I don’t understand” but doesn’t shut up and listen to your explanation, it’s a troll. #MajorityOppression..."
-should_open_in_legacy = true
-text = "If someone says &ldquo;I don&rsquo;t understand&rdquo; but doesn&rsquo;t shut up and listen to your explanation, it&rsquo;s a troll. #MajorityOppression #WisCon #wc38"
-is_blazed = false
-date = "2014-05-26 01:24:13 GMT"
-timestamp = 1401067453.0
-reblog_key = "jjNebr8i"
+source = "<a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a>"
 short_url = "https://tmblr.co/ZY3jby1GufMwY"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a></p>"
-tree_html = ""
+can_reblog = false
+display_avatar = true
+can_like = false
+interactability_reblog = "everyone"
+state = "published"
+is_blazed = false
+interactability_blaze = "everyone"
+blog_name = "indirect"
+timestamp = 1401067453.0
+summary = "If someone says “I don’t understand” but doesn’t shut up and listen to your explanation, it’s a troll. #MajorityOppression..."
+text = "If someone says &ldquo;I don&rsquo;t understand&rdquo; but doesn&rsquo;t shut up and listen to your explanation, it&rsquo;s a troll. #MajorityOppression #WisCon #wc38"
+id_string = "86849711778"
+date = "2014-05-26 01:24:13 GMT"
+note_count = 2.0
+can_blaze = false
+should_open_in_legacy = true
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a></p>"
+tree_html = ""
 +++

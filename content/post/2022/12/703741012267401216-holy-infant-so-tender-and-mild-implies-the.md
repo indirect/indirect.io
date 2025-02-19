@@ -6,47 +6,47 @@ slug = "holy-infant-so-tender-and-mild-implies-the"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyd4CBZQ4e00"
-summary = "holy infant so tender and mild implies the existence of a cursed infant so chewy and spicy"
-can_send_in_message = true
-timestamp = 1671139728.0
-state = "published"
-format = "html"
-reblog_key = "ab6QeAF4"
-id_string = "703741012267401216"
-can_blaze = false
-post_url = "https://indirect.io/post/703741012267401216/holy-infant-so-tender-and-mild-implies-the"
-slug = "holy-infant-so-tender-and-mild-implies-the"
-note_count = 0.0
-interactability_reblog = "everyone"
 is_blocks_post_format = false
+can_blaze = false
+slug = "holy-infant-so-tender-and-mild-implies-the"
+timestamp = 1671139728.0
+source = "<a href=\"http://twitter.com/DarkLiterata/status/1602720127077728264\">@DarkLiterata</a>"
+id = 7.037410122674012e+17
+reblog_key = "ab6QeAF4"
 text = "holy infant so tender and mild implies the existence of a cursed infant so chewy and spicy"
+date = "2022-12-15 21:28:48 GMT"
 can_like = false
 can_reblog = false
-can_reply = false
-display_avatar = true
 type = "quote"
-id = 7.037410122674012e+17
-should_open_in_legacy = true
-is_blaze_pending = false
 is_blazed = false
-source = "<a href=\"http://twitter.com/DarkLiterata/status/1602720127077728264\">@DarkLiterata</a>"
-interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/703741012267401216/holy-infant-so-tender-and-mild-implies-the"
+format = "html"
+display_avatar = true
+is_blaze_pending = false
+should_open_in_legacy = true
+can_reply = false
+id_string = "703741012267401216"
+summary = "holy infant so tender and mild implies the existence of a cursed infant so chewy and spicy"
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbyd4CBZQ4e00"
+note_count = 0.0
 blog_name = "indirect"
-date = "2022-12-15 21:28:48 GMT"
+state = "published"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/DarkLiterata/status/1602720127077728264\">@DarkLiterata</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/DarkLiterata/status/1602720127077728264\">@DarkLiterata</a></p>"
 +++

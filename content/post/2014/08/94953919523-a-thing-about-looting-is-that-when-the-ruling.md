@@ -6,47 +6,47 @@ slug = "a-thing-about-looting-is-that-when-the-ruling"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blocks_post_format = false
 slug = "a-thing-about-looting-is-that-when-the-ruling"
-short_url = "https://tmblr.co/ZY3jby1ORiTGZ"
+can_like = false
+is_blaze_pending = false
+format = "html"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 can_reply = false
-id_string = "94953919523"
-reblog_key = "RETFh5LJ"
-note_count = 0.0
-display_avatar = true
-can_blaze = false
 date = "2014-08-17 00:43:52 GMT"
-id = 94953919523.0
-is_blaze_pending = false
-post_url = "https://indirect.io/post/94953919523/a-thing-about-looting-is-that-when-the-ruling"
-text = "a thing about &ldquo;looting&rdquo; is that when the ruling class make it clear that private property is worth more than your life you might get pissed"
-can_reblog = false
-can_like = false
-interactability_reblog = "everyone"
-is_blazed = false
-timestamp = 1408236232.0
-format = "html"
-summary = "a thing about “looting” is that when the ruling class make it clear that private property is worth more than your life you might..."
-can_send_in_message = true
-blog_name = "indirect"
-should_open_in_legacy = true
 state = "published"
+reblog_key = "RETFh5LJ"
+can_reblog = false
+blog_name = "indirect"
+id_string = "94953919523"
+post_url = "https://indirect.io/post/94953919523/a-thing-about-looting-is-that-when-the-ruling"
+timestamp = 1408236232.0
 source = "<a href=\"http://twitter.com/pareene/status/500536247631482880\">@pareene</a>"
+display_avatar = true
+id = 94953919523.0
+short_url = "https://tmblr.co/ZY3jby1ORiTGZ"
+can_blaze = false
+type = "quote"
+is_blocks_post_format = false
+should_open_in_legacy = true
+text = "a thing about &ldquo;looting&rdquo; is that when the ruling class make it clear that private property is worth more than your life you might get pissed"
+is_blazed = false
+summary = "a thing about “looting” is that when the ruling class make it clear that private property is worth more than your life you might..."
+note_count = 0.0
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/pareene/status/500536247631482880\">@pareene</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

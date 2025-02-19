@@ -6,47 +6,47 @@ slug = "in-england-they-call-it-crisptune"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "in-england-they-call-it-crisptune"
-state = "published"
-summary = "in england they call it “crisptune”"
-can_blaze = false
-reblog_key = "AUW6awrP"
-short_url = "https://tmblr.co/ZY3jbybDrdtGem01"
-note_count = 0.0
-id_string = "670427755407671297"
-source = "<a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a>"
-interactability_blaze = "everyone"
-can_reblog = false
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/670427755407671297/in-england-they-call-it-crisptune"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-type = "quote"
-date = "2021-12-13 04:28:51 GMT"
-timestamp = 1639369731.0
-text = "in england they call it &ldquo;crisptune&rdquo;"
-can_send_in_message = true
-display_avatar = true
-blog_name = "indirect"
 can_like = false
-id = 6.704277554076713e+17
-is_blazed = false
-format = "html"
-can_reply = false
+date = "2021-12-13 04:28:51 GMT"
+type = "quote"
+is_blocks_post_format = false
+reblog_key = "AUW6awrP"
+display_avatar = true
+post_url = "https://indirect.io/post/670427755407671297/in-england-they-call-it-crisptune"
 is_blaze_pending = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a></p>"
-tree_html = ""
+can_blaze = false
+format = "html"
+summary = "in england they call it “crisptune”"
+interactability_reblog = "everyone"
+can_send_in_message = true
+source = "<a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a>"
+slug = "in-england-they-call-it-crisptune"
+id = 6.704277554076713e+17
+short_url = "https://tmblr.co/ZY3jbybDrdtGem01"
+should_open_in_legacy = true
+can_reply = false
+id_string = "670427755407671297"
+state = "published"
+note_count = 0.0
+text = "in england they call it &ldquo;crisptune&rdquo;"
+timestamp = 1639369731.0
+blog_name = "indirect"
+is_blazed = false
+can_reblog = false
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-updated = 1739927643.0
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a></p>"
+tree_html = ""
 +++

@@ -6,43 +6,43 @@ slug = "inventing-mario-you-know-what-kids-love-sewage"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "3MLkzotb"
-should_open_in_legacy = true
-note_count = 0.0
-text = "(Inventing Mario) you know what kids love?? sewage"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-post_url = "https://indirect.io/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage"
-slug = "inventing-mario-you-know-what-kids-love-sewage"
-can_like = false
-can_reblog = false
-can_send_in_message = true
-timestamp = 1674595078.0
-state = "published"
-can_blaze = false
-type = "quote"
-id_string = "707364209265164288"
-source = "<a href=\"https://mstdn.social/@lolennui/109740135334524526\">@lolennui</a>"
-can_reply = false
 blog_name = "indirect"
-id = 7.073642092651643e+17
 short_url = "https://tmblr.co/ZY3jbydH400a4q00"
-summary = "(Inventing Mario) you know what kids love?? sewage"
-display_avatar = true
+can_like = false
+type = "quote"
 is_blocks_post_format = false
-format = "markdown"
+source = "<a href=\"https://mstdn.social/@lolennui/109740135334524526\">@lolennui</a>"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+text = "(Inventing Mario) you know what kids love?? sewage"
 is_blazed = false
+slug = "inventing-mario-you-know-what-kids-love-sewage"
+can_blaze = false
+post_url = "https://indirect.io/post/707364209265164288/inventing-mario-you-know-what-kids-love-sewage"
+reblog_key = "3MLkzotb"
+display_avatar = true
 date = "2023-01-24 21:17:58 GMT"
+timestamp = 1674595078.0
+should_open_in_legacy = true
+can_reblog = false
+note_count = 0.0
+id = 7.073642092651643e+17
+is_blaze_pending = false
+format = "markdown"
+summary = "(Inventing Mario) you know what kids love?? sewage"
+can_send_in_message = true
+can_reply = false
+id_string = "707364209265164288"
+state = "published"
 
 [tumblr.blog]
-title = "indirect"
-description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
+title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 

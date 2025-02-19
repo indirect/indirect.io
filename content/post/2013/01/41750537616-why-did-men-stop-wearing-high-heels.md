@@ -7,45 +7,45 @@ title = "Why did men stop wearing high heels?"
 type = "tumblr-link"
 
 [tumblr]
-id = 41750537616.0
-date = "2013-01-29 02:10:41 GMT"
-should_open_in_legacy = true
-can_send_in_message = true
-is_blocks_post_format = false
-note_count = 0.0
-title = "Why did men stop wearing high heels?"
-url = "http://m.bbc.co.uk/news/magazine-21151350"
-description = ""
-can_like = false
-type = "link"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-reblog_key = "mu9Bbspz"
-publisher = "m.bbc.co.uk"
-display_avatar = true
 is_blaze_pending = false
 post_url = "https://indirect.io/post/41750537616/why-did-men-stop-wearing-high-heels"
 slug = "why-did-men-stop-wearing-high-heels"
-id_string = "41750537616"
+can_like = false
 is_blazed = false
-can_blaze = false
-can_reply = false
-format = "markdown"
+title = "Why did men stop wearing high heels?"
 can_reblog = false
-blog_name = "indirect"
-timestamp = 1359425441.0
+display_avatar = true
+url = "http://m.bbc.co.uk/news/magazine-21151350"
+id_string = "41750537616"
+format = "markdown"
+type = "link"
+is_blocks_post_format = false
+id = 41750537616.0
+can_blaze = false
+interactability_reblog = "everyone"
+date = "2013-01-29 02:10:41 GMT"
 state = "published"
 short_url = "https://tmblr.co/ZY3jbycuXgMG"
+interactability_blaze = "everyone"
+can_reply = false
+should_open_in_legacy = true
+publisher = "m.bbc.co.uk"
+timestamp = 1359425441.0
+reblog_key = "mu9Bbspz"
+note_count = 0.0
+description = ""
+can_send_in_message = true
 summary = "Why did men stop wearing high heels?"
+blog_name = "indirect"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

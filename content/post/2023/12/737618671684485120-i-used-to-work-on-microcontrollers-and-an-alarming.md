@@ -6,47 +6,47 @@ slug = "i-used-to-work-on-microcontrollers-and-an-alarming"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "i-used-to-work-on-microcontrollers-and-an-alarming"
-date = "2023-12-24 19:59:42 GMT"
-source = "<a href=\"https://tech.lgbt/@sjolsen/111633941190530278\">@sjolsen</a>"
-can_send_in_message = true
-id = 7.376186716844851e+17
-summary = "I used to work on microcontrollers and an alarming number of questions of the form “why is our codebase like this” have an..."
-should_open_in_legacy = true
-display_avatar = true
 blog_name = "indirect"
-post_url = "https://indirect.io/post/737618671684485120/i-used-to-work-on-microcontrollers-and-an-alarming"
+id = 7.376186716844851e+17
+id_string = "737618671684485120"
+slug = "i-used-to-work-on-microcontrollers-and-an-alarming"
+format = "markdown"
+reblog_key = "CXGTN2YJ"
 note_count = 5.0
-is_blocks_post_format = false
+source = "<a href=\"https://tech.lgbt/@sjolsen/111633941190530278\">@sjolsen</a>"
+is_blazed = false
+display_avatar = true
+can_send_in_message = true
+can_blaze = false
+post_url = "https://indirect.io/post/737618671684485120/i-used-to-work-on-microcontrollers-and-an-alarming"
+date = "2023-12-24 19:59:42 GMT"
+state = "published"
+text = "I used to work on microcontrollers and an alarming number of questions of the form &ldquo;why is our codebase like this&rdquo; have an answer that begins &ldquo;okay so in 1981 IBM released the first personal computer&hellip;&rdquo;"
 is_blaze_pending = false
 interactability_blaze = "everyone"
-can_reply = false
-reblog_key = "CXGTN2YJ"
+is_blocks_post_format = false
 short_url = "https://tmblr.co/ZY3jbyeyZ4OPSm00"
-text = "I used to work on microcontrollers and an alarming number of questions of the form &ldquo;why is our codebase like this&rdquo; have an answer that begins &ldquo;okay so in 1981 IBM released the first personal computer&hellip;&rdquo;"
+should_open_in_legacy = true
 interactability_reblog = "everyone"
-can_blaze = false
+summary = "I used to work on microcontrollers and an alarming number of questions of the form “why is our codebase like this” have an..."
 can_like = false
+can_reply = false
 type = "quote"
-state = "published"
-can_reblog = false
 timestamp = 1703447982.0
-format = "markdown"
-id_string = "737618671684485120"
-is_blazed = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://tech.lgbt/@sjolsen/111633941190530278\">@sjolsen</a></p>"
-tree_html = ""
+can_reblog = false
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://tech.lgbt/@sjolsen/111633941190530278\">@sjolsen</a></p>"
 +++

@@ -6,38 +6,34 @@ slug = "npm-nodejs-problem-there-are-no-docs"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "npm-nodejs-problem-there-are-no-docs"
-timestamp = 1393315417.0
 should_open_in_legacy = true
-can_reply = false
+interactability_reblog = "everyone"
+is_blazed = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby18SgOX-"
+text = "npm (Node.js). Problem: there are no docs"
+interactability_blaze = "everyone"
 is_blocks_post_format = false
-date = "2014-02-25 08:03:37 GMT"
+timestamp = 1393315417.0
+note_count = 0.0
+is_blaze_pending = false
+format = "markdown"
 source = ""
 can_reblog = false
-state = "published"
-type = "quote"
-is_blazed = false
-is_blaze_pending = false
-can_send_in_message = true
 blog_name = "indirect"
-post_url = "https://indirect.io/post/77790283903/npm-nodejs-problem-there-are-no-docs"
-format = "markdown"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-display_avatar = true
-can_blaze = false
-reblog_key = "sq54X1C4"
-note_count = 0.0
 id = 77790283903.0
-short_url = "https://tmblr.co/ZY3jby18SgOX-"
-can_like = false
 id_string = "77790283903"
+state = "published"
+can_send_in_message = true
 summary = "npm (Node.js). Problem: there are no docs"
-text = "npm (Node.js). Problem: there are no docs"
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
+can_reply = false
+display_avatar = true
+date = "2014-02-25 08:03:37 GMT"
+reblog_key = "sq54X1C4"
+can_like = false
+type = "quote"
+post_url = "https://indirect.io/post/77790283903/npm-nodejs-problem-there-are-no-docs"
+slug = "npm-nodejs-problem-there-are-no-docs"
 
 [tumblr.blog]
 can_show_badges = false
@@ -46,7 +42,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

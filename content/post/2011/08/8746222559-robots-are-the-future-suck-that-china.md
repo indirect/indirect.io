@@ -6,37 +6,41 @@ slug = "robots-are-the-future-suck-that-china"
 type = "tumblr-quote"
 
 [tumblr]
+source_title = "dilbert.com"
+interactability_blaze = "everyone"
+state = "published"
+is_blazed = false
+date = "2011-08-10 20:40:41 GMT"
+display_avatar = true
+can_blaze = false
 format = "markdown"
 summary = "Robots are the future. Suck that, China."
-text = "Robots are the future. Suck that, China."
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blazed = false
-bookmarklet = true
-interactability_blaze = "everyone"
-can_reblog = false
 should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-id = 8746222559.0
-timestamp = 1313008841.0
-display_avatar = true
-is_blaze_pending = false
-source_url = "http://dilbert.com/blog/entry/folksy_economic_wisdom/"
-can_reply = false
+bookmarklet = true
 source = "<a href=\"http://dilbert.com/blog/entry/folksy_economic_wisdom/\">Folksy Economic Wisdom</a>"
-type = "quote"
-post_url = "https://indirect.io/post/8746222559/robots-are-the-future-suck-that-china"
-short_url = "https://tmblr.co/ZY3jby89KCFV"
 can_send_in_message = true
+type = "quote"
+timestamp = 1313008841.0
+note_count = 0.0
+can_reblog = false
+is_blocks_post_format = false
+id = 8746222559.0
+text = "Robots are the future. Suck that, China."
+can_reply = false
 id_string = "8746222559"
-can_blaze = false
 slug = "robots-are-the-future-suck-that-china"
-state = "published"
-source_title = "dilbert.com"
+short_url = "https://tmblr.co/ZY3jby89KCFV"
+post_url = "https://indirect.io/post/8746222559/robots-are-the-future-suck-that-china"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+is_blaze_pending = false
 can_like = false
-date = "2011-08-10 20:40:41 GMT"
 reblog_key = "3e9VdSGV"
+source_url = "http://dilbert.com/blog/entry/folksy_economic_wisdom/"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://dilbert.com/blog/entry/folksy_economic_wisdom/\">Folksy Economic Wisdom</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = false
@@ -45,11 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://dilbert.com/blog/entry/folksy_economic_wisdom/\">Folksy Economic Wisdom</a></p>"
-tree_html = ""
 +++

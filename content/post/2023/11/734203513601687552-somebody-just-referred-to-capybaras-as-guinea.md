@@ -6,47 +6,47 @@ slug = "somebody-just-referred-to-capybaras-as-guinea"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
-date = "2023-11-17 03:17:13 GMT"
-reblog_key = "7aYE9Xfe"
-blog_name = "indirect"
-id = 7.342035136016876e+17
-id_string = "734203513601687552"
-is_blaze_pending = false
-timestamp = 1700191033.0
-is_blocks_post_format = false
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyemQZIb4e00"
-summary = "Somebody just referred to capybaras as “guinea bigs” and I don’t know what to do with this information."
 note_count = 0.0
-source = "<a href=\"https://meow.social/@the_gneech/111403586395476354\">@the_gneech</a>"
-interactability_blaze = "everyone"
-can_send_in_message = true
-post_url = "https://indirect.io/post/734203513601687552/somebody-just-referred-to-capybaras-as-guinea"
-format = "markdown"
-can_reblog = false
+timestamp = 1700191033.0
 type = "quote"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
+is_blocks_post_format = false
+id_string = "734203513601687552"
+post_url = "https://indirect.io/post/734203513601687552/somebody-just-referred-to-capybaras-as-guinea"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+can_reblog = false
+can_send_in_message = true
+is_blazed = false
+is_blaze_pending = false
+can_like = false
 can_blaze = false
 state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyemQZIb4e00"
+summary = "Somebody just referred to capybaras as “guinea bigs” and I don’t know what to do with this information."
 text = "Somebody just referred to capybaras as &ldquo;guinea bigs&rdquo; and I don&rsquo;t know what to do with this information."
-can_like = false
+source = "<a href=\"https://meow.social/@the_gneech/111403586395476354\">@the_gneech</a>"
 can_reply = false
+date = "2023-11-17 03:17:13 GMT"
+id = 7.342035136016876e+17
+reblog_key = "7aYE9Xfe"
+interactability_reblog = "everyone"
+display_avatar = true
 slug = "somebody-just-referred-to-capybaras-as-guinea"
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://meow.social/@the_gneech/111403586395476354\">@the_gneech</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

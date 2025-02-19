@@ -7,35 +7,35 @@ title = "Our Favorite Cliche - A World Filled With Idiots"
 type = "tumblr-link"
 
 [tumblr]
-post_url = "https://indirect.io/post/69603848453/our-favorite-cliche-a-world-filled-with-idiots"
-can_blaze = false
-date = "2013-12-10 18:07:19 GMT"
-format = "markdown"
 publisher = "davidbrin.com"
-can_reply = false
-display_avatar = true
-is_blocks_post_format = false
-slug = "our-favorite-cliche-a-world-filled-with-idiots"
-reblog_key = "IyITAAQQ"
-summary = "Our Favorite Cliche - A World Filled With Idiots"
-note_count = 0.0
-id = 69603848453.0
-id_string = "69603848453"
-description = ""
-blog_name = "indirect"
-state = "published"
+can_like = false
+can_reblog = false
+is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jby10qjd45"
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-can_send_in_message = true
-should_open_in_legacy = true
-url = "http://www.davidbrin.com/idiotplot.html"
-can_like = false
-is_blazed = false
-is_blaze_pending = false
-timestamp = 1386698839.0
+can_reply = false
+id = 69603848453.0
+post_url = "https://indirect.io/post/69603848453/our-favorite-cliche-a-world-filled-with-idiots"
+slug = "our-favorite-cliche-a-world-filled-with-idiots"
+format = "markdown"
+summary = "Our Favorite Cliche - A World Filled With Idiots"
+note_count = 0.0
 title = "Our Favorite Cliche - A World Filled With Idiots"
-can_reblog = false
+blog_name = "indirect"
+id_string = "69603848453"
+can_blaze = false
+should_open_in_legacy = true
+display_avatar = true
+is_blocks_post_format = false
+date = "2013-12-10 18:07:19 GMT"
+reblog_key = "IyITAAQQ"
+url = "http://www.davidbrin.com/idiotplot.html"
+description = ""
+can_send_in_message = true
+is_blazed = false
+timestamp = 1386698839.0
+state = "published"
 type = "link"
 
 [tumblr.reblog]
@@ -43,13 +43,13 @@ comment = ""
 tree_html = ""
 
 [tumblr.blog]
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

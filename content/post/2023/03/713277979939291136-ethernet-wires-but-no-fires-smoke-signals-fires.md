@@ -6,42 +6,38 @@ slug = "ethernet-wires-but-no-fires-smoke-signals-fires"
 type = "tumblr-quote"
 
 [tumblr]
+slug = "ethernet-wires-but-no-fires-smoke-signals-fires"
 type = "quote"
-is_blaze_pending = false
-format = "markdown"
-is_blocks_post_format = false
 date = "2023-03-31 03:54:49 GMT"
-reblog_key = "sGXV1S4U"
-can_like = false
-can_reblog = false
-can_send_in_message = true
-can_reply = false
-post_url = "https://indirect.io/post/713277979939291136/ethernet-wires-but-no-fires-smoke-signals-fires"
-id_string = "713277979939291136"
+note_count = 0.0
+blog_name = "indirect"
 state = "published"
 short_url = "https://tmblr.co/ZY3jbydc4eiiOy00"
-display_avatar = true
-summary = "Ethernet: wires but no fires Smoke signals: fires but no wires IEEE-1394: fire and wires WiFi: neither wires nor fires"
 interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-timestamp = 1680234889.0
+can_reply = false
+can_like = false
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/713277979939291136/ethernet-wires-but-no-fires-smoke-signals-fires"
+reblog_key = "sGXV1S4U"
+summary = "Ethernet: wires but no fires Smoke signals: fires but no wires IEEE-1394: fire and wires WiFi: neither wires nor fires"
 should_open_in_legacy = true
-text = "Ethernet: wires but no fires<br/>Smoke signals: fires but no wires<br/>IEEE-1394: fire and wires<br/>WiFi: neither wires nor fires"
-slug = "ethernet-wires-but-no-fires-smoke-signals-fires"
-note_count = 0.0
-source = "<a href=\"https://hackers.town/@cinebox/110104660279925761\">@cinebox</a>"
 interactability_blaze = "everyone"
+id_string = "713277979939291136"
+timestamp = 1680234889.0
+format = "markdown"
+can_reblog = false
+is_blazed = false
+is_blaze_pending = false
+source = "<a href=\"https://hackers.town/@cinebox/110104660279925761\">@cinebox</a>"
+text = "Ethernet: wires but no fires<br/>Smoke signals: fires but no wires<br/>IEEE-1394: fire and wires<br/>WiFi: neither wires nor fires"
 id = 7.132779799392911e+17
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://hackers.town/@cinebox/110104660279925761\">@cinebox</a></p>"
-tree_html = ""
+can_blaze = false
+can_send_in_message = true
+display_avatar = true
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
@@ -49,4 +45,8 @@ description = ""
 url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://hackers.town/@cinebox/110104660279925761\">@cinebox</a></p>"
+tree_html = ""
 +++

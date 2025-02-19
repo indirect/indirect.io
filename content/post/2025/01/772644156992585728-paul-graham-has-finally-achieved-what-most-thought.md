@@ -6,47 +6,47 @@ slug = "paul-graham-has-finally-achieved-what-most-thought"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "QdgUllIt"
-text = "paul graham has finally achieved what most thought impossible: he&rsquo;s written a post so bad that the hacker news comments are actually better than it"
-interactability_blaze = "everyone"
-date = "2025-01-14 10:34:48 GMT"
-state = "published"
-type = "quote"
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jbygu_yHZKm00"
+is_blazed = false
+timestamp = 1736850888.0
 is_blaze_pending = false
-format = "markdown"
+display_avatar = true
+should_open_in_legacy = true
 interactability_reblog = "everyone"
+can_reblog = false
+note_count = 0.0
+can_blaze = false
+slug = "paul-graham-has-finally-achieved-what-most-thought"
+format = "markdown"
+reblog_key = "QdgUllIt"
+blog_name = "indirect"
+id = 7.726441569925857e+17
+text = "paul graham has finally achieved what most thought impossible: he&rsquo;s written a post so bad that the hacker news comments are actually better than it"
+can_like = false
+date = "2025-01-14 10:34:48 GMT"
+type = "quote"
+id_string = "772644156992585728"
+post_url = "https://indirect.io/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought"
+summary = "paul graham has finally achieved what most thought impossible: he’s written a post so bad that the hacker news comments are..."
+source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a>"
+state = "published"
+interactability_blaze = "everyone"
 can_send_in_message = true
 can_reply = false
-slug = "paul-graham-has-finally-achieved-what-most-thought"
-timestamp = 1736850888.0
-short_url = "https://tmblr.co/ZY3jbygu_yHZKm00"
-can_reblog = false
-display_avatar = true
-summary = "paul graham has finally achieved what most thought impossible: he’s written a post so bad that the hacker news comments are..."
-note_count = 0.0
-is_blocks_post_format = false
-should_open_in_legacy = true
-can_like = false
-blog_name = "indirect"
-id_string = "772644156992585728"
-is_blazed = false
-id = 7.726441569925857e+17
-can_blaze = false
-post_url = "https://indirect.io/post/772644156992585728/paul-graham-has-finally-achieved-what-most-thought"
-source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a>"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a></p>"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/steveklabnik.com/post/3lfnoikjxrc2c\">Steve Klabnik (@steveklabnik.com)</a></p>"
-tree_html = ""
 +++

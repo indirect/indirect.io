@@ -6,35 +6,35 @@ slug = "thegrugq-fixed-it-for-you-iancoldwater"
 type = "tumblr-photo"
 
 [tumblr]
-timestamp = 1642498118.0
-format = "html"
-short_url = "https://tmblr.co/ZY3jbybPVVHW0e00"
-caption = "<p>@thegrugq fixed it for you — <a href=\"http://twitter.com/IanColdwater/status/1483332981012017152\">@IanColdwater</a></p>"
-blog_name = "indirect"
-date = "2022-01-18 09:28:38 GMT"
-reblog_key = "i67EeFeL"
-image_permalink = "https://indirect.io/image/673708107804868608"
-link_url = "http://twitter.com/IanColdwater/status/1483332981012017152"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_blaze = false
-can_reply = false
-id_string = "673708107804868608"
-is_blaze_pending = false
-display_avatar = true
-should_open_in_legacy = true
-note_count = 0.0
-type = "photo"
 is_blocks_post_format = false
-is_blazed = false
-state = "published"
-can_like = false
+blog_name = "indirect"
+is_blaze_pending = false
+interactability_blaze = "everyone"
 can_reblog = false
-summary = "@thegrugq fixed it for you — @IanColdwater"
+can_reply = false
+can_blaze = false
+reblog_key = "i67EeFeL"
+display_avatar = true
+state = "published"
 id = 6.737081078048686e+17
+timestamp = 1642498118.0
+summary = "@thegrugq fixed it for you — @IanColdwater"
+id_string = "673708107804868608"
 post_url = "https://indirect.io/post/673708107804868608/thegrugq-fixed-it-for-you-iancoldwater"
 slug = "thegrugq-fixed-it-for-you-iancoldwater"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/673708107804868608"
+can_like = false
+short_url = "https://tmblr.co/ZY3jbybPVVHW0e00"
+note_count = 0.0
+caption = "<p>@thegrugq fixed it for you — <a href=\"http://twitter.com/IanColdwater/status/1483332981012017152\">@IanColdwater</a></p>"
+type = "photo"
+date = "2022-01-18 09:28:38 GMT"
+format = "html"
+link_url = "http://twitter.com/IanColdwater/status/1483332981012017152"
+can_send_in_message = true
+is_blazed = false
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p>@thegrugq fixed it for you — <a href=\"http://twitter.com/IanColdwater/status/1483332981012017152\">@IanColdwater</a></p>"
@@ -54,37 +54,37 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image_poster = ""
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-show_avatar = true
-title_font_weight = "bold"
-show_description = true
-header_full_width = 3000.0
-header_full_height = 1055.0
-header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-show_title = true
-title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_stretch = true
 link_color = "#529ECC"
+show_avatar = true
+title_font_weight = "bold"
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+background_color = "#FAFAFA"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+header_full_width = 3000.0
+header_bounds = ""
+header_image_poster = ""
+title_color = "#444444"
+title_font = "Gibson"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+show_description = true
+show_title = true
 
 [tumblr.trail.post]
 id = "673708107804868608"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -117,19 +117,19 @@ width = 500.0
 height = 667.0
 
 [[tumblr.photos.alt_sizes]]
-height = 534.0
 url = "/images/d3/41/c6d58a2a52fd71a379549d1b8f92.jpg"
 width = 400.0
+height = 534.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/b2/f8/6f29ce4a5bd818b14e79619967fd.jpg"
 width = 250.0
 height = 333.0
-url = "/images/b2/f8/6f29ce4a5bd818b14e79619967fd.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/df/e8/8d81bdfbd8677dc2415a8e7f3e2d.jpg"
 width = 100.0
 height = 133.0
-url = "/images/df/e8/8d81bdfbd8677dc2415a8e7f3e2d.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cf/e2/e32d9dc0c2f1f438b72b119a5ef0.jpg"

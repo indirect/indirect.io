@@ -6,47 +6,47 @@ slug = "just-occurred-to-me-that-the-magnificence-of-the"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2022-11-07 07:36:08 GMT"
-timestamp = 1667806568.0
-short_url = "https://tmblr.co/ZY3jbyctnVZ-Sa00"
-note_count = 0.0
-can_send_in_message = true
+id = 7.002459403076403e+17
 is_blaze_pending = false
-slug = "just-occurred-to-me-that-the-magnificence-of-the"
 id_string = "700245940307640320"
-can_blaze = false
-post_url = "https://indirect.io/post/700245940307640320/just-occurred-to-me-that-the-magnificence-of-the"
-format = "html"
-reblog_key = "8aIW1z0S"
-interactability_blaze = "everyone"
+is_blazed = false
 source = "<a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a>"
-summary = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life..."
+can_reblog = false
+timestamp = 1667806568.0
 is_blocks_post_format = false
+date = "2022-11-07 07:36:08 GMT"
+state = "published"
+note_count = 0.0
+type = "quote"
+post_url = "https://indirect.io/post/700245940307640320/just-occurred-to-me-that-the-magnificence-of-the"
+slug = "just-occurred-to-me-that-the-magnificence-of-the"
+short_url = "https://tmblr.co/ZY3jbyctnVZ-Sa00"
+should_open_in_legacy = true
 text = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life crisis ever, but narrated from the point of view of the sports car itself"
 display_avatar = true
-state = "published"
-should_open_in_legacy = true
-can_like = false
+can_blaze = false
+reblog_key = "8aIW1z0S"
 interactability_reblog = "everyone"
-can_reblog = false
+interactability_blaze = "everyone"
 can_reply = false
-type = "quote"
+summary = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life..."
+can_send_in_message = true
 blog_name = "indirect"
-id = 7.002459403076403e+17
-is_blazed = false
+format = "html"
+can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

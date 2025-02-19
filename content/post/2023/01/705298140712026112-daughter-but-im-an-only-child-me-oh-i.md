@@ -6,47 +6,47 @@ slug = "daughter-but-im-an-only-child-me-oh-i"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-post_url = "https://indirect.io/post/705298140712026112/daughter-but-im-an-only-child-me-oh-i"
-slug = "daughter-but-im-an-only-child-me-oh-i"
-short_url = "https://tmblr.co/ZY3jbyd9kEmHua00"
+format = "markdown"
 source = "<a href=\"https://universeodon.com/@rebrafsim/109615149144212464\">@rebrafsim</a>"
+can_like = false
+blog_name = "indirect"
+timestamp = 1672624722.0
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-can_reply = false
-display_avatar = true
-is_blazed = false
-can_blaze = false
-can_send_in_message = true
-type = "quote"
-state = "published"
-should_open_in_legacy = true
-blog_name = "indirect"
-id = 7.052981407120261e+17
-is_blaze_pending = false
-reblog_key = "hGkSWFmK"
 can_reblog = false
-date = "2023-01-02 01:58:42 GMT"
-timestamp = 1672624722.0
-summary = "daughter: but I’m an only child\n\n me: oh, I thought you meant in the world"
+type = "quote"
 is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jbyd9kEmHua00"
+summary = "daughter: but I’m an only child\n\n me: oh, I thought you meant in the world"
+can_reply = false
 id_string = "705298140712026112"
-format = "markdown"
+can_blaze = false
+date = "2023-01-02 01:58:42 GMT"
+reblog_key = "hGkSWFmK"
+can_send_in_message = true
+id = 7.052981407120261e+17
+should_open_in_legacy = true
+post_url = "https://indirect.io/post/705298140712026112/daughter-but-im-an-only-child-me-oh-i"
+slug = "daughter-but-im-an-only-child-me-oh-i"
+note_count = 0.0
 text = "<p>daughter: but I’m an only child</p>\n\n<p>me: oh, I thought you meant in the world</p>"
-can_like = false
+is_blaze_pending = false
+is_blazed = false
+state = "published"
+display_avatar = true
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://universeodon.com/@rebrafsim/109615149144212464\">@rebrafsim</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://universeodon.com/@rebrafsim/109615149144212464\">@rebrafsim</a></p>"
-tree_html = ""
 +++

@@ -6,47 +6,47 @@ slug = "i-understand-why-old-people-type-like-this-its"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "i-understand-why-old-people-type-like-this-its"
-date = "2022-06-14 05:04:01 GMT"
-reblog_key = "VcAku1rs"
-short_url = "https://tmblr.co/ZY3jbyc8lpqkSy00"
-source = "<a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a>"
-can_reblog = false
-is_blazed = false
-summary = "i understand why old people type like this…… it’s so addicting…… like a bitch just be trailing off…… ominously…. who knows.."
-blog_name = "indirect"
-id = 6.870092126672486e+17
+should_open_in_legacy = true
 note_count = 1.0
-text = "i understand why old people type like this&hellip;&hellip; it&rsquo;s so addicting&hellip;&hellip; like a bitch just be trailing off&hellip;&hellip; ominously&hellip;. who knows.."
-interactability_reblog = "everyone"
+can_like = false
+interactability_blaze = "everyone"
+can_reblog = false
 can_reply = false
 display_avatar = true
+slug = "i-understand-why-old-people-type-like-this-its"
+reblog_key = "VcAku1rs"
+interactability_reblog = "everyone"
+blog_name = "indirect"
 id_string = "687009212667248640"
+state = "published"
+text = "i understand why old people type like this&hellip;&hellip; it&rsquo;s so addicting&hellip;&hellip; like a bitch just be trailing off&hellip;&hellip; ominously&hellip;. who knows.."
+type = "quote"
+id = 6.870092126672486e+17
+is_blazed = false
 is_blaze_pending = false
 format = "html"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-type = "quote"
+summary = "i understand why old people type like this…… it’s so addicting…… like a bitch just be trailing off…… ominously…. who knows.."
+source = "<a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a>"
 can_blaze = false
-should_open_in_legacy = true
-can_like = false
 post_url = "https://indirect.io/post/687009212667248640/i-understand-why-old-people-type-like-this-its"
-timestamp = 1655183041.0
-state = "published"
+date = "2022-06-14 05:04:01 GMT"
+short_url = "https://tmblr.co/ZY3jbyc8lpqkSy00"
 can_send_in_message = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a></p>"
+is_blocks_post_format = false
+timestamp = 1655183041.0
 
 [tumblr.blog]
-description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a></p>"
+tree_html = ""
 +++

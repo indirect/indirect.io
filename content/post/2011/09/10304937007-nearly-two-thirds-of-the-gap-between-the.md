@@ -6,43 +6,43 @@ slug = "nearly-two-thirds-of-the-gap-between-the"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-date = "2011-09-17 04:42:20 GMT"
-reblog_key = "6AHI6hMs"
-should_open_in_legacy = true
-text = "Nearly two-thirds of the … gap between the likelihood of men or women to enter a competition … disappears when people are offered the chance to compete in two-person teams rather than as individuals."
-can_like = false
-can_reblog = false
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby9cEDml"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id = 10304937007.0
-timestamp = 1316234540.0
-interactability_reblog = "everyone"
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.io/post/10304937007/nearly-two-thirds-of-the-gap-between-the"
-slug = "nearly-two-thirds-of-the-gap-between-the"
 source = "<a href=\"http://www.guardian.co.uk/world/2011/sep/11/women-equality-competition-gender\">Do women compete better in teams?</a>"
-can_send_in_message = true
-type = "quote"
-can_blaze = false
-state = "published"
+can_like = false
+is_blazed = false
+timestamp = 1316234540.0
 summary = "Nearly two-thirds of the … gap between the likelihood of men or women to enter a competition … disappears when people are..."
+interactability_blaze = "everyone"
+slug = "nearly-two-thirds-of-the-gap-between-the"
+note_count = 0.0
+text = "Nearly two-thirds of the … gap between the likelihood of men or women to enter a competition … disappears when people are offered the chance to compete in two-person teams rather than as individuals."
+blog_name = "indirect"
+date = "2011-09-17 04:42:20 GMT"
+should_open_in_legacy = true
+can_reblog = false
+can_reply = false
+can_blaze = false
+can_send_in_message = true
+display_avatar = true
+type = "quote"
+id = 10304937007.0
+state = "published"
 is_blocks_post_format = false
 id_string = "10304937007"
+post_url = "https://indirect.io/post/10304937007/nearly-two-thirds-of-the-gap-between-the"
+short_url = "https://tmblr.co/ZY3jby9cEDml"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 format = "markdown"
-note_count = 0.0
+reblog_key = "6AHI6hMs"
 
 [tumblr.blog]
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

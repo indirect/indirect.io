@@ -6,43 +6,43 @@ slug = "someone-was-talking-about-how-these-two-fantasy"
 type = "tumblr-quote"
 
 [tumblr]
-text = "<p>Someone was talking about how these two fantasy characters were in love with each other and I was like\n<br/></p>\n\n<p><br/>\nNever ship on Fridays</p>"
-source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3l2gkk3h5dv2d\">Steve Klabnik (@steveklabnik.com)</a>"
-reblog_key = "N2sd75gf"
-should_open_in_legacy = true
-note_count = 0.0
-blog_name = "indirect"
-can_blaze = false
-timestamp = 1724471255.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jbygAtQ41Oi00"
-id = 7.59663170748072e+17
-can_reply = false
-post_url = "https://indirect.io/post/759663170748071936/someone-was-talking-about-how-these-two-fantasy"
-date = "2024-08-24 03:47:35 GMT"
-summary = "Someone was talking about how these two fantasy characters were in love with each other and I was like\n \n\n \nNever ship on..."
-display_avatar = true
-type = "quote"
-id_string = "759663170748071936"
-is_blazed = false
-slug = "someone-was-talking-about-how-these-two-fantasy"
-is_blocks_post_format = false
-is_blaze_pending = false
-format = "markdown"
-can_reblog = false
-can_like = false
 interactability_blaze = "everyone"
-interactability_reblog = "everyone"
+can_reply = false
+blog_name = "indirect"
+slug = "someone-was-talking-about-how-these-two-fantasy"
+date = "2024-08-24 03:47:35 GMT"
 can_send_in_message = true
+type = "quote"
+can_like = false
+state = "published"
+format = "markdown"
+summary = "Someone was talking about how these two fantasy characters were in love with each other and I was like\n \n\n \nNever ship on..."
+text = "<p>Someone was talking about how these two fantasy characters were in love with each other and I was like\n<br/></p>\n\n<p><br/>\nNever ship on Fridays</p>"
+can_reblog = false
+is_blocks_post_format = false
+id = 7.59663170748072e+17
+can_blaze = false
+should_open_in_legacy = true
+display_avatar = true
+id_string = "759663170748071936"
+post_url = "https://indirect.io/post/759663170748071936/someone-was-talking-about-how-these-two-fantasy"
+timestamp = 1724471255.0
+reblog_key = "N2sd75gf"
+is_blazed = false
+note_count = 0.0
+interactability_reblog = "everyone"
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbygAtQ41Oi00"
+source = "<a href=\"https://bsky.app/profile/steveklabnik.com/post/3l2gkk3h5dv2d\">Steve Klabnik (@steveklabnik.com)</a>"
 
 [tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

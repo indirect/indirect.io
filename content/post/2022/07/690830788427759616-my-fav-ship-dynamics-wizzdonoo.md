@@ -6,58 +6,43 @@ slug = "my-fav-ship-dynamics-wizzdonoo"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-format = "html"
+is_blocks_post_format = false
+can_send_in_message = true
+id_string = "690830788427759616"
+post_url = "https://indirect.io/post/690830788427759616/my-fav-ship-dynamics-wizzdonoo"
 reblog_key = "SDRxN5xJ"
+note_count = 0.0
+image_permalink = "https://indirect.io/image/690830788427759616"
+can_reblog = false
+display_avatar = true
 can_like = false
-interactability_reblog = "everyone"
-id = 6.908307884277596e+17
+is_blazed = false
+can_blaze = false
 date = "2022-07-26 09:26:19 GMT"
 timestamp = 1658827579.0
-image_permalink = "https://indirect.io/image/690830788427759616"
-is_blocks_post_format = false
+state = "published"
+id = 6.908307884277596e+17
 slug = "my-fav-ship-dynamics-wizzdonoo"
+short_url = "https://tmblr.co/ZY3jbycMKl4W8y00"
 summary = "my fav ship dynamics — @WizzDonoo"
 should_open_in_legacy = true
-can_reblog = false
-type = "photo"
-caption = "<p>my fav ship dynamics — <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
-id_string = "690830788427759616"
-is_blaze_pending = false
-note_count = 0.0
-short_url = "https://tmblr.co/ZY3jbycMKl4W8y00"
-can_send_in_message = true
-can_reply = false
-state = "published"
-is_blazed = false
-post_url = "https://indirect.io/post/690830788427759616/my-fav-ship-dynamics-wizzdonoo"
-interactability_blaze = "everyone"
-blog_name = "indirect"
 link_url = "http://twitter.com/WizzDonoo/status/1551004668318437384"
-display_avatar = true
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>my fav ship dynamics — <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
-tree_html = ""
+can_reply = false
+type = "photo"
+blog_name = "indirect"
+is_blaze_pending = false
+format = "html"
+caption = "<p>my fav ship dynamics — <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 730.0
 url = "/images/d6/1a/f2ba193a283a03aeaaf595eacc4e.jpg"
 width = 1158.0
-height = 730.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d6/1a/f2ba193a283a03aeaaf595eacc4e.jpg"
@@ -80,59 +65,74 @@ width = 500.0
 height = 315.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/e2/61/bf863f89ae13d167b75ee097e37a.jpg"
 width = 400.0
 height = 252.0
-url = "/images/e2/61/bf863f89ae13d167b75ee097e37a.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/b1/f0/48be59297710f5153090eeb92585.jpg"
 width = 250.0
 height = 158.0
-url = "/images/b1/f0/48be59297710f5153090eeb92585.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f9/de/be7aa31f6bd7827352b69fe79065.jpg"
 width = 100.0
 height = 63.0
-url = "/images/f9/de/be7aa31f6bd7827352b69fe79065.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/29/28/705daddf660e86767dadf9ebaec1.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>my fav ship dynamics — <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
 content = "<p>my fav ship dynamics &mdash; <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
+show_avatar = true
+show_title = true
+header_full_width = 3000.0
+show_header_image = false
+title_color = "#444444"
+header_full_height = 1055.0
+link_color = "#529ECC"
 title_font = "Gibson"
 title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-link_color = "#529ECC"
-header_full_width = 3000.0
-header_full_height = 1055.0
-avatar_shape = "square"
 background_color = "#FAFAFA"
 header_image_poster = ""
-show_avatar = true
-show_description = true
-show_title = true
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
+header_stretch = true
+show_description = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-title_color = "#444444"
 
 [tumblr.trail.post]
 id = "690830788427759616"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>my fav ship dynamics — <a href=\"http://twitter.com/WizzDonoo/status/1551004668318437384\">@WizzDonoo</a></p>"
 +++

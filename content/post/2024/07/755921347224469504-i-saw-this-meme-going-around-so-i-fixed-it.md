@@ -6,39 +6,72 @@ slug = "i-saw-this-meme-going-around-so-i-fixed-it"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyfzadNJSm00"
-caption = "<p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a>"
-can_send_in_message = true
-blog_name = "indirect"
-format = "html"
 image_permalink = "https://indirect.io/image/755921347224469504"
-interactability_reblog = "everyone"
-date = "2024-07-13 20:32:53 GMT"
-state = "published"
-type = "photo"
-is_blocks_post_format = false
-id = 7.559213472244695e+17
-id_string = "755921347224469504"
-reblog_key = "eidlYoZO"
-should_open_in_legacy = true
-note_count = 0.0
-is_blazed = false
-post_url = "https://indirect.io/post/755921347224469504/i-saw-this-meme-going-around-so-i-fixed-it"
-slug = "i-saw-this-meme-going-around-so-i-fixed-it"
-summary = "I saw this meme going around so I fixed it — @CursedSilicon"
-can_reblog = false
+interactability_blaze = "everyone"
 can_reply = false
 display_avatar = true
-can_blaze = false
-link_url = "https://social.restless.systems/@CursedSilicon/112742596311754586"
-can_like = false
-interactability_blaze = "everyone"
+caption = "<p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a>"
+can_reblog = false
+blog_name = "indirect"
 timestamp = 1720902773.0
+id = 7.559213472244695e+17
+post_url = "https://indirect.io/post/755921347224469504/i-saw-this-meme-going-around-so-i-fixed-it"
+date = "2024-07-13 20:32:53 GMT"
+state = "published"
+format = "html"
+reblog_key = "eidlYoZO"
+id_string = "755921347224469504"
+is_blazed = false
 is_blaze_pending = false
+note_count = 0.0
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+can_blaze = false
+summary = "I saw this meme going around so I fixed it — @CursedSilicon"
+link_url = "https://social.restless.systems/@CursedSilicon/112742596311754586"
+type = "photo"
+slug = "i-saw-this-meme-going-around-so-i-fixed-it"
+short_url = "https://tmblr.co/ZY3jbyfzadNJSm00"
+can_like = false
+can_send_in_message = true
+should_open_in_legacy = true
 
-[tumblr.reblog]
-comment = "<p><p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+content_raw = "<p><p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
+content = "<p><p>I saw this meme going around so I fixed it</p> &mdash; <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "755921347224469504"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+header_full_height = 1055.0
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+body_font = "Helvetica Neue"
+header_bounds = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -84,55 +117,22 @@ width = 100.0
 height = 63.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9e/56/941b15f5dd940c1e53462e604ecd.png"
 width = 75.0
 height = 75.0
+url = "/images/9e/56/941b15f5dd940c1e53462e604ecd.png"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
 
 [tumblr.blog]
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p><p>I saw this meme going around so I fixed it</p> — <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
-content = "<p><p>I saw this meme going around so I fixed it</p> &mdash; <a href=\"https://social.restless.systems/@CursedSilicon/112742596311754586\">@CursedSilicon</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "755921347224469504"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_description = true
-header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_full_height = 1055.0
 +++

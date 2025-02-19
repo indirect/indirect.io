@@ -6,50 +6,50 @@ slug = "the-sun-is-now-cooling-the-earth"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-short_url = "https://tmblr.co/ZY3jby3di_xN"
-bookmarklet = true
-source = "<a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a>"
+text = "The sun is now cooling the Earth"
 interactability_reblog = "everyone"
-is_blazed = false
-slug = "the-sun-is-now-cooling-the-earth"
-format = "markdown"
-source_title = "inforum.com"
-can_like = false
-is_blaze_pending = false
+can_reply = false
+can_blaze = false
+timestamp = 1300234181.0
+state = "published"
+source = "<a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a>"
+is_blocks_post_format = false
 date = "2011-03-16 00:09:41 GMT"
+is_blaze_pending = false
+slug = "the-sun-is-now-cooling-the-earth"
+should_open_in_legacy = true
+source_title = "inforum.com"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reblog = false
 display_avatar = true
 id = 3887328983.0
-should_open_in_legacy = true
-can_send_in_message = true
-source_url = "http://www.inforum.com/event/article/id/312224/"
-text = "The sun is now cooling the Earth"
-is_blocks_post_format = false
-blog_name = "indirect"
-can_blaze = false
+id_string = "3887328983"
 post_url = "https://indirect.io/post/3887328983/the-sun-is-now-cooling-the-earth"
 summary = "The sun is now cooling the Earth"
-id_string = "3887328983"
-timestamp = 1300234181.0
-reblog_key = "ZGNInNXb"
-note_count = 0.0
-can_reblog = false
-can_reply = false
+bookmarklet = true
+source_url = "http://www.inforum.com/event/article/id/312224/"
 type = "quote"
-interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a></p>"
-tree_html = ""
+is_blazed = false
+reblog_key = "ZGNInNXb"
+short_url = "https://tmblr.co/ZY3jby3di_xN"
+can_like = false
+blog_name = "indirect"
+format = "markdown"
+note_count = 0.0
 
 [tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a></p>"
+tree_html = ""
 +++

@@ -6,47 +6,47 @@ slug = "did-you-know-you-can-hoost-their-boots-on"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-can_blaze = false
-format = "markdown"
-summary = "Did you know you can hoost their boots on Mastodon? Not the original toobs they poost, just the bosts thet they tout. Moustodon..."
-text = "Did you know you can hoost their boots on Mastodon? Not the original toobs they poost, just the bosts thet they tout. Moustodon allouws deveral uptions for roogulootimg the flough of informnation that are bousted onto your tought strome"
-source = "<a href=\"https://universeodon.com/@ReticentTurnip/111404276393421790\">@ReticentTurnip</a>"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbyelMeH8mW00"
-can_send_in_message = true
-id = 7.339047884875366e+17
-timestamp = 1699906147.0
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-id_string = "733904788487536640"
 is_blazed = false
-can_reply = false
-display_avatar = true
-type = "quote"
-state = "published"
-reblog_key = "7QsngTzL"
-note_count = 0.0
-is_blaze_pending = false
-date = "2023-11-13 20:09:07 GMT"
+source = "<a href=\"https://universeodon.com/@ReticentTurnip/111404276393421790\">@ReticentTurnip</a>"
 can_like = false
-post_url = "https://indirect.io/post/733904788487536640/did-you-know-you-can-hoost-their-boots-on"
+interactability_reblog = "everyone"
+can_reply = false
 slug = "did-you-know-you-can-hoost-their-boots-on"
-should_open_in_legacy = true
+timestamp = 1699906147.0
+note_count = 0.0
+id = 7.339047884875366e+17
+is_blaze_pending = false
+can_blaze = false
 can_reblog = false
+is_blocks_post_format = false
+reblog_key = "7QsngTzL"
+text = "Did you know you can hoost their boots on Mastodon? Not the original toobs they poost, just the bosts thet they tout. Moustodon allouws deveral uptions for roogulootimg the flough of informnation that are bousted onto your tought strome"
+interactability_blaze = "everyone"
+display_avatar = true
+post_url = "https://indirect.io/post/733904788487536640/did-you-know-you-can-hoost-their-boots-on"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyelMeH8mW00"
+summary = "Did you know you can hoost their boots on Mastodon? Not the original toobs they poost, just the bosts thet they tout. Moustodon..."
+type = "quote"
+blog_name = "indirect"
+should_open_in_legacy = true
+format = "markdown"
+can_send_in_message = true
+date = "2023-11-13 20:09:07 GMT"
+id_string = "733904788487536640"
 
 [tumblr.reblog]
 tree_html = ""
 comment = "<p><a href=\"https://universeodon.com/@ReticentTurnip/111404276393421790\">@ReticentTurnip</a></p>"
 
 [tumblr.blog]
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

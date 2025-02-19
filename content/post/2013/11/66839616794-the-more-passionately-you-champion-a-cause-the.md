@@ -6,43 +6,43 @@ slug = "the-more-passionately-you-champion-a-cause-the"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
+should_open_in_legacy = true
+blog_name = "indirect"
+is_blazed = false
+reblog_key = "Bcic7VBs"
+can_like = false
+can_send_in_message = true
+type = "quote"
+is_blocks_post_format = false
+id_string = "66839616794"
 slug = "the-more-passionately-you-champion-a-cause-the"
-note_count = 0.0
+state = "published"
+is_blaze_pending = false
+source = "<p>[@dhh](<a href=\"https://twitter.com/dhh/status/400351527174291456\">https://twitter.com/dhh/status/400351527174291456</a>)</p>\n\n<p>therefore, become passionate about nothing? lololol</p>"
 can_reply = false
 timestamp = 1384312158.0
-blog_name = "indirect"
-id_string = "66839616794"
-is_blaze_pending = false
-date = "2013-11-13 03:09:18 GMT"
-state = "published"
-reblog_key = "Bcic7VBs"
 short_url = "https://tmblr.co/ZY3jby_FyvqQ"
-should_open_in_legacy = true
-can_reblog = false
-post_url = "https://indirect.io/post/66839616794/the-more-passionately-you-champion-a-cause-the"
-is_blocks_post_format = false
-can_blaze = false
-summary = "The more passionately you champion a cause, the greater the risk it’ll become the only lens through which you see the world."
-source = "<p>[@dhh](<a href=\"https://twitter.com/dhh/status/400351527174291456\">https://twitter.com/dhh/status/400351527174291456</a>)</p>\n\n<p>therefore, become passionate about nothing? lololol</p>"
-can_send_in_message = true
-display_avatar = true
-can_like = false
 text = "The more passionately you champion a cause, the greater the risk it&rsquo;ll become the only lens through which you see the world."
-type = "quote"
-id = 66839616794.0
-is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/66839616794/the-more-passionately-you-champion-a-cause-the"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
+display_avatar = true
+date = "2013-11-13 03:09:18 GMT"
+note_count = 0.0
+can_reblog = false
+id = 66839616794.0
 format = "html"
+summary = "The more passionately you champion a cause, the greater the risk it’ll become the only lens through which you see the world."
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

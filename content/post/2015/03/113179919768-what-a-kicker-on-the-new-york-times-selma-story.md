@@ -6,35 +6,87 @@ slug = "what-a-kicker-on-the-new-york-times-selma-story"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.io/post/113179919768/what-a-kicker-on-the-new-york-times-selma-story"
 interactability_reblog = "everyone"
-can_send_in_message = true
-can_reply = false
-type = "photo"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1fQ38MO"
-summary = "What a kicker on the New York Times Selma story from 1965. — @ByronTau"
-blog_name = "indirect"
 interactability_blaze = "everyone"
-caption = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
-can_reblog = false
-date = "2015-03-09 18:19:27 GMT"
-should_open_in_legacy = true
-link_url = "http://twitter.com/ByronTau/status/574331046902259712"
-image_permalink = "https://indirect.io/image/113179919768"
-format = "html"
 note_count = 0.0
-timestamp = 1425925167.0
-id_string = "113179919768"
-is_blaze_pending = false
-can_blaze = false
-reblog_key = "Dyr2Re3S"
-can_like = false
-id = 113179919768.0
-slug = "what-a-kicker-on-the-new-york-times-selma-story"
+can_reblog = false
 display_avatar = true
-is_blocks_post_format = false
+reblog_key = "Dyr2Re3S"
+caption = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
+id_string = "113179919768"
+date = "2015-03-09 18:19:27 GMT"
+short_url = "https://tmblr.co/ZY3jby1fQ38MO"
+can_reply = false
+link_url = "http://twitter.com/ByronTau/status/574331046902259712"
+type = "photo"
 is_blazed = false
+is_blaze_pending = false
+slug = "what-a-kicker-on-the-new-york-times-selma-story"
+timestamp = 1425925167.0
+blog_name = "indirect"
+can_blaze = false
+state = "published"
+summary = "What a kicker on the New York Times Selma story from 1965. — @ByronTau"
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
+id = 113179919768.0
+image_permalink = "https://indirect.io/image/113179919768"
+post_url = "https://indirect.io/post/113179919768/what-a-kicker-on-the-new-york-times-selma-story"
+format = "html"
+should_open_in_legacy = true
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
+content = "<p>What a kicker on the New York Times Selma story from 1965. &mdash; <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+show_avatar = true
+title_color = "#444444"
+body_font = "Helvetica Neue"
+header_stretch = true
+link_color = "#529ECC"
+show_description = true
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_header_image = false
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "113179919768"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -78,56 +130,4 @@ height = 56.0
 width = 75.0
 height = 75.0
 url = "/images/72/33/a5d4a7cc21780f5d9a67fb0b4b1f.jpg"
-
-[tumblr.reblog]
-comment = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>What a kicker on the New York Times Selma story from 1965. — <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
-content = "<p>What a kicker on the New York Times Selma story from 1965. &mdash; <a href=\"http://twitter.com/ByronTau/status/574331046902259712\">@ByronTau</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_stretch = true
-show_avatar = true
-show_description = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_title = true
-title_color = "#444444"
-header_full_width = 3000.0
-body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-title_font_weight = "bold"
-header_full_height = 1055.0
-header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-
-[tumblr.trail.post]
-id = "113179919768"
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,34 +6,34 @@ slug = "if-youre-bored-you-can-simply-close-your-eyes-and"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "if-youre-bored-you-can-simply-close-your-eyes-and"
-timestamp = 1612226842.0
-can_reblog = false
-display_avatar = true
-id_string = "641966373155848192"
-can_blaze = false
+is_blocks_post_format = false
+is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jbyZekGFTiq00"
-can_send_in_message = true
-id = 6.419663731558482e+17
+source = "<a href=\"http://twitter.com/AynRandy/status/1356087211070869507\">@AynRandy</a>"
+interactability_reblog = "everyone"
+type = "quote"
+id_string = "641966373155848192"
+is_blazed = false
 post_url = "https://indirect.io/post/641966373155848192/if-youre-bored-you-can-simply-close-your-eyes-and"
 date = "2021-02-02 00:47:22 GMT"
-should_open_in_legacy = true
-is_blaze_pending = false
+can_reply = false
+id = 6.419663731558482e+17
 state = "published"
 format = "html"
-can_reply = false
-is_blazed = false
-can_like = false
-type = "quote"
-is_blocks_post_format = false
-blog_name = "indirect"
 summary = "if you’re bored you can simply close your eyes and rotate a cow in your mind. it’s free and the cops can’t stop you"
+can_send_in_message = true
+blog_name = "indirect"
+can_reblog = false
 note_count = 0.0
-text = "if you&rsquo;re bored you can simply close your eyes and rotate a cow in your mind. it&rsquo;s free and the cops can&rsquo;t stop you"
-interactability_reblog = "everyone"
+can_like = false
+can_blaze = false
+slug = "if-youre-bored-you-can-simply-close-your-eyes-and"
+display_avatar = true
 reblog_key = "kjzkmj0e"
-source = "<a href=\"http://twitter.com/AynRandy/status/1356087211070869507\">@AynRandy</a>"
 interactability_blaze = "everyone"
+timestamp = 1612226842.0
+should_open_in_legacy = true
+text = "if you&rsquo;re bored you can simply close your eyes and rotate a cow in your mind. it&rsquo;s free and the cops can&rsquo;t stop you"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/AynRandy/status/1356087211070869507\">@AynRandy</a></p>"
@@ -41,7 +41,7 @@ tree_html = ""
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"

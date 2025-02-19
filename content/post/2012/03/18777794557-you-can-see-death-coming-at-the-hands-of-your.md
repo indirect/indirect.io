@@ -6,83 +6,83 @@ slug = "you-can-see-death-coming-at-the-hands-of-your"
 type = "tumblr-text"
 
 [tumblr]
-can_send_in_message = true
 type = "text"
+timestamp = 1330923978.0
+state = "published"
+summary = "[You can] see death coming at the hands of your own creation. That's part of the human epic tradition, after all. Oedipus and..."
+interactability_blaze = "everyone"
+slug = "you-can-see-death-coming-at-the-hands-of-your"
 display_avatar = true
 date = "2012-03-05 05:06:18 GMT"
-can_blaze = false
-summary = "[You can] see death coming at the hands of your own creation. That's part of the human epic tradition, after all. Oedipus and..."
+reblog_key = "Gp67GOKg"
 body = "<blockquote>[You can] see death coming at the hands of your own creation. That&rsquo;s part of the human epic tradition, after all. Oedipus and his father. Baron Frankenstein and his monster. William Henry Gates and Windows &lsquo;09.</blockquote>\n\n<p>David Brin, <em>Kiln People</em></p>"
+should_open_in_legacy = false
+can_reblog = false
 blog_name = "indirect"
 id_string = "18777794557"
-is_blaze_pending = false
-format = "markdown"
+note_count = 0.0
+can_like = false
 interactability_reblog = "everyone"
 is_blocks_post_format = false
-state = "published"
-reblog_key = "Gp67GOKg"
-timestamp = 1330923978.0
-id = 18777794557.0
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-slug = "you-can-see-death-coming-at-the-hands-of-your"
-short_url = "https://tmblr.co/ZY3jbyHVFcVz"
-should_open_in_legacy = false
-can_reply = false
-is_blazed = false
 post_url = "https://indirect.io/post/18777794557/you-can-see-death-coming-at-the-hands-of-your"
-note_count = 0.0
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><blockquote>[You can] see death coming at the hands of your own creation. That’s part of the human epic tradition, after all. Oedipus and his father. Baron Frankenstein and his monster. William Henry Gates and Windows ‘09.</blockquote>\n\n<p>David Brin, <em>Kiln People</em></p></p>"
+can_send_in_message = true
+is_blazed = false
+can_blaze = false
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyHVFcVz"
+can_reply = false
+id = 18777794557.0
+is_blaze_pending = false
 
 [[tumblr.trail]]
+is_root_item = true
 content_raw = "<p><blockquote>[You can] see death coming at the hands of your own creation. That’s part of the human epic tradition, after all. Oedipus and his father. Baron Frankenstein and his monster. William Henry Gates and Windows ‘09.</blockquote>\n\n<p>David Brin, <em>Kiln People</em></p></p>"
 content = "<p><blockquote><p>[You can] see death coming at the hands of your own creation. That&rsquo;s part of the human epic tradition, after all. Oedipus and his father. Baron Frankenstein and his monster. William Henry Gates and Windows &lsquo;09.</p></blockquote>\n\n<p>David Brin, <em>Kiln People</em></p></p>"
 is_current_item = true
-is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-show_title = true
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-header_stretch = true
-show_avatar = true
-background_color = "#FAFAFA"
+header_full_width = 3000.0
 body_font = "Helvetica Neue"
-link_color = "#529ECC"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
 show_description = true
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
 title_color = "#444444"
 title_font_weight = "bold"
-header_full_width = 3000.0
-header_full_height = 1055.0
+avatar_shape = "square"
+header_bounds = ""
+header_stretch = true
+show_header_image = false
 title_font = "Gibson"
+header_full_height = 1055.0
+show_title = true
 
 [tumblr.trail.post]
 id = "18777794557"
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><blockquote>[You can] see death coming at the hands of your own creation. That’s part of the human epic tradition, after all. Oedipus and his father. Baron Frankenstein and his monster. William Henry Gates and Windows ‘09.</blockquote>\n\n<p>David Brin, <em>Kiln People</em></p></p>"
+tree_html = ""
 +++

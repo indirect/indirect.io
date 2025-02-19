@@ -6,47 +6,47 @@ slug = "the-remote-work-debate-was-funny-because-it-forced"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://bsky.app/profile/internethippo.bsky.social/post/3lgqasgmu6s2e\">Just Kidding (@internethippo.bsky.social)</a>"
-slug = "the-remote-work-debate-was-funny-because-it-forced"
-date = "2025-01-27 18:03:29 GMT"
+post_url = "https://indirect.io/post/773850146126594048/the-remote-work-debate-was-funny-because-it-forced"
+timestamp = 1738001009.0
 should_open_in_legacy = true
-text = "The remote work debate was funny because it forced the question &ldquo;Is a job something valuable you do or is it a place you go to be watched like daycare&rdquo; and the answer for a lot of them was yeah it&rsquo;s the daycare thing now come on inside recess is over"
+source = "<a href=\"https://bsky.app/profile/internethippo.bsky.social/post/3lgqasgmu6s2e\">Just Kidding (@internethippo.bsky.social)</a>"
+date = "2025-01-27 18:03:29 GMT"
+interactability_reblog = "everyone"
+is_blazed = false
+summary = "The remote work debate was funny because it forced the question “Is a job something valuable you do or is it a place you go to..."
 can_reblog = false
 can_send_in_message = true
+display_avatar = true
 blog_name = "indirect"
+id = 7.73850146126594e+17
+id_string = "773850146126594048"
 reblog_key = "hCqPQ4BC"
 interactability_blaze = "everyone"
-timestamp = 1738001009.0
 short_url = "https://tmblr.co/ZY3jbygzH9kTGe00"
-is_blocks_post_format = false
-id = 7.73850146126594e+17
-display_avatar = true
-is_blazed = false
+can_like = false
 is_blaze_pending = false
 format = "markdown"
-summary = "The remote work debate was funny because it forced the question “Is a job something valuable you do or is it a place you go to..."
-can_reply = false
-id_string = "773850146126594048"
-post_url = "https://indirect.io/post/773850146126594048/the-remote-work-debate-was-funny-because-it-forced"
-can_blaze = false
-can_like = false
-type = "quote"
-state = "published"
 note_count = 0.0
-interactability_reblog = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/internethippo.bsky.social/post/3lgqasgmu6s2e\">Just Kidding (@internethippo.bsky.social)</a></p>"
-tree_html = ""
+is_blocks_post_format = false
+slug = "the-remote-work-debate-was-funny-because-it-forced"
+state = "published"
+text = "The remote work debate was funny because it forced the question &ldquo;Is a job something valuable you do or is it a place you go to be watched like daycare&rdquo; and the answer for a lot of them was yeah it&rsquo;s the daycare thing now come on inside recess is over"
+can_reply = false
+type = "quote"
+can_blaze = false
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://bsky.app/profile/internethippo.bsky.social/post/3lgqasgmu6s2e\">Just Kidding (@internethippo.bsky.social)</a></p>"
+tree_html = ""
 +++

@@ -6,38 +6,34 @@ slug = "parents-be-getting-upset-when-their-headcanon-for"
 type = "tumblr-quote"
 
 [tumblr]
-summary = "Parents be getting upset when their headcanon for their child doesn’t turn out to be canon"
-text = "Parents be getting upset when their headcanon for their child doesn&rsquo;t turn out to be canon"
-source = "<a href=\"http://twitter.com/AQUA191V/status/1429191825441574915\">@AQUA191V</a>"
-is_blocks_post_format = false
+can_reply = false
+display_avatar = true
 can_blaze = false
-note_count = 1.0
-interactability_reblog = "everyone"
-id_string = "660469886181621760"
-is_blazed = false
+can_reblog = false
+source = "<a href=\"http://twitter.com/AQUA191V/status/1429191825441574915\">@AQUA191V</a>"
+id = 6.604698861816218e+17
 post_url = "https://indirect.io/post/660469886181621760/parents-be-getting-upset-when-their-headcanon-for"
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyagTTosii00"
+interactability_blaze = "everyone"
 type = "quote"
 date = "2021-08-25 06:32:47 GMT"
-timestamp = 1629873167.0
 should_open_in_legacy = true
-can_reply = false
 can_like = false
-interactability_blaze = "everyone"
-blog_name = "indirect"
-state = "published"
-can_reblog = false
 can_send_in_message = true
-id = 6.604698861816218e+17
-is_blaze_pending = false
-slug = "parents-be-getting-upset-when-their-headcanon-for"
+timestamp = 1629873167.0
+format = "html"
 reblog_key = "IHDHh1K8"
-display_avatar = true
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/AQUA191V/status/1429191825441574915\">@AQUA191V</a></p>"
-tree_html = ""
+text = "Parents be getting upset when their headcanon for their child doesn&rsquo;t turn out to be canon"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+is_blazed = false
+slug = "parents-be-getting-upset-when-their-headcanon-for"
+summary = "Parents be getting upset when their headcanon for their child doesn’t turn out to be canon"
+state = "published"
+note_count = 1.0
+id_string = "660469886181621760"
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyagTTosii00"
 
 [tumblr.blog]
 can_show_badges = false
@@ -46,7 +42,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/AQUA191V/status/1429191825441574915\">@AQUA191V</a></p>"
+tree_html = ""
 +++

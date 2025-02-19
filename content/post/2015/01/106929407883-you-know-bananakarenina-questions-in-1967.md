@@ -6,35 +6,35 @@ slug = "you-know-bananakarenina-questions-in-1967"
 type = "tumblr-photo"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-can_send_in_message = true
-display_avatar = true
-reblog_key = "FN50hG6z"
-slug = "you-know-bananakarenina-questions-in-1967"
-type = "photo"
-state = "published"
-should_open_in_legacy = true
-note_count = 0.0
-id_string = "106929407883"
-is_blaze_pending = false
 format = "html"
-link_url = "http://twitter.com/rabihalameddine/status/550789270559281152"
-image_permalink = "https://indirect.io/image/106929407883"
-interactability_reblog = "everyone"
-can_blaze = false
-date = "2015-01-02 20:05:22 GMT"
-caption = "<p>You know, @BananaKarenina, questions in 1967 weren&rsquo;t so bad either either — <a href=\"http://twitter.com/rabihalameddine/status/550789270559281152\">@rabihalameddine</a></p>"
-can_reply = false
-timestamp = 1420229122.0
-is_blocks_post_format = false
-blog_name = "indirect"
-id = 106929407883.0
-is_blazed = false
-post_url = "https://indirect.io/post/106929407883/you-know-bananakarenina-questions-in-1967"
-can_reblog = false
 short_url = "https://tmblr.co/ZY3jby1ZbVKUB"
 summary = "You know, @BananaKarenina, questions in 1967 weren't so bad either either — @rabihalameddine"
+caption = "<p>You know, @BananaKarenina, questions in 1967 weren&rsquo;t so bad either either — <a href=\"http://twitter.com/rabihalameddine/status/550789270559281152\">@rabihalameddine</a></p>"
+post_url = "https://indirect.io/post/106929407883/you-know-bananakarenina-questions-in-1967"
+state = "published"
+should_open_in_legacy = true
+can_send_in_message = true
+can_reply = false
+display_avatar = true
+image_permalink = "https://indirect.io/image/106929407883"
+type = "photo"
+can_blaze = false
+date = "2015-01-02 20:05:22 GMT"
+can_reblog = false
+can_like = false
+is_blocks_post_format = false
+id = 106929407883.0
+id_string = "106929407883"
+reblog_key = "FN50hG6z"
+blog_name = "indirect"
+slug = "you-know-bananakarenina-questions-in-1967"
+note_count = 0.0
+link_url = "http://twitter.com/rabihalameddine/status/550789270559281152"
+interactability_blaze = "everyone"
+timestamp = 1420229122.0
+interactability_reblog = "everyone"
+is_blazed = false
+is_blaze_pending = false
 
 [[tumblr.photos]]
 caption = ""
@@ -55,9 +55,9 @@ width = 540.0
 height = 810.0
 
 [[tumblr.photos.alt_sizes]]
-height = 750.0
 url = "/images/84/e8/36667b47f8464e412692415dce88.jpg"
 width = 500.0
+height = 750.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/75/59/903848cfa123fd88f73323124684.jpg"
@@ -83,6 +83,17 @@ height = 75.0
 comment = "<p>You know, @BananaKarenina, questions in 1967 weren’t so bad either either — <a href=\"http://twitter.com/rabihalameddine/status/550789270559281152\">@rabihalameddine</a></p>"
 tree_html = ""
 
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
 content_raw = "<p>You know, @BananaKarenina, questions in 1967 weren’t so bad either either — <a href=\"http://twitter.com/rabihalameddine/status/550789270559281152\">@rabihalameddine</a></p>"
 content = "<p>You know, @BananaKarenina, questions in 1967 weren&rsquo;t so bad either either &mdash; <a href=\"http://twitter.com/rabihalameddine/status/550789270559281152\">@rabihalameddine</a></p>"
@@ -90,44 +101,33 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+share_likes = false
+share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
-share_likes = false
-share_following = false
 
 [tumblr.trail.blog.theme]
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-show_avatar = true
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-title_color = "#444444"
-header_full_width = 3000.0
-header_full_height = 1055.0
-header_image_poster = ""
 header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-header_bounds = ""
+title_font = "Gibson"
+avatar_shape = "square"
+show_avatar = true
 show_description = true
 show_header_image = false
 show_title = true
-title_font = "Gibson"
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 title_font_weight = "bold"
-avatar_shape = "square"
 
 [tumblr.trail.post]
 id = "106929407883"
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

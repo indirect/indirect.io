@@ -6,37 +6,37 @@ slug = "this-is-harder-to-mitigate-on-existing-machines"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "113207260678"
-can_send_in_message = true
-type = "quote"
-post_url = "https://indirect.io/post/113207260678/this-is-harder-to-mitigate-on-existing-machines"
-source_title = "googleprojectzero.blogspot.com"
-blog_name = "indirect"
-is_blazed = false
-timestamp = 1425945520.0
-short_url = "https://tmblr.co/ZY3jby1fRhRO6"
-summary = "This is harder to mitigate on existing machines"
-id = 113207260678.0
-reblog_key = "DS2xmqV4"
-text = "This is harder to mitigate on existing machines"
-can_reblog = false
-can_blaze = false
-date = "2015-03-09 23:58:40 GMT"
-note_count = 0.0
-interactability_reblog = "everyone"
-is_blaze_pending = false
-state = "published"
-can_like = false
-can_reply = false
-bookmarklet = true
-source_url = "http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
-source = "<a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a>"
 slug = "this-is-harder-to-mitigate-on-existing-machines"
 should_open_in_legacy = true
+note_count = 0.0
+source_url = "http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
+can_reply = false
 display_avatar = true
+can_blaze = false
+can_reblog = false
+type = "quote"
+is_blaze_pending = false
+timestamp = 1425945520.0
+short_url = "https://tmblr.co/ZY3jby1fRhRO6"
+source = "<a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a>"
 is_blocks_post_format = false
-format = "markdown"
+id_string = "113207260678"
+is_blazed = false
+post_url = "https://indirect.io/post/113207260678/this-is-harder-to-mitigate-on-existing-machines"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
+id = 113207260678.0
+date = "2015-03-09 23:58:40 GMT"
+state = "published"
+bookmarklet = true
+text = "This is harder to mitigate on existing machines"
+can_like = false
+blog_name = "indirect"
+format = "markdown"
+reblog_key = "DS2xmqV4"
+summary = "This is harder to mitigate on existing machines"
+source_title = "googleprojectzero.blogspot.com"
+can_send_in_message = true
 
 [tumblr.reblog]
 tree_html = ""
@@ -49,7 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,34 +6,34 @@ slug = "radiohead-captured-the-imaginations-of-a"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id = 7.046719933326459e+17
-summary = "Radiohead captured the imaginations of a generation with their outlandish fantasy of an “ok computer”"
-text = "Radiohead captured the imaginations of a generation with their outlandish fantasy of an &ldquo;ok computer&rdquo;"
-interactability_reblog = "everyone"
-source = "<a href=\"https://glitch.taks.garden/@Tak/109575744464961617\">@Tak</a>"
-is_blaze_pending = false
-can_blaze = false
-can_reblog = false
-blog_name = "indirect"
 id_string = "704671993332645888"
-is_blazed = false
+date = "2022-12-26 04:06:21 GMT"
+post_url = "https://indirect.io/post/704671993332645888/radiohead-captured-the-imaginations-of-a"
+slug = "radiohead-captured-the-imaginations-of-a"
+timestamp = 1672027581.0
+reblog_key = "CV5bwvQR"
 short_url = "https://tmblr.co/ZY3jbyd7Vt75ma00"
-can_send_in_message = true
-can_reply = false
+note_count = 0.0
+blog_name = "indirect"
+is_blazed = false
 should_open_in_legacy = true
 interactability_blaze = "everyone"
-slug = "radiohead-captured-the-imaginations-of-a"
-format = "markdown"
-reblog_key = "CV5bwvQR"
 display_avatar = true
-timestamp = 1672027581.0
+is_blocks_post_format = false
 state = "published"
-type = "quote"
-post_url = "https://indirect.io/post/704671993332645888/radiohead-captured-the-imaginations-of-a"
-date = "2022-12-26 04:06:21 GMT"
-note_count = 0.0
+summary = "Radiohead captured the imaginations of a generation with their outlandish fantasy of an “ok computer”"
+can_reply = false
+is_blaze_pending = false
+format = "markdown"
 can_like = false
+interactability_reblog = "everyone"
+can_send_in_message = true
+text = "Radiohead captured the imaginations of a generation with their outlandish fantasy of an &ldquo;ok computer&rdquo;"
+can_reblog = false
+type = "quote"
+id = 7.046719933326459e+17
+can_blaze = false
+source = "<a href=\"https://glitch.taks.garden/@Tak/109575744464961617\">@Tak</a>"
 
 [tumblr.blog]
 can_show_badges = false
@@ -42,7 +42,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

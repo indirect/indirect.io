@@ -6,52 +6,41 @@ slug = "m-favourite-post-of-all-time-lady-eva-of"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbygQtdMxWe00"
-interactability_blaze = "everyone"
-format = "html"
-can_send_in_message = true
-caption = "<p>m favourite post of all time — <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"
-is_blocks_post_format = false
-can_blaze = false
-slug = "m-favourite-post-of-all-time-lady-eva-of"
-reblog_key = "AKXQh0py"
-should_open_in_legacy = true
-can_reblog = false
-id_string = "764167684031152128"
-state = "published"
-image_permalink = "https://indirect.io/image/764167684031152128"
-can_like = false
-date = "2024-10-12 21:04:53 GMT"
-type = "photo"
-interactability_reblog = "everyone"
-timestamp = 1728767093.0
-summary = "m favourite post of all time — lady eva (of misrule) (@_glorianas)"
 note_count = 0.0
 blog_name = "indirect"
-can_reply = false
-display_avatar = true
-id = 7.641676840311521e+17
+state = "published"
+summary = "m favourite post of all time — lady eva (of misrule) (@_glorianas)"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+is_blaze_pending = false
 post_url = "https://indirect.io/post/764167684031152128/m-favourite-post-of-all-time-lady-eva-of"
+reblog_key = "AKXQh0py"
+can_reblog = false
+can_send_in_message = true
+id_string = "764167684031152128"
+should_open_in_legacy = true
+caption = "<p>m favourite post of all time — <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"
+is_blocks_post_format = false
+image_permalink = "https://indirect.io/image/764167684031152128"
+can_blaze = false
+date = "2024-10-12 21:04:53 GMT"
+timestamp = 1728767093.0
+can_like = false
 link_url = "https://twitter.com/_glorianas/status/1844566626676457635"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
+type = "photo"
+id = 7.641676840311521e+17
+is_blazed = false
+slug = "m-favourite-post-of-all-time-lady-eva-of"
+display_avatar = true
+format = "html"
+short_url = "https://tmblr.co/ZY3jbygQtdMxWe00"
+can_reply = false
 
 [[tumblr.trail]]
-content_raw = "<p>m favourite post of all time — <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"
 content = "<p>m favourite post of all time &mdash; <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>m favourite post of all time — <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -61,28 +50,39 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-title_font = "Gibson"
 background_color = "#FAFAFA"
-link_color = "#529ECC"
-header_full_width = 3000.0
-header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-title_font_weight = "bold"
-header_stretch = true
-show_avatar = true
-show_description = true
-avatar_shape = "square"
-header_bounds = ""
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_bounds = ""
+link_color = "#529ECC"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_header_image = false
+show_description = true
+header_full_height = 1055.0
+title_font_weight = "bold"
+header_image_poster = ""
 show_title = true
 title_color = "#444444"
+title_font = "Gibson"
+header_stretch = true
+show_avatar = true
+header_full_width = 3000.0
+avatar_shape = "square"
 
 [tumblr.trail.post]
 id = "764167684031152128"
+
+[tumblr.blog]
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -98,9 +98,9 @@ width = 1200.0
 height = 915.0
 
 [[tumblr.photos.alt_sizes]]
+height = 488.0
 url = "/images/14/2b/407499dc996588dd816d46bc71e5.jpg"
 width = 640.0
-height = 488.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/82/ac/9d347963d03183b7fd4a96f89a06.jpg"
@@ -108,9 +108,9 @@ width = 540.0
 height = 412.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f8/1f/df52229f3bfde0e3366aafd857c2.jpg"
 width = 500.0
 height = 381.0
+url = "/images/f8/1f/df52229f3bfde0e3366aafd857c2.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/99/af/b93f858e9ca43aac66dc86e8e1ab.jpg"
@@ -128,9 +128,9 @@ width = 100.0
 height = 76.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/c0/2c3b4502ec0de8086e41f250a29f.jpg"
 width = 75.0
 height = 75.0
+url = "/images/f1/c0/2c3b4502ec0de8086e41f250a29f.jpg"
 
 [tumblr.reblog]
 comment = "<p>m favourite post of all time — <a href=\"https://twitter.com/_glorianas/status/1844566626676457635\">lady eva (of misrule) (@_glorianas)</a></p>"

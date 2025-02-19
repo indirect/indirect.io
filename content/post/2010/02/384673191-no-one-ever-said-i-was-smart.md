@@ -6,43 +6,43 @@ slug = "no-one-ever-said-i-was-smart"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2010-02-12 01:40:15 GMT"
-type = "quote"
-can_reblog = false
-can_reply = false
-blog_name = "indirect"
-format = "html"
-source = "rachel"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-can_blaze = false
-can_send_in_message = true
-is_blocks_post_format = false
-timestamp = 1265938815.0
 reblog_key = "0bFF9qhv"
+can_reblog = false
+can_like = false
 id = 384673191.0
-post_url = "https://indirect.io/post/384673191/no-one-ever-said-i-was-smart"
-display_avatar = true
+slug = "no-one-ever-said-i-was-smart"
+date = "2010-02-12 01:40:15 GMT"
 state = "published"
 short_url = "https://tmblr.co/ZY3jbyMxQMd"
-should_open_in_legacy = true
-note_count = 0.0
-text = "no one ever said i was smart"
 interactability_reblog = "everyone"
-id_string = "384673191"
-slug = "no-one-ever-said-i-was-smart"
-summary = "no one ever said i was smart"
-can_like = false
+blog_name = "indirect"
 is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/384673191/no-one-ever-said-i-was-smart"
+note_count = 0.0
+source = "rachel"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+format = "html"
+should_open_in_legacy = true
+text = "no one ever said i was smart"
+can_send_in_message = true
+can_reply = false
+display_avatar = true
+type = "quote"
+timestamp = 1265938815.0
+summary = "no one ever said i was smart"
+id_string = "384673191"
+can_blaze = false
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

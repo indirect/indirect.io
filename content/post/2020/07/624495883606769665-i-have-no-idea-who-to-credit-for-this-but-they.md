@@ -6,39 +6,50 @@ slug = "i-have-no-idea-who-to-credit-for-this-but-they"
 type = "tumblr-photo"
 
 [tumblr]
-caption = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. — <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
-link_url = "http://twitter.com/undersequoias/status/1286374917110292480"
-interactability_reblog = "everyone"
-format = "html"
-reblog_key = "c5Eh5zbl"
-note_count = 1.0
-can_send_in_message = true
-blog_name = "indirect"
-id = 6.244958836067697e+17
-is_blazed = false
-is_blaze_pending = false
 timestamp = 1595565684.0
-state = "published"
-can_reblog = false
-date = "2020-07-24 04:41:24 GMT"
-image_permalink = "https://indirect.io/image/624495883606769665"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyYgfxAA4q01"
-summary = "I have no idea who to credit for this. But they deserve a Pulitzer. — @undersequoias"
-is_blocks_post_format = false
-id_string = "624495883606769665"
-post_url = "https://indirect.io/post/624495883606769665/i-have-no-idea-who-to-credit-for-this-but-they"
-interactability_blaze = "everyone"
 type = "photo"
+blog_name = "indirect"
+is_blazed = false
 slug = "i-have-no-idea-who-to-credit-for-this-but-they"
-should_open_in_legacy = true
+note_count = 1.0
+date = "2020-07-24 04:41:24 GMT"
 can_like = false
-can_reply = false
+can_send_in_message = true
+link_url = "http://twitter.com/undersequoias/status/1286374917110292480"
+id = 6.244958836067697e+17
+reblog_key = "c5Eh5zbl"
+is_blocks_post_format = false
 display_avatar = true
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyYgfxAA4q01"
+image_permalink = "https://indirect.io/image/624495883606769665"
+interactability_reblog = "everyone"
+id_string = "624495883606769665"
+summary = "I have no idea who to credit for this. But they deserve a Pulitzer. — @undersequoias"
+can_reblog = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/624495883606769665/i-have-no-idea-who-to-credit-for-this-but-they"
+format = "html"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_blaze = false
+caption = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. — <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
+can_reply = false
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. — <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
 tree_html = ""
+comment = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. — <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -64,9 +75,9 @@ width = 540.0
 height = 536.0
 
 [[tumblr.photos.alt_sizes]]
+height = 497.0
 url = "/images/48/c1/5b0312797bb23de5c0ebb0ab4c39.jpg"
 width = 500.0
-height = 497.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9d/51/0e15ec9cd157a3374c261549fe90.jpg"
@@ -88,17 +99,6 @@ url = "/images/09/57/a00044c1d8561fad9e77118ebf29.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
-
 [[tumblr.trail]]
 content_raw = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. — <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
 content = "<p>I have no idea who to credit for this. But they deserve a Pulitzer. &mdash; <a href=\"http://twitter.com/undersequoias/status/1286374917110292480\">@undersequoias</a></p>"
@@ -106,31 +106,31 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
 header_full_height = 1055.0
 avatar_shape = "square"
+body_font = "Helvetica Neue"
 header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
+header_image_poster = ""
 link_color = "#529ECC"
 show_avatar = true
-show_description = true
-header_full_width = 3000.0
-background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-title_font = "Gibson"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_header_image = false
 title_color = "#444444"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_stretch = true
 show_title = true
 
 [tumblr.trail.post]

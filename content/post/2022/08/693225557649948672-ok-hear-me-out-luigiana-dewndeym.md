@@ -6,83 +6,50 @@ slug = "ok-hear-me-out-luigiana-dewndeym"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
-timestamp = 1661111408.0
-state = "published"
-can_like = false
-interactability_reblog = "everyone"
-is_blocks_post_format = false
+display_avatar = true
 is_blaze_pending = false
-summary = "ok hear me out: Luigiana — @Dewndeym"
-can_send_in_message = true
-can_reply = false
-type = "photo"
+slug = "ok-hear-me-out-luigiana-dewndeym"
 format = "html"
-reblog_key = "bDOriGvw"
-should_open_in_legacy = true
-can_blaze = false
-post_url = "https://indirect.io/post/693225557649948672/ok-hear-me-out-luigiana-dewndeym"
-can_reblog = false
+can_like = false
+is_blocks_post_format = false
 blog_name = "indirect"
+can_blaze = false
+reblog_key = "bDOriGvw"
+can_send_in_message = true
+note_count = 2.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+id_string = "693225557649948672"
+timestamp = 1661111408.0
+short_url = "https://tmblr.co/ZY3jbycUrFZ8ye00"
+summary = "ok hear me out: Luigiana — @Dewndeym"
 caption = "<p>ok hear me out: Luigiana — <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
 link_url = "http://twitter.com/Dewndeym/status/1561040532490649600"
+can_reblog = false
 image_permalink = "https://indirect.io/image/693225557649948672"
-display_avatar = true
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbycUrFZ8ye00"
-note_count = 2.0
+type = "photo"
+post_url = "https://indirect.io/post/693225557649948672/ok-hear-me-out-luigiana-dewndeym"
+should_open_in_legacy = true
+can_reply = false
 id = 6.932255576499487e+17
-id_string = "693225557649948672"
-slug = "ok-hear-me-out-luigiana-dewndeym"
+is_blazed = false
 date = "2022-08-21 19:50:08 GMT"
-
-[[tumblr.trail]]
-content_raw = "<p>ok hear me out: Luigiana — <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
-content = "<p>ok hear me out: Luigiana &mdash; <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "693225557649948672"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_full_width = 3000.0
-show_header_image = false
-show_title = true
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-link_color = "#529ECC"
-title_font = "Gibson"
-header_full_height = 1055.0
-body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_avatar = true
-show_description = true
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-title_font_weight = "bold"
+state = "published"
 
 [tumblr.blog]
+name = "indirect"
+title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
-name = "indirect"
-title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>ok hear me out: Luigiana — <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -108,9 +75,9 @@ width = 540.0
 height = 513.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/75/0d/0b0de083c1e75d750f9c2911d4e8.png"
 width = 500.0
 height = 475.0
-url = "/images/75/0d/0b0de083c1e75d750f9c2911d4e8.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/64/44/ac69e3f8696d4dc775df5caf2eb2.png"
@@ -132,7 +99,40 @@ url = "/images/c8/46/3baf255beef8e76097e1d56cbc56.png"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>ok hear me out: Luigiana — <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>ok hear me out: Luigiana — <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
+content = "<p>ok hear me out: Luigiana &mdash; <a href=\"http://twitter.com/Dewndeym/status/1561040532490649600\">@Dewndeym</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+title_color = "#444444"
+title_font_weight = "bold"
+show_description = true
+title_font = "Gibson"
+header_full_height = 1055.0
+header_bounds = ""
+show_header_image = false
+header_full_width = 3000.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "693225557649948672"
 +++

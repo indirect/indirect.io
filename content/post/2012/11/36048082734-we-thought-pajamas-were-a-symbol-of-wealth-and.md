@@ -6,50 +6,50 @@ slug = "we-thought-pajamas-were-a-symbol-of-wealth-and"
 type = "tumblr-quote"
 
 [tumblr]
-source_url = "http://factsanddetails.com/china.php?itemid=113"
+is_blocks_post_format = false
 is_blazed = false
-is_blaze_pending = false
 post_url = "https://indirect.io/post/36048082734/we-thought-pajamas-were-a-symbol-of-wealth-and"
-date = "2012-11-19 05:14:53 GMT"
+format = "markdown"
 interactability_reblog = "everyone"
-id = 36048082734.0
-summary = "we thought pajamas were a symbol of wealth and coolness"
-note_count = 0.0
-text = "we thought pajamas were a symbol of wealth and coolness"
-can_send_in_message = true
 id_string = "36048082734"
-slug = "we-thought-pajamas-were-a-symbol-of-wealth-and"
-bookmarklet = true
-reblog_key = "T4n7VJ19"
-source_title = "factsanddetails.com"
+summary = "we thought pajamas were a symbol of wealth and coolness"
+display_avatar = true
+timestamp = 1353302093.0
+type = "quote"
+is_blaze_pending = false
+date = "2012-11-19 05:14:53 GMT"
+can_like = false
+note_count = 0.0
 source = "<a href=\"http://factsanddetails.com/china.php?itemid=113\">Bad Manners in China</a>"
 interactability_blaze = "everyone"
-can_reply = false
-timestamp = 1353302093.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyXaeXSk"
-display_avatar = true
-is_blocks_post_format = false
-blog_name = "indirect"
-format = "markdown"
-can_reblog = false
-type = "quote"
-can_like = false
+slug = "we-thought-pajamas-were-a-symbol-of-wealth-and"
+bookmarklet = true
+can_send_in_message = true
 can_blaze = false
+state = "published"
+reblog_key = "T4n7VJ19"
+short_url = "https://tmblr.co/ZY3jbyXaeXSk"
+source_url = "http://factsanddetails.com/china.php?itemid=113"
+id = 36048082734.0
+text = "we thought pajamas were a symbol of wealth and coolness"
+can_reblog = false
+can_reply = false
+blog_name = "indirect"
 should_open_in_legacy = true
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://factsanddetails.com/china.php?itemid=113\">Bad Manners in China</a></p>"
-tree_html = ""
+source_title = "factsanddetails.com"
 
 [tumblr.blog]
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://factsanddetails.com/china.php?itemid=113\">Bad Manners in China</a></p>"
+tree_html = ""
 +++

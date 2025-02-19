@@ -6,39 +6,39 @@ slug = "if-youre-not-supposed-to-lie-on-the-floor-why-is"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://mastodon.social/@donni/109768448962673255\">@donni</a>"
-interactability_blaze = "everyone"
-date = "2023-01-30 00:38:59 GMT"
-type = "quote"
-is_blocks_post_format = false
-id = 7.078298409921905e+17
-short_url = "https://tmblr.co/ZY3jbydIjtrvmi00"
-reblog_key = "idpx1s2y"
-can_reblog = false
-can_reply = false
-id_string = "707829840992190464"
-is_blazed = false
-is_blaze_pending = false
-format = "markdown"
+blog_name = "indirect"
+text = "If you’re not supposed to lie on the floor, why is gravity so strong"
 interactability_reblog = "everyone"
+is_blocks_post_format = false
+id_string = "707829840992190464"
+post_url = "https://indirect.io/post/707829840992190464/if-youre-not-supposed-to-lie-on-the-floor-why-is"
+state = "published"
+reblog_key = "idpx1s2y"
+can_like = false
+is_blaze_pending = false
+source = "<a href=\"https://mastodon.social/@donni/109768448962673255\">@donni</a>"
+id = 7.078298409921905e+17
 slug = "if-youre-not-supposed-to-lie-on-the-floor-why-is"
 timestamp = 1675039139.0
-note_count = 0.0
-can_like = false
-state = "published"
-summary = "If you’re not supposed to lie on the floor, why is gravity so strong"
+interactability_blaze = "everyone"
 can_blaze = false
+can_reblog = false
+format = "markdown"
+summary = "If you’re not supposed to lie on the floor, why is gravity so strong"
 should_open_in_legacy = true
-text = "If you’re not supposed to lie on the floor, why is gravity so strong"
-can_send_in_message = true
+note_count = 0.0
 display_avatar = true
-blog_name = "indirect"
-post_url = "https://indirect.io/post/707829840992190464/if-youre-not-supposed-to-lie-on-the-floor-why-is"
+short_url = "https://tmblr.co/ZY3jbydIjtrvmi00"
+type = "quote"
+is_blazed = false
+date = "2023-01-30 00:38:59 GMT"
+can_send_in_message = true
+can_reply = false
 
 [tumblr.blog]
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"

@@ -6,47 +6,47 @@ slug = "just-explained-open-source-software-to-my-mother"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1357096432.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
 post_url = "https://indirect.io/post/39439128154/just-explained-open-source-software-to-my-mother"
-reblog_key = "WtcrVNx7"
-slug = "just-explained-open-source-software-to-my-mother"
-date = "2013-01-02 03:13:52 GMT"
-format = "markdown"
-can_reblog = false
-can_reply = false
-id_string = "39439128154"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyakmLPQ"
-summary = "Just explained Open Source Software to my mother: “what a nice bunch of people you all are”."
-text = "Just explained Open Source Software to my mother: &ldquo;what a nice bunch of people you all are&rdquo;."
-is_blocks_post_format = false
 should_open_in_legacy = true
-is_blaze_pending = false
-type = "quote"
 blog_name = "indirect"
-id = 39439128154.0
-can_blaze = false
+slug = "just-explained-open-source-software-to-my-mother"
 note_count = 0.0
 is_blazed = false
+can_blaze = false
+date = "2013-01-02 03:13:52 GMT"
+format = "markdown"
+type = "quote"
+is_blocks_post_format = false
+reblog_key = "WtcrVNx7"
+text = "Just explained Open Source Software to my mother: &ldquo;what a nice bunch of people you all are&rdquo;."
 source = "<a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a>"
+display_avatar = true
+state = "published"
+summary = "Just explained Open Source Software to my mother: “what a nice bunch of people you all are”."
 can_like = false
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a></p>"
-tree_html = ""
+is_blaze_pending = false
+timestamp = 1357096432.0
+short_url = "https://tmblr.co/ZY3jbyakmLPQ"
+can_reblog = false
+can_reply = false
+interactability_reblog = "everyone"
+id = 39439128154.0
+id_string = "39439128154"
+can_send_in_message = true
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://twitter.com/ileitch/status/286246725826527232\">@Ileitch</a></p>"
+tree_html = ""
 +++

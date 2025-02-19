@@ -6,50 +6,54 @@ slug = "whats-telling-to-me-is-that-microsofts-new"
 type = "tumblr-text"
 
 [tumblr]
-is_blocks_post_format = false
-id = 79480443.0
+timestamp = 1234997268.0
+state = "published"
+is_blazed = false
 can_blaze = false
 summary = "What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson,..."
-can_like = false
-can_reply = false
-is_blazed = false
-is_blaze_pending = false
-should_open_in_legacy = false
-post_url = "https://indirect.io/post/79480443/whats-telling-to-me-is-that-microsofts-new"
-slug = "whats-telling-to-me-is-that-microsofts-new"
-date = "2009-02-18 22:47:48 GMT"
-can_reblog = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jby4lCPx"
-state = "published"
-type = "text"
-id_string = "79480443"
-can_send_in_message = true
-reblog_key = "hOLVtDHJ"
 note_count = 0.0
+type = "text"
+short_url = "https://tmblr.co/ZY3jby4lCPx"
+can_reply = false
+id_string = "79480443"
+reblog_key = "hOLVtDHJ"
 interactability_reblog = "everyone"
-display_avatar = true
+can_send_in_message = true
+can_like = false
+is_blocks_post_format = false
 blog_name = "indirect"
 interactability_blaze = "everyone"
+display_avatar = true
+post_url = "https://indirect.io/post/79480443/whats-telling-to-me-is-that-microsofts-new"
+should_open_in_legacy = false
 body = "<p>What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. [&hellip;] You are who you hire.</p>\n<p>— John Gruber, <a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft’s Foray Into Retail</i></a></p>"
-timestamp = 1234997268.0
+format = "html"
+id = 79480443.0
+date = "2009-02-18 22:47:48 GMT"
+can_reblog = false
+is_blaze_pending = false
+slug = "whats-telling-to-me-is-that-microsofts-new"
+
+[tumblr.reblog]
+comment = "<p>What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. […] You are who you hire.</p>\n<p>— John Gruber, <a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft’s Foray Into Retail</i></a></p>"
+tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-content_raw = "<p>What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. […] You are who you hire.</p>\n<p>— John Gruber, <a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft’s Foray Into Retail</i></a></p>"
-content = "<p>What&rsquo;s telling to me is that Microsoft&rsquo;s new retail chief, David Porter, comes from Wal-Mart. Apple&rsquo;s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. [&hellip;] You are who you hire.</p>\n<p>&mdash; John Gruber,&nbsp;<a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft&rsquo;s Foray Into&nbsp;Retail</i></a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. […] You are who you hire.</p>\n<p>— John Gruber, <a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft’s Foray Into Retail</i></a></p>"
+content = "<p>What&rsquo;s telling to me is that Microsoft&rsquo;s new retail chief, David Porter, comes from Wal-Mart. Apple&rsquo;s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. [&hellip;] You are who you hire.</p>\n<p>&mdash; John Gruber,&nbsp;<a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft&rsquo;s Foray Into&nbsp;Retail</i></a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -59,30 +63,26 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
 show_description = true
-header_full_width = 3000.0
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_header_image = false
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 title_color = "#444444"
 title_font = "Gibson"
-header_stretch = true
-link_color = "#529ECC"
-header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-show_title = true
+header_full_width = 3000.0
+avatar_shape = "square"
 body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+link_color = "#529ECC"
+show_title = true
 title_font_weight = "bold"
-show_avatar = true
+header_bounds = ""
+show_header_image = false
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 
 [tumblr.trail.post]
 id = "79480443"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>What’s telling to me is that Microsoft’s new retail chief, David Porter, comes from Wal-Mart. Apple’s retail chief, Ron Johnson, came from Target. Target stores are nice. Wal-Mart stores are hellholes. […] You are who you hire.</p>\n<p>— John Gruber, <a href=\"http://www.slate.com/id/2211409/pagenum/all/\"><i>Regarding Microsoft’s Foray Into Retail</i></a></p>"
 +++

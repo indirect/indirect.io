@@ -6,43 +6,43 @@ slug = "this-morning-i-made-my-first-commit-to-the-meta"
 type = "tumblr-quote"
 
 [tumblr]
+summary = "This morning I made my first commit to the Meta backend production codebase. \n \n I’m not an employee or anything. I just wanted..."
+should_open_in_legacy = true
+text = "This morning I made my first commit to the Meta backend production codebase. \n<br/>\n<br/>I&rsquo;m not an employee or anything. I just wanted to see if I could do it. Lookin&rsquo; good so fa&mdash;"
+slug = "this-morning-i-made-my-first-commit-to-the-meta"
+short_url = "https://tmblr.co/ZY3jbyfJnAvtSy00"
 can_like = false
 interactability_blaze = "everyone"
-can_reblog = false
-blog_name = "indirect"
-is_blazed = false
-timestamp = 1709681145.0
-state = "published"
-summary = "This morning I made my first commit to the Meta backend production codebase. \n \n I’m not an employee or anything. I just wanted..."
+can_send_in_message = true
 type = "quote"
-reblog_key = "dTz68bvr"
-note_count = 0.0
-interactability_reblog = "everyone"
+can_blaze = false
+format = "markdown"
+can_reblog = false
 can_reply = false
-id = 7.441546170536919e+17
-display_avatar = true
-source = "<a href=\"https://twitter.com/RebeccaSlatkin/status/1765049021456859153\">Rebecca (Slatkin) Sloane (@RebeccaSlatkin)</a>"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbyfJnAvtSy00"
+is_blocks_post_format = false
 id_string = "744154617053691904"
 date = "2024-03-05 23:25:45 GMT"
+reblog_key = "dTz68bvr"
+blog_name = "indirect"
+id = 7.441546170536919e+17
+is_blaze_pending = false
+note_count = 0.0
 post_url = "https://indirect.io/post/744154617053691904/this-morning-i-made-my-first-commit-to-the-meta"
-should_open_in_legacy = true
-can_send_in_message = true
-is_blocks_post_format = false
-can_blaze = false
-slug = "this-morning-i-made-my-first-commit-to-the-meta"
-format = "markdown"
-text = "This morning I made my first commit to the Meta backend production codebase. \n<br/>\n<br/>I&rsquo;m not an employee or anything. I just wanted to see if I could do it. Lookin&rsquo; good so fa&mdash;"
+state = "published"
+display_avatar = true
+is_blazed = false
+timestamp = 1709681145.0
+source = "<a href=\"https://twitter.com/RebeccaSlatkin/status/1765049021456859153\">Rebecca (Slatkin) Sloane (@RebeccaSlatkin)</a>"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

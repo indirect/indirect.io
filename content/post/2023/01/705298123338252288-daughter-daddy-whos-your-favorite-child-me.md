@@ -6,47 +6,47 @@ slug = "daughter-daddy-whos-your-favorite-child-me"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/705298123338252288/daughter-daddy-whos-your-favorite-child-me"
-reblog_key = "Gn8h8Jqi"
-interactability_reblog = "everyone"
-can_reblog = false
 slug = "daughter-daddy-whos-your-favorite-child-me"
-timestamp = 1672624705.0
-can_send_in_message = true
-can_reply = false
-id_string = "705298123338252288"
-note_count = 0.0
-can_like = false
-format = "markdown"
-id = 7.052981233382523e+17
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-is_blazed = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyd9kEW6Ku00"
 should_open_in_legacy = true
+note_count = 0.0
+format = "markdown"
+is_blocks_post_format = false
+timestamp = 1672624705.0
 text = "<p>daughter: daddy, who’s your favorite child?</p>\n\n<p>me: I don’t have a favorite. you all need to try a little harder</p>"
-source = "<a href=\"https://universeodon.com/@rebrafsim/109615091283770687\">@rebrafsim</a>"
-can_blaze = false
-display_avatar = true
-is_blaze_pending = false
-date = "2023-01-02 01:58:25 GMT"
-summary = "daughter: daddy, who’s your favorite child?\n\n me: I don’t have a favorite. you all need to try a little harder"
-type = "quote"
+can_reblog = false
+can_reply = false
 blog_name = "indirect"
+is_blaze_pending = false
+can_blaze = false
+state = "published"
+interactability_reblog = "everyone"
+type = "quote"
+id = 7.052981233382523e+17
+source = "<a href=\"https://universeodon.com/@rebrafsim/109615091283770687\">@rebrafsim</a>"
+display_avatar = true
+is_blazed = false
+post_url = "https://indirect.io/post/705298123338252288/daughter-daddy-whos-your-favorite-child-me"
+date = "2023-01-02 01:58:25 GMT"
+short_url = "https://tmblr.co/ZY3jbyd9kEW6Ku00"
+summary = "daughter: daddy, who’s your favorite child?\n\n me: I don’t have a favorite. you all need to try a little harder"
+can_send_in_message = true
+id_string = "705298123338252288"
+can_like = false
+reblog_key = "Gn8h8Jqi"
+interactability_blaze = "everyone"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://universeodon.com/@rebrafsim/109615091283770687\">@rebrafsim</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

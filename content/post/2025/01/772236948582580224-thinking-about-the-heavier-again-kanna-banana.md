@@ -8,44 +8,48 @@ type = "tumblr-photo"
 [tumblr]
 id = 7.722369485825802e+17
 timestamp = 1736462543.0
-note_count = 0.0
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/772236948582580224/thinking-about-the-heavier-again-kanna-banana"
-slug = "thinking-about-the-heavier-again-kanna-banana"
-reblog_key = "uRQ2YKPy"
-should_open_in_legacy = true
-can_reblog = false
-can_send_in_message = true
-is_blazed = false
-is_blaze_pending = false
 state = "published"
-link_url = "https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-can_blaze = false
 format = "html"
-image_permalink = "https://indirect.io/image/772236948582580224"
-blog_name = "indirect"
+reblog_key = "uRQ2YKPy"
 short_url = "https://tmblr.co/ZY3jbygtYMdAia00"
-summary = "thinking about the heavier again — Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)"
-can_like = false
-display_avatar = true
+is_blazed = false
+can_blaze = false
+can_reblog = false
 type = "photo"
-id_string = "772236948582580224"
-date = "2025-01-09 22:42:23 GMT"
-caption = "<p>thinking about the heavier again — <a href=\"https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t\">Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)</a></p>"
+slug = "thinking-about-the-heavier-again-kanna-banana"
+link_url = "https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t"
 can_reply = false
+should_open_in_legacy = true
+note_count = 0.0
+caption = "<p>thinking about the heavier again — <a href=\"https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t\">Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)</a></p>"
+interactability_blaze = "everyone"
+id_string = "772236948582580224"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/772236948582580224/thinking-about-the-heavier-again-kanna-banana"
+date = "2025-01-09 22:42:23 GMT"
+summary = "thinking about the heavier again — Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+image_permalink = "https://indirect.io/image/772236948582580224"
+can_like = false
+can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
 
 [tumblr.blog]
-url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>thinking about the heavier again — <a href=\"https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t\">Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)</a></p>"
 
 [[tumblr.trail]]
 content_raw = "<p>thinking about the heavier again — <a href=\"https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t\">Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)</a></p>"
@@ -54,39 +58,35 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
 active = true
 share_likes = false
 share_following = false
+can_be_followed = true
+name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-title_font_weight = "bold"
-header_full_height = 1055.0
-avatar_shape = "square"
-header_stretch = true
-show_avatar = true
+show_description = true
 show_header_image = false
+avatar_shape = "square"
+background_color = "#FAFAFA"
+title_font = "Gibson"
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 link_color = "#529ECC"
+show_avatar = true
 header_full_width = 3000.0
-show_description = true
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_title = true
 title_color = "#444444"
-title_font = "Gibson"
-background_color = "#FAFAFA"
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "772236948582580224"
-
-[tumblr.reblog]
-comment = "<p>thinking about the heavier again — <a href=\"https://bsky.app/profile/kanna-banana.bsky.social/post/3lfdpbotous2t\">Kanna Banana 🏳️‍⚧️🇧🇷 (comms 3/3) (@kanna-banana.bsky.social)</a></p>"
-tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -97,14 +97,14 @@ width = 750.0
 height = 911.0
 
 [[tumblr.photos.alt_sizes]]
+height = 911.0
 url = "/images/cc/07/303d4e24ed5201084cd860510284.jpg"
 width = 750.0
-height = 911.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/07/3d/b0c5a594aab829def6c94f8a1c81.jpg"
 width = 640.0
 height = 777.0
+url = "/images/07/3d/b0c5a594aab829def6c94f8a1c81.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c6/88/419c863052027a16befdf55c2955.jpg"
@@ -122,17 +122,17 @@ width = 400.0
 height = 486.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/15/58/b69ae61539b8bb8986c726b48d00.jpg"
 width = 250.0
 height = 304.0
-url = "/images/15/58/b69ae61539b8bb8986c726b48d00.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 121.0
 url = "/images/5c/69/7c7e3a929fa0d553ea477f4719d5.jpg"
 width = 100.0
+height = 121.0
 
 [[tumblr.photos.alt_sizes]]
-width = 75.0
 height = 75.0
 url = "/images/54/b7/15623f12559fd60a9a64bae60d10.jpg"
+width = 75.0
 +++

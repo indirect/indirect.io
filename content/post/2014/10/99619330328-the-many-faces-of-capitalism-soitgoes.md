@@ -6,35 +6,46 @@ slug = "the-many-faces-of-capitalism-soitgoes"
 type = "tumblr-photo"
 
 [tumblr]
-is_blaze_pending = false
-note_count = 0.0
+is_blocks_post_format = false
 id = 99619330328.0
-id_string = "99619330328"
-post_url = "https://indirect.io/post/99619330328/the-many-faces-of-capitalism-soitgoes"
 date = "2014-10-10 03:30:09 GMT"
+timestamp = 1412911809.0
+caption = "<p>The many faces of capitalism — <a href=\"http://twitter.com/soit_goes/status/520320334055370753\">@soit_goes</a></p>"
+can_like = false
+can_reblog = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/99619330328/the-many-faces-of-capitalism-soitgoes"
 format = "html"
 should_open_in_legacy = true
-can_reblog = false
-blog_name = "indirect"
-can_like = false
-can_reply = false
-reblog_key = "8Hm7tId7"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blazed = false
+note_count = 0.0
+type = "photo"
 slug = "the-many-faces-of-capitalism-soitgoes"
-state = "published"
+summary = "The many faces of capitalism — @soit_goes"
+reblog_key = "8Hm7tId7"
 short_url = "https://tmblr.co/ZY3jby1SnnbaO"
-caption = "<p>The many faces of capitalism — <a href=\"http://twitter.com/soit_goes/status/520320334055370753\">@soit_goes</a></p>"
-image_permalink = "https://indirect.io/image/99619330328"
 interactability_blaze = "everyone"
 can_send_in_message = true
-type = "photo"
-is_blocks_post_format = false
-can_blaze = false
-timestamp = 1412911809.0
-summary = "The many faces of capitalism — @soit_goes"
+can_reply = false
+image_permalink = "https://indirect.io/image/99619330328"
+display_avatar = true
+state = "published"
 link_url = "http://twitter.com/soit_goes/status/520320334055370753"
+blog_name = "indirect"
+id_string = "99619330328"
+is_blazed = false
+can_blaze = false
+interactability_reblog = "everyone"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
 content_raw = "<p>The many faces of capitalism — <a href=\"http://twitter.com/soit_goes/status/520320334055370753\">@soit_goes</a></p>"
@@ -50,35 +61,36 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
+title_color = "#444444"
 header_full_height = 1055.0
-body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-link_color = "#529ECC"
+header_bounds = ""
 show_avatar = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_stretch = true
 show_description = true
 title_font = "Gibson"
 header_full_width = 3000.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
 header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-avatar_shape = "square"
-header_bounds = ""
+link_color = "#529ECC"
 show_header_image = false
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_stretch = true
-title_color = "#444444"
 
 [tumblr.trail.post]
 id = "99619330328"
 
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>The many faces of capitalism — <a href=\"http://twitter.com/soit_goes/status/520320334055370753\">@soit_goes</a></p>"
-
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/88/0d/323a321ddededb892632c6cf27fc.jpg"
+width = 545.0
+height = 225.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/88/0d/323a321ddededb892632c6cf27fc.jpg"
@@ -115,19 +127,7 @@ url = "/images/53/e4/dcfeee86a44381cdfe25efa360ee.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-height = 225.0
-url = "/images/88/0d/323a321ddededb892632c6cf27fc.jpg"
-width = 545.0
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>The many faces of capitalism — <a href=\"http://twitter.com/soit_goes/status/520320334055370753\">@soit_goes</a></p>"
+tree_html = ""
 +++

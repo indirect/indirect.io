@@ -6,39 +6,35 @@ slug = "perfect-software-engineering-no-notes-tweet"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2024-02-29 19:56:16 GMT"
-timestamp = 1709236576.0
-format = "html"
-note_count = 0.0
-can_reply = false
-display_avatar = true
-type = "photo"
-is_blazed = false
-is_blaze_pending = false
-slug = "perfect-software-engineering-no-notes-tweet"
-state = "published"
-summary = "perfect software engineering. no notes.  tweet cite — @0xabad1dea"
 id = 7.436884533210644e+17
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyfI7BL3mm00"
-should_open_in_legacy = true
-caption = "<p>perfect software engineering. no notes. </p><p><a href=\"https://twitter.com/EAHelp/status/1763192739322085598\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tweet cite</a></p> — <a href=\"https://infosec.exchange/@0xabad1dea/112015426505092751\">@0xabad1dea</a>"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
+is_blaze_pending = false
 interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
+display_avatar = true
+is_blazed = false
+slug = "perfect-software-engineering-no-notes-tweet"
+timestamp = 1709236576.0
 can_like = false
-reblog_key = "D8TUMfV2"
+is_blocks_post_format = false
+can_blaze = false
+date = "2024-02-29 19:56:16 GMT"
 link_url = "https://infosec.exchange/@0xabad1dea/112015426505092751"
-image_permalink = "https://indirect.io/image/743688453321064448"
-post_url = "https://indirect.io/post/743688453321064448/perfect-software-engineering-no-notes-tweet"
+can_reply = false
 blog_name = "indirect"
 id_string = "743688453321064448"
-
-[tumblr.reblog]
-comment = "<p><p>perfect software engineering. no notes. </p><p><a href=\"https://twitter.com/EAHelp/status/1763192739322085598\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tweet cite</a></p> — <a href=\"https://infosec.exchange/@0xabad1dea/112015426505092751\">@0xabad1dea</a></p>"
-tree_html = ""
+post_url = "https://indirect.io/post/743688453321064448/perfect-software-engineering-no-notes-tweet"
+can_reblog = false
+state = "published"
+summary = "perfect software engineering. no notes.  tweet cite — @0xabad1dea"
+should_open_in_legacy = true
+reblog_key = "D8TUMfV2"
+caption = "<p>perfect software engineering. no notes. </p><p><a href=\"https://twitter.com/EAHelp/status/1763192739322085598\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tweet cite</a></p> — <a href=\"https://infosec.exchange/@0xabad1dea/112015426505092751\">@0xabad1dea</a>"
+can_send_in_message = true
+type = "photo"
+image_permalink = "https://indirect.io/image/743688453321064448"
+interactability_blaze = "everyone"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyfI7BL3mm00"
+note_count = 0.0
 
 [[tumblr.trail]]
 content_raw = "<p><p>perfect software engineering. no notes. </p><p><a href=\"https://twitter.com/EAHelp/status/1763192739322085598\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tweet cite</a></p> — <a href=\"https://infosec.exchange/@0xabad1dea/112015426505092751\">@0xabad1dea</a></p>"
@@ -50,45 +46,55 @@ is_root_item = true
 id = "743688453321064448"
 
 [tumblr.trail.blog]
-share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_avatar = true
-body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_image_poster = ""
+show_avatar = true
+show_description = true
+show_header_image = false
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_bounds = ""
+title_font_weight = "bold"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
 title_color = "#444444"
 title_font = "Gibson"
-show_description = true
-background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-show_header_image = false
-title_font_weight = "bold"
-header_full_height = 1055.0
 avatar_shape = "square"
-header_bounds = ""
-header_stretch = true
+show_title = true
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><p>perfect software engineering. no notes. </p><p><a href=\"https://twitter.com/EAHelp/status/1763192739322085598\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tweet cite</a></p> — <a href=\"https://infosec.exchange/@0xabad1dea/112015426505092751\">@0xabad1dea</a></p>"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/c7/46/f6123789214cd44dfbecfd5015e9.png"
-width = 1240.0
-height = 1034.0
-
 [[tumblr.photos.alt_sizes]]
-url = "/images/c7/46/f6123789214cd44dfbecfd5015e9.png"
 width = 1240.0
 height = 1034.0
+url = "/images/c7/46/f6123789214cd44dfbecfd5015e9.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/16/2f/a27c2ffca0cb1b3bd713fee01b56.png"
@@ -101,9 +107,9 @@ url = "/images/98/db/0bbd334843dd99372f52a98f293f.png"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
+height = 417.0
 url = "/images/8b/db/7fd2b50127ab26bfaf08961b0091.png"
 width = 500.0
-height = 417.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/11/14/89bfb0c09b706e0278ec31d1b461.png"
@@ -125,14 +131,8 @@ url = "/images/d6/d4/982d84c1f25a0f45f1de5d12942a.png"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.photos.original_size]
+url = "/images/c7/46/f6123789214cd44dfbecfd5015e9.png"
+width = 1240.0
+height = 1034.0
 +++

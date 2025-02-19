@@ -6,50 +6,50 @@ slug = "they-might-as-well-name-it-windows-7-we-hold-you"
 type = "tumblr-quote"
 
 [tumblr]
+is_blocks_post_format = false
+can_send_in_message = true
 type = "quote"
-reblog_key = "K6kgZnLH"
-source_title = "daringfireball.net"
-date = "2009-04-21 22:39:30 GMT"
-timestamp = 1240353570.0
-can_reply = false
-slug = "they-might-as-well-name-it-windows-7-we-hold-you"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby5uOUP"
-source = "<a href=\"http://daringfireball.net/linked/2009/04/21/windows-7-starter\">Windows 7 Starter Edition Only Runs 3 Applications at Once</a>"
-display_avatar = true
-blog_name = "indirect"
-id_string = "98666393"
-post_url = "https://indirect.io/post/98666393/they-might-as-well-name-it-windows-7-we-hold-you"
-format = "html"
-text = "They might as well name it “Windows 7: We Hold You in Contempt and Dare You, Fucking Dare You, to Try Something Else Edition”"
-interactability_reblog = "everyone"
+is_blazed = false
 is_blaze_pending = false
 can_blaze = false
-can_like = false
-is_blocks_post_format = false
-id = 98666393.0
-should_open_in_legacy = true
-bookmarklet = true
+post_url = "https://indirect.io/post/98666393/they-might-as-well-name-it-windows-7-we-hold-you"
+timestamp = 1240353570.0
 source_url = "http://daringfireball.net/linked/2009/04/21/windows-7-starter"
-interactability_blaze = "everyone"
-is_blazed = false
+can_like = false
+blog_name = "indirect"
+id = 98666393.0
+reblog_key = "K6kgZnLH"
+source = "<a href=\"http://daringfireball.net/linked/2009/04/21/windows-7-starter\">Windows 7 Starter Edition Only Runs 3 Applications at Once</a>"
+can_reblog = false
+display_avatar = true
+state = "published"
+slug = "they-might-as-well-name-it-windows-7-we-hold-you"
+short_url = "https://tmblr.co/ZY3jby5uOUP"
+should_open_in_legacy = true
+text = "They might as well name it “Windows 7: We Hold You in Contempt and Dare You, Fucking Dare You, to Try Something Else Edition”"
+interactability_reblog = "everyone"
+can_reply = false
+date = "2009-04-21 22:39:30 GMT"
+bookmarklet = true
+source_title = "daringfireball.net"
+format = "html"
 summary = "They might as well name it “Windows 7: We Hold You in Contempt and Dare You, Fucking Dare You, to Try Something Else Edition”"
 note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://daringfireball.net/linked/2009/04/21/windows-7-starter\">Windows 7 Starter Edition Only Runs 3 Applications at Once</a></p>"
-tree_html = ""
+id_string = "98666393"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://daringfireball.net/linked/2009/04/21/windows-7-starter\">Windows 7 Starter Edition Only Runs 3 Applications at Once</a></p>"
+tree_html = ""
 +++

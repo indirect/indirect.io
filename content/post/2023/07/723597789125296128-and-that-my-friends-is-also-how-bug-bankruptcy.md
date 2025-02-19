@@ -6,49 +6,49 @@ slug = "and-that-my-friends-is-also-how-bug-bankruptcy"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
+post_url = "https://indirect.io/post/723597789125296128/and-that-my-friends-is-also-how-bug-bankruptcy"
+is_blaze_pending = false
+slug = "and-that-my-friends-is-also-how-bug-bankruptcy"
 interactability_reblog = "everyone"
-id_string = "723597789125296128"
-timestamp = 1690076626.0
-state = "published"
-source_url = "https://apenwarr.ca/log/?m=202306"
+can_reply = false
+id = 7.235977891252961e+17
 can_reblog = false
-is_blazed = false
-reblog_key = "cLxBm3PD"
-should_open_in_legacy = true
-source = "<a href=\"https://apenwarr.ca/log/?m=202306\">Tech debt metaphor maximalism</a>"
 type = "quote"
 summary = "And that, my friends, is also how bug bankruptcy works. Although the process for declaring it is easier – no lawyers or trustees..."
-can_reply = false
-blog_name = "indirect"
-id = 7.235977891252961e+17
-is_blaze_pending = false
-can_blaze = false
-slug = "and-that-my-friends-is-also-how-bug-bankruptcy"
-source_title = "apenwarr.ca"
-note_count = 2.0
-can_send_in_message = true
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/723597789125296128/and-that-my-friends-is-also-how-bug-bankruptcy"
+source_url = "https://apenwarr.ca/log/?m=202306"
+id_string = "723597789125296128"
+is_blazed = false
 date = "2023-07-23 01:43:46 GMT"
-short_url = "https://tmblr.co/ZY3jbyeAl5hz4a00"
-display_avatar = true
-format = "markdown"
+timestamp = 1690076626.0
+source_title = "apenwarr.ca"
 interactability_blaze = "everyone"
+display_avatar = true
+should_open_in_legacy = true
+is_blocks_post_format = false
+blog_name = "indirect"
+can_blaze = false
+format = "markdown"
+reblog_key = "cLxBm3PD"
+short_url = "https://tmblr.co/ZY3jbyeAl5hz4a00"
+can_like = false
+state = "published"
+note_count = 2.0
 text = "And that, my friends, is also how bug bankruptcy works. Although the process for declaring it is easier &ndash; no lawyers or trustees required! &ndash; the long-term destruction of trust is real."
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
+source = "<a href=\"https://apenwarr.ca/log/?m=202306\">Tech debt metaphor maximalism</a>"
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://apenwarr.ca/log/?m=202306\">Tech debt metaphor maximalism</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

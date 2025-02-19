@@ -6,50 +6,50 @@ slug = "the-hour-humans-once-spent-awake-in-the-middle-of"
 type = "tumblr-quote"
 
 [tumblr]
-id = 49410110201.0
+source_url = "http://www.delanceyplace.com/view_archives.php?2137"
 timestamp = 1367462504.0
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-is_blazed = false
-state = "published"
-source_title = "delanceyplace.com"
-display_avatar = true
-type = "quote"
-text = "the hour humans once spent awake in the middle of the night was probably the most relaxing block of time their lives"
-source = "<a href=\"http://www.delanceyplace.com/view_archives.php?2137\">we used to sleep twice each night</a>"
 is_blocks_post_format = false
 id_string = "49410110201"
-date = "2013-05-02 02:41:44 GMT"
+can_blaze = false
+state = "published"
+bookmarklet = true
 can_like = false
-can_send_in_message = true
-format = "markdown"
-source_url = "http://www.delanceyplace.com/view_archives.php?2137"
-summary = "the hour humans once spent awake in the middle of the night was probably the most relaxing block of time their lives"
-interactability_blaze = "everyone"
 can_reblog = false
 blog_name = "indirect"
-is_blaze_pending = false
+display_avatar = true
+source = "<a href=\"http://www.delanceyplace.com/view_archives.php?2137\">we used to sleep twice each night</a>"
 short_url = "https://tmblr.co/ZY3jbyk14dBv"
-can_blaze = false
-post_url = "https://indirect.io/post/49410110201/the-hour-humans-once-spent-awake-in-the-middle-of"
-slug = "the-hour-humans-once-spent-awake-in-the-middle-of"
+note_count = 0.0
+source_title = "delanceyplace.com"
+text = "the hour humans once spent awake in the middle of the night was probably the most relaxing block of time their lives"
+interactability_reblog = "everyone"
 reblog_key = "ndJfBlcQ"
-bookmarklet = true
+is_blazed = false
+is_blaze_pending = false
+format = "markdown"
 can_reply = false
+date = "2013-05-02 02:41:44 GMT"
+can_send_in_message = true
+post_url = "https://indirect.io/post/49410110201/the-hour-humans-once-spent-awake-in-the-middle-of"
+type = "quote"
+interactability_blaze = "everyone"
+id = 49410110201.0
+slug = "the-hour-humans-once-spent-awake-in-the-middle-of"
+summary = "the hour humans once spent awake in the middle of the night was probably the most relaxing block of time their lives"
+should_open_in_legacy = true
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.delanceyplace.com/view_archives.php?2137\">we used to sleep twice each night</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

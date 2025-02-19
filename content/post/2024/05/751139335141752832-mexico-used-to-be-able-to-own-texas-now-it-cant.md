@@ -6,34 +6,34 @@ slug = "mexico-used-to-be-able-to-own-texas-now-it-cant"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/751139335141752832/mexico-used-to-be-able-to-own-texas-now-it-cant"
-date = "2024-05-22 01:44:51 GMT"
+is_blaze_pending = false
 reblog_key = "xuakmv4K"
+can_reply = false
+note_count = 0.0
+source = "<a href=\"https://twitter.com/plathiandc/status/1792758900258971944\">scotty (@plathiandc)</a>"
+post_url = "https://indirect.io/post/751139335141752832/mexico-used-to-be-able-to-own-texas-now-it-cant"
+slug = "mexico-used-to-be-able-to-own-texas-now-it-cant"
+state = "published"
 can_reblog = false
 id_string = "751139335141752832"
-slug = "mexico-used-to-be-able-to-own-texas-now-it-cant"
-summary = "mexico used to be able to own texas. now it can’t. because of Polk."
+can_blaze = false
+can_send_in_message = true
+format = "markdown"
+can_like = false
+type = "quote"
+date = "2024-05-22 01:44:51 GMT"
 interactability_blaze = "everyone"
-blog_name = "indirect"
-should_open_in_legacy = true
-note_count = 0.0
 display_avatar = true
 is_blocks_post_format = false
-can_blaze = false
-state = "published"
-format = "markdown"
-text = "mexico used to be able to own texas. now it can’t. because of Polk."
+blog_name = "indirect"
 is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyfibJxVye00"
-source = "<a href=\"https://twitter.com/plathiandc/status/1792758900258971944\">scotty (@plathiandc)</a>"
-can_send_in_message = true
-id = 7.511393351417528e+17
-can_like = false
-interactability_reblog = "everyone"
-type = "quote"
-is_blaze_pending = false
 timestamp = 1716342291.0
-can_reply = false
+short_url = "https://tmblr.co/ZY3jbyfibJxVye00"
+id = 7.511393351417528e+17
+interactability_reblog = "everyone"
+summary = "mexico used to be able to own texas. now it can’t. because of Polk."
+should_open_in_legacy = true
+text = "mexico used to be able to own texas. now it can’t. because of Polk."
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/plathiandc/status/1792758900258971944\">scotty (@plathiandc)</a></p>"
@@ -46,7 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

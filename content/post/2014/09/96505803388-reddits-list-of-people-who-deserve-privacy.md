@@ -6,47 +6,47 @@ slug = "reddits-list-of-people-who-deserve-privacy"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1PuCR9y"
-summary = "Reddit’s List of People Who Deserve Privacy: Pedophiles, Stalkers. Reddit’s List of People Who Don’t Deserve Privacy: Every..."
-source = "<a href=\"http://twitter.com/mikesacco/status/256278433900920832\">@mikesacco</a>"
-display_avatar = true
-type = "quote"
-interactability_reblog = "everyone"
-date = "2014-09-03 02:34:09 GMT"
-reblog_key = "jFgZyw9F"
-is_blazed = false
-post_url = "https://indirect.io/post/96505803388/reddits-list-of-people-who-deserve-privacy"
-is_blocks_post_format = false
 slug = "reddits-list-of-people-who-deserve-privacy"
-can_like = false
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-blog_name = "indirect"
+source = "<a href=\"http://twitter.com/mikesacco/status/256278433900920832\">@mikesacco</a>"
+type = "quote"
 id_string = "96505803388"
-timestamp = 1409711649.0
-note_count = 0.0
-text = "Reddit&rsquo;s List of People Who Deserve Privacy: Pedophiles, Stalkers. Reddit&rsquo;s List of People Who Don&rsquo;t Deserve Privacy: Every Woman Alive"
-can_send_in_message = true
+post_url = "https://indirect.io/post/96505803388/reddits-list-of-people-who-deserve-privacy"
+short_url = "https://tmblr.co/ZY3jby1PuCR9y"
+date = "2014-09-03 02:34:09 GMT"
 state = "published"
-format = "html"
+should_open_in_legacy = true
+can_send_in_message = true
+interactability_reblog = "everyone"
+is_blaze_pending = false
+timestamp = 1409711649.0
+reblog_key = "jFgZyw9F"
+can_like = false
+interactability_blaze = "everyone"
+id = 96505803388.0
+is_blazed = false
 can_reblog = false
 can_reply = false
-id = 96505803388.0
-is_blaze_pending = false
+format = "html"
+text = "Reddit&rsquo;s List of People Who Deserve Privacy: Pedophiles, Stalkers. Reddit&rsquo;s List of People Who Don&rsquo;t Deserve Privacy: Every Woman Alive"
+display_avatar = true
+can_blaze = false
+note_count = 0.0
+blog_name = "indirect"
+summary = "Reddit’s List of People Who Deserve Privacy: Pedophiles, Stalkers. Reddit’s List of People Who Don’t Deserve Privacy: Every..."
+is_blocks_post_format = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/mikesacco/status/256278433900920832\">@mikesacco</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

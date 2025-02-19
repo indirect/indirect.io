@@ -6,47 +6,47 @@ slug = "the-calvinistic-reflex-that-you-have-to-work-for"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-source = "<a href=\"https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/31639050894-e44e2c00##The+Calvinistic+reflex+that+you+have+to+work+for+your+money+has+turned+into+a+license+for+inequality.\">Why we should give free money to everyone</a>"
-interactability_reblog = "everyone"
-can_reply = false
-id = 89767278393.0
-state = "published"
+can_blaze = false
+summary = "The Calvinistic reflex that you have to work for your money has turned into a license for inequality."
 should_open_in_legacy = true
-note_count = 0.0
 interactability_blaze = "everyone"
 blog_name = "indirect"
-can_blaze = false
 post_url = "https://indirect.io/post/89767278393/the-calvinistic-reflex-that-you-have-to-work-for"
 short_url = "https://tmblr.co/ZY3jby1JcY-Sv"
+display_avatar = true
+is_blaze_pending = false
+source = "<a href=\"https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/31639050894-e44e2c00##The+Calvinistic+reflex+that+you+have+to+work+for+your+money+has+turned+into+a+license+for+inequality.\">Why we should give free money to everyone</a>"
+id_string = "89767278393"
+can_reply = false
+text = "The Calvinistic reflex that you have to work for your money has turned into a license for inequality."
+is_blocks_post_format = false
+id = 89767278393.0
+date = "2014-06-24 16:17:48 GMT"
+state = "published"
+timestamp = 1403626668.0
 can_like = false
 slug = "the-calvinistic-reflex-that-you-have-to-work-for"
-format = "markdown"
-summary = "The Calvinistic reflex that you have to work for your money has turned into a license for inequality."
-can_reblog = false
-text = "The Calvinistic reflex that you have to work for your money has turned into a license for inequality."
-can_send_in_message = true
-display_avatar = true
-id_string = "89767278393"
-is_blazed = false
-is_blaze_pending = false
-date = "2014-06-24 16:17:48 GMT"
-timestamp = 1403626668.0
-is_blocks_post_format = false
 reblog_key = "tR87DgNE"
+note_count = 0.0
+interactability_reblog = "everyone"
+type = "quote"
+is_blazed = false
+format = "markdown"
+can_reblog = false
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://decorrespondent.nl/541/why-we-should-give-free-money-to-everyone/31639050894-e44e2c00##The+Calvinistic+reflex+that+you+have+to+work+for+your+money+has+turned+into+a+license+for+inequality.\">Why we should give free money to everyone</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

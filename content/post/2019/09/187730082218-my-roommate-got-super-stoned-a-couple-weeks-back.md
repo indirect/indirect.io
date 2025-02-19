@@ -6,35 +6,72 @@ slug = "my-roommate-got-super-stoned-a-couple-weeks-back"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-link_url = "http://twitter.com/gordihyena/status/1172946706226278400"
-image_permalink = "https://indirect.io/image/187730082218"
-can_like = false
-slug = "my-roommate-got-super-stoned-a-couple-weeks-back"
-state = "published"
-can_send_in_message = true
-blog_name = "indirect"
 id = 187730082218.0
-is_blaze_pending = false
-can_blaze = false
-reblog_key = "KWg3V8JG"
-short_url = "https://tmblr.co/ZY3jby2krbRcg"
-interactability_blaze = "everyone"
+state = "published"
+note_count = 0.0
+interactability_reblog = "everyone"
+can_send_in_message = true
+timestamp = 1568548638.0
 is_blocks_post_format = false
 post_url = "https://indirect.io/post/187730082218/my-roommate-got-super-stoned-a-couple-weeks-back"
-should_open_in_legacy = true
-caption = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night — <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
-can_reply = false
-id_string = "187730082218"
-note_count = 0.0
-display_avatar = true
-timestamp = 1568548638.0
-summary = "My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot..."
-date = "2019-09-15 11:57:18 GMT"
 format = "html"
-interactability_reblog = "everyone"
+link_url = "http://twitter.com/gordihyena/status/1172946706226278400"
+can_like = false
+blog_name = "indirect"
+is_blazed = false
+slug = "my-roommate-got-super-stoned-a-couple-weeks-back"
+summary = "My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot..."
+interactability_blaze = "everyone"
 can_reblog = false
+can_reply = false
+caption = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night — <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
+image_permalink = "https://indirect.io/image/187730082218"
+id_string = "187730082218"
+is_blaze_pending = false
+date = "2019-09-15 11:57:18 GMT"
+reblog_key = "KWg3V8JG"
+short_url = "https://tmblr.co/ZY3jby2krbRcg"
+can_blaze = false
+should_open_in_legacy = true
+display_avatar = true
 type = "photo"
+
+[[tumblr.trail]]
+content_raw = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night — <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
+content = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night &mdash; <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_full_height = 1055.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+avatar_shape = "square"
+header_bounds = ""
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_description = true
+
+[tumblr.trail.post]
+id = "187730082218"
 
 [[tumblr.photos]]
 caption = ""
@@ -45,14 +82,14 @@ width = 1200.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
-height = 900.0
 url = "/images/9d/f4/842e9286c33a3c5dcb13ba946038.jpg"
 width = 1200.0
+height = 900.0
 
 [[tumblr.photos.alt_sizes]]
-height = 480.0
 url = "/images/70/8c/df3b7375e41a9c707190580beb34.jpg"
 width = 640.0
+height = 480.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/50/40/fe98b265b557e0c5a153765b7f83.jpg"
@@ -75,9 +112,9 @@ width = 250.0
 height = 188.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/fe/94/2fb4b19346dd1e45c712865efb5f.jpg"
 width = 100.0
+height = 75.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b6/90/d92406762ea5e6bc0147acf7ea1b.jpg"
@@ -95,44 +132,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night — <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
-content = "<p>My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night &mdash; <a href=\"http://twitter.com/gordihyena/status/1172946706226278400\">@gordihyena</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_full_height = 1055.0
-avatar_shape = "square"
-title_font = "Gibson"
-header_full_width = 3000.0
-background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_avatar = true
-show_header_image = false
-show_title = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-link_color = "#529ECC"
-show_description = true
-title_color = "#444444"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_stretch = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "187730082218"
 +++

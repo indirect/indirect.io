@@ -6,50 +6,50 @@ slug = "not-all-chambers-of-the-gun"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-interactability_reblog = "everyone"
-display_avatar = true
-source = "<a href=\"http://juliepagano.com/blog/2014/08/25/conference-recap-madison-ruby-2014/\">Conference Recap: Madison  Ruby 2014</a>"
-is_blaze_pending = false
-bookmarklet = true
-source_title = "juliepagano.com"
-is_blazed = false
-can_blaze = false
-can_like = false
-can_reply = false
-type = "quote"
-is_blocks_post_format = false
-id_string = "95792023603"
-slug = "not-all-chambers-of-the-gun"
+state = "published"
 summary = "NOT ALL CHAMBERS OF THE GUN."
-source_url = "http://juliepagano.com/blog/2014/08/25/conference-recap-madison-ruby-2014/"
-text = "NOT ALL CHAMBERS OF THE GUN."
-can_reblog = false
-post_url = "https://indirect.io/post/95792023603/not-all-chambers-of-the-gun"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby1PDfaWp"
+note_count = 0.0
+blog_name = "indirect"
+id = 95792023603.0
 timestamp = 1409022893.0
+can_like = false
+can_send_in_message = true
+post_url = "https://indirect.io/post/95792023603/not-all-chambers-of-the-gun"
+date = "2014-08-26 03:14:53 GMT"
+source_url = "http://juliepagano.com/blog/2014/08/25/conference-recap-madison-ruby-2014/"
+id_string = "95792023603"
 reblog_key = "GkNweICN"
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-state = "published"
-blog_name = "indirect"
-date = "2014-08-26 03:14:53 GMT"
+bookmarklet = true
+source = "<a href=\"http://juliepagano.com/blog/2014/08/25/conference-recap-madison-ruby-2014/\">Conference Recap: Madison  Ruby 2014</a>"
+can_reblog = false
+type = "quote"
+is_blocks_post_format = false
+slug = "not-all-chambers-of-the-gun"
 format = "markdown"
-can_send_in_message = true
-id = 95792023603.0
-short_url = "https://tmblr.co/ZY3jby1PDfaWp"
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
+can_reply = false
+can_blaze = false
+source_title = "juliepagano.com"
+text = "NOT ALL CHAMBERS OF THE GUN."
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://juliepagano.com/blog/2014/08/25/conference-recap-madison-ruby-2014/\">Conference Recap: Madison  Ruby 2014</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

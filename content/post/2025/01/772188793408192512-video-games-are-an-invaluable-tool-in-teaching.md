@@ -6,38 +6,38 @@ slug = "video-games-are-an-invaluable-tool-in-teaching"
 type = "tumblr-quote"
 
 [tumblr]
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/772188793408192512/video-games-are-an-invaluable-tool-in-teaching"
+slug = "video-games-are-an-invaluable-tool-in-teaching"
+format = "markdown"
+can_like = false
+type = "quote"
+short_url = "https://tmblr.co/ZY3jbygtNPtAeW00"
+id = 7.721887934081925e+17
+reblog_key = "yjf1qNKT"
+can_send_in_message = true
+display_avatar = true
+is_blaze_pending = false
+can_reply = false
+can_blaze = false
+interactability_blaze = "everyone"
+date = "2025-01-09 09:56:59 GMT"
+timestamp = 1736416619.0
+state = "published"
+should_open_in_legacy = true
+note_count = 0.0
+can_reblog = false
 blog_name = "indirect"
 is_blazed = false
 summary = "video games are an invaluable tool in teaching children to find and kill god"
-should_open_in_legacy = true
-post_url = "https://indirect.io/post/772188793408192512/video-games-are-an-invaluable-tool-in-teaching"
-timestamp = 1736416619.0
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbygtNPtAeW00"
-note_count = 0.0
-source = "<a href=\"https://bsky.app/profile/jpbrammer.bsky.social/post/3lfbjzpgqkk2s\">JP (@jpbrammer.bsky.social)</a>"
-is_blocks_post_format = false
-is_blaze_pending = false
-date = "2025-01-09 09:56:59 GMT"
-can_like = false
-interactability_reblog = "everyone"
-can_send_in_message = true
-id_string = "772188793408192512"
-can_blaze = false
-reblog_key = "yjf1qNKT"
 text = "video games are an invaluable tool in teaching children to find and kill god"
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
-type = "quote"
-id = 7.721887934081925e+17
-state = "published"
-display_avatar = true
-slug = "video-games-are-an-invaluable-tool-in-teaching"
+id_string = "772188793408192512"
+source = "<a href=\"https://bsky.app/profile/jpbrammer.bsky.social/post/3lfbjzpgqkk2s\">JP (@jpbrammer.bsky.social)</a>"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"

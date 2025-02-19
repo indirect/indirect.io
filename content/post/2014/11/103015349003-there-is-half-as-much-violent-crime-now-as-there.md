@@ -6,39 +6,87 @@ slug = "there-is-half-as-much-violent-crime-now-as-there"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jby1VyCNiB"
-note_count = 0.0
-blog_name = "indirect"
-should_open_in_legacy = true
-can_like = false
-post_url = "https://indirect.io/post/103015349003/there-is-half-as-much-violent-crime-now-as-there"
 summary = "There is half as much violent crime now as there was in 1994 (US, per capita)\n\n — @conradhackett"
+can_reply = false
 caption = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+date = "2014-11-19 04:07:34 GMT"
+state = "published"
+format = "html"
+short_url = "https://tmblr.co/ZY3jby1VyCNiB"
+can_reblog = false
+should_open_in_legacy = true
+type = "photo"
+blog_name = "indirect"
+slug = "there-is-half-as-much-violent-crime-now-as-there"
+is_blocks_post_format = false
+timestamp = 1416370054.0
+note_count = 0.0
+interactability_reblog = "everyone"
 link_url = "http://twitter.com/conradhackett/status/534322569420079104"
-image_permalink = "https://indirect.io/image/103015349003"
+can_like = false
+can_send_in_message = true
 display_avatar = true
 is_blazed = false
-is_blaze_pending = false
-can_send_in_message = true
 can_blaze = false
-format = "html"
 reblog_key = "JDmfNaae"
+image_permalink = "https://indirect.io/image/103015349003"
 interactability_blaze = "everyone"
-can_reblog = false
 id = 103015349003.0
-timestamp = 1416370054.0
-date = "2014-11-19 04:07:34 GMT"
-interactability_reblog = "everyone"
-state = "published"
 id_string = "103015349003"
-slug = "there-is-half-as-much-violent-crime-now-as-there"
-can_reply = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/103015349003/there-is-half-as-much-violent-crime-now-as-there"
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+content = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> &mdash; <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+title_font = "Gibson"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_header_image = false
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "103015349003"
 
 [tumblr.reblog]
 comment = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -82,52 +130,4 @@ height = 74.0
 url = "/images/95/48/69b31bde92f442abb341f42f427a.png"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> — <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
-content = "<p>There is half as much violent crime now as there was in 1994 (US, per capita)</p>\n\n<p> &mdash; <a href=\"http://twitter.com/conradhackett/status/534322569420079104\">@conradhackett</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_full_height = 1055.0
-body_font = "Helvetica Neue"
-link_color = "#529ECC"
-show_description = true
-header_full_width = 3000.0
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-title_color = "#444444"
-title_font = "Gibson"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_avatar = true
-show_header_image = false
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-show_title = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "103015349003"
 +++

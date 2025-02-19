@@ -6,43 +6,43 @@ slug = "you-i-love-mean-girls-me-i-think-median-girls"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-can_like = false
-is_blazed = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby2cSaU29"
-can_send_in_message = true
-is_blaze_pending = false
-state = "published"
-note_count = 0.0
-display_avatar = true
-text = "<p>you: I love mean girls</p>\n\n<p>me: I think median girls gives you a better representation of the data</p>"
-interactability_reblog = "everyone"
-id = 178720465033.0
-id_string = "178720465033"
-format = "html"
 reblog_key = "NxMrEjGP"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-type = "quote"
-post_url = "https://indirect.io/post/178720465033/you-i-love-mean-girls-me-i-think-median-girls"
-timestamp = 1538632360.0
 summary = "you: I love mean girls\n\n me: I think median girls gives you a better representation of the data"
+is_blaze_pending = false
+can_blaze = false
+timestamp = 1538632360.0
+can_reply = false
+type = "quote"
+id_string = "178720465033"
 can_reblog = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jby2cSaU29"
+should_open_in_legacy = true
+blog_name = "indirect"
+id = 178720465033.0
+is_blazed = false
+slug = "you-i-love-mean-girls-me-i-think-median-girls"
+interactability_blaze = "everyone"
 is_blocks_post_format = false
 date = "2018-10-04 05:52:40 GMT"
+state = "published"
 source = "<a href=\"http://twitter.com/killakow/status/1047515199337586689\">@killakow</a>"
-blog_name = "indirect"
-slug = "you-i-love-mean-girls-me-i-think-median-girls"
+can_send_in_message = true
+text = "<p>you: I love mean girls</p>\n\n<p>me: I think median girls gives you a better representation of the data</p>"
+display_avatar = true
+post_url = "https://indirect.io/post/178720465033/you-i-love-mean-girls-me-i-think-median-girls"
+note_count = 0.0
+can_like = false
+interactability_reblog = "everyone"
 
 [tumblr.blog]
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,47 +6,47 @@ slug = "its-actually-only-helvetica-if-it-comes-from"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-summary = "It’s actually only “Helvetica” if it comes from the Helvetia region of Europe. Otherwise you have to call it “sparkling Arial”"
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/181364422103/its-actually-only-helvetica-if-it-comes-from"
-slug = "its-actually-only-helvetica-if-it-comes-from"
-can_send_in_message = true
-format = "html"
-reblog_key = "fG5d3DJ4"
-can_like = false
-interactability_blaze = "everyone"
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jby2ewANNN"
-interactability_reblog = "everyone"
-id_string = "181364422103"
-is_blazed = false
-timestamp = 1545623032.0
-state = "published"
-source = "<a href=\"http://twitter.com/PavelASamsonov/status/1076903135845720064\">@PavelASamsonov</a>"
-can_reblog = false
-text = "It&rsquo;s actually only &ldquo;Helvetica&rdquo; if it comes from the Helvetia region of Europe. Otherwise you have to call it &ldquo;sparkling Arial&rdquo;"
-type = "quote"
-id = 181364422103.0
 can_blaze = false
-note_count = 0.0
+reblog_key = "fG5d3DJ4"
 can_reply = false
+source = "<a href=\"http://twitter.com/PavelASamsonov/status/1076903135845720064\">@PavelASamsonov</a>"
 blog_name = "indirect"
-should_open_in_legacy = true
+timestamp = 1545623032.0
+short_url = "https://tmblr.co/ZY3jby2ewANNN"
+interactability_blaze = "everyone"
+type = "quote"
+format = "html"
+summary = "It’s actually only “Helvetica” if it comes from the Helvetia region of Europe. Otherwise you have to call it “sparkling Arial”"
+text = "It&rsquo;s actually only &ldquo;Helvetica&rdquo; if it comes from the Helvetia region of Europe. Otherwise you have to call it &ldquo;sparkling Arial&rdquo;"
+display_avatar = true
+id_string = "181364422103"
+interactability_reblog = "everyone"
+can_like = false
+can_send_in_message = true
+id = 181364422103.0
+is_blazed = false
+slug = "its-actually-only-helvetica-if-it-comes-from"
 date = "2018-12-24 03:43:52 GMT"
+state = "published"
+note_count = 0.0
+post_url = "https://indirect.io/post/181364422103/its-actually-only-helvetica-if-it-comes-from"
+should_open_in_legacy = true
+can_reblog = false
+is_blocks_post_format = false
+is_blaze_pending = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/PavelASamsonov/status/1076903135845720064\">@PavelASamsonov</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/PavelASamsonov/status/1076903135845720064\">@PavelASamsonov</a></p>"
-tree_html = ""
 +++

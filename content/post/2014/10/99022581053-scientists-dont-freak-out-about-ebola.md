@@ -6,41 +6,37 @@ slug = "scientists-dont-freak-out-about-ebola"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reply = false
-id = 99022581053.0
-format = "html"
-can_blaze = false
-text = "<p>Scientists: Don&rsquo;t freak out about Ebola.<br/>\nEveryone: *Panic!*</p>\n\n<p>Scientists: Freak out about climate change.<br/>\nEveryone: LOL! Pass me some coal.</p>"
-interactability_blaze = "everyone"
+type = "quote"
 blog_name = "indirect"
-post_url = "https://indirect.io/post/99022581053/scientists-dont-freak-out-about-ebola"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1SEDAqz"
-summary = "Scientists: Don’t freak out about Ebola. \nEveryone: *Panic!*\n\n Scientists: Freak out about climate change. \nEveryone: LOL! Pass..."
-can_reblog = false
-id_string = "99022581053"
-is_blazed = false
 timestamp = 1412303752.0
 source = "<a href=\"http://twitter.com/emmkaff/status/497332877408108544\">@emmkaff</a>"
 can_send_in_message = true
-is_blocks_post_format = false
-reblog_key = "6TOTRR6N"
-can_like = false
-type = "quote"
-slug = "scientists-dont-freak-out-about-ebola"
-should_open_in_legacy = true
-date = "2014-10-03 02:35:52 GMT"
 display_avatar = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/emmkaff/status/497332877408108544\">@emmkaff</a></p>"
+can_blaze = false
+interactability_reblog = "everyone"
+id = 99022581053.0
+id_string = "99022581053"
+is_blaze_pending = false
+slug = "scientists-dont-freak-out-about-ebola"
+format = "html"
+note_count = 0.0
+interactability_blaze = "everyone"
+date = "2014-10-03 02:35:52 GMT"
+state = "published"
+short_url = "https://tmblr.co/ZY3jby1SEDAqz"
+summary = "Scientists: Don’t freak out about Ebola. \nEveryone: *Panic!*\n\n Scientists: Freak out about climate change. \nEveryone: LOL! Pass..."
+is_blazed = false
+text = "<p>Scientists: Don&rsquo;t freak out about Ebola.<br/>\nEveryone: *Panic!*</p>\n\n<p>Scientists: Freak out about climate change.<br/>\nEveryone: LOL! Pass me some coal.</p>"
+can_reblog = false
+can_reply = false
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/99022581053/scientists-dont-freak-out-about-ebola"
+should_open_in_legacy = true
+can_like = false
+reblog_key = "6TOTRR6N"
 
 [tumblr.blog]
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
@@ -49,4 +45,8 @@ url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/emmkaff/status/497332877408108544\">@emmkaff</a></p>"
+tree_html = ""
 +++

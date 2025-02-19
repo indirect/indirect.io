@@ -6,47 +6,47 @@ slug = "in-soviet-russia-you-screw-the-economy-wait-did"
 type = "tumblr-quote"
 
 [tumblr]
-can_reblog = false
-is_blaze_pending = false
-reblog_key = "QA8UhbDD"
-text = "In Soviet Russia, you screw the economy! Wait. Did I get that right?"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blazed = false
 format = "html"
-short_url = "https://tmblr.co/ZY3jby6mNuv"
 should_open_in_legacy = true
+note_count = 0.0
 display_avatar = true
 is_blocks_post_format = false
-state = "published"
-source = "@alexknowshtml"
-can_send_in_message = true
 blog_name = "indirect"
 id = 113344057.0
+timestamp = 1243361708.0
+can_send_in_message = true
 id_string = "113344057"
-can_reply = false
-can_blaze = false
-note_count = 0.0
-summary = "In Soviet Russia, you screw the economy! Wait. Did I get that right?"
+is_blazed = false
+is_blaze_pending = false
+text = "In Soviet Russia, you screw the economy! Wait. Did I get that right?"
+source = "@alexknowshtml"
 can_like = false
-date = "2009-05-26 18:15:08 GMT"
+short_url = "https://tmblr.co/ZY3jby6mNuv"
+can_reblog = false
+slug = "in-soviet-russia-you-screw-the-economy-wait-did"
 type = "quote"
 post_url = "https://indirect.io/post/113344057/in-soviet-russia-you-screw-the-economy-wait-did"
-slug = "in-soviet-russia-you-screw-the-economy-wait-did"
-timestamp = 1243361708.0
-
-[tumblr.reblog]
-comment = "<p>@alexknowshtml</p>"
-tree_html = ""
+reblog_key = "QA8UhbDD"
+can_blaze = false
+interactability_reblog = "everyone"
+can_reply = false
+date = "2009-05-26 18:15:08 GMT"
+state = "published"
+summary = "In Soviet Russia, you screw the economy! Wait. Did I get that right?"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>@alexknowshtml</p>"
 +++

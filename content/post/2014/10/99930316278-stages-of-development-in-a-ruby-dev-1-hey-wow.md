@@ -6,38 +6,34 @@ slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
 type = "tumblr-quote"
 
 [tumblr]
-text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
-slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
-is_blocks_post_format = false
-source = "<a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a>"
-short_url = "https://tmblr.co/ZY3jby1T4Jvts"
-display_avatar = true
-post_url = "https://indirect.io/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
-interactability_reblog = "everyone"
 is_blaze_pending = false
-date = "2014-10-13 19:54:09 GMT"
-state = "published"
-format = "html"
-summary = "stages of development in a Ruby dev 1) “hey wow Rails!” 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
-can_like = false
 can_blaze = false
-reblog_key = "Ez0hlqQV"
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-is_blazed = false
-timestamp = 1413230049.0
+short_url = "https://tmblr.co/ZY3jby1T4Jvts"
+can_like = false
+id_string = "99930316278"
+state = "published"
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-can_reply = false
-type = "quote"
+note_count = 0.0
 blog_name = "indirect"
 id = 99930316278.0
-id_string = "99930316278"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a></p>"
-tree_html = ""
+reblog_key = "Ez0hlqQV"
+text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+is_blocks_post_format = false
+slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
+date = "2014-10-13 19:54:09 GMT"
+summary = "stages of development in a Ruby dev 1) “hey wow Rails!” 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+interactability_reblog = "everyone"
+can_reblog = false
+display_avatar = true
+is_blazed = false
+format = "html"
+can_send_in_message = true
+can_reply = false
+source = "<a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a>"
+type = "quote"
+post_url = "https://indirect.io/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
+timestamp = 1413230049.0
+interactability_blaze = "everyone"
 
 [tumblr.blog]
 can_show_badges = false
@@ -46,7 +42,11 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a></p>"
+tree_html = ""
 +++

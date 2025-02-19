@@ -6,43 +6,43 @@ slug = "me-making-an-interface-generic-so-i-can-plug-in"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-display_avatar = true
-id = 6.928738318477722e+17
-note_count = 0.0
-is_blocks_post_format = false
-id_string = "692873831847772160"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbycTbHGzSq00"
-can_send_in_message = true
-can_reply = false
-can_blaze = false
-format = "html"
-date = "2022-08-17 22:39:37 GMT"
+interactability_reblog = "everyone"
 text = "me, making an interface generic so I can plug in another backend: haha, yes, YES!\n<br/>me, now having to plug in another backend: well this fucking sucks. what the hell"
+source = "<a href=\"http://twitter.com/fasterthanlime/status/1559564914158702594\">@fasterthanlime</a>"
+display_avatar = true
 is_blazed = false
 post_url = "https://indirect.io/post/692873831847772160/me-making-an-interface-generic-so-i-can-plug-in"
-timestamp = 1660775977.0
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-type = "quote"
-blog_name = "indirect"
-is_blaze_pending = false
+can_reply = false
 slug = "me-making-an-interface-generic-so-i-can-plug-in"
+state = "published"
+can_like = false
+is_blocks_post_format = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jbycTbHGzSq00"
+note_count = 0.0
+is_blaze_pending = false
 summary = "me, making an interface generic so I can plug in another backend: haha, yes, YES!\n me, now having to plug in another backend:..."
-source = "<a href=\"http://twitter.com/fasterthanlime/status/1559564914158702594\">@fasterthanlime</a>"
+id = 6.928738318477722e+17
+timestamp = 1660775977.0
+format = "html"
+should_open_in_legacy = true
+can_reblog = false
+can_send_in_message = true
+blog_name = "indirect"
+id_string = "692873831847772160"
+date = "2022-08-17 22:39:37 GMT"
 reblog_key = "g66wf2M8"
+interactability_blaze = "everyone"
+type = "quote"
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

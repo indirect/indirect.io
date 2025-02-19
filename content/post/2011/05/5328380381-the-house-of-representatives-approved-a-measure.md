@@ -7,44 +7,44 @@ tags = ["surelythebudgetwillbebalancednow"]
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-date = "2011-05-09 06:07:45 GMT"
+post_url = "https://indirect.io/post/5328380381/the-house-of-representatives-approved-a-measure"
 reblog_key = "VbV8ecQX"
 blog_name = "indirect"
-can_blaze = false
-source = "<a href=\"http://www.pbs.org/newshour/rundown/2011/03/us-house-votes-to-cut-npr-funding.html\">NewsHour | PBS</a>"
-interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-id = 5328380381.0
-is_blazed = false
-timestamp = 1304921265.0
-format = "markdown"
-interactability_blaze = "everyone"
-tags = ["surelythebudgetwillbebalancednow"]
-summary = "The House of Representatives approved a measure Thursday to bar federal funding of National Public Radio."
-should_open_in_legacy = true
-can_reply = false
-type = "quote"
-text = "The House of Representatives approved a measure Thursday to bar federal funding of National Public Radio."
-short_url = "https://tmblr.co/ZY3jby4zcA7T"
 can_like = false
-is_blocks_post_format = false
+type = "quote"
 slug = "the-house-of-representatives-approved-a-measure"
+date = "2011-05-09 06:07:45 GMT"
+format = "markdown"
 note_count = 0.0
+text = "The House of Representatives approved a measure Thursday to bar federal funding of National Public Radio."
+can_reblog = false
+can_reply = false
 id_string = "5328380381"
-post_url = "https://indirect.io/post/5328380381/the-house-of-representatives-approved-a-measure"
+is_blazed = false
+interactability_blaze = "everyone"
+display_avatar = true
+source = "<a href=\"http://www.pbs.org/newshour/rundown/2011/03/us-house-votes-to-cut-npr-funding.html\">NewsHour | PBS</a>"
+is_blocks_post_format = false
+id = 5328380381.0
+timestamp = 1304921265.0
 state = "published"
+tags = ["surelythebudgetwillbebalancednow"]
+short_url = "https://tmblr.co/ZY3jby4zcA7T"
+summary = "The House of Representatives approved a measure Thursday to bar federal funding of National Public Radio."
+is_blaze_pending = false
+should_open_in_legacy = true
+can_send_in_message = true
+can_blaze = false
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

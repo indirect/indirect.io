@@ -6,33 +6,33 @@ slug = "architect-we-should-break-this-down-into-6"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"http://twitter.com/colettecello/status/749052871719591937\">@colettecello</a>"
-should_open_in_legacy = true
-note_count = 1.0
-is_blaze_pending = false
-timestamp = 1468024988.0
+type = "quote"
+is_blocks_post_format = false
 can_reply = false
-id = 147116843748.0
-can_blaze = false
+blog_name = "indirect"
+timestamp = 1468024988.0
+can_reblog = false
+can_send_in_message = true
+is_blaze_pending = false
+date = "2016-07-09 00:43:08 GMT"
 state = "published"
 short_url = "https://tmblr.co/ZY3jby290sEBa"
-can_send_in_message = true
-is_blocks_post_format = false
-reblog_key = "ZVCeURma"
+should_open_in_legacy = true
 text = "Architect: &ldquo;we should break this down into 6 microservices&rdquo;<br/>\nMe: &ldquo;you have 6 teams who hate each other?&rdquo;<br/>\nArchitect: &ldquo;how did you know that?&rdquo;"
-id_string = "147116843748"
-can_like = false
-interactability_reblog = "everyone"
-type = "quote"
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.io/post/147116843748/architect-we-should-break-this-down-into-6"
-date = "2016-07-09 00:43:08 GMT"
-format = "html"
-slug = "architect-we-should-break-this-down-into-6"
-summary = "Architect: “we should break this down into 6 microservices” \nMe: “you have 6 teams who hate each other?” \nArchitect: “how did..."
-can_reblog = false
 display_avatar = true
+id = 147116843748.0
+id_string = "147116843748"
+interactability_reblog = "everyone"
+post_url = "https://indirect.io/post/147116843748/architect-we-should-break-this-down-into-6"
+summary = "Architect: “we should break this down into 6 microservices” \nMe: “you have 6 teams who hate each other?” \nArchitect: “how did..."
+note_count = 1.0
+is_blazed = false
+can_blaze = false
+format = "html"
+can_like = false
+reblog_key = "ZVCeURma"
+source = "<a href=\"http://twitter.com/colettecello/status/749052871719591937\">@colettecello</a>"
+slug = "architect-we-should-break-this-down-into-6"
 interactability_blaze = "everyone"
 
 [tumblr.reblog]
@@ -46,7 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

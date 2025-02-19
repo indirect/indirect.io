@@ -6,43 +6,43 @@ slug = "if-you-give-a-man-a-software-you-torment-him-for"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-id = 7.413491365316526e+17
-state = "published"
 can_reblog = false
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.io/post/741349136531652608/if-you-give-a-man-a-software-you-torment-him-for"
-summary = "If you give a man a software, you torment him for a day.\n\n If you teach a man to software you torment him for a lifetime."
-is_blocks_post_format = false
-format = "markdown"
-reblog_key = "CJnVGVg0"
-note_count = 0.0
-id_string = "741349136531652608"
-timestamp = 1707005630.0
-source = "<a href=\"https://botsin.space/@sadoperator/110325113828380603\">@sadoperator</a>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 can_reply = false
-short_url = "https://tmblr.co/ZY3jbyf9pHoXWm00"
-should_open_in_legacy = true
+reblog_key = "CJnVGVg0"
 text = "<p>If you give a man a software, you torment him for a day.</p>\n\n<p>If you teach a man to software you torment him for a lifetime.</p>"
-can_send_in_message = true
+timestamp = 1707005630.0
+id = 7.413491365316526e+17
+display_avatar = true
+note_count = 0.0
+source = "<a href=\"https://botsin.space/@sadoperator/110325113828380603\">@sadoperator</a>"
+slug = "if-you-give-a-man-a-software-you-torment-him-for"
+is_blocks_post_format = false
+is_blaze_pending = false
+type = "quote"
+format = "markdown"
+blog_name = "indirect"
 can_blaze = false
 can_like = false
-is_blaze_pending = false
-slug = "if-you-give-a-man-a-software-you-torment-him-for"
+is_blazed = false
 date = "2024-02-04 00:13:50 GMT"
-display_avatar = true
+short_url = "https://tmblr.co/ZY3jbyf9pHoXWm00"
+summary = "If you give a man a software, you torment him for a day.\n\n If you teach a man to software you torment him for a lifetime."
+can_send_in_message = true
+interactability_reblog = "everyone"
+state = "published"
+id_string = "741349136531652608"
+post_url = "https://indirect.io/post/741349136531652608/if-you-give-a-man-a-software-you-torment-him-for"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

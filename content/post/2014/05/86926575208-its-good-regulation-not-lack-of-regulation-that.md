@@ -6,50 +6,50 @@ slug = "its-good-regulation-not-lack-of-regulation-that"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-is_blazed = false
-date = "2014-05-26 20:08:05 GMT"
-reblog_key = "P4pWHAjR"
-can_reblog = false
-display_avatar = true
-id_string = "86926575208"
-is_blaze_pending = false
-slug = "its-good-regulation-not-lack-of-regulation-that"
-state = "published"
-bookmarklet = true
-interactability_reblog = "everyone"
-can_blaze = false
-type = "quote"
-timestamp = 1401134885.0
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby1GzEaPe"
-can_like = false
-interactability_blaze = "everyone"
 can_send_in_message = true
-blog_name = "indirect"
-id = 86926575208.0
-summary = "It’s good regulation, not lack of regulation, that kept the web healthy."
+display_avatar = true
 source_url = "http://idlewords.com/bt14.htm"
+type = "quote"
+is_blazed = false
+post_url = "https://indirect.io/post/86926575208/its-good-regulation-not-lack-of-regulation-that"
+timestamp = 1401134885.0
+short_url = "https://tmblr.co/ZY3jby1GzEaPe"
+summary = "It’s good regulation, not lack of regulation, that kept the web healthy."
+note_count = 0.0
+is_blocks_post_format = false
+slug = "its-good-regulation-not-lack-of-regulation-that"
+bookmarklet = true
+source_title = "idlewords.com"
 text = "It&rsquo;s good regulation, not lack of regulation, that kept the web healthy."
 source = "<a href=\"http://idlewords.com/bt14.htm\">The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk</a>"
+can_like = false
+id = 86926575208.0
+blog_name = "indirect"
+is_blaze_pending = false
+can_blaze = false
+interactability_blaze = "everyone"
+id_string = "86926575208"
 can_reply = false
+format = "markdown"
 should_open_in_legacy = true
-source_title = "idlewords.com"
-post_url = "https://indirect.io/post/86926575208/its-good-regulation-not-lack-of-regulation-that"
-note_count = 0.0
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://idlewords.com/bt14.htm\">The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk</a></p>"
-tree_html = ""
+can_reblog = false
+state = "published"
+interactability_reblog = "everyone"
+date = "2014-05-26 20:08:05 GMT"
+reblog_key = "P4pWHAjR"
 
 [tumblr.blog]
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://idlewords.com/bt14.htm\">The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk</a></p>"
+tree_html = ""
 +++

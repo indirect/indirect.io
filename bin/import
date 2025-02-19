@@ -2,7 +2,7 @@
 
 set -x
 
-op run --account indirect --env-file=.env -- bash -c "~/.go/bin/tumblr-importr -blog indirect -api-key \$TUMBLR_API_KEY ${@}"
+op run --account indirect --env-file=.env -- bash -c "tumblr-importr -blog indirect -api-key \$TUMBLR_API_KEY -skip-image-download ${@}"
 
 # sort the keys in the toml so they stop changing when the import runs again
 ruby <<EOF
@@ -10,10 +10,20 @@ ruby <<EOF
   gemfile do
     source "https://rubygems.org"
     gem "perfect_toml"
+    gem "json"
   end
     
   Dir.glob("content/post/**/*.md").each do |f|
     toml = PerfectTOML.parse(File.read(f).lines[1...-1].join)
     File.write f, "+++\n" << PerfectTOML.generate(toml.sort_by{|k,v| k}.to_h) << "+++\n"
   end.tap {|fs| puts "Sorted #{fs.size} front matters" }
+
+  image_map = JSON.parse(File.read("image-rewrites.json"))
+  Dir.glob("content/post/**/*.md").each do |f|
+    text = File.read(f)
+    image_map.each do |old, new|
+      text.gsub!(new.sub(/^static/, ""), old)
+    end
+    File.write f, text
+  end
 EOF

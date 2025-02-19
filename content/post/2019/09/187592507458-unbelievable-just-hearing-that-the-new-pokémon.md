@@ -6,47 +6,47 @@ slug = "unbelievable-just-hearing-that-the-new-pokémon"
 type = "tumblr-quote"
 
 [tumblr]
-summary = "unbelievable.  just hearing that the new pokémon games will reuse ALL the same pokémon names from earlier generations.  can’t..."
-source = "<a href=\"http://twitter.com/eevee/status/1170920806513139712\">@eevee</a>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id_string = "187592507458"
-is_blazed = false
-state = "published"
-format = "html"
-is_blaze_pending = false
-slug = "unbelievable-just-hearing-that-the-new-pokémon"
 can_like = false
-short_url = "https://tmblr.co/ZY3jby2kjOe12"
-can_reply = false
-post_url = "https://indirect.io/post/187592507458/unbelievable-just-hearing-that-the-new-pok%C3%A9mon"
-can_send_in_message = true
-display_avatar = true
-blog_name = "indirect"
+interactability_blaze = "everyone"
 id = 187592507458.0
+timestamp = 1568004264.0
+source = "<a href=\"http://twitter.com/eevee/status/1170920806513139712\">@eevee</a>"
+can_reply = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/187592507458/unbelievable-just-hearing-that-the-new-pok%C3%A9mon"
+format = "html"
+is_blocks_post_format = false
 date = "2019-09-09 04:44:24 GMT"
+reblog_key = "CJ0jBwO2"
 can_reblog = false
+id_string = "187592507458"
+interactability_reblog = "everyone"
+state = "published"
+blog_name = "indirect"
+is_blazed = false
+text = "unbelievable.  just hearing that the new pokémon games will reuse ALL the same pokémon names from earlier generations.  can&rsquo;t believe i&rsquo;m forced to buy such shoddy work"
+can_send_in_message = true
+note_count = 0.0
+display_avatar = true
+slug = "unbelievable-just-hearing-that-the-new-pokémon"
+short_url = "https://tmblr.co/ZY3jby2kjOe12"
 type = "quote"
 can_blaze = false
-timestamp = 1568004264.0
+summary = "unbelievable.  just hearing that the new pokémon games will reuse ALL the same pokémon names from earlier generations.  can’t..."
 should_open_in_legacy = true
-note_count = 0.0
-text = "unbelievable.  just hearing that the new pokémon games will reuse ALL the same pokémon names from earlier generations.  can&rsquo;t believe i&rsquo;m forced to buy such shoddy work"
-is_blocks_post_format = false
-reblog_key = "CJ0jBwO2"
-
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/eevee/status/1170920806513139712\">@eevee</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "church-actually-wrote-all-of-his-work-by-hand"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
+blog_name = "indirect"
 id = 6.888804304438723e+17
-slug = "church-actually-wrote-all-of-his-work-by-hand"
-reblog_key = "cjWYEpZM"
-is_blazed = false
 state = "published"
 short_url = "https://tmblr.co/ZY3jbycFPHe5Kq00"
-can_reblog = false
-can_send_in_message = true
-blog_name = "indirect"
-can_blaze = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-note_count = 0.0
-is_blocks_post_format = false
-id_string = "688880430443872256"
-date = "2022-07-04 20:46:13 GMT"
-interactability_blaze = "everyone"
-can_reply = false
-display_avatar = true
 is_blaze_pending = false
-summary = "church actually wrote all of his work by hand, that’s why it’s called the untyped lambda calculus"
+can_blaze = false
+reblog_key = "cjWYEpZM"
+interactability_blaze = "everyone"
+slug = "church-actually-wrote-all-of-his-work-by-hand"
 source = "<a href=\"http://twitter.com/theemilyaccount/status/1543624092745613314\">@theemilyaccount</a>"
-post_url = "https://indirect.io/post/688880430443872256/church-actually-wrote-all-of-his-work-by-hand"
-type = "quote"
-timestamp = 1656967573.0
-format = "html"
+id_string = "688880430443872256"
+is_blazed = false
 text = "church actually wrote all of his work by hand, that’s why it’s called the untyped lambda calculus"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+can_send_in_message = true
+post_url = "https://indirect.io/post/688880430443872256/church-actually-wrote-all-of-his-work-by-hand"
+can_like = false
+can_reply = false
+type = "quote"
+format = "html"
+can_reblog = false
+is_blocks_post_format = false
+timestamp = 1656967573.0
+summary = "church actually wrote all of his work by hand, that’s why it’s called the untyped lambda calculus"
+should_open_in_legacy = true
+note_count = 0.0
+interactability_reblog = "everyone"
+date = "2022-07-04 20:46:13 GMT"
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/theemilyaccount/status/1543624092745613314\">@theemilyaccount</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 +++

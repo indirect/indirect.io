@@ -7,51 +7,51 @@ title = "Unisex Swag Shirts Are Harming Your Community | See Do Teach"
 type = "tumblr-link"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby1hQAC5b"
-summary = "Unisex Swag Shirts Are Harming Your Community | See Do Teach"
-title = "Unisex Swag Shirts Are Harming Your Community | See Do Teach"
-url = "http://cczona.com/blog/unisex-swag-shirts-are-harming-your-community/"
-interactability_reblog = "everyone"
-source_title = "cczona.com"
+note_count = 0.0
 can_send_in_message = true
+id = 115329253733.0
+can_blaze = false
 date = "2015-04-02 21:46:45 GMT"
-display_avatar = true
-state = "published"
-is_blazed = false
-post_url = "https://indirect.io/post/115329253733/unisex-swag-shirts-are-harming-your-community"
 reblog_key = "GYgBR65Z"
+should_open_in_legacy = true
+url = "http://cczona.com/blog/unisex-swag-shirts-are-harming-your-community/"
+is_blazed = false
 description = ""
 can_reblog = false
-blog_name = "indirect"
-note_count = 0.0
-is_blaze_pending = false
-can_blaze = false
-slug = "unisex-swag-shirts-are-harming-your-community"
-should_open_in_legacy = true
-id_string = "115329253733"
-timestamp = 1428011205.0
-publisher = "cczona.com"
-can_reply = false
-type = "link"
+display_avatar = true
 is_blocks_post_format = false
-id = 115329253733.0
+post_url = "https://indirect.io/post/115329253733/unisex-swag-shirts-are-harming-your-community"
+format = "markdown"
+summary = "Unisex Swag Shirts Are Harming Your Community | See Do Teach"
+interactability_reblog = "everyone"
+title = "Unisex Swag Shirts Are Harming Your Community | See Do Teach"
+id_string = "115329253733"
+can_like = false
+can_reply = false
+source_title = "cczona.com"
+timestamp = 1428011205.0
+type = "link"
+blog_name = "indirect"
+is_blaze_pending = false
+slug = "unisex-swag-shirts-are-harming-your-community"
+publisher = "cczona.com"
+state = "published"
+short_url = "https://tmblr.co/ZY3jby1hQAC5b"
 source_url = "http://cczona.com/blog/unisex-swag-shirts-are-harming-your-community/"
+interactability_blaze = "everyone"
 
 [tumblr.reblog]
-comment = ""
 tree_html = ""
+comment = ""
 
 [tumblr.blog]
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

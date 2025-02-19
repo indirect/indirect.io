@@ -6,34 +6,38 @@ slug = "i-am-goooood-at-the-innuendo-stuff-p"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
 format = "html"
-reblog_key = "rGcDmIvJ"
-interactability_blaze = "everyone"
-id_string = "36745581"
-post_url = "https://indirect.io/post/36745581/i-am-goooood-at-the-innuendo-stuff-p"
-can_like = false
-interactability_reblog = "everyone"
-can_send_in_message = true
-is_blocks_post_format = false
-should_open_in_legacy = true
-state = "published"
-text = "i am goooood at the innuendo stuff :P"
-slug = "i-am-goooood-at-the-innuendo-stuff-p"
-timestamp = 1212295855.0
-summary = "i am goooood at the innuendo stuff :P"
-note_count = 0.0
-can_reply = false
-type = "quote"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby2CB5j"
-is_blaze_pending = false
-can_blaze = false
-source = "rachel"
 can_reblog = false
-display_avatar = true
-id = 36745581.0
+is_blazed = false
+slug = "i-am-goooood-at-the-innuendo-stuff-p"
+reblog_key = "rGcDmIvJ"
+text = "i am goooood at the innuendo stuff :P"
+can_like = false
+state = "published"
+type = "quote"
 date = "2008-06-01 04:50:55 GMT"
+summary = "i am goooood at the innuendo stuff :P"
+source = "rachel"
+interactability_blaze = "everyone"
+should_open_in_legacy = true
+can_reply = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby2CB5j"
+is_blocks_post_format = false
+timestamp = 1212295855.0
+interactability_reblog = "everyone"
+can_blaze = false
+can_send_in_message = true
+post_url = "https://indirect.io/post/36745581/i-am-goooood-at-the-innuendo-stuff-p"
+note_count = 0.0
+display_avatar = true
+blog_name = "indirect"
+id = 36745581.0
+id_string = "36745581"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>rachel</p>"
 
 [tumblr.blog]
 can_show_badges = false
@@ -42,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>rachel</p>"
-tree_html = ""
 +++

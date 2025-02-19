@@ -6,47 +6,47 @@ slug = "turns-out-if-you-criticise-private-jets-on"
 type = "tumblr-quote"
 
 [tumblr]
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyekro25ye00"
-summary = "Turns out if you criticise private jets on LinkedIn you make a lot of dudes who don’t own private jets real mad"
-id_string = "733760323994157056"
-post_url = "https://indirect.io/post/733760323994157056/turns-out-if-you-criticise-private-jets-on"
-text = "Turns out if you criticise private jets on LinkedIn you make a lot of dudes who don’t own private jets real mad"
-interactability_blaze = "everyone"
-id = 7.33760323994157e+17
-slug = "turns-out-if-you-criticise-private-jets-on"
-can_reply = false
-is_blocks_post_format = false
-date = "2023-11-12 05:52:55 GMT"
-source = "<a href=\"https://mastodon.social/@Daojoan/111395278553415443\">@Daojoan</a>"
-can_like = false
-interactability_reblog = "everyone"
-is_blazed = false
-is_blaze_pending = false
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-type = "quote"
-blog_name = "indirect"
-should_open_in_legacy = true
 note_count = 1.0
-reblog_key = "NRu6sf7K"
+can_reply = false
+type = "quote"
+id = 7.33760323994157e+17
+source = "<a href=\"https://mastodon.social/@Daojoan/111395278553415443\">@Daojoan</a>"
+interactability_blaze = "everyone"
+can_reblog = false
+is_blazed = false
+format = "markdown"
+blog_name = "indirect"
+slug = "turns-out-if-you-criticise-private-jets-on"
+display_avatar = true
+interactability_reblog = "everyone"
 can_blaze = false
-state = "published"
+post_url = "https://indirect.io/post/733760323994157056/turns-out-if-you-criticise-private-jets-on"
+reblog_key = "NRu6sf7K"
+can_like = false
 timestamp = 1699768375.0
+summary = "Turns out if you criticise private jets on LinkedIn you make a lot of dudes who don’t own private jets real mad"
+is_blocks_post_format = false
+is_blaze_pending = false
+state = "published"
+text = "Turns out if you criticise private jets on LinkedIn you make a lot of dudes who don’t own private jets real mad"
+can_send_in_message = true
+id_string = "733760323994157056"
+date = "2023-11-12 05:52:55 GMT"
+short_url = "https://tmblr.co/ZY3jbyekro25ye00"
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://mastodon.social/@Daojoan/111395278553415443\">@Daojoan</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,87 +6,87 @@ slug = "ai-expanded-the-descartes-portrait-i-dont-know"
 type = "tumblr-photo"
 
 [tumblr]
-id_string = "748687968235094016"
-slug = "ai-expanded-the-descartes-portrait-i-dont-know"
-date = "2024-04-25 00:21:25 GMT"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-blog_name = "indirect"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyfZtxsAGm00"
-can_reblog = false
-can_send_in_message = true
-is_blocks_post_format = false
 caption = "<p>AI expanded the Descartes portrait.  I don’t know what I expected, but it definitely wasn’t this. <a href=\"https://t.co/FrOUtp8p1L\">https://t.co/FrOUtp8p1L</a> — <a href=\"https://twitter.com/scifisunsets/status/1669413669023694849\">Amy (@scifisunsets)</a></p>"
-can_like = false
-interactability_blaze = "everyone"
-type = "photo"
-format = "html"
-reblog_key = "tyUzjzKl"
-display_avatar = true
-id = 7.48687968235094e+17
 link_url = "https://twitter.com/scifisunsets/status/1669413669023694849"
-can_reply = false
+should_open_in_legacy = true
+type = "photo"
+date = "2024-04-25 00:21:25 GMT"
+reblog_key = "tyUzjzKl"
+interactability_reblog = "everyone"
+display_avatar = true
+format = "html"
+interactability_blaze = "everyone"
+can_reblog = false
+blog_name = "indirect"
+id = 7.48687968235094e+17
+can_blaze = false
+can_send_in_message = true
+id_string = "748687968235094016"
+short_url = "https://tmblr.co/ZY3jbyfZtxsAGm00"
+image_permalink = "https://indirect.io/image/748687968235094016"
 is_blazed = false
 is_blaze_pending = false
 post_url = "https://indirect.io/post/748687968235094016/ai-expanded-the-descartes-portrait-i-dont-know"
-timestamp = 1714004485.0
 note_count = 0.0
-can_blaze = false
+is_blocks_post_format = false
+slug = "ai-expanded-the-descartes-portrait-i-dont-know"
+timestamp = 1714004485.0
+state = "published"
+can_like = false
+can_reply = false
 summary = "AI expanded the Descartes portrait.  I don’t know what I expected, but it definitely wasn’t this. https://t.co/FrOUtp8p1L — Amy..."
-image_permalink = "https://indirect.io/image/748687968235094016"
 
 [tumblr.blog]
+title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
-title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-content_raw = "<p>AI expanded the Descartes portrait.  I don’t know what I expected, but it definitely wasn’t this. <a href=\"https://t.co/FrOUtp8p1L\">https://t.co/FrOUtp8p1L</a> — <a href=\"https://twitter.com/scifisunsets/status/1669413669023694849\">Amy (@scifisunsets)</a></p>"
 content = "<p>AI expanded the Descartes portrait.  I don&rsquo;t know what I expected, but it definitely wasn&rsquo;t this. <a href=\"https://t.co/FrOUtp8p1L\">https://t.co/FrOUtp8p1L</a> &mdash; <a href=\"https://twitter.com/scifisunsets/status/1669413669023694849\">Amy (@scifisunsets)</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>AI expanded the Descartes portrait.  I don’t know what I expected, but it definitely wasn’t this. <a href=\"https://t.co/FrOUtp8p1L\">https://t.co/FrOUtp8p1L</a> — <a href=\"https://twitter.com/scifisunsets/status/1669413669023694849\">Amy (@scifisunsets)</a></p>"
 
 [tumblr.trail.blog]
+active = true
+share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
-share_likes = false
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_bounds = ""
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_title = true
-header_image_poster = ""
-show_avatar = true
 show_description = true
-title_font = "Gibson"
+show_header_image = false
+show_title = true
+title_font_weight = "bold"
 header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image_poster = ""
+link_color = "#529ECC"
+title_color = "#444444"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_avatar = true
 header_full_height = 1055.0
 avatar_shape = "square"
-show_header_image = false
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_stretch = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "748687968235094016"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>AI expanded the Descartes portrait.  I don’t know what I expected, but it definitely wasn’t this. <a href=\"https://t.co/FrOUtp8p1L\">https://t.co/FrOUtp8p1L</a> — <a href=\"https://twitter.com/scifisunsets/status/1669413669023694849\">Amy (@scifisunsets)</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -122,14 +122,14 @@ width = 400.0
 height = 308.0
 
 [[tumblr.photos.alt_sizes]]
+height = 193.0
 url = "/images/0a/dc/58b1f79d87f8106d04f99a55ae5a.jpg"
 width = 250.0
-height = 193.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/94/03/796edd0a2115b999097200af62d6.jpg"
 width = 100.0
 height = 77.0
-url = "/images/94/03/796edd0a2115b999097200af62d6.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/41/c9/cdc06d585f70113b5a41db03fe1a.jpg"

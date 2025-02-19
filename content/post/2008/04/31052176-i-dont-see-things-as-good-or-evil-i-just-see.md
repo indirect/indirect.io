@@ -6,47 +6,47 @@ slug = "i-dont-see-things-as-good-or-evil-i-just-see"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-is_blazed = false
-can_blaze = false
-type = "quote"
-date = "2008-04-07 17:10:01 GMT"
-state = "published"
-format = "html"
-should_open_in_legacy = true
-display_avatar = true
-can_like = false
-id = 31052176.0
-slug = "i-dont-see-things-as-good-or-evil-i-just-see"
-short_url = "https://tmblr.co/ZY3jby1sT6G"
-note_count = 0.0
-post_url = "https://indirect.io/post/31052176/i-dont-see-things-as-good-or-evil-i-just-see"
 can_reblog = false
-can_reply = false
-summary = "I don’t see things as good or evil, I just see them as witty or boring."
-blog_name = "indirect"
-id_string = "31052176"
-is_blaze_pending = false
 can_send_in_message = true
-is_blocks_post_format = false
+id_string = "31052176"
 timestamp = 1207588201.0
+note_count = 0.0
+type = "quote"
+state = "published"
+should_open_in_legacy = true
+can_like = false
+is_blazed = false
+slug = "i-dont-see-things-as-good-or-evil-i-just-see"
 reblog_key = "mqHSQuVd"
-text = "I don’t see things as good or evil, I just see them as witty or boring."
+is_blocks_post_format = false
+id = 31052176.0
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1sT6G"
 source = "Sebastian Horsley"
+can_reply = false
+blog_name = "indirect"
+text = "I don’t see things as good or evil, I just see them as witty or boring."
+display_avatar = true
+is_blaze_pending = false
+summary = "I don’t see things as good or evil, I just see them as witty or boring."
+post_url = "https://indirect.io/post/31052176/i-dont-see-things-as-good-or-evil-i-just-see"
 interactability_reblog = "everyone"
+date = "2008-04-07 17:10:01 GMT"
+format = "html"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p>Sebastian Horsley</p>"
 tree_html = ""
+comment = "<p>Sebastian Horsley</p>"
 +++

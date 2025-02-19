@@ -7,36 +7,36 @@ title = "40% Of US Workers Now Earn Less Than 1968 Minimum Wage | Zero Hedge"
 type = "tumblr-link"
 
 [tumblr]
-format = "html"
+short_url = "https://tmblr.co/ZY3jby1JZt0FG"
+note_count = 0.0
 url = "http://www.zerohedge.com/news/2013-08-05/40-us-workers-now-earn-less-1968-minimum-wage"
-can_reblog = false
-blog_name = "indirect"
+type = "link"
+id_string = "89722192848"
 slug = "40-of-us-workers-now-earn-less-than-1968-minimum"
 reblog_key = "ptKdGk7W"
-should_open_in_legacy = true
-publisher = "zerohedge.com"
 can_like = false
-can_send_in_message = true
-type = "link"
-date = "2014-06-24 03:31:47 GMT"
-short_url = "https://tmblr.co/ZY3jby1JZt0FG"
-title = "40% Of US Workers Now Earn Less Than 1968 Minimum Wage | Zero Hedge"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-timestamp = 1403580707.0
-can_reply = false
-id_string = "89722192848"
-note_count = 0.0
+can_reblog = false
+should_open_in_legacy = true
 description = "<p>40% of U.S. workers make less than the inflation-adjusted 1968 minimum wage of $21,480 a year. — <a href=\"http://twitter.com/wobdev/status/481242010431406080\">@wobdev</a></p>"
+is_blocks_post_format = false
 interactability_reblog = "everyone"
-is_blaze_pending = false
-post_url = "https://indirect.io/post/89722192848/40-of-us-workers-now-earn-less-than-1968-minimum"
-state = "published"
-summary = "40% Of US Workers Now Earn Less Than 1968 Minimum Wage | Zero Hedge"
-display_avatar = true
 id = 89722192848.0
 can_blaze = false
+title = "40% Of US Workers Now Earn Less Than 1968 Minimum Wage | Zero Hedge"
+interactability_blaze = "everyone"
+publisher = "zerohedge.com"
+can_send_in_message = true
 is_blazed = false
+post_url = "https://indirect.io/post/89722192848/40-of-us-workers-now-earn-less-than-1968-minimum"
+date = "2014-06-24 03:31:47 GMT"
+can_reply = false
+display_avatar = true
+blog_name = "indirect"
+format = "html"
+summary = "40% Of US Workers Now Earn Less Than 1968 Minimum Wage | Zero Hedge"
+is_blaze_pending = false
+timestamp = 1403580707.0
+state = "published"
 
 [[tumblr.trail]]
 content_raw = "<p>40% of U.S. workers make less than the inflation-adjusted 1968 minimum wage of $21,480 a year. — <a href=\"http://twitter.com/wobdev/status/481242010431406080\">@wobdev</a></p>"
@@ -44,49 +44,49 @@ content = "<p>40% of U.S. workers make less than the inflation-adjusted 1968 min
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font_weight = "bold"
-header_full_height = 1055.0
-background_color = "#FAFAFA"
-show_title = true
-title_font = "Gibson"
-show_description = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_header_image = false
-header_full_width = 3000.0
-avatar_shape = "square"
-show_avatar = true
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_stretch = true
-
 [tumblr.trail.post]
 id = "89722192848"
 
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font = "Gibson"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_poster = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_description = true
+show_avatar = true
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+
+[tumblr.reblog]
+comment = "<p>40% of U.S. workers make less than the inflation-adjusted 1968 minimum wage of $21,480 a year. — <a href=\"http://twitter.com/wobdev/status/481242010431406080\">@wobdev</a></p>"
+tree_html = ""
+
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>40% of U.S. workers make less than the inflation-adjusted 1968 minimum wage of $21,480 a year. — <a href=\"http://twitter.com/wobdev/status/481242010431406080\">@wobdev</a></p>"
 +++

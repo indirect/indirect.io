@@ -6,39 +6,35 @@ slug = "humans-tend-to-fail-the-turing-test-almost-half"
 type = "tumblr-photo"
 
 [tumblr]
+caption = "<p>Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was in every case a human being) was a computer program.” <a href=\"https://t.co/cEDY7nuYUe\">https://t.co/cEDY7nuYUe</a> — <a href=\"https://twitter.com/emollick/status/1733564663202549790\">Ethan Mollick (@emollick)</a></p>"
+can_like = false
+can_reply = false
+id_string = "736454969614630912"
+format = "html"
+reblog_key = "1rKh67Wl"
+short_url = "https://tmblr.co/ZY3jbyeuQUIOyu00"
+note_count = 1.0
 interactability_blaze = "everyone"
-slug = "humans-tend-to-fail-the-turing-test-almost-half"
+id = 7.364549696146309e+17
+can_blaze = false
 timestamp = 1702338188.0
 state = "published"
-id = 7.364549696146309e+17
-id_string = "736454969614630912"
-note_count = 1.0
-link_url = "https://twitter.com/emollick/status/1733564663202549790"
-image_permalink = "https://indirect.io/image/736454969614630912"
-is_blocks_post_format = false
+summary = "Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was..."
 is_blazed = false
 is_blaze_pending = false
-format = "html"
-can_like = false
-can_blaze = false
-can_reblog = false
-can_reply = false
-display_avatar = true
-reblog_key = "1rKh67Wl"
-can_send_in_message = true
 should_open_in_legacy = true
-caption = "<p>Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was in every case a human being) was a computer program.” <a href=\"https://t.co/cEDY7nuYUe\">https://t.co/cEDY7nuYUe</a> — <a href=\"https://twitter.com/emollick/status/1733564663202549790\">Ethan Mollick (@emollick)</a></p>"
-interactability_reblog = "everyone"
+slug = "humans-tend-to-fail-the-turing-test-almost-half"
+can_reblog = false
 type = "photo"
-post_url = "https://indirect.io/post/736454969614630912/humans-tend-to-fail-the-turing-test-almost-half"
-date = "2023-12-11 23:43:08 GMT"
-short_url = "https://tmblr.co/ZY3jbyeuQUIOyu00"
-summary = "Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was..."
+is_blocks_post_format = false
+image_permalink = "https://indirect.io/image/736454969614630912"
+interactability_reblog = "everyone"
+display_avatar = true
 blog_name = "indirect"
-
-[tumblr.reblog]
-comment = "<p>Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was in every case a human being) was a computer program.” <a href=\"https://t.co/cEDY7nuYUe\">https://t.co/cEDY7nuYUe</a> — <a href=\"https://twitter.com/emollick/status/1733564663202549790\">Ethan Mollick (@emollick)</a></p>"
-tree_html = ""
+post_url = "https://indirect.io/post/736454969614630912/humans-tend-to-fail-the-turing-test-almost-half"
+link_url = "https://twitter.com/emollick/status/1733564663202549790"
+can_send_in_message = true
+date = "2023-12-11 23:43:08 GMT"
 
 [[tumblr.photos]]
 caption = ""
@@ -74,9 +70,9 @@ width = 400.0
 height = 379.0
 
 [[tumblr.photos.alt_sizes]]
+height = 237.0
 url = "/images/0a/be/5df4722f121972d25f5f761bc0e0.jpg"
 width = 250.0
-height = 237.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5a/5f/d7037e2a217723adff3eae68126b.jpg"
@@ -84,9 +80,13 @@ width = 100.0
 height = 95.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/0f/04/e082a7aae2bb5a9126dd6c34dcf7.jpg"
 width = 75.0
 height = 75.0
-url = "/images/0f/04/e082a7aae2bb5a9126dd6c34dcf7.jpg"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was in every case a human being) was a computer program.” <a href=\"https://t.co/cEDY7nuYUe\">https://t.co/cEDY7nuYUe</a> — <a href=\"https://twitter.com/emollick/status/1733564663202549790\">Ethan Mollick (@emollick)</a></p>"
 
 [[tumblr.trail]]
 content_raw = "<p>Humans tend to fail the Turing Test: “Almost half of our participants (42%) decided that their conversational partner (that was in every case a human being) was a computer program.” <a href=\"https://t.co/cEDY7nuYUe\">https://t.co/cEDY7nuYUe</a> — <a href=\"https://twitter.com/emollick/status/1733564663202549790\">Ethan Mollick (@emollick)</a></p>"
@@ -102,25 +102,25 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
 body_font = "Helvetica Neue"
+link_color = "#529ECC"
+title_font_weight = "bold"
 header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
 show_description = true
 show_header_image = false
 show_title = true
-header_full_width = 3000.0
-header_bounds = ""
-header_stretch = true
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-title_color = "#444444"
-title_font = "Gibson"
-show_avatar = true
 avatar_shape = "square"
 background_color = "#FAFAFA"
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-title_font_weight = "bold"
-header_full_height = 1055.0
+header_stretch = true
+title_font = "Gibson"
+header_full_width = 3000.0
 
 [tumblr.trail.post]
 id = "736454969614630912"
@@ -129,7 +129,7 @@ id = "736454969614630912"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"

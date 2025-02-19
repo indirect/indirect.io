@@ -6,46 +6,35 @@ slug = "spotted-this-mac-keyboard-sticker-mod-rubyconf"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1VtVngM"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id_string = "102936550038"
+post_url = "https://indirect.io/post/102936550038/spotted-this-mac-keyboard-sticker-mod-rubyconf"
 slug = "spotted-this-mac-keyboard-sticker-mod-rubyconf"
-can_reblog = false
-id = 102936550038.0
-is_blaze_pending = false
-date = "2014-11-18 05:03:44 GMT"
-interactability_reblog = "everyone"
-is_blazed = false
 reblog_key = "UxVRgJE8"
 caption = "<p>Spotted this Mac keyboard sticker mod @rubyconf cc: @ChrisTheHoff — <a href=\"http://twitter.com/plasticbugs/status/534490003863134208\">@plasticbugs</a></p>"
-can_reply = false
-display_avatar = true
-link_url = "http://twitter.com/plasticbugs/status/534490003863134208"
+is_blocks_post_format = false
+can_send_in_message = true
+type = "photo"
 format = "html"
 summary = "Spotted this Mac keyboard sticker mod @rubyconf cc: @ChrisTheHoff — @plasticbugs"
-note_count = 0.0
-should_open_in_legacy = true
-can_send_in_message = true
-post_url = "https://indirect.io/post/102936550038/spotted-this-mac-keyboard-sticker-mod-rubyconf"
-image_permalink = "https://indirect.io/image/102936550038"
-is_blocks_post_format = false
-timestamp = 1416287024.0
+interactability_reblog = "everyone"
+can_reblog = false
+can_reply = false
+id = 102936550038.0
+is_blaze_pending = false
+can_blaze = false
 state = "published"
 can_like = false
-
-[tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+display_avatar = true
+blog_name = "indirect"
+date = "2014-11-18 05:03:44 GMT"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/102936550038"
+interactability_blaze = "everyone"
+is_blazed = false
+timestamp = 1416287024.0
+short_url = "https://tmblr.co/ZY3jby1VtVngM"
+note_count = 0.0
+link_url = "http://twitter.com/plasticbugs/status/534490003863134208"
+id_string = "102936550038"
 
 [[tumblr.trail]]
 content_raw = "<p>Spotted this Mac keyboard sticker mod @rubyconf cc: @ChrisTheHoff — <a href=\"http://twitter.com/plasticbugs/status/534490003863134208\">@plasticbugs</a></p>"
@@ -53,36 +42,36 @@ content = "<p>Spotted this Mac keyboard sticker mod @rubyconf cc: @ChrisTheHoff 
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.post]
-id = "102936550038"
-
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
-title_font_weight = "bold"
-header_full_width = 3000.0
-avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-body_font = "Helvetica Neue"
-show_description = true
-show_header_image = false
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_stretch = true
 header_bounds = ""
+show_avatar = true
+show_description = true
+header_full_width = 3000.0
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_title = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
+link_color = "#529ECC"
+header_full_height = 1055.0
+avatar_shape = "square"
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "102936550038"
 
 [[tumblr.photos]]
 caption = ""
@@ -123,9 +112,20 @@ width = 100.0
 height = 75.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/d9/53/e697affd97750f4f18b0917b7ca1.jpg"
 width = 75.0
 height = 75.0
-url = "/images/d9/53/e697affd97750f4f18b0917b7ca1.jpg"
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>Spotted this Mac keyboard sticker mod @rubyconf cc: @ChrisTheHoff — <a href=\"http://twitter.com/plasticbugs/status/534490003863134208\">@plasticbugs</a></p>"

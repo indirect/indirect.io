@@ -6,43 +6,43 @@ slug = "well-that-was-fortunate-the-soda-spilled-right"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1349813040.0
-reblog_key = "tzJkavlM"
-note_count = 0.0
-can_like = false
-id_string = "33247127991"
-is_blaze_pending = false
-post_url = "https://indirect.io/post/33247127991/well-that-was-fortunate-the-soda-spilled-right"
-date = "2012-10-09 20:04:00 GMT"
-summary = "Well, that was fortunate. The soda spilled right onto… the towels."
-can_reply = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyUzhkct"
-can_reblog = false
-display_avatar = true
-id = 33247127991.0
-can_blaze = false
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-text = "Well, that was fortunate. The soda spilled right onto… the towels."
 type = "quote"
+date = "2012-10-09 20:04:00 GMT"
+id = 33247127991.0
 should_open_in_legacy = true
+text = "Well, that was fortunate. The soda spilled right onto… the towels."
+source = "sica"
+is_blazed = false
+timestamp = 1349813040.0
+is_blocks_post_format = false
+id_string = "33247127991"
+can_blaze = false
+can_reblog = false
 can_send_in_message = true
 blog_name = "indirect"
-is_blazed = false
 slug = "well-that-was-fortunate-the-soda-spilled-right"
+summary = "Well, that was fortunate. The soda spilled right onto… the towels."
+can_like = false
+can_reply = false
+display_avatar = true
+state = "published"
+reblog_key = "tzJkavlM"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/33247127991/well-that-was-fortunate-the-soda-spilled-right"
 format = "markdown"
-source = "sica"
+note_count = 0.0
+short_url = "https://tmblr.co/ZY3jbyUzhkct"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

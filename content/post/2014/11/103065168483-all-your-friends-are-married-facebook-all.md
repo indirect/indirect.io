@@ -6,47 +6,47 @@ slug = "all-your-friends-are-married-facebook-all"
 type = "tumblr-quote"
 
 [tumblr]
-can_reblog = false
-can_send_in_message = true
+timestamp = 1416431332.0
+note_count = 0.0
+type = "quote"
 id = 103065168483.0
-short_url = "https://tmblr.co/ZY3jby1V-AQfZ"
+display_avatar = true
+can_blaze = false
+post_url = "https://indirect.io/post/103065168483/all-your-friends-are-married-facebook-all"
+blog_name = "indirect"
+slug = "all-your-friends-are-married-facebook-all"
+date = "2014-11-19 21:08:52 GMT"
 summary = "“all your friends are married” - Facebook \n“all your friends have jobs” - LinkedIn \n“all your friends are insane” - Twitter"
+can_send_in_message = true
+is_blocks_post_format = false
+can_like = false
+is_blazed = false
+should_open_in_legacy = true
 source = "<a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a>"
 interactability_reblog = "everyone"
-type = "quote"
-is_blazed = false
-can_blaze = false
-slug = "all-your-friends-are-married-facebook-all"
-can_like = false
-display_avatar = true
-timestamp = 1416431332.0
 id_string = "103065168483"
-post_url = "https://indirect.io/post/103065168483/all-your-friends-are-married-facebook-all"
 state = "published"
 format = "html"
-should_open_in_legacy = true
-can_reply = false
-note_count = 0.0
+short_url = "https://tmblr.co/ZY3jby1V-AQfZ"
 text = "“all your friends are married” - Facebook<br/>\n“all your friends have jobs” - LinkedIn <br/>\n“all your friends are insane” - Twitter"
-date = "2014-11-19 21:08:52 GMT"
-is_blocks_post_format = false
-blog_name = "indirect"
+interactability_blaze = "everyone"
 is_blaze_pending = false
 reblog_key = "QKKQSeOR"
-interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a></p>"
 +++

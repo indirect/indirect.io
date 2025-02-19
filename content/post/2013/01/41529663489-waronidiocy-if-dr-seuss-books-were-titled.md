@@ -8,34 +8,34 @@ type = "tumblr-photo"
 [tumblr]
 is_blocks_post_format = false
 blog_name = "indirect"
-post_url = "https://indirect.io/post/41529663489/waronidiocy-if-dr-seuss-books-were-titled"
-format = "markdown"
-note_count = 556436.0
-is_blaze_pending = false
-can_blaze = false
-caption = "<p><a href=\"http://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their\" class=\"tumblr_blog\">waronidiocy</a>:</p>\n\n<blockquote><p>If Dr. Seuss Books Were Titled According to Their Subtexts</p></blockquote>"
-interactability_reblog = "everyone"
-interactability_blaze = "noone"
-display_avatar = true
-id = 41529663489.0
 id_string = "41529663489"
-slug = "waronidiocy-if-dr-seuss-books-were-titled"
-summary = "If Dr. Seuss Books Were Titled According to Their Subtexts"
+post_url = "https://indirect.io/post/41529663489/waronidiocy-if-dr-seuss-books-were-titled"
 should_open_in_legacy = true
-parent_post_url = "https://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their"
-date = "2013-01-26 16:50:15 GMT"
-reblog_key = "UTWYqM29"
-bookmarklet = true
-photoset_layout = "2222"
-is_blazed = false
+interactability_reblog = "everyone"
+can_send_in_message = true
 state = "published"
+reblog_key = "UTWYqM29"
+can_reblog = false
+date = "2013-01-26 16:50:15 GMT"
+interactability_blaze = "noone"
+summary = "If Dr. Seuss Books Were Titled According to Their Subtexts"
+bookmarklet = true
+id = 41529663489.0
+can_blaze = false
+photoset_layout = "2222"
+display_avatar = true
+is_blazed = false
+slug = "waronidiocy-if-dr-seuss-books-were-titled"
+format = "markdown"
 can_like = false
 can_reply = false
-timestamp = 1359219015.0
-short_url = "https://tmblr.co/ZY3jbychN601"
-can_send_in_message = true
 type = "photo"
-can_reblog = false
+is_blaze_pending = false
+parent_post_url = "https://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their"
+timestamp = 1359219015.0
+note_count = 556436.0
+caption = "<p><a href=\"http://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their\" class=\"tumblr_blog\">waronidiocy</a>:</p>\n\n<blockquote><p>If Dr. Seuss Books Were Titled According to Their Subtexts</p></blockquote>"
+short_url = "https://tmblr.co/ZY3jbychN601"
 
 [tumblr.blog]
 name = "indirect"
@@ -43,7 +43,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
@@ -57,9 +57,9 @@ width = 354.0
 height = 494.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/19/7a/d1bc7772d6771178db69d83e8c7b.jpg"
 width = 354.0
 height = 494.0
-url = "/images/19/7a/d1bc7772d6771178db69d83e8c7b.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a3/c6/9d3b35d8326169942ef52fcd7305.jpg"
@@ -85,9 +85,9 @@ width = 354.0
 height = 483.0
 
 [[tumblr.photos.alt_sizes]]
+height = 483.0
 url = "/images/4e/18/e30b88f6f9cf752ea9dab1beab63.jpg"
 width = 354.0
-height = 483.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e0/43/0368002c6046fb97efe91a24a7bf.jpg"
@@ -100,9 +100,9 @@ width = 100.0
 height = 136.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3c/f8/46587bd273bb7e942caee7736b46.jpg"
 width = 75.0
 height = 75.0
+url = "/images/3c/f8/46587bd273bb7e942caee7736b46.jpg"
 
 [[tumblr.photos]]
 caption = ""
@@ -113,14 +113,14 @@ width = 354.0
 height = 475.0
 
 [[tumblr.photos.alt_sizes]]
-height = 475.0
 url = "/images/b2/87/5de10764b2035e1a2c76ccafb36e.jpg"
 width = 354.0
+height = 475.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b4/48/3985775fca5fa6343820c8500171.jpg"
 width = 250.0
 height = 335.0
+url = "/images/b4/48/3985775fca5fa6343820c8500171.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d3/44/e6a14a68583662242902267d4e3b.jpg"
@@ -128,17 +128,17 @@ width = 100.0
 height = 134.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/3d/5f/b95ef42bc56d027e70895070fa25.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/67/bc/4aa4fae3e0c55da520880541b2b2.jpg"
 width = 330.0
 height = 450.0
+url = "/images/67/bc/4aa4fae3e0c55da520880541b2b2.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/67/bc/4aa4fae3e0c55da520880541b2b2.jpg"
@@ -151,60 +151,60 @@ width = 250.0
 height = 341.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/ca/24/0cb5bb59cdca6482f8f723ece9eb.jpg"
 width = 100.0
 height = 136.0
-url = "/images/ca/24/0cb5bb59cdca6482f8f723ece9eb.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/46/8f/bfb4dc06199a6faae043ead8f371.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
-height = 475.0
+[tumblr.photos.original_size]
 url = "/images/5e/9d/a7e8e60355f61de6abc08462b3c6.jpg"
 width = 344.0
+height = 475.0
 
 [[tumblr.photos.alt_sizes]]
-height = 345.0
+width = 344.0
+height = 475.0
+url = "/images/5e/9d/a7e8e60355f61de6abc08462b3c6.jpg"
+
+[[tumblr.photos.alt_sizes]]
 url = "/images/b6/fb/bc04584d14850331c90c480cdca6.jpg"
 width = 250.0
+height = 345.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c5/28/5e6ad08eb9f7740b2099e61ff87c.jpg"
 width = 100.0
 height = 138.0
+url = "/images/c5/28/5e6ad08eb9f7740b2099e61ff87c.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/e3/b9/186b2b835f1b28705ea346ed0c73.jpg"
 width = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/5e/9d/a7e8e60355f61de6abc08462b3c6.jpg"
-width = 344.0
-height = 475.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/62/e9/0549d08989c1f06f736cd3465829.jpg"
 width = 367.0
 height = 500.0
+url = "/images/62/e9/0549d08989c1f06f736cd3465829.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/62/e9/0549d08989c1f06f736cd3465829.jpg"
 width = 367.0
 height = 500.0
+url = "/images/62/e9/0549d08989c1f06f736cd3465829.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/59/c4/e37ca3a9fb393419f650bdfda5e4.jpg"
 width = 250.0
 height = 341.0
+url = "/images/59/c4/e37ca3a9fb393419f650bdfda5e4.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/90/ac/a8a0115f47fd7105bcdf3497bea5.jpg"
@@ -220,9 +220,9 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
+width = 344.0
 height = 475.0
 url = "/images/12/4f/850462abca5ed169e1b1847bb3bc.jpg"
-width = 344.0
 
 [[tumblr.photos.alt_sizes]]
 width = 344.0
@@ -240,17 +240,17 @@ width = 100.0
 height = 138.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/45/38/89a40924492e38bbc53a87a07f55.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 500.0
 url = "/images/89/c6/9af4d787566afa3b4017513ee6fa.jpg"
 width = 350.0
-height = 500.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/89/c6/9af4d787566afa3b4017513ee6fa.jpg"
@@ -263,18 +263,14 @@ width = 250.0
 height = 357.0
 
 [[tumblr.photos.alt_sizes]]
-height = 143.0
 url = "/images/40/a8/acaced23ec6b2c1cc265b9bfbb91.jpg"
 width = 100.0
+height = 143.0
 
 [[tumblr.photos.alt_sizes]]
+width = 75.0
 height = 75.0
 url = "/images/03/f6/bc7cf07186d65ef3bf240a6e1c09.jpg"
-width = 75.0
-
-[tumblr.reblog]
-comment = ""
-tree_html = "<p><a href=\"http://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their\" class=\"tumblr_blog\">waronidiocy</a>:</p><blockquote><p>If Dr. Seuss Books Were Titled According to Their Subtexts</p></blockquote>"
 
 [[tumblr.trail]]
 content_raw = "<p>If Dr. Seuss Books Were Titled According to Their Subtexts</p>"
@@ -282,31 +278,35 @@ content = "<p>If Dr. Seuss Books Were Titled According to Their Subtexts</p>"
 is_root_item = true
 
 [tumblr.trail.blog]
-name = "waronidiocy"
-active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "waronidiocy"
+active = true
 
 [tumblr.trail.blog.theme]
-header_bounds = ""
-show_avatar = true
-header_image_poster = ""
+background_color = "#FAFAFA"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
+header_bounds = ""
 header_image_focused = "/images/2c/6e/584dfbad15fa1581fa8b69ddad35.jpg"
-header_image_scaled = "/images/2c/6e/584dfbad15fa1581fa8b69ddad35.jpg"
-header_stretch = true
+link_color = "#529ECC"
 show_description = true
 show_header_image = true
 show_title = true
-background_color = "#FAFAFA"
 header_image = "/images/68/12/65ae8c41910eaadb81e48013a29f.jpg"
-link_color = "#529ECC"
+header_image_poster = ""
+header_image_scaled = "/images/2c/6e/584dfbad15fa1581fa8b69ddad35.jpg"
+header_stretch = true
 title_color = "#444444"
 title_font = "Gibson"
+show_avatar = true
 title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "28365464335"
+
+[tumblr.reblog]
+tree_html = "<p><a href=\"http://waronidiocy.tumblr.com/post/28365464335/if-dr-seuss-books-were-titled-according-to-their\" class=\"tumblr_blog\">waronidiocy</a>:</p><blockquote><p>If Dr. Seuss Books Were Titled According to Their Subtexts</p></blockquote>"
+comment = ""
 +++

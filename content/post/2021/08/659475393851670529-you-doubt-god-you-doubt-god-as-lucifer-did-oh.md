@@ -6,47 +6,47 @@ slug = "you-doubt-god-you-doubt-god-as-lucifer-did-oh"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-timestamp = 1628924745.0
-short_url = "https://tmblr.co/ZY3jbyacxM1iey01"
-can_reblog = false
-can_reply = false
-display_avatar = true
-blog_name = "indirect"
-id = 6.594753938516705e+17
-should_open_in_legacy = true
-text = "you doubt god? you doubt god as lucifer did? oh!! jail for the nonbeliever! jail for ten thousand years!!!!"
 can_like = false
-state = "published"
-id_string = "659475393851670529"
-can_blaze = false
-reblog_key = "0gOvpTpg"
-type = "quote"
-post_url = "https://indirect.io/post/659475393851670529/you-doubt-god-you-doubt-god-as-lucifer-did-oh"
-summary = "you doubt god? you doubt god as lucifer did? oh!! jail for the nonbeliever! jail for ten thousand years!!!!"
-source = "<a href=\"http://twitter.com/_emnays/status/1426235296987983876\">@_emnays</a>"
 interactability_reblog = "everyone"
-is_blaze_pending = false
-slug = "you-doubt-god-you-doubt-god-as-lucifer-did-oh"
-format = "html"
-interactability_blaze = "everyone"
-note_count = 0.0
+blog_name = "indirect"
 can_send_in_message = true
-is_blazed = false
+note_count = 0.0
+source = "<a href=\"http://twitter.com/_emnays/status/1426235296987983876\">@_emnays</a>"
 date = "2021-08-14 07:05:45 GMT"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/_emnays/status/1426235296987983876\">@_emnays</a></p>"
-tree_html = ""
+format = "html"
+can_reblog = false
+type = "quote"
+id_string = "659475393851670529"
+is_blazed = false
+state = "published"
+can_reply = false
+is_blocks_post_format = false
+summary = "you doubt god? you doubt god as lucifer did? oh!! jail for the nonbeliever! jail for ten thousand years!!!!"
+should_open_in_legacy = true
+display_avatar = true
+id = 6.594753938516705e+17
+is_blaze_pending = false
+timestamp = 1628924745.0
+reblog_key = "0gOvpTpg"
+text = "you doubt god? you doubt god as lucifer did? oh!! jail for the nonbeliever! jail for ten thousand years!!!!"
+interactability_blaze = "everyone"
+can_blaze = false
+post_url = "https://indirect.io/post/659475393851670529/you-doubt-god-you-doubt-god-as-lucifer-did-oh"
+slug = "you-doubt-god-you-doubt-god-as-lucifer-did-oh"
+short_url = "https://tmblr.co/ZY3jbyacxM1iey01"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/_emnays/status/1426235296987983876\">@_emnays</a></p>"
+tree_html = ""
 +++

@@ -7,47 +7,36 @@ title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &
 type = "tumblr-link"
 
 [tumblr]
-display_avatar = true
-timestamp = 1586735547.0
-url = "https://twitter.com/sailorramen/status/1249409768227098625"
-blog_name = "indirect"
-slug = "bean-boy-at-home-on-twitter-quothe39s"
-state = "published"
-description = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
-can_send_in_message = true
-is_blaze_pending = false
-can_blaze = false
-can_reblog = false
-id_string = "615236813428277248"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyY9mfz58i00"
-interactability_blaze = "everyone"
-format = "html"
 reblog_key = "oiSaTYgd"
+can_send_in_message = true
+publisher = "twitter.com"
+id = 6.152368134282772e+17
+id_string = "615236813428277248"
+post_url = "https://indirect.io/post/615236813428277248/bean-boy-at-home-on-twitter-quothe39s"
+state = "published"
+title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
+timestamp = 1586735547.0
+interactability_reblog = "everyone"
+blog_name = "indirect"
+format = "html"
+description = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
+is_blocks_post_format = false
+is_blazed = false
+date = "2020-04-12 23:52:27 GMT"
+type = "link"
+short_url = "https://tmblr.co/ZY3jbyY9mfz58i00"
 summary = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
 should_open_in_legacy = true
+url = "https://twitter.com/sailorramen/status/1249409768227098625"
 can_like = false
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/615236813428277248/bean-boy-at-home-on-twitter-quothe39s"
+is_blaze_pending = false
+can_blaze = false
 note_count = 0.0
-type = "link"
-id = 6.152368134282772e+17
-date = "2020-04-12 23:52:27 GMT"
-title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
-interactability_reblog = "everyone"
-publisher = "twitter.com"
+interactability_blaze = "everyone"
 can_reply = false
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
+display_avatar = true
+slug = "bean-boy-at-home-on-twitter-quothe39s"
+can_reblog = false
 
 [[tumblr.trail]]
 content_raw = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
@@ -55,38 +44,49 @@ content = "<p>HE HAS RISEN!! &mdash; <a href=\"http://twitter.com/AC_Roald/statu
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.post]
-id = "615236813428277248"
-
 [tumblr.trail.blog]
-share_following = false
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_avatar = true
-title_color = "#444444"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-title_font_weight = "bold"
-header_full_width = 3000.0
 header_full_height = 1055.0
-avatar_shape = "square"
+background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_stretch = true
-background_color = "#FAFAFA"
-header_image_poster = ""
-show_description = true
-show_header_image = false
-title_font = "Gibson"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
+title_font_weight = "bold"
+header_stretch = true
+show_avatar = true
+show_title = true
+show_description = true
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_header_image = false
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "615236813428277248"
 
 [tumblr.reblog]
 comment = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

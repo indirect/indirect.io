@@ -7,50 +7,50 @@ title = "Haven’t We All Done Steroids, In A Way?"
 type = "tumblr-link"
 
 [tumblr]
-should_open_in_legacy = true
-is_blazed = false
-date = "2012-09-02 08:10:01 GMT"
-state = "published"
-description = ""
-can_reblog = false
-can_reply = false
-slug = "havent-we-all-done-steroids-in-a-way"
-reblog_key = "88mlzgD5"
-note_count = 0.0
-is_blaze_pending = false
-title = "Haven’t We All Done Steroids, In A Way?"
-url = "http://www.theonion.com/articles/havent-we-all-done-steroids-in-a-way,29317/"
-interactability_blaze = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-id = 30714535866.0
-id_string = "30714535866"
-timestamp = 1346573401.0
-format = "markdown"
-summary = "Haven’t We All Done Steroids, In A Way?"
-can_blaze = false
-post_url = "https://indirect.io/post/30714535866/havent-we-all-done-steroids-in-a-way"
-bookmarklet = true
-publisher = "theonion.com"
-can_send_in_message = true
-can_like = false
-interactability_reblog = "everyone"
-type = "link"
 blog_name = "indirect"
+id = 30714535866.0
+can_blaze = false
+state = "published"
+should_open_in_legacy = true
+note_count = 0.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+is_blaze_pending = false
+timestamp = 1346573401.0
+bookmarklet = true
+title = "Haven’t We All Done Steroids, In A Way?"
+display_avatar = true
+slug = "havent-we-all-done-steroids-in-a-way"
+summary = "Haven’t We All Done Steroids, In A Way?"
+is_blocks_post_format = false
+is_blazed = false
+format = "markdown"
+description = ""
+id_string = "30714535866"
+date = "2012-09-02 08:10:01 GMT"
 short_url = "https://tmblr.co/ZY3jbySckf_w"
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
+url = "http://www.theonion.com/articles/havent-we-all-done-steroids-in-a-way,29317/"
+can_reblog = false
+reblog_key = "88mlzgD5"
+publisher = "theonion.com"
+type = "link"
+post_url = "https://indirect.io/post/30714535866/havent-we-all-done-steroids-in-a-way"
+can_like = false
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

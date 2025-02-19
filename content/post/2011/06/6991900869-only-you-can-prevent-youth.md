@@ -6,99 +6,84 @@ slug = "only-you-can-prevent-youth"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-is_blazed = false
-post_url = "https://indirect.io/post/6991900869/only-you-can-prevent-youth"
+can_reblog = false
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jby6Wl-35"
 note_count = 0.0
-caption = "<p>Only you can prevent Youth.</p>"
-can_blaze = false
-date = "2011-06-27 23:48:40 GMT"
-summary = "Only you can prevent Youth."
-blog_name = "indirect"
-is_blaze_pending = false
-can_like = false
+post_url = "https://indirect.io/post/6991900869/only-you-can-prevent-youth"
 format = "markdown"
-reblog_key = "UPZeMLed"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_send_in_message = true
-id = 6991900869.0
-id_string = "6991900869"
-slug = "only-you-can-prevent-youth"
-state = "published"
-can_reply = false
-timestamp = 1309218520.0
+caption = "<p>Only you can prevent Youth.</p>"
 image_permalink = "https://indirect.io/image/6991900869"
-can_reblog = false
+date = "2011-06-27 23:48:40 GMT"
+id = 6991900869.0
+slug = "only-you-can-prevent-youth"
+reblog_key = "UPZeMLed"
+can_like = false
+interactability_reblog = "everyone"
+can_reply = false
+state = "published"
+type = "photo"
 is_blocks_post_format = false
+is_blaze_pending = false
+summary = "Only you can prevent Youth."
+interactability_blaze = "everyone"
+is_blazed = false
 should_open_in_legacy = true
+can_send_in_message = true
 display_avatar = true
+timestamp = 1309218520.0
+id_string = "6991900869"
+blog_name = "indirect"
 
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>Only you can prevent Youth.</p>"
 content = "<p>Only you can prevent Youth.</p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_description = true
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-header_full_width = 3000.0
-header_full_height = 1055.0
-body_font = "Helvetica Neue"
-header_stretch = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-header_bounds = ""
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.post]
 id = "6991900869"
 
-[tumblr.blog]
-can_show_badges = false
+[tumblr.trail.blog]
 name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
 
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>Only you can prevent Youth.</p>"
-tree_html = ""
+[tumblr.trail.blog.theme]
+title_color = "#444444"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+show_description = true
+show_header_image = false
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+show_title = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 993.0
 url = "/images/a9/16/baf26cdcfae26617ffd39faa2971.jpg"
 width = 1280.0
+height = 993.0
 
 [[tumblr.photos.alt_sizes]]
+height = 993.0
 url = "/images/a9/16/baf26cdcfae26617ffd39faa2971.jpg"
 width = 1280.0
-height = 993.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/92/bc/c07ea425bedeca33f1240d2ca4cc.jpg"
@@ -106,9 +91,9 @@ width = 640.0
 height = 497.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/35/41/59a5342d8507f33d942f7011f86f.jpg"
 width = 540.0
 height = 419.0
-url = "/images/35/41/59a5342d8507f33d942f7011f86f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bf/18/b6b6a468842d66fe0df9e2ebae54.jpg"
@@ -126,19 +111,34 @@ width = 250.0
 height = 194.0
 
 [[tumblr.photos.alt_sizes]]
-height = 78.0
 url = "/images/09/c5/950874ee10c59c6ea492154c8e11.jpg"
 width = 100.0
+height = 78.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1c/2b/bfcc2ab04ede6efb1527ece3eb8e.jpg"
 width = 75.0
 height = 75.0
+url = "/images/1c/2b/bfcc2ab04ede6efb1527ece3eb8e.jpg"
 
 [tumblr.photos.exif]
-Exposure = "1/60th"
-FocalLength = "3mm"
 Camera = " iPhone 4"
 ISO = 100.0
 Aperture = "f/2.8"
+Exposure = "1/60th"
+FocalLength = "3mm"
+
+[tumblr.reblog]
+comment = "<p>Only you can prevent Youth.</p>"
+tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

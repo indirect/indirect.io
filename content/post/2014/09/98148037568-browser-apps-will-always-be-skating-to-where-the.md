@@ -6,37 +6,41 @@ slug = "browser-apps-will-always-be-skating-to-where-the"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1411398800.0
-should_open_in_legacy = true
-source_title = "mysterioustrousers.com"
-interactability_blaze = "everyone"
-slug = "browser-apps-will-always-be-skating-to-where-the"
-can_reblog = false
-id_string = "98148037568"
-source = "<a href=\"http://mysterioustrousers.com/news/2013/5/6/tiny-little-knives\">Tiny Little Knives</a>"
-display_avatar = true
-type = "quote"
-is_blocks_post_format = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1RQ53F0"
-summary = "browser apps will always be skating to where the puck used to be"
-bookmarklet = true
-is_blazed = false
-can_like = false
-interactability_reblog = "everyone"
-can_send_in_message = true
-blog_name = "indirect"
 date = "2014-09-22 15:13:20 GMT"
-reblog_key = "gA8ZmALU"
-id = 98148037568.0
+should_open_in_legacy = true
+blog_name = "indirect"
+is_blaze_pending = false
 can_blaze = false
-post_url = "https://indirect.io/post/98148037568/browser-apps-will-always-be-skating-to-where-the"
 state = "published"
-format = "markdown"
-can_reply = false
+reblog_key = "gA8ZmALU"
+can_reblog = false
+id = 98148037568.0
 note_count = 0.0
 source_url = "http://mysterioustrousers.com/news/2013/5/6/tiny-little-knives"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+is_blazed = false
+post_url = "https://indirect.io/post/98148037568/browser-apps-will-always-be-skating-to-where-the"
+format = "markdown"
 text = "browser apps will always be skating to where the puck used to be"
+is_blocks_post_format = false
+slug = "browser-apps-will-always-be-skating-to-where-the"
+short_url = "https://tmblr.co/ZY3jby1RQ53F0"
+source = "<a href=\"http://mysterioustrousers.com/news/2013/5/6/tiny-little-knives\">Tiny Little Knives</a>"
+interactability_reblog = "everyone"
+id_string = "98148037568"
+type = "quote"
+timestamp = 1411398800.0
+bookmarklet = true
+source_title = "mysterioustrousers.com"
+summary = "browser apps will always be skating to where the puck used to be"
+can_like = false
+display_avatar = true
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://mysterioustrousers.com/news/2013/5/6/tiny-little-knives\">Tiny Little Knives</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = false
@@ -45,11 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://mysterioustrousers.com/news/2013/5/6/tiny-little-knives\">Tiny Little Knives</a></p>"
-tree_html = ""
 +++

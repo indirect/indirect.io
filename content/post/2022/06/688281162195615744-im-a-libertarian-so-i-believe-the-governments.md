@@ -6,34 +6,38 @@ slug = "im-a-libertarian-so-i-believe-the-governments"
 type = "tumblr-quote"
 
 [tumblr]
-can_send_in_message = true
-blog_name = "indirect"
+is_blaze_pending = false
+can_reblog = false
+timestamp = 1656396066.0
 short_url = "https://tmblr.co/ZY3jbycDH182Gq00"
-date = "2022-06-28 06:01:06 GMT"
-state = "published"
-reblog_key = "HXZLwJ6Z"
-source = "<a href=\"http://twitter.com/InternetHippo/status/879698678646054912\">@InternetHippo</a>"
-interactability_blaze = "everyone"
-type = "quote"
 id = 6.882811621956157e+17
 is_blazed = false
-note_count = 0.0
-can_reblog = false
-is_blocks_post_format = false
-can_reply = false
-id_string = "688281162195615744"
-is_blaze_pending = false
-slug = "im-a-libertarian-so-i-believe-the-governments"
-format = "html"
-text = "I’m a libertarian, so I believe the government’s only function should be to issue me a girlfriend"
-can_like = false
-display_avatar = true
-post_url = "https://indirect.io/post/688281162195615744/im-a-libertarian-so-i-believe-the-governments"
-summary = "I’m a libertarian, so I believe the government’s only function should be to issue me a girlfriend"
-should_open_in_legacy = true
 can_blaze = false
-timestamp = 1656396066.0
+date = "2022-06-28 06:01:06 GMT"
+state = "published"
+note_count = 0.0
+id_string = "688281162195615744"
+text = "I’m a libertarian, so I believe the government’s only function should be to issue me a girlfriend"
+display_avatar = true
+blog_name = "indirect"
+source = "<a href=\"http://twitter.com/InternetHippo/status/879698678646054912\">@InternetHippo</a>"
 interactability_reblog = "everyone"
+type = "quote"
+format = "html"
+summary = "I’m a libertarian, so I believe the government’s only function should be to issue me a girlfriend"
+can_like = false
+reblog_key = "HXZLwJ6Z"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/688281162195615744/im-a-libertarian-so-i-believe-the-governments"
+slug = "im-a-libertarian-so-i-believe-the-governments"
+should_open_in_legacy = true
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/InternetHippo/status/879698678646054912\">@InternetHippo</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = false
@@ -42,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/InternetHippo/status/879698678646054912\">@InternetHippo</a></p>"
-tree_html = ""
 +++

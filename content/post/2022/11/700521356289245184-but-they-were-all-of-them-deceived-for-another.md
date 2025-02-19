@@ -6,34 +6,38 @@ slug = "but-they-were-all-of-them-deceived-for-another"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-is_blocks_post_format = false
-format = "html"
-interactability_reblog = "everyone"
-display_avatar = true
 date = "2022-11-10 08:33:45 GMT"
 reblog_key = "J7JJlZK6"
-source = "<a href=\"http://twitter.com/ditzkoff/status/1590178879074877441\">@ditzkoff</a>"
-can_like = false
-timestamp = 1668069225.0
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbycum7P7CW00"
-should_open_in_legacy = true
-state = "published"
-summary = "But they were, all of them, deceived, for another Check Mark was made. In the land of Mordor, in the fires of Mount Doom, a..."
-id_string = "700521356289245184"
-is_blaze_pending = false
-can_blaze = false
-note_count = 0.0
-interactability_blaze = "everyone"
-can_reblog = false
-type = "quote"
-is_blazed = false
-post_url = "https://indirect.io/post/700521356289245184/but-they-were-all-of-them-deceived-for-another"
 can_send_in_message = true
-id = 7.005213562892452e+17
+is_blaze_pending = false
 slug = "but-they-were-all-of-them-deceived-for-another"
+timestamp = 1668069225.0
+can_like = false
+source = "<a href=\"http://twitter.com/ditzkoff/status/1590178879074877441\">@ditzkoff</a>"
+blog_name = "indirect"
+summary = "But they were, all of them, deceived, for another Check Mark was made. In the land of Mordor, in the fires of Mount Doom, a..."
+note_count = 0.0
 text = "But they were, all of them, deceived, for another Check Mark was made. In the land of Mordor, in the fires of Mount Doom, a master Check Mark was forged in secret to control all others. And into this Check Mark he poured his cruelty, his malice and his will to dominate all life."
+interactability_blaze = "everyone"
+is_blazed = false
+can_reblog = false
+is_blocks_post_format = false
+id_string = "700521356289245184"
+should_open_in_legacy = true
+display_avatar = true
+interactability_reblog = "everyone"
+type = "quote"
+id = 7.005213562892452e+17
+state = "published"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbycum7P7CW00"
+can_reply = false
+can_blaze = false
+post_url = "https://indirect.io/post/700521356289245184/but-they-were-all-of-them-deceived-for-another"
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/ditzkoff/status/1590178879074877441\">@ditzkoff</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 can_show_badges = false
@@ -42,11 +46,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/ditzkoff/status/1590178879074877441\">@ditzkoff</a></p>"
-tree_html = ""
 +++

@@ -6,45 +6,52 @@ slug = "i-apologize-for-the-thoughts-in-my-head"
 type = "tumblr-photo"
 
 [tumblr]
-id = 6.803721587903201e+17
 slug = "i-apologize-for-the-thoughts-in-my-head"
-format = "html"
-should_open_in_legacy = true
-link_url = "http://twitter.com/RiverTamYDN/status/1509011838264033280"
-image_permalink = "https://indirect.io/image/680372158790320128"
-can_like = false
-type = "photo"
-summary = "I apologize for the thoughts in my head — @RiverTamYDN"
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/680372158790320128/i-apologize-for-the-thoughts-in-my-head"
-caption = "<p>I apologize for the thoughts in my head — <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
-can_reblog = false
-id_string = "680372158790320128"
-can_blaze = false
-state = "published"
-reblog_key = "lLF28O4w"
-can_send_in_message = true
-blog_name = "indirect"
-timestamp = 1648853453.0
-interactability_blaze = "everyone"
-is_blazed = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbybnAj_dmq00"
 note_count = 0.0
+link_url = "http://twitter.com/RiverTamYDN/status/1509011838264033280"
+type = "photo"
+short_url = "https://tmblr.co/ZY3jbybnAj_dmq00"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/680372158790320128"
 display_avatar = true
+is_blazed = false
+timestamp = 1648853453.0
 is_blocks_post_format = false
+is_blaze_pending = false
+can_send_in_message = true
 date = "2022-04-01 22:50:53 GMT"
+state = "published"
+format = "html"
+summary = "I apologize for the thoughts in my head — @RiverTamYDN"
+caption = "<p>I apologize for the thoughts in my head — <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
+can_blaze = false
+post_url = "https://indirect.io/post/680372158790320128/i-apologize-for-the-thoughts-in-my-head"
+can_reblog = false
 can_reply = false
+reblog_key = "lLF28O4w"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+id = 6.803721587903201e+17
+id_string = "680372158790320128"
+can_like = false
 
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>I apologize for the thoughts in my head — <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>I apologize for the thoughts in my head — <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
 content = "<p>I apologize for the thoughts in my head &mdash; <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -54,31 +61,36 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_description = true
-header_full_width = 3000.0
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_stretch = true
-show_title = true
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_poster = ""
+header_stretch = true
 show_avatar = true
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image_poster = ""
+show_description = true
 show_header_image = false
 title_font = "Gibson"
-title_font_weight = "bold"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
 header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
 
 [tumblr.trail.post]
 id = "680372158790320128"
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+height = 696.0
+url = "/images/3e/ed/cce4bd552d2f9af4035372045fba.jpg"
+width = 770.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3e/ed/cce4bd552d2f9af4035372045fba.jpg"
@@ -91,14 +103,14 @@ width = 640.0
 height = 578.0
 
 [[tumblr.photos.alt_sizes]]
-width = 540.0
 height = 488.0
 url = "/images/62/d3/faea4b064f80bce654d1bfe938a1.jpg"
+width = 540.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/cb/04/89e4093e8bdab3a481a02f563d44.jpg"
 width = 500.0
 height = 452.0
-url = "/images/cb/04/89e4093e8bdab3a481a02f563d44.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e9/49/6894a1ab39ecdce330f894280a48.jpg"
@@ -106,9 +118,9 @@ width = 400.0
 height = 362.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5f/87/4a4932e898b92ce7900469df2af1.jpg"
 width = 250.0
 height = 226.0
+url = "/images/5f/87/4a4932e898b92ce7900469df2af1.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2a/7f/d3ce05d11860275dc491df94e1e9.jpg"
@@ -120,19 +132,7 @@ url = "/images/2f/fa/462bf8e1c620e0b41fcc8b5de2ca.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-height = 696.0
-url = "/images/3e/ed/cce4bd552d2f9af4035372045fba.jpg"
-width = 770.0
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>I apologize for the thoughts in my head — <a href=\"http://twitter.com/RiverTamYDN/status/1509011838264033280\">@RiverTamYDN</a></p>"
+tree_html = ""
 +++

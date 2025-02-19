@@ -6,47 +6,47 @@ slug = "emacs-has-vi-nature"
 type = "tumblr-quote"
 
 [tumblr]
-summary = "Emacs has vi-nature"
-id_string = "47902735305"
-is_blaze_pending = false
-can_like = false
 is_blazed = false
-slug = "emacs-has-vi-nature"
-blog_name = "indirect"
 post_url = "https://indirect.io/post/47902735305/emacs-has-vi-nature"
+can_reblog = false
+id_string = "47902735305"
 reblog_key = "b6JjSVTS"
-can_send_in_message = true
-display_avatar = true
-timestamp = 1365894218.0
-can_reply = false
-date = "2013-04-13 23:03:38 GMT"
 text = "Emacs has vi-nature"
 source = "<a href=\"http://blog.sanctum.geek.nz/vim-koans/\">Vim Koans</a>"
-interactability_blaze = "everyone"
-can_reblog = false
+can_send_in_message = true
+note_count = 0.0
+can_like = false
+state = "published"
+can_blaze = false
+timestamp = 1365894218.0
+summary = "Emacs has vi-nature"
 type = "quote"
 id = 47902735305.0
-can_blaze = false
-state = "published"
+date = "2013-04-13 23:03:38 GMT"
 format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyidERl9"
-should_open_in_legacy = true
+interactability_blaze = "everyone"
+display_avatar = true
 is_blocks_post_format = false
-note_count = 0.0
+is_blaze_pending = false
+should_open_in_legacy = true
 interactability_reblog = "everyone"
+blog_name = "indirect"
+slug = "emacs-has-vi-nature"
+short_url = "https://tmblr.co/ZY3jbyidERl9"
+can_reply = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://blog.sanctum.geek.nz/vim-koans/\">Vim Koans</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

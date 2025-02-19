@@ -6,83 +6,35 @@ slug = "shulamith-firestones-the-dialectic-of-sex"
 type = "tumblr-photo"
 
 [tumblr]
-display_avatar = true
-type = "photo"
-id_string = "97631628853"
-note_count = 0.0
-can_reblog = false
-can_like = false
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby1QxJ6ur"
-is_blocks_post_format = false
+can_send_in_message = true
+id = 97631628853.0
+is_blazed = false
 blog_name = "indirect"
-reblog_key = "62bW9mEg"
-interactability_blaze = "everyone"
-slug = "shulamith-firestones-the-dialectic-of-sex"
-caption = "<p>— <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone&rsquo;s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
+id_string = "97631628853"
+image_permalink = "https://indirect.io/image/97631628853"
+can_reply = false
 is_blaze_pending = false
 can_blaze = false
-date = "2014-09-16 05:58:00 GMT"
-summary = "— [Shulamith Firestone's The Dialectic of..."
-link_url = "http://twitter.com/aanand/status/511670439442001920"
-image_permalink = "https://indirect.io/image/97631628853"
-is_blazed = false
-timestamp = 1410847080.0
-should_open_in_legacy = true
-can_send_in_message = true
-can_reply = false
-id = 97631628853.0
 post_url = "https://indirect.io/post/97631628853/shulamith-firestones-the-dialectic-of-sex"
-state = "published"
+short_url = "https://tmblr.co/ZY3jby1QxJ6ur"
+slug = "shulamith-firestones-the-dialectic-of-sex"
+link_url = "http://twitter.com/aanand/status/511670439442001920"
+can_like = false
+type = "photo"
 interactability_reblog = "everyone"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>— <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone’s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
-content = "<p>&mdash; <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone&rsquo;s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-header_full_width = 3000.0
-header_full_height = 1055.0
-header_stretch = true
-show_description = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-header_image_poster = ""
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-show_avatar = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-
-[tumblr.trail.post]
-id = "97631628853"
+can_reblog = false
+display_avatar = true
+state = "published"
+format = "markdown"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+caption = "<p>— <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone&rsquo;s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
+is_blocks_post_format = false
+timestamp = 1410847080.0
+date = "2014-09-16 05:58:00 GMT"
+reblog_key = "62bW9mEg"
+summary = "— [Shulamith Firestone's The Dialectic of..."
+note_count = 0.0
 
 [[tumblr.photos]]
 caption = ""
@@ -98,9 +50,9 @@ width = 600.0
 height = 142.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/fa/97/960a3789250047a60bca35ffba51.png"
 width = 540.0
 height = 128.0
-url = "/images/fa/97/960a3789250047a60bca35ffba51.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/13/c0/793bcc1b75a2eb08c541cc61edf4.png"
@@ -127,7 +79,55 @@ url = "/images/62/6b/ce431a01a10d8ade1b3cb213dbbc.png"
 width = 75.0
 height = 75.0
 
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
+
 [tumblr.reblog]
 comment = "<p>— <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone’s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>&mdash; <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone&rsquo;s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>— <a href=\"http://ressourcesfeministes.files.wordpress.com/2000/01/firestone_dialectic-of-sex.pdf\">Shulamith Firestone’s <i>The Dialectic of Sex</i></a></p>\n\n<p>(via <a href=\"http://twitter.com/aanand/status/511670439442001920\">@aanand</a>)</p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_stretch = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_poster = ""
+link_color = "#529ECC"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_description = true
+title_font = "Gibson"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+show_title = true
+
+[tumblr.trail.post]
+id = "97631628853"
 +++

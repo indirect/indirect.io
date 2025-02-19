@@ -6,34 +6,34 @@ slug = "fun-fact-when-my-kid-watches-terminator-i-will"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-post_url = "https://indirect.io/post/89592780123/fun-fact-when-my-kid-watches-terminator-i-will"
-state = "published"
-reblog_key = "P88cUt18"
-should_open_in_legacy = true
-is_blazed = false
-is_blaze_pending = false
-can_reblog = false
-summary = "Fun fact: When my kid watches “Terminator” I will have to explain the concept of a phonebook, but not an autonomous robot..."
-can_reply = false
-can_like = false
-is_blocks_post_format = false
 slug = "fun-fact-when-my-kid-watches-terminator-i-will"
 text = "Fun fact: When my kid watches &ldquo;Terminator&rdquo; I will have to explain the concept of a phonebook, but not an autonomous robot killing machine."
-source = "<a href=\"http://twitter.com/AsaTait/status/446723785341677568\">@AsaTait</a>"
-id_string = "89592780123"
-interactability_blaze = "everyone"
-note_count = 0.0
-interactability_reblog = "everyone"
-timestamp = 1403475262.0
-blog_name = "indirect"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1JS9LLR"
-can_send_in_message = true
-display_avatar = true
+can_like = false
 type = "quote"
-id = 89592780123.0
+id_string = "89592780123"
+can_blaze = false
+post_url = "https://indirect.io/post/89592780123/fun-fact-when-my-kid-watches-terminator-i-will"
+timestamp = 1403475262.0
+state = "published"
+reblog_key = "P88cUt18"
+blog_name = "indirect"
 date = "2014-06-22 22:14:22 GMT"
+note_count = 0.0
+source = "<a href=\"http://twitter.com/AsaTait/status/446723785341677568\">@AsaTait</a>"
+interactability_reblog = "everyone"
+display_avatar = true
+format = "html"
+summary = "Fun fact: When my kid watches “Terminator” I will have to explain the concept of a phonebook, but not an autonomous robot..."
+can_reblog = false
+can_reply = false
+id = 89592780123.0
+is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby1JS9LLR"
+should_open_in_legacy = true
+can_send_in_message = true
+is_blocks_post_format = false
+interactability_blaze = "everyone"
 
 [tumblr.blog]
 can_show_badges = false
@@ -42,7 +42,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

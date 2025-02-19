@@ -6,37 +6,41 @@ slug = "until-we-are-honest-about-who-we-are-serving-in"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4\">Which Women in Tech?</a>"
-can_send_in_message = true
-slug = "until-we-are-honest-about-who-we-are-serving-in"
-timestamp = 1424547371.0
-interactability_reblog = "everyone"
-is_blocks_post_format = false
 reblog_key = "NQGHgXZv"
-source_url = "https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4"
-can_reply = false
-type = "quote"
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1e0k4VP"
-bookmarklet = true
-text = "Until we are honest about who we are serving in the tech diversity movement and why, we will not have the impact necessary to achieve change on a large scale"
-interactability_blaze = "everyone"
-can_reblog = false
-display_avatar = true
-summary = "Until we are honest about who we are serving in the tech diversity movement and why, we will not have the impact necessary to..."
-blog_name = "indirect"
 id = 111681226713.0
-id_string = "111681226713"
-state = "published"
+summary = "Until we are honest about who we are serving in the tech diversity movement and why, we will not have the impact necessary to..."
 can_like = false
 is_blazed = false
+short_url = "https://tmblr.co/ZY3jby1e0k4VP"
 post_url = "https://indirect.io/post/111681226713/until-we-are-honest-about-who-we-are-serving-in"
-format = "markdown"
-date = "2015-02-21 19:36:11 GMT"
-should_open_in_legacy = true
-note_count = 0.0
+timestamp = 1424547371.0
+bookmarklet = true
 source_title = "medium.com"
+interactability_reblog = "everyone"
+type = "quote"
+slug = "until-we-are-honest-about-who-we-are-serving-in"
+state = "published"
+interactability_blaze = "everyone"
+can_reblog = false
+id_string = "111681226713"
+should_open_in_legacy = true
+source_url = "https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4"
+text = "Until we are honest about who we are serving in the tech diversity movement and why, we will not have the impact necessary to achieve change on a large scale"
+source = "<a href=\"https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4\">Which Women in Tech?</a>"
+can_reply = false
+is_blaze_pending = false
+can_blaze = false
+format = "markdown"
+note_count = 0.0
+can_send_in_message = true
+is_blocks_post_format = false
+blog_name = "indirect"
+display_avatar = true
+date = "2015-02-21 19:36:11 GMT"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4\">Which Women in Tech?</a></p>"
 
 [tumblr.blog]
 can_show_badges = false
@@ -45,11 +49,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://medium.com/@nmsanchez/which-women-in-tech-371e721e71c4\">Which Women in Tech?</a></p>"
-tree_html = ""
 +++

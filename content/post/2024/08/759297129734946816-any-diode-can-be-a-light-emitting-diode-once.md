@@ -6,47 +6,47 @@ slug = "any-diode-can-be-a-light-emitting-diode-once"
 type = "tumblr-quote"
 
 [tumblr]
+timestamp = 1724122171.0
 state = "published"
-can_reblog = false
-can_reply = false
+format = "markdown"
+reblog_key = "dRpDK9Xg"
 can_blaze = false
 post_url = "https://indirect.io/post/759297129734946816/any-diode-can-be-a-light-emitting-diode-once"
-timestamp = 1724122171.0
-can_like = false
-type = "quote"
-id = 7.592971297349468e+17
-id_string = "759297129734946816"
-note_count = 1.0
-text = "any diode can be a light-emitting diode, once"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blaze_pending = false
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyg9aBTmqq00"
-can_send_in_message = true
-interactability_reblog = "everyone"
-is_blazed = false
 slug = "any-diode-can-be-a-light-emitting-diode-once"
-reblog_key = "dRpDK9Xg"
-summary = "any diode can be a light-emitting diode, once"
-should_open_in_legacy = true
-display_avatar = true
+short_url = "https://tmblr.co/ZY3jbyg9aBTmqq00"
+note_count = 1.0
 source = "<a href=\"https://glaceon.social/@gardevoir/112991326213479806\">@gardevoir</a>"
+can_send_in_message = true
 is_blocks_post_format = false
+id = 7.592971297349468e+17
+can_reply = false
+type = "quote"
+blog_name = "indirect"
+id_string = "759297129734946816"
+interactability_reblog = "everyone"
+display_avatar = true
+text = "any diode can be a light-emitting diode, once"
+can_reblog = false
+is_blazed = false
+is_blaze_pending = false
 date = "2024-08-20 02:49:31 GMT"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://glaceon.social/@gardevoir/112991326213479806\">@gardevoir</a></p>"
-tree_html = ""
+should_open_in_legacy = true
+can_like = false
+summary = "any diode can be a light-emitting diode, once"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-updated = 1739927643.0
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://glaceon.social/@gardevoir/112991326213479806\">@gardevoir</a></p>"
+tree_html = ""
 +++

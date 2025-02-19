@@ -6,47 +6,47 @@ slug = "how-does-time-warner-not-make-alarm-clocks"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_reblog = false
-display_avatar = true
-blog_name = "indirect"
-state = "published"
-format = "markdown"
-can_blaze = false
-slug = "how-does-time-warner-not-make-alarm-clocks"
-should_open_in_legacy = true
-can_send_in_message = true
-can_like = false
 id_string = "708381288028061696"
-is_blazed = false
-post_url = "https://indirect.io/post/708381288028061696/how-does-time-warner-not-make-alarm-clocks"
-timestamp = 1675565040.0
-summary = "how does Time Warner not make alarm clocks"
-short_url = "https://tmblr.co/ZY3jbydKhGS_Sa00"
-text = "how does Time Warner not make alarm clocks"
-source = "<a href=\"https://universeodon.com/@fro_vo/109807770983337368\">@fro_vo</a>"
-interactability_blaze = "everyone"
-type = "quote"
-date = "2023-02-05 02:44:00 GMT"
-is_blocks_post_format = false
-id = 7.083812880280617e+17
 reblog_key = "lTxn0UZm"
-note_count = 0.0
+can_blaze = false
+date = "2023-02-05 02:44:00 GMT"
+should_open_in_legacy = true
+can_reblog = false
+is_blaze_pending = false
+slug = "how-does-time-warner-not-make-alarm-clocks"
+state = "published"
 interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+timestamp = 1675565040.0
+format = "markdown"
+id = 7.083812880280617e+17
+note_count = 0.0
+blog_name = "indirect"
+post_url = "https://indirect.io/post/708381288028061696/how-does-time-warner-not-make-alarm-clocks"
+text = "how does Time Warner not make alarm clocks"
 can_reply = false
+type = "quote"
+short_url = "https://tmblr.co/ZY3jbydKhGS_Sa00"
+summary = "how does Time Warner not make alarm clocks"
+source = "<a href=\"https://universeodon.com/@fro_vo/109807770983337368\">@fro_vo</a>"
+is_blocks_post_format = false
+is_blazed = false
+can_like = false
+can_send_in_message = true
+display_avatar = true
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"https://universeodon.com/@fro_vo/109807770983337368\">@fro_vo</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

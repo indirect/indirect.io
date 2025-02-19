@@ -6,47 +6,47 @@ slug = "the-noble-manatee-the-cow-of-the-sea-holds-great"
 type = "tumblr-quote"
 
 [tumblr]
+is_blazed = false
+text = "the noble manatee, the cow of the sea, holds great respect for the humble cow, the cow of the land"
+id_string = "766879815147159552"
+post_url = "https://indirect.io/post/766879815147159552/the-noble-manatee-the-cow-of-the-sea-holds-great"
+note_count = 0.0
+slug = "the-noble-manatee-the-cow-of-the-sea-holds-great"
+state = "published"
+can_like = false
+is_blocks_post_format = false
+blog_name = "indirect"
+is_blaze_pending = false
+date = "2024-11-11 19:33:03 GMT"
+short_url = "https://tmblr.co/ZY3jbygaWI3tGu00"
 interactability_blaze = "everyone"
 can_reply = false
-id = 7.668798151471596e+17
-date = "2024-11-11 19:33:03 GMT"
-state = "published"
-source = "<a href=\"https://bsky.app/profile/utilitylimb.bsky.social/post/3l5mosdelph2h\">nattie winters (@utilitylimb.bsky.social)</a>"
-can_like = false
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blocks_post_format = false
-should_open_in_legacy = true
-note_count = 0.0
-type = "quote"
-is_blazed = false
-slug = "the-noble-manatee-the-cow-of-the-sea-holds-great"
-timestamp = 1731353583.0
-short_url = "https://tmblr.co/ZY3jbygaWI3tGu00"
-text = "the noble manatee, the cow of the sea, holds great respect for the humble cow, the cow of the land"
-can_send_in_message = true
-post_url = "https://indirect.io/post/766879815147159552/the-noble-manatee-the-cow-of-the-sea-holds-great"
-reblog_key = "MQ6ufxXv"
 can_reblog = false
-can_blaze = false
+can_send_in_message = true
+timestamp = 1731353583.0
 format = "markdown"
-display_avatar = true
-id_string = "766879815147159552"
-is_blaze_pending = false
 summary = "the noble manatee, the cow of the sea, holds great respect for the humble cow, the cow of the land"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/utilitylimb.bsky.social/post/3l5mosdelph2h\">nattie winters (@utilitylimb.bsky.social)</a></p>"
-tree_html = ""
+should_open_in_legacy = true
+display_avatar = true
+id = 7.668798151471596e+17
+can_blaze = false
+source = "<a href=\"https://bsky.app/profile/utilitylimb.bsky.social/post/3l5mosdelph2h\">nattie winters (@utilitylimb.bsky.social)</a>"
+interactability_reblog = "everyone"
+type = "quote"
+reblog_key = "MQ6ufxXv"
 
 [tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://bsky.app/profile/utilitylimb.bsky.social/post/3l5mosdelph2h\">nattie winters (@utilitylimb.bsky.social)</a></p>"
+tree_html = ""
 +++

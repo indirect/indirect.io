@@ -6,46 +6,83 @@ slug = "on-the-topic-of-things-you-shouldnt-do-but-can"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2013-09-28 03:47:01 GMT"
-caption = "<p>On the topic of things you shouldn&rsquo;t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
-can_send_in_message = true
-reblog_key = "oojOupC8"
-should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/62478204027"
+interactability_blaze = "everyone"
+summary = "On the topic of things you shouldn't do, but can — @wesbos"
+bookmarklet = true
+slug = "on-the-topic-of-things-you-shouldnt-do-but-can"
+format = "markdown"
+can_reply = false
 source_url = "https://twitter.com/wesbos/status/383311684321820672"
-link_url = "https://twitter.com/wesbos/status/383311684321820672"
+caption = "<p>On the topic of things you shouldn&rsquo;t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
 can_like = false
-id_string = "62478204027"
-can_blaze = false
+interactability_reblog = "everyone"
 post_url = "https://indirect.io/post/62478204027/on-the-topic-of-things-you-shouldnt-do-but-can"
+state = "published"
+type = "photo"
+id_string = "62478204027"
+can_reblog = false
 display_avatar = true
+is_blocks_post_format = false
+date = "2013-09-28 03:47:01 GMT"
+note_count = 0.0
+blog_name = "indirect"
+id = 62478204027.0
 is_blazed = false
 is_blaze_pending = false
-note_count = 0.0
-source_title = "twitter.com"
-can_reblog = false
-blog_name = "indirect"
-format = "markdown"
-interactability_reblog = "everyone"
-can_reply = false
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jbywB-Rnx"
-bookmarklet = true
-image_permalink = "https://indirect.io/image/62478204027"
-summary = "On the topic of things you shouldn't do, but can — @wesbos"
-type = "photo"
+can_send_in_message = true
 timestamp = 1380340021.0
-state = "published"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-id = 62478204027.0
-slug = "on-the-topic-of-things-you-shouldnt-do-but-can"
+reblog_key = "oojOupC8"
+should_open_in_legacy = true
+source_title = "twitter.com"
+link_url = "https://twitter.com/wesbos/status/383311684321820672"
+
+[[tumblr.trail]]
+content_raw = "<p>On the topic of things you shouldn’t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
+content = "<p>On the topic of things you shouldn&rsquo;t do, but can &mdash; <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_description = true
+background_color = "#FAFAFA"
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_stretch = true
+show_avatar = true
+
+[tumblr.trail.post]
+id = "62478204027"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 111.0
 url = "/images/b6/13/dd9fe991650c62bbcf27f7cf3012.png"
 width = 403.0
+height = 111.0
 
 [[tumblr.photos.alt_sizes]]
 height = 111.0
@@ -72,55 +109,18 @@ height = 75.0
 url = "/images/3e/e8/62f252b353512de19c2761885c3b.png"
 width = 75.0
 
-[[tumblr.trail]]
-content_raw = "<p>On the topic of things you shouldn’t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
-content = "<p>On the topic of things you shouldn&rsquo;t do, but can &mdash; <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-show_avatar = true
-avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-background_color = "#FAFAFA"
-header_bounds = ""
-header_stretch = true
-show_description = true
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-header_full_width = 3000.0
-header_full_height = 1055.0
-body_font = "Helvetica Neue"
-show_header_image = false
-link_color = "#529ECC"
-
-[tumblr.trail.post]
-id = "62478204027"
-
-[tumblr.reblog]
-comment = "<p>On the topic of things you shouldn’t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
-tree_html = ""
-
 [tumblr.blog]
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>On the topic of things you shouldn’t do, but can — <a href=\"https://twitter.com/wesbos/status/383311684321820672\">@wesbos</a></p>"
+tree_html = ""
 +++

@@ -6,44 +6,44 @@ slug = "and-in-my-second-whoopsie-for-the-day-here-is-a"
 type = "tumblr-photo"
 
 [tumblr]
-is_blaze_pending = false
-date = "2014-11-03 04:53:42 GMT"
-caption = "<p>And in my second &lsquo;whoopsie&rsquo; for the day, here is a creationist textbook featuring a grave error on Noah&rsquo;s part: — <a href=\"http://twitter.com/_HelenDale/status/528048384985141249\">@_HelenDale</a></p>"
-id = 101652069913.0
-id_string = "101652069913"
-note_count = 0.0
-is_blocks_post_format = false
-format = "html"
-can_reblog = false
 display_avatar = true
+reblog_key = "HB8eVRoh"
+short_url = "https://tmblr.co/ZY3jby1UgxtuP"
 slug = "and-in-my-second-whoopsie-for-the-day-here-is-a"
 state = "published"
+id = 101652069913.0
 can_blaze = false
+date = "2014-11-03 04:53:42 GMT"
 timestamp = 1414990422.0
-short_url = "https://tmblr.co/ZY3jby1UgxtuP"
-should_open_in_legacy = true
-link_url = "http://twitter.com/_HelenDale/status/528048384985141249"
-can_send_in_message = true
-image_permalink = "https://indirect.io/image/101652069913"
-post_url = "https://indirect.io/post/101652069913/and-in-my-second-whoopsie-for-the-day-here-is-a"
-summary = "And in my second 'whoopsie' for the day, here is a creationist textbook featuring a grave error on Noah's part: — @_HelenDale"
-can_reply = false
-reblog_key = "HB8eVRoh"
-can_like = false
 interactability_reblog = "everyone"
+format = "html"
+can_send_in_message = true
+summary = "And in my second 'whoopsie' for the day, here is a creationist textbook featuring a grave error on Noah's part: — @_HelenDale"
+should_open_in_legacy = true
+note_count = 0.0
+can_reblog = false
 type = "photo"
-is_blazed = false
-interactability_blaze = "everyone"
 blog_name = "indirect"
+id_string = "101652069913"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/101652069913/and-in-my-second-whoopsie-for-the-day-here-is-a"
+can_reply = false
+is_blazed = false
+can_like = false
+caption = "<p>And in my second &lsquo;whoopsie&rsquo; for the day, here is a creationist textbook featuring a grave error on Noah&rsquo;s part: — <a href=\"http://twitter.com/_HelenDale/status/528048384985141249\">@_HelenDale</a></p>"
+link_url = "http://twitter.com/_HelenDale/status/528048384985141249"
+is_blocks_post_format = false
+image_permalink = "https://indirect.io/image/101652069913"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -76,14 +76,18 @@ width = 250.0
 height = 251.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/8f/62/c9e521db0875437fda1668f89d27.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/6f/ce/ce8678e8f445c5afa348c7994268.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = "<p>And in my second ‘whoopsie’ for the day, here is a creationist textbook featuring a grave error on Noah’s part: — <a href=\"http://twitter.com/_HelenDale/status/528048384985141249\">@_HelenDale</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p>And in my second ‘whoopsie’ for the day, here is a creationist textbook featuring a grave error on Noah’s part: — <a href=\"http://twitter.com/_HelenDale/status/528048384985141249\">@_HelenDale</a></p>"
@@ -102,27 +106,23 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
-header_bounds = ""
-link_color = "#529ECC"
-show_avatar = true
-show_title = true
 header_full_height = 1055.0
-header_image_poster = ""
-title_color = "#444444"
-header_full_width = 3000.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
+header_bounds = ""
 header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
+show_description = true
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
 show_header_image = false
 title_font_weight = "bold"
 header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-show_description = true
+show_title = true
 title_font = "Gibson"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-
-[tumblr.reblog]
-comment = "<p>And in my second ‘whoopsie’ for the day, here is a creationist textbook featuring a grave error on Noah’s part: — <a href=\"http://twitter.com/_HelenDale/status/528048384985141249\">@_HelenDale</a></p>"
-tree_html = ""
+header_full_width = 3000.0
+header_image_poster = ""
+show_avatar = true
+title_color = "#444444"
 +++

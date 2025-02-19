@@ -6,50 +6,39 @@ slug = "rage-rage-against-the-dying-of-the-light"
 type = "tumblr-photo"
 
 [tumblr]
+is_blazed = false
+can_like = false
+blog_name = "indirect"
+is_blaze_pending = false
+image_permalink = "https://indirect.io/image/645419561499459584"
+can_reblog = false
+display_avatar = true
+is_blocks_post_format = false
+id = 6.454195614994596e+17
+slug = "rage-rage-against-the-dying-of-the-light"
 can_blaze = false
 format = "html"
-summary = "Rage, rage against the dying of the light — @eveforward"
-can_like = false
-timestamp = 1615520059.0
-display_avatar = true
 reblog_key = "5T9mQ9fj"
 short_url = "https://tmblr.co/ZY3jbyZq-QlkGu00"
-link_url = "http://twitter.com/eveforward/status/1369451201524285449"
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
-id = 6.454195614994596e+17
-id_string = "645419561499459584"
-date = "2021-03-12 03:34:19 GMT"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
 type = "photo"
-is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/645419561499459584/rage-rage-against-the-dying-of-the-light"
+summary = "Rage, rage against the dying of the light — @eveforward"
+should_open_in_legacy = true
 state = "published"
-note_count = 1.0
-caption = "<p>Rage, rage against the dying of the light — <a href=\"http://twitter.com/eveforward/status/1369451201524285449\">@eveforward</a></p>"
-is_blocks_post_format = false
-blog_name = "indirect"
-slug = "rage-rage-against-the-dying-of-the-light"
-image_permalink = "https://indirect.io/image/645419561499459584"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 can_send_in_message = true
+timestamp = 1615520059.0
+caption = "<p>Rage, rage against the dying of the light — <a href=\"http://twitter.com/eveforward/status/1369451201524285449\">@eveforward</a></p>"
+can_reply = false
+post_url = "https://indirect.io/post/645419561499459584/rage-rage-against-the-dying-of-the-light"
+date = "2021-03-12 03:34:19 GMT"
+note_count = 1.0
+link_url = "http://twitter.com/eveforward/status/1369451201524285449"
+id_string = "645419561499459584"
 
 [tumblr.reblog]
 comment = "<p>Rage, rage against the dying of the light — <a href=\"http://twitter.com/eveforward/status/1369451201524285449\">@eveforward</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
 content_raw = "<p>Rage, rage against the dying of the light — <a href=\"http://twitter.com/eveforward/status/1369451201524285449\">@eveforward</a></p>"
@@ -58,35 +47,46 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
-active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
+active = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-show_header_image = false
-show_title = true
 header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_stretch = true
+show_description = true
+title_font = "Gibson"
 avatar_shape = "square"
 background_color = "#FAFAFA"
-link_color = "#529ECC"
-header_stretch = true
-show_avatar = true
-show_description = true
-title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
 title_font_weight = "bold"
 header_full_height = 1055.0
-body_font = "Helvetica Neue"
+header_image_poster = ""
 header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-title_font = "Gibson"
+show_avatar = true
+title_color = "#444444"
 header_bounds = ""
+link_color = "#529ECC"
+show_title = true
 
 [tumblr.trail.post]
 id = "645419561499459584"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -102,9 +102,9 @@ width = 960.0
 height = 540.0
 
 [[tumblr.photos.alt_sizes]]
-height = 360.0
 url = "/images/55/fa/e9071887770be79dd6c8c0c07aed.jpg"
 width = 640.0
+height = 360.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/03/35/43f4f1071dd06c50d137046dea01.jpg"
@@ -112,27 +112,27 @@ width = 540.0
 height = 304.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/21/d8/bc92083a28cce3592807e89bc728.jpg"
 width = 500.0
 height = 281.0
+url = "/images/21/d8/bc92083a28cce3592807e89bc728.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 225.0
 url = "/images/93/52/382e74d96fd97c42a2bff7f1863a.jpg"
 width = 400.0
+height = 225.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/3d/22/b7471de43ee4e220c77f3f876e80.jpg"
 width = 250.0
 height = 141.0
-url = "/images/3d/22/b7471de43ee4e220c77f3f876e80.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 56.0
 url = "/images/5b/52/f0ad2007cfa24af521545a0c05fd.jpg"
 width = 100.0
-height = 56.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/2f/60/b53e0ad026679701422fbeef35a3.jpg"
 width = 75.0
+height = 75.0
 +++

@@ -6,43 +6,43 @@ slug = "keysmashing-is-a-language-of-its-own-like-it-has"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/619129220103389185/keysmashing-is-a-language-of-its-own-like-it-has"
 date = "2020-05-25 23:00:35 GMT"
-format = "html"
-should_open_in_legacy = true
-note_count = 2.0
-id = 6.191292201033892e+17
-can_blaze = false
-state = "published"
-reblog_key = "MnFiYHGT"
-interactability_blaze = "everyone"
-can_reply = false
-type = "quote"
-text = "keysmashing is a language of its own . like it has rules . no vowels . no p and t . u gotta retype it if it looks foul . kdhsjhdfk is fine but  apiaqoqpdo is atrocious"
-source = "<a href=\"http://twitter.com/oshkq/status/1264677654831210504\">@oshkq</a>"
-id_string = "619129220103389185"
-is_blazed = false
-display_avatar = true
-is_blaze_pending = false
-timestamp = 1590447635.0
-short_url = "https://tmblr.co/ZY3jbyYNbhxIKy01"
-slug = "keysmashing-is-a-language-of-its-own-like-it-has"
 summary = "keysmashing is a language of its own . like it has rules . no vowels . no p and t . u gotta retype it if it looks foul ...."
-interactability_reblog = "everyone"
 can_reblog = false
+post_url = "https://indirect.io/post/619129220103389185/keysmashing-is-a-language-of-its-own-like-it-has"
+slug = "keysmashing-is-a-language-of-its-own-like-it-has"
+short_url = "https://tmblr.co/ZY3jbyYNbhxIKy01"
+can_like = false
+type = "quote"
+note_count = 2.0
 can_send_in_message = true
 blog_name = "indirect"
-can_like = false
+id = 6.191292201033892e+17
+text = "keysmashing is a language of its own . like it has rules . no vowels . no p and t . u gotta retype it if it looks foul . kdhsjhdfk is fine but  apiaqoqpdo is atrocious"
+display_avatar = true
+reblog_key = "MnFiYHGT"
+interactability_blaze = "everyone"
+is_blazed = false
+format = "html"
+can_reply = false
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+id_string = "619129220103389185"
+can_blaze = false
+state = "published"
+should_open_in_legacy = true
+is_blaze_pending = false
+timestamp = 1590447635.0
+source = "<a href=\"http://twitter.com/oshkq/status/1264677654831210504\">@oshkq</a>"
 
 [tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

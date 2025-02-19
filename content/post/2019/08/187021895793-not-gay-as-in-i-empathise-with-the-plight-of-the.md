@@ -6,47 +6,47 @@ slug = "not-gay-as-in-i-empathise-with-the-plight-of-the"
 type = "tumblr-quote"
 
 [tumblr]
-text = "Not gay as in &ldquo;I empathise with the plight of the X-men&rdquo; but queer as in &ldquo;Magneto was right&rdquo;"
-can_reblog = false
-can_send_in_message = true
-can_like = false
 is_blocks_post_format = false
-is_blaze_pending = false
-should_open_in_legacy = true
-blog_name = "indirect"
-slug = "not-gay-as-in-i-empathise-with-the-plight-of-the"
-interactability_blaze = "everyone"
-state = "published"
-summary = "Not gay as in “I empathise with the plight of the X-men” but queer as in “Magneto was right”"
-id = 187021895793.0
-short_url = "https://tmblr.co/ZY3jby2kBNwXn"
-source = "<a href=\"http://twitter.com/Beardynoise/status/1161396516801716224\">@Beardynoise</a>"
 interactability_reblog = "everyone"
-display_avatar = true
-type = "quote"
-id_string = "187021895793"
-timestamp = 1565851078.0
+interactability_blaze = "everyone"
+short_url = "https://tmblr.co/ZY3jby2kBNwXn"
+summary = "Not gay as in “I empathise with the plight of the X-men” but queer as in “Magneto was right”"
+note_count = 0.0
+text = "Not gay as in &ldquo;I empathise with the plight of the X-men&rdquo; but queer as in &ldquo;Magneto was right&rdquo;"
+can_send_in_message = true
 reblog_key = "wsqMufPT"
-can_blaze = false
-date = "2019-08-15 06:37:58 GMT"
+can_like = false
 can_reply = false
+state = "published"
+type = "quote"
+id = 187021895793.0
+slug = "not-gay-as-in-i-empathise-with-the-plight-of-the"
+timestamp = 1565851078.0
+blog_name = "indirect"
+is_blaze_pending = false
+format = "html"
+source = "<a href=\"http://twitter.com/Beardynoise/status/1161396516801716224\">@Beardynoise</a>"
+id_string = "187021895793"
+date = "2019-08-15 06:37:58 GMT"
+should_open_in_legacy = true
+display_avatar = true
 is_blazed = false
 post_url = "https://indirect.io/post/187021895793/not-gay-as-in-i-empathise-with-the-plight-of-the"
-format = "html"
-note_count = 0.0
+can_reblog = false
+can_blaze = false
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/Beardynoise/status/1161396516801716224\">@Beardynoise</a></p>"
+tree_html = ""
 +++

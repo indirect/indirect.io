@@ -7,35 +7,35 @@ type = "tumblr-quote"
 
 [tumblr]
 can_like = false
-is_blaze_pending = false
 date = "2024-02-21 09:55:51 GMT"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-can_send_in_message = true
-is_blazed = false
-interactability_reblog = "everyone"
-can_reblog = false
 source_title = "flaminghydra.com"
-can_blaze = false
+can_reblog = false
+blog_name = "indirect"
+timestamp = 1708509351.0
+is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jbyfFPol8ue00"
+summary = "Finish up with another couple sets of overhead presses. This deceptively simple program gives you a complete full body workout...."
+reblog_key = "FVZP9MaM"
+should_open_in_legacy = true
+source_url = "https://flaminghydra.com/how-to-write-good/"
+id_string = "742925901290962944"
+can_blaze = false
+text = "Finish up with another couple sets of overhead presses. This deceptively simple program gives you a complete full body workout. Now, sit down and write your stuff until it’s done. That’s what I just did for this piece, and it turned out great."
+state = "published"
+source = "<a href=\"https://flaminghydra.com/how-to-write-good/\">How to Write Good</a>"
+can_send_in_message = true
 can_reply = false
 display_avatar = true
 type = "quote"
-id = 7.42925901290963e+17
-reblog_key = "FVZP9MaM"
-note_count = 0.0
-blog_name = "indirect"
-post_url = "https://indirect.io/post/742925901290962944/finish-up-with-another-couple-sets-of-overhead"
-timestamp = 1708509351.0
-format = "markdown"
-summary = "Finish up with another couple sets of overhead presses. This deceptively simple program gives you a complete full body workout...."
 is_blocks_post_format = false
-id_string = "742925901290962944"
+id = 7.42925901290963e+17
+post_url = "https://indirect.io/post/742925901290962944/finish-up-with-another-couple-sets-of-overhead"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+is_blazed = false
 slug = "finish-up-with-another-couple-sets-of-overhead"
-state = "published"
-source_url = "https://flaminghydra.com/how-to-write-good/"
-text = "Finish up with another couple sets of overhead presses. This deceptively simple program gives you a complete full body workout. Now, sit down and write your stuff until it’s done. That’s what I just did for this piece, and it turned out great."
-source = "<a href=\"https://flaminghydra.com/how-to-write-good/\">How to Write Good</a>"
+format = "markdown"
+note_count = 0.0
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://flaminghydra.com/how-to-write-good/\">How to Write Good</a></p>"
@@ -48,7 +48,7 @@ title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

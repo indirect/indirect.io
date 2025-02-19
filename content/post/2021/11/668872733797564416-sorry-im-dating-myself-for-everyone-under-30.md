@@ -6,47 +6,47 @@ slug = "sorry-im-dating-myself-for-everyone-under-30"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-display_avatar = true
-id = 6.688727337975644e+17
-reblog_key = "gX3lHjEY"
-type = "quote"
 is_blocks_post_format = false
 blog_name = "indirect"
+post_url = "https://indirect.io/post/668872733797564416/sorry-im-dating-myself-for-everyone-under-30"
 format = "html"
-short_url = "https://tmblr.co/ZY3jbyb8K3KXyi00"
-summary = "sorry, i’m dating myself.  for everyone under 30: a “mall” is like a website consisting entirely of ads, but in real life"
-date = "2021-11-26 00:32:27 GMT"
-state = "published"
-can_reblog = false
-can_reply = false
-is_blazed = false
-is_blaze_pending = false
-slug = "sorry-im-dating-myself-for-everyone-under-30"
+interactability_blaze = "everyone"
+text = "sorry, i&rsquo;m dating myself.  for everyone under 30: a &ldquo;mall&rdquo; is like a website consisting entirely of ads, but in real life"
 source = "<a href=\"http://twitter.com/eevee/status/1463981297852825621\">@eevee</a>"
 interactability_reblog = "everyone"
-timestamp = 1637886747.0
-interactability_blaze = "everyone"
-post_url = "https://indirect.io/post/668872733797564416/sorry-im-dating-myself-for-everyone-under-30"
-should_open_in_legacy = true
-note_count = 0.0
+reblog_key = "gX3lHjEY"
+summary = "sorry, i’m dating myself.  for everyone under 30: a “mall” is like a website consisting entirely of ads, but in real life"
 can_send_in_message = true
-id_string = "668872733797564416"
+timestamp = 1637886747.0
+should_open_in_legacy = true
+can_reblog = false
+type = "quote"
+is_blaze_pending = false
 can_blaze = false
-text = "sorry, i&rsquo;m dating myself.  for everyone under 30: a &ldquo;mall&rdquo; is like a website consisting entirely of ads, but in real life"
-
-[tumblr.blog]
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+date = "2021-11-26 00:32:27 GMT"
+state = "published"
+can_reply = false
+display_avatar = true
+note_count = 0.0
+can_like = false
+id_string = "668872733797564416"
+slug = "sorry-im-dating-myself-for-everyone-under-30"
+short_url = "https://tmblr.co/ZY3jbyb8K3KXyi00"
+id = 6.688727337975644e+17
+is_blazed = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/eevee/status/1463981297852825621\">@eevee</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

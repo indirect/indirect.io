@@ -6,40 +6,44 @@ slug = "what-opera-has-become-at-a-time-before-i-began"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "AXFiU3BA"
-summary = "What opera has become, at a time before I began singing, before I was born, possibly before or around the time my parents were..."
-type = "quote"
-blog_name = "indirect"
-is_blazed = false
-date = "2014-04-14 00:41:49 GMT"
-note_count = 0.0
 is_blocks_post_format = false
-id = 82637797314.0
-short_url = "https://tmblr.co/ZY3jby1CzcBV2"
-can_reblog = false
-is_blaze_pending = false
+blog_name = "indirect"
 post_url = "https://indirect.io/post/82637797314/what-opera-has-become-at-a-time-before-i-began"
-slug = "what-opera-has-become-at-a-time-before-i-began"
-state = "published"
-source_url = "http://noinsidevoice.wordpress.com/2014/04/12/opera-is-dead-long-live-opera/"
-timestamp = 1397436109.0
-bookmarklet = true
-can_like = false
-interactability_blaze = "everyone"
-can_send_in_message = true
-format = "markdown"
 should_open_in_legacy = true
+can_send_in_message = true
+slug = "what-opera-has-become-at-a-time-before-i-began"
+text = "What opera has become, at a time before I began singing, before I was born, possibly before or around the time my parents were born, is an affront to everything I believe about opera. About music. About performance."
+interactability_blaze = "everyone"
+source_url = "http://noinsidevoice.wordpress.com/2014/04/12/opera-is-dead-long-live-opera/"
+id = 82637797314.0
+id_string = "82637797314"
+is_blaze_pending = false
+timestamp = 1397436109.0
+note_count = 0.0
+is_blazed = false
+can_blaze = false
+date = "2014-04-14 00:41:49 GMT"
+bookmarklet = true
 source_title = "noinsidevoice.wordpress.com"
+type = "quote"
+format = "markdown"
 source = "<a href=\"http://noinsidevoice.wordpress.com/2014/04/12/opera-is-dead-long-live-opera/\">Opera Is Dead! Long Live Opera.</a>"
+can_like = false
 interactability_reblog = "everyone"
 display_avatar = true
+state = "published"
+reblog_key = "AXFiU3BA"
 can_reply = false
-id_string = "82637797314"
-can_blaze = false
-text = "What opera has become, at a time before I began singing, before I was born, possibly before or around the time my parents were born, is an affront to everything I believe about opera. About music. About performance."
+short_url = "https://tmblr.co/ZY3jby1CzcBV2"
+summary = "What opera has become, at a time before I began singing, before I was born, possibly before or around the time my parents were..."
+can_reblog = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://noinsidevoice.wordpress.com/2014/04/12/opera-is-dead-long-live-opera/\">Opera Is Dead! Long Live Opera.</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-updated = 1739927643.0
+updated = 1739939727.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
@@ -48,8 +52,4 @@ url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://noinsidevoice.wordpress.com/2014/04/12/opera-is-dead-long-live-opera/\">Opera Is Dead! Long Live Opera.</a></p>"
-tree_html = ""
 +++

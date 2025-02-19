@@ -6,47 +6,47 @@ slug = "nooo-you-cant-just-use-semantic-markup-for"
 type = "tumblr-quote"
 
 [tumblr]
+short_url = "https://tmblr.co/ZY3jbyYOX70F8W00"
 is_blaze_pending = false
 timestamp = 1590696874.0
-note_count = 0.0
-type = "quote"
+reblog_key = "vCn4S63f"
+summary = "“Nooo you can’t just use semantic markup for visual layout, that’s what CSS is for.”\n \n “Haha HTML go <br><br><br><br>”"
+interactability_blaze = "everyone"
+display_avatar = true
+is_blocks_post_format = false
 id = 6.193905655885332e+17
-id_string = "619390565588533248"
+is_blazed = false
+format = "html"
+text = "Nooo you can’t just use semantic markup for visual layout, that’s what CSS is for.”\n<br/>\n<br/>“Haha HTML go &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;"
+type = "quote"
+slug = "nooo-you-cant-just-use-semantic-markup-for"
+can_reply = false
 post_url = "https://indirect.io/post/619390565588533248/nooo-you-cant-just-use-semantic-markup-for"
-short_url = "https://tmblr.co/ZY3jbyYOX70F8W00"
+date = "2020-05-28 20:14:34 GMT"
+should_open_in_legacy = true
 can_like = false
 interactability_reblog = "everyone"
-can_reblog = false
-format = "html"
-is_blocks_post_format = false
-reblog_key = "vCn4S63f"
+note_count = 0.0
 source = "<a href=\"http://twitter.com/fredericmarx/status/1265923456035688448\">@fredericmarx</a>"
-is_blazed = false
-slug = "nooo-you-cant-just-use-semantic-markup-for"
-state = "published"
-interactability_blaze = "everyone"
-can_blaze = false
-should_open_in_legacy = true
-text = "Nooo you can’t just use semantic markup for visual layout, that’s what CSS is for.”\n<br/>\n<br/>“Haha HTML go &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;"
+can_reblog = false
+id_string = "619390565588533248"
 can_send_in_message = true
-can_reply = false
 blog_name = "indirect"
-date = "2020-05-28 20:14:34 GMT"
-summary = "“Nooo you can’t just use semantic markup for visual layout, that’s what CSS is for.”\n \n “Haha HTML go <br><br><br><br>”"
-display_avatar = true
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-
-[tumblr.blog.tumblrmart_accessories]
+can_blaze = false
+state = "published"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/fredericmarx/status/1265923456035688448\">@fredericmarx</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

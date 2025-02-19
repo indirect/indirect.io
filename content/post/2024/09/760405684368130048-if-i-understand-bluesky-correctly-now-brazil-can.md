@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 id_string = "760405684368130048"
-format = "markdown"
+state = "published"
 short_url = "https://tmblr.co/ZY3jbygDWF3jyq00"
 summary = "If I understand Bluesky correctly, now Brazil can invite 5 more countries"
-display_avatar = true
-id = 7.6040568436813e+17
-date = "2024-09-01 08:29:31 GMT"
-should_open_in_legacy = true
+source = "<a href=\"https://bsky.app/profile/cpoliticditto.bsky.social/post/3l32n4ltzdo23\">connectpoliticditto.  (@cpoliticditto.bsky.social)</a>"
+post_url = "https://indirect.io/post/760405684368130048/if-i-understand-bluesky-correctly-now-brazil-can"
+text = "If I understand Bluesky correctly, now Brazil can invite 5 more countries"
 can_reblog = false
-can_send_in_message = true
+blog_name = "indirect"
 is_blazed = false
+timestamp = 1725179371.0
+interactability_reblog = "everyone"
 can_blaze = false
-slug = "if-i-understand-bluesky-correctly-now-brazil-can"
+date = "2024-09-01 08:29:31 GMT"
+reblog_key = "w10sqvxW"
 note_count = 0.0
+can_send_in_message = true
+type = "quote"
 can_like = false
 can_reply = false
-is_blocks_post_format = false
-type = "quote"
-blog_name = "indirect"
+id = 7.6040568436813e+17
 is_blaze_pending = false
-text = "If I understand Bluesky correctly, now Brazil can invite 5 more countries"
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/760405684368130048/if-i-understand-bluesky-correctly-now-brazil-can"
-state = "published"
+format = "markdown"
 interactability_blaze = "everyone"
-timestamp = 1725179371.0
-reblog_key = "w10sqvxW"
-source = "<a href=\"https://bsky.app/profile/cpoliticditto.bsky.social/post/3l32n4ltzdo23\">connectpoliticditto.  (@cpoliticditto.bsky.social)</a>"
+slug = "if-i-understand-bluesky-correctly-now-brazil-can"
+should_open_in_legacy = true
+is_blocks_post_format = false
+display_avatar = true
 
 [tumblr.blog]
-updated = 1739927643.0
 can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

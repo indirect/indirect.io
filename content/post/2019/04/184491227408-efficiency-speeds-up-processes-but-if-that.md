@@ -6,49 +6,49 @@ slug = "efficiency-speeds-up-processes-but-if-that"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://automating.nyc/#first_page\">Automating NYC</a>"
-id_string = "184491227408"
-is_blazed = false
-post_url = "https://indirect.io/post/184491227408/efficiency-speeds-up-processes-but-if-that"
-slug = "efficiency-speeds-up-processes-but-if-that"
-type = "quote"
-source_url = "https://automating.nyc/#first_page"
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
 id = 184491227408.0
+interactability_reblog = "everyone"
+id_string = "184491227408"
+slug = "efficiency-speeds-up-processes-but-if-that"
+state = "published"
+format = "markdown"
+can_like = false
+interactability_blaze = "everyone"
+can_reply = false
+type = "quote"
+is_blaze_pending = false
+can_blaze = false
+can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jby2hqYBaG"
+source_url = "https://automating.nyc/#first_page"
+can_reblog = false
+is_blazed = false
+date = "2019-04-27 23:39:57 GMT"
+timestamp = 1556408397.0
 reblog_key = "wGfw6Icc"
 summary = "Efficiency speeds up processes, but if that process is already creating inequality, speeding it up makes things worse."
 should_open_in_legacy = true
-timestamp = 1556408397.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-text = "Efficiency speeds up processes, but if that process is already creating inequality, speeding it up makes things worse."
-blog_name = "indirect"
-can_blaze = false
-format = "markdown"
-can_like = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby2hqYBaG"
-note_count = 2.0
-is_blocks_post_format = false
 source_title = "automating.nyc"
-display_avatar = true
-date = "2019-04-27 23:39:57 GMT"
-state = "published"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+blog_name = "indirect"
+post_url = "https://indirect.io/post/184491227408/efficiency-speeds-up-processes-but-if-that"
+note_count = 2.0
+text = "Efficiency speeds up processes, but if that process is already creating inequality, speeding it up makes things worse."
+source = "<a href=\"https://automating.nyc/#first_page\">Automating NYC</a>"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://automating.nyc/#first_page\">Automating NYC</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

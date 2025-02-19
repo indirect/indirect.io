@@ -6,43 +6,43 @@ slug = "imagine-they-bring-kate-out-to-prove-shes-fine"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1710526677.0
-display_avatar = true
-type = "quote"
-can_blaze = false
-should_open_in_legacy = true
-is_blaze_pending = false
-id = 7.450412212448788e+17
-slug = "imagine-they-bring-kate-out-to-prove-shes-fine"
-summary = "Imagine they bring Kate out to prove she’s fine but then they cut into her & it turns out she’s actually Cake Middleton instead...."
-is_blocks_post_format = false
-id_string = "745041221244878848"
-is_blazed = false
-note_count = 0.0
 blog_name = "indirect"
+id = 7.450412212448788e+17
 state = "published"
-format = "markdown"
+can_blaze = false
 text = "Imagine they bring Kate out to prove she’s fine but then they cut into her &amp; it turns out she’s actually Cake Middleton instead. Will the horrors never cease"
-source = "<a href=\"https://twitter.com/youwouldknow/status/1768261862838210631\">Gwdihŵ 🦉 (@youwouldknow)</a>"
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/745041221244878848/imagine-they-bring-kate-out-to-prove-shes-fine"
-date = "2024-03-15 18:17:57 GMT"
-short_url = "https://tmblr.co/ZY3jbyfMwmiNKm00"
-can_reblog = false
-can_reply = false
+display_avatar = true
 reblog_key = "vyPtScqK"
-can_like = false
-interactability_blaze = "everyone"
+short_url = "https://tmblr.co/ZY3jbyfMwmiNKm00"
+summary = "Imagine they bring Kate out to prove she’s fine but then they cut into her & it turns out she’s actually Cake Middleton instead...."
+can_reblog = false
 can_send_in_message = true
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/745041221244878848/imagine-they-bring-kate-out-to-prove-shes-fine"
+format = "markdown"
+source = "<a href=\"https://twitter.com/youwouldknow/status/1768261862838210631\">Gwdihŵ 🦉 (@youwouldknow)</a>"
+slug = "imagine-they-bring-kate-out-to-prove-shes-fine"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+type = "quote"
+id_string = "745041221244878848"
+date = "2024-03-15 18:17:57 GMT"
+can_like = false
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1710526677.0
+note_count = 0.0
+can_reply = false
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

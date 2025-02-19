@@ -7,94 +7,38 @@ title = "Man Finally Put In Charge Of Struggling Feminist Movement"
 type = "tumblr-link"
 
 [tumblr]
-type = "link"
-note_count = 0.0
-description = "<p>The Onion - America&rsquo;s Finest News Source</p>"
-id_string = "104733305968"
-is_blaze_pending = false
-slug = "man-finally-put-in-charge-of-struggling-feminist"
-publisher = "theonion.com"
-date = "2014-12-09 04:31:20 GMT"
 state = "published"
-bookmarklet = true
-can_reply = false
-timestamp = 1418099480.0
-summary = "Man Finally Put In Charge Of Struggling Feminist Movement"
-can_reblog = false
+type = "link"
+is_blocks_post_format = false
+is_blaze_pending = false
 can_blaze = false
-post_url = "https://indirect.io/post/104733305968/man-finally-put-in-charge-of-struggling-feminist"
-short_url = "https://tmblr.co/ZY3jby1XYbsnm"
 should_open_in_legacy = true
-interactability_reblog = "everyone"
-display_avatar = true
-is_blazed = false
+id = 104733305968.0
+slug = "man-finally-put-in-charge-of-struggling-feminist"
 title = "Man Finally Put In Charge Of Struggling Feminist Movement"
-url = "http://www.theonion.com/articles/man-finally-put-in-charge-of-struggling-feminist-m,2338/"
-link_image = "/images/27/58/0e1b13f3b44af4e581eadb756573.jpg"
+interactability_reblog = "everyone"
+date = "2014-12-09 04:31:20 GMT"
 blog_name = "indirect"
+is_blazed = false
+post_url = "https://indirect.io/post/104733305968/man-finally-put-in-charge-of-struggling-feminist"
 format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1XYbsnm"
+link_image = "/images/27/58/0e1b13f3b44af4e581eadb756573.jpg"
+bookmarklet = true
+url = "http://www.theonion.com/articles/man-finally-put-in-charge-of-struggling-feminist-m,2338/"
 can_like = false
 interactability_blaze = "everyone"
-is_blocks_post_format = false
-id = 104733305968.0
-reblog_key = "B2IXHg5e"
+timestamp = 1418099480.0
+publisher = "theonion.com"
+description = "<p>The Onion - America&rsquo;s Finest News Source</p>"
 can_send_in_message = true
-
-[tumblr.link_image_dimensions]
-height = 500.0
-width = 500.0
-
-[[tumblr.trail]]
-content_raw = "<p>The Onion - America’s Finest News Source</p>"
-content = "<p>The Onion - America&rsquo;s Finest News Source</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_full_width = 3000.0
-avatar_shape = "square"
-title_color = "#444444"
-title_font_weight = "bold"
-header_stretch = true
-show_avatar = true
-show_description = true
-show_title = true
-title_font = "Gibson"
-header_full_height = 1055.0
-background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-link_color = "#529ECC"
-show_header_image = false
-
-[tumblr.trail.post]
-id = "104733305968"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>The Onion - America’s Finest News Source</p>"
-tree_html = ""
+reblog_key = "B2IXHg5e"
+summary = "Man Finally Put In Charge Of Struggling Feminist Movement"
+can_reblog = false
+id_string = "104733305968"
+note_count = 0.0
+can_reply = false
+display_avatar = true
 
 [[tumblr.photos]]
 caption = ""
@@ -103,4 +47,60 @@ caption = ""
 url = "/images/27/58/0e1b13f3b44af4e581eadb756573.jpg"
 width = 500.0
 height = 500.0
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.link_image_dimensions]
+width = 500.0
+height = 500.0
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>The Onion - America’s Finest News Source</p>"
+content = "<p>The Onion - America&rsquo;s Finest News Source</p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+show_description = true
+show_header_image = false
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+show_avatar = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+
+[tumblr.trail.post]
+id = "104733305968"
+
+[tumblr.reblog]
+comment = "<p>The Onion - America’s Finest News Source</p>"
+tree_html = ""
 +++

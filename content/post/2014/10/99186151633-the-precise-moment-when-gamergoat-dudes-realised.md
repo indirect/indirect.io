@@ -6,87 +6,35 @@ slug = "the-precise-moment-when-gamergoat-dudes-realised"
 type = "tumblr-photo"
 
 [tumblr]
-can_reblog = false
-should_open_in_legacy = true
-can_send_in_message = true
-type = "photo"
-is_blaze_pending = false
-caption = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
-note_count = 0.0
-link_url = "http://twitter.com/RaygunBrown/status/518546482358546432"
-can_reply = false
-blog_name = "indirect"
 id = 99186151633.0
-date = "2014-10-05 01:57:27 GMT"
-state = "published"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-display_avatar = true
 timestamp = 1412474247.0
-reblog_key = "k8KGFgs2"
-summary = "The precise moment when Gamergoat dudes realised they picked the wrong horse. — @RaygunBrown"
-id_string = "99186151633"
-slug = "the-precise-moment-when-gamergoat-dudes-realised"
-format = "html"
-is_blocks_post_format = false
-is_blazed = false
-post_url = "https://indirect.io/post/99186151633/the-precise-moment-when-gamergoat-dudes-realised"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1SNz93H"
 image_permalink = "https://indirect.io/image/99186151633"
 can_like = false
-
-[[tumblr.trail]]
-content_raw = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
-content = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. &mdash; <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-header_full_height = 1055.0
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-show_title = true
-background_color = "#FAFAFA"
-title_font = "Gibson"
-title_font_weight = "bold"
-show_description = true
-header_full_width = 3000.0
-avatar_shape = "square"
-header_stretch = true
-link_color = "#529ECC"
-show_header_image = false
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_avatar = true
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "99186151633"
-
-[tumblr.reblog]
-comment = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
+can_send_in_message = true
+is_blazed = false
+is_blaze_pending = false
+reblog_key = "k8KGFgs2"
+can_blaze = false
+format = "html"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+state = "published"
+summary = "The precise moment when Gamergoat dudes realised they picked the wrong horse. — @RaygunBrown"
+can_reblog = false
+date = "2014-10-05 01:57:27 GMT"
+note_count = 0.0
+type = "photo"
+short_url = "https://tmblr.co/ZY3jby1SNz93H"
+caption = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
+link_url = "http://twitter.com/RaygunBrown/status/518546482358546432"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+id_string = "99186151633"
+post_url = "https://indirect.io/post/99186151633/the-precise-moment-when-gamergoat-dudes-realised"
+slug = "the-precise-moment-when-gamergoat-dudes-realised"
+can_reply = false
+display_avatar = true
 
 [[tumblr.photos]]
 caption = ""
@@ -107,9 +55,9 @@ width = 540.0
 height = 356.0
 
 [[tumblr.photos.alt_sizes]]
-height = 330.0
 url = "/images/b0/c1/b9471aab280dfe7310f9b51d8190.jpg"
 width = 500.0
+height = 330.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
@@ -130,4 +78,56 @@ height = 66.0
 url = "/images/bc/3f/07018d8eef33ac4702c9b831d1bc.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. — <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
+content = "<p>The precise moment when Gamergoat dudes realised they picked the wrong horse. &mdash; <a href=\"http://twitter.com/RaygunBrown/status/518546482358546432\">@RaygunBrown</a></p>"
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_description = true
+header_stretch = true
+header_full_width = 3000.0
+header_bounds = ""
+header_image_poster = ""
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+title_font_weight = "bold"
+header_full_height = 1055.0
+avatar_shape = "square"
+
+[tumblr.trail.post]
+id = "99186151633"
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739939727.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

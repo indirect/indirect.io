@@ -6,45 +6,45 @@ slug = "no-idea-what-this-game-is-called-but-whoever-made"
 type = "tumblr-photo"
 
 [tumblr]
-source_url = "https://twitter.com/steve_os/status/956164448322031616"
-date = "2018-01-26 00:07:00 GMT"
-note_count = 0.0
-can_send_in_message = true
-is_blaze_pending = false
-can_reply = false
-short_url = "https://tmblr.co/ZY3jby2USdJiW"
-can_like = false
-interactability_reblog = "everyone"
-display_avatar = true
-post_url = "https://indirect.io/post/170131274528/no-idea-what-this-game-is-called-but-whoever-made"
-timestamp = 1516925220.0
 type = "photo"
 is_blocks_post_format = false
-caption = "<p>No idea what this game is called, but whoever made it, is the devil. —<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
-slug = "no-idea-what-this-game-is-called-but-whoever-made"
-format = "markdown"
-should_open_in_legacy = true
-image_permalink = "https://indirect.io/image/170131274528"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-reblog_key = "S2wu9AQ4"
-can_reblog = false
 id_string = "170131274528"
-summary = "No idea what this game is called, but whoever made it, is the devil. —steve_os"
+short_url = "https://tmblr.co/ZY3jby2USdJiW"
+note_count = 0.0
+interactability_reblog = "everyone"
+blog_name = "indirect"
+source_url = "https://twitter.com/steve_os/status/956164448322031616"
 source_title = "twitter.com"
+display_avatar = true
+is_blazed = false
 state = "published"
+format = "markdown"
+summary = "No idea what this game is called, but whoever made it, is the devil. —steve_os"
 id = 170131274528.0
+slug = "no-idea-what-this-game-is-called-but-whoever-made"
+timestamp = 1516925220.0
+image_permalink = "https://indirect.io/image/170131274528"
+is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.io/post/170131274528/no-idea-what-this-game-is-called-but-whoever-made"
+date = "2018-01-26 00:07:00 GMT"
+reblog_key = "S2wu9AQ4"
+caption = "<p>No idea what this game is called, but whoever made it, is the devil. —<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
+can_like = false
+can_reply = false
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reblog = false
+can_send_in_message = true
 
 [tumblr.blog]
-can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739927643.0
+updated = 1739939727.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -52,18 +52,55 @@ updated = 1739927643.0
 comment = "<p>No idea what this game is called, but whoever made it, is the devil. —<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
 tree_html = ""
 
+[[tumblr.trail]]
+content_raw = "<p>No idea what this game is called, but whoever made it, is the devil. —<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
+content = "<p>No idea what this game is called, but whoever made it, is the devil. &mdash;<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_description = true
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+title_font = "Gibson"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_poster = ""
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "170131274528"
+
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-width = 1200.0
 height = 675.0
 url = "/images/f0/b0/3e17812097a4ff833b22c29309f4.jpg"
+width = 1200.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f0/b0/3e17812097a4ff833b22c29309f4.jpg"
 width = 1200.0
 height = 675.0
-url = "/images/f0/b0/3e17812097a4ff833b22c29309f4.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2b/15/2fb4666d6a5014e46b645433f064.jpg"
@@ -71,14 +108,14 @@ width = 640.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
-height = 304.0
 url = "/images/de/54/53806f9cd0e750cd25bc412a32ed.jpg"
 width = 540.0
+height = 304.0
 
 [[tumblr.photos.alt_sizes]]
+height = 281.0
 url = "/images/5f/e7/95b0b2247bfba1efa4bf50211cdf.jpg"
 width = 500.0
-height = 281.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ee/98/39ef9df03e05b89e24d4291a77b3.jpg"
@@ -86,54 +123,17 @@ width = 400.0
 height = 225.0
 
 [[tumblr.photos.alt_sizes]]
+height = 141.0
 url = "/images/41/a4/dcfb8b2b179d0705e8b06537bdd7.jpg"
 width = 250.0
-height = 141.0
 
 [[tumblr.photos.alt_sizes]]
+height = 56.0
 url = "/images/a2/c3/954b8b6ae62d71c3a64a59d3282b.jpg"
 width = 100.0
-height = 56.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/cf/84/b9107a51f91e4c18eb02089d5700.jpg"
 width = 75.0
-height = 75.0
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>No idea what this game is called, but whoever made it, is the devil. —<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
-content = "<p>No idea what this game is called, but whoever made it, is the devil. &mdash;<a href=\"https://twitter.com/steve_os/status/956164448322031616\">steve_os</a></p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-title_color = "#444444"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_stretch = true
-avatar_shape = "square"
-header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-show_title = true
-header_full_width = 3000.0
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
-show_header_image = false
-title_font = "Gibson"
-header_full_height = 1055.0
-
-[tumblr.trail.post]
-id = "170131274528"
 +++
