@@ -12,8 +12,8 @@ uglyURLs = true
   # isPlainText = true
 
 [outputs]
-  home = ["HTML"]
+  home = []
   section = []
   taxonomy = []
   term = []
-  page = ["HTML", "MD"]
+  page = ["MD"]
