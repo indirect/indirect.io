@@ -6,49 +6,49 @@ slug = "please-stop-calling-databases-cp-or-ap"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/118719625343/please-stop-calling-databases-cp-or-ap"
+can_reply = false
 timestamp = 1431375710.0
-state = "published"
-format = "markdown"
-interactability_reblog = "everyone"
+source_url = "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
 can_send_in_message = true
+type = "quote"
+id = 118719625343.0
+note_count = 0.0
+can_reblog = false
+source_title = "martin.kleppmann.com"
+id_string = "118719625343"
 is_blaze_pending = false
 date = "2015-05-11 20:21:50 GMT"
-id = 118719625343.0
-should_open_in_legacy = true
-note_count = 0.0
-text = "Please stop calling databases CP or AP"
-interactability_blaze = "everyone"
-id_string = "118719625343"
 short_url = "https://tmblr.co/ZY3jby1kaFRX-"
-summary = "Please stop calling databases CP or AP"
-can_blaze = false
-slug = "please-stop-calling-databases-cp-or-ap"
-source_title = "martin.kleppmann.com"
-source = "<a href=\"https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html\">Martin Kleppmann’s blog</a>"
-can_like = false
-display_avatar = true
+post_url = "https://indirect.io/post/118719625343/please-stop-calling-databases-cp-or-ap"
 reblog_key = "udjgMEwV"
-source_url = "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-can_reblog = false
-can_reply = false
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+can_like = false
+blog_name = "indirect"
+format = "markdown"
+text = "Please stop calling databases CP or AP"
+is_blocks_post_format = false
+slug = "please-stop-calling-databases-cp-or-ap"
+summary = "Please stop calling databases CP or AP"
+interactability_blaze = "everyone"
+can_blaze = false
+should_open_in_legacy = true
+display_avatar = true
+is_blazed = false
+state = "published"
+source = "<a href=\"https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html\">Martin Kleppmann’s blog</a>"
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html\">Martin Kleppmann’s blog</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

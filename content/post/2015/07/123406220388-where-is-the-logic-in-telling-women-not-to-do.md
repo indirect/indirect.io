@@ -6,47 +6,47 @@ slug = "where-is-the-logic-in-telling-women-not-to-do"
 type = "tumblr-quote"
 
 [tumblr]
-id = 123406220388.0
-id_string = "123406220388"
-is_blaze_pending = false
-reblog_key = "n6vAcYMZ"
-short_url = "https://tmblr.co/ZY3jby1oxbNna"
-note_count = 0.0
-source = "<a href=\"https://debuk.wordpress.com/2015/07/05/just-dont-do-it/##Where+is+the+logic+in+telling+women+not+to+do+that%3F+I+think+we+all+know+the+answer%3A+it%E2%80%99s+the+logic+of+patriarchy%2C+which+says+%E2%80%98a+woman%E2%80%99s+place+is+in+the+wrong%E2%80%99.\">Just don&rsquo;t do it</a>"
-interactability_blaze = "everyone"
-can_send_in_message = true
-type = "quote"
-blog_name = "indirect"
-slug = "where-is-the-logic-in-telling-women-not-to-do"
-date = "2015-07-06 22:33:01 GMT"
-state = "published"
-format = "markdown"
-interactability_reblog = "everyone"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/123406220388/where-is-the-logic-in-telling-women-not-to-do"
-summary = "Where is the logic in telling women not to do that? I think we all know the answer: it’s the logic of patriarchy, which says ‘a..."
-can_reply = false
-display_avatar = true
-timestamp = 1436221981.0
 can_like = false
-can_reblog = false
-can_blaze = false
-should_open_in_legacy = true
-text = "Where is the logic in telling women not to do that? I think we all know the answer: it’s the logic of patriarchy, which says ‘a woman’s place is in the wrong’."
 is_blocks_post_format = false
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+id_string = "123406220388"
+post_url = "https://indirect.io/post/123406220388/where-is-the-logic-in-telling-women-not-to-do"
+date = "2015-07-06 22:33:01 GMT"
+timestamp = 1436221981.0
+display_avatar = true
+is_blaze_pending = false
+can_blaze = false
+format = "markdown"
+text = "Where is the logic in telling women not to do that? I think we all know the answer: it’s the logic of patriarchy, which says ‘a woman’s place is in the wrong’."
+slug = "where-is-the-logic-in-telling-women-not-to-do"
+short_url = "https://tmblr.co/ZY3jby1oxbNna"
+interactability_reblog = "everyone"
+can_reply = false
+type = "quote"
+is_blazed = false
+should_open_in_legacy = true
+source = "<a href=\"https://debuk.wordpress.com/2015/07/05/just-dont-do-it/##Where+is+the+logic+in+telling+women+not+to+do+that%3F+I+think+we+all+know+the+answer%3A+it%E2%80%99s+the+logic+of+patriarchy%2C+which+says+%E2%80%98a+woman%E2%80%99s+place+is+in+the+wrong%E2%80%99.\">Just don&rsquo;t do it</a>"
+id = 123406220388.0
+reblog_key = "n6vAcYMZ"
+interactability_blaze = "everyone"
+state = "published"
+note_count = 0.0
+can_reblog = false
+can_send_in_message = true
+blog_name = "indirect"
+summary = "Where is the logic in telling women not to do that? I think we all know the answer: it’s the logic of patriarchy, which says ‘a..."
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://debuk.wordpress.com/2015/07/05/just-dont-do-it/##Where+is+the+logic+in+telling+women+not+to+do+that%3F+I+think+we+all+know+the+answer%3A+it%E2%80%99s+the+logic+of+patriarchy%2C+which+says+%E2%80%98a+woman%E2%80%99s+place+is+in+the+wrong%E2%80%99.\">Just don’t do it</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

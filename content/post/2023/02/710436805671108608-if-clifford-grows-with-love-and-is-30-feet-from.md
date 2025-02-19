@@ -6,47 +6,47 @@ slug = "if-clifford-grows-with-love-and-is-30-feet-from"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-format = "html"
-state = "published"
 can_blaze = false
-note_count = 0.0
-source = "<a href=\"http://twitter.com/Ada_Palmer/status/1630093781549588480\">@Ada_Palmer</a>"
-timestamp = 1677525334.0
-can_reblog = false
-can_reply = false
-should_open_in_legacy = true
-type = "quote"
-is_blazed = false
+slug = "if-clifford-grows-with-love-and-is-30-feet-from"
 reblog_key = "ydByAzIc"
-text = "If Clifford grows with love and is 30 feet from one kid it would take minimum 300,000 people’s love to make him big enough to fight the Fenris wolf (basing the size on wolf jaw ratio &amp; the texts saying Fenris can’t open his jaw the whole way w/o his nose hitting the sky)."
+short_url = "https://tmblr.co/ZY3jbydR_eAzOy00"
+should_open_in_legacy = true
+format = "html"
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/710436805671108608/if-clifford-grows-with-love-and-is-30-feet-from"
+state = "published"
+type = "quote"
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbydR_eAzOy00"
+note_count = 0.0
 can_send_in_message = true
-date = "2023-02-27 19:15:34 GMT"
+is_blocks_post_format = false
+is_blaze_pending = false
+timestamp = 1677525334.0
 can_like = false
 display_avatar = true
-is_blocks_post_format = false
-id_string = "710436805671108608"
-post_url = "https://indirect.tumblr.com/post/710436805671108608/if-clifford-grows-with-love-and-is-30-feet-from"
-slug = "if-clifford-grows-with-love-and-is-30-feet-from"
-summary = "If Clifford grows with love and is 30 feet from one kid it would take minimum 300,000 people’s love to make him big enough to..."
 id = 7.104368056711086e+17
+is_blazed = false
+date = "2023-02-27 19:15:34 GMT"
+text = "If Clifford grows with love and is 30 feet from one kid it would take minimum 300,000 people’s love to make him big enough to fight the Fenris wolf (basing the size on wolf jaw ratio &amp; the texts saying Fenris can’t open his jaw the whole way w/o his nose hitting the sky)."
+can_reply = false
+summary = "If Clifford grows with love and is 30 feet from one kid it would take minimum 300,000 people’s love to make him big enough to..."
+source = "<a href=\"http://twitter.com/Ada_Palmer/status/1630093781549588480\">@Ada_Palmer</a>"
+can_reblog = false
+id_string = "710436805671108608"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/Ada_Palmer/status/1630093781549588480\">@Ada_Palmer</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

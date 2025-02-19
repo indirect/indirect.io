@@ -6,85 +6,35 @@ slug = "httpstco1tsjfmxhfy-holly-girlziplocked"
 type = "tumblr-photo"
 
 [tumblr]
-blog_name = "indirect"
-image_permalink = "https://indirect.tumblr.com/image/739786344080064512"
-can_reblog = false
-type = "photo"
-id_string = "739786344080064512"
-reblog_key = "kNQK8BQA"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-can_blaze = false
-timestamp = 1705515235.0
-short_url = "https://tmblr.co/ZY3jbyf4FyAeay00"
-link_url = "https://twitter.com/girlziplocked/status/1747672624858071319"
-id = 7.397863440800645e+17
-caption = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
-is_blocks_post_format = false
-format = "html"
-summary = "https://t.co/1TsjFMxHFy — holly 🦝 (@girlziplocked)"
 should_open_in_legacy = true
-is_blazed = false
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/739786344080064512/httpstco1tsjfmxhfy-holly-girlziplocked"
-state = "published"
-can_like = false
-can_send_in_message = true
-slug = "httpstco1tsjfmxhfy-holly-girlziplocked"
+interactability_blaze = "everyone"
 date = "2024-01-17 18:13:55 GMT"
+can_reply = false
+is_blocks_post_format = false
+id = 7.397863440800645e+17
+summary = "https://t.co/1TsjFMxHFy — holly 🦝 (@girlziplocked)"
+caption = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
+can_blaze = false
+state = "published"
 note_count = 1.0
 interactability_reblog = "everyone"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> &mdash; <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly &#129437; (@girlziplocked)</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-title_color = "#444444"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-show_header_image = false
-show_title = true
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-title_font = "Gibson"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "739786344080064512"
+type = "photo"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/739786344080064512/httpstco1tsjfmxhfy-holly-girlziplocked"
+slug = "httpstco1tsjfmxhfy-holly-girlziplocked"
+reblog_key = "kNQK8BQA"
+image_permalink = "https://indirect.io/image/739786344080064512"
+can_like = false
+can_reblog = false
+id_string = "739786344080064512"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyf4FyAeay00"
+link_url = "https://twitter.com/girlziplocked/status/1747672624858071319"
+can_send_in_message = true
+display_avatar = true
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1705515235.0
 
 [[tumblr.photos]]
 caption = ""
@@ -100,9 +50,9 @@ width = 435.0
 height = 528.0
 
 [[tumblr.photos.alt_sizes]]
+height = 486.0
 url = "/images/50/12/95ed575a4c35e7c5dbefb3a6dbc9.jpg"
 width = 400.0
-height = 486.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/97/b2/e7fdcee41842301d04b4c1c89249.jpg"
@@ -115,7 +65,59 @@ width = 100.0
 height = 121.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/8a/98/e82564b3aa9ea524aef985202a26.jpg"
 width = 75.0
+height = 75.0
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
+content = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> &mdash; <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly &#129437; (@girlziplocked)</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "739786344080064512"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_stretch = true
+show_description = true
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/1TsjFMxHFy\">https://t.co/1TsjFMxHFy</a> — <a href=\"https://twitter.com/girlziplocked/status/1747672624858071319\">holly 🦝 (@girlziplocked)</a></p>"
+tree_html = ""
 +++

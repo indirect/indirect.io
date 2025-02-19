@@ -6,47 +6,47 @@ slug = "reservations-are-so-embarrassing-like-hi-im-here"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-slug = "reservations-are-so-embarrassing-like-hi-im-here"
-timestamp = 1663050360.0
-summary = "reservations are so embarrassing like hi i’m here for my spaghetti appointment"
-source = "<a href=\"http://twitter.com/PleaseBeGneiss/status/1569126168787566592\">@PleaseBeGneiss</a>"
-can_reblog = false
-id = 6.952586953026273e+17
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/695258695302627328/reservations-are-so-embarrassing-like-hi-im-here"
-note_count = 0.0
-can_reply = false
-type = "quote"
 reblog_key = "l0SIekh1"
-short_url = "https://tmblr.co/ZY3jbycc3Xc8Wy00"
-text = "reservations are so embarrassing like hi i’m here for my spaghetti appointment"
-interactability_blaze = "everyone"
-can_send_in_message = true
-display_avatar = true
-date = "2022-09-13 06:26:00 GMT"
-state = "published"
-should_open_in_legacy = true
-format = "html"
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
 can_like = false
+is_blazed = false
+summary = "reservations are so embarrassing like hi i’m here for my spaghetti appointment"
+interactability_blaze = "everyone"
+format = "html"
 interactability_reblog = "everyone"
+id = 6.952586953026273e+17
+date = "2022-09-13 06:26:00 GMT"
+blog_name = "indirect"
+timestamp = 1663050360.0
+short_url = "https://tmblr.co/ZY3jbycc3Xc8Wy00"
+should_open_in_legacy = true
+note_count = 0.0
+can_reblog = false
+can_send_in_message = true
+state = "published"
+type = "quote"
+can_blaze = false
+text = "reservations are so embarrassing like hi i’m here for my spaghetti appointment"
+source = "<a href=\"http://twitter.com/PleaseBeGneiss/status/1569126168787566592\">@PleaseBeGneiss</a>"
+display_avatar = true
+is_blocks_post_format = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/695258695302627328/reservations-are-so-embarrassing-like-hi-im-here"
+slug = "reservations-are-so-embarrassing-like-hi-im-here"
+can_reply = false
 id_string = "695258695302627328"
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/PleaseBeGneiss/status/1569126168787566592\">@PleaseBeGneiss</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "buying-a-pc-with-dell-my-journey-into-hell"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "649400451695050752"
-slug = "buying-a-pc-with-dell-my-journey-into-hell"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/649400451695050752/buying-a-pc-with-dell-my-journey-into-hell"
-date = "2021-04-25 02:08:51 GMT"
+reblog_key = "mWdI0hIZ"
+interactability_reblog = "everyone"
+display_avatar = true
+type = "quote"
+can_blaze = false
+source = "<a href=\"http://twitter.com/EyePatchWolf/status/1382355450050580486\">@EyePatchWolf</a>"
+timestamp = 1619316531.0
 format = "html"
+summary = "Buying a PC with Dell: My Journey Into Hell"
+text = "Buying a PC with Dell: My Journey Into Hell"
+can_reblog = false
+state = "published"
+is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/649400451695050752/buying-a-pc-with-dell-my-journey-into-hell"
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reply = false
+slug = "buying-a-pc-with-dell-my-journey-into-hell"
 short_url = "https://tmblr.co/ZY3jbya38aKeGm00"
 should_open_in_legacy = true
-state = "published"
-is_blaze_pending = false
-can_blaze = false
 can_send_in_message = true
-is_blazed = false
-text = "Buying a PC with Dell: My Journey Into Hell"
-display_avatar = true
-blog_name = "indirect"
 id = 6.494004516950508e+17
-summary = "Buying a PC with Dell: My Journey Into Hell"
 can_like = false
-timestamp = 1619316531.0
-reblog_key = "mWdI0hIZ"
-source = "<a href=\"http://twitter.com/EyePatchWolf/status/1382355450050580486\">@EyePatchWolf</a>"
-interactability_reblog = "everyone"
-can_reblog = false
-type = "quote"
-note_count = 0.0
-can_reply = false
+date = "2021-04-25 02:08:51 GMT"
+is_blocks_post_format = false
+id_string = "649400451695050752"
+blog_name = "indirect"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/EyePatchWolf/status/1382355450050580486\">@EyePatchWolf</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 +++

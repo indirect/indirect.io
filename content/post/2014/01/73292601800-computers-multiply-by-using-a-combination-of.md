@@ -6,45 +6,45 @@ slug = "computers-multiply-by-using-a-combination-of"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-reblog_key = "lpSpz62L"
-short_url = "https://tmblr.co/ZY3jby14Gb5d8"
+blog_name = "indirect"
 text = "Computers “multiply” by using a combination of expensive logarithmic look up tables and extremely lucky guesses."
-is_blazed = false
-summary = "Computers “multiply” by using a combination of expensive logarithmic look up tables and extremely lucky guesses."
-source_url = "https://medium.com/cool-code-pal/1f5fd88a219e"
-can_reply = false
-source_title = "medium.com"
-source = "<a href=\"https://medium.com/cool-code-pal/1f5fd88a219e\">4 more Javascript hacks to make your javascript faster</a>"
-date = "2014-01-14 08:34:22 GMT"
-timestamp = 1389688462.0
-interactability_reblog = "everyone"
-display_avatar = true
-is_blaze_pending = false
-slug = "computers-multiply-by-using-a-combination-of"
-format = "markdown"
-bookmarklet = true
-id = 73292601800.0
-can_blaze = false
-should_open_in_legacy = true
-interactability_blaze = "everyone"
+can_send_in_message = true
 type = "quote"
 is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/73292601800/computers-multiply-by-using-a-combination-of"
-note_count = 0.0
-can_send_in_message = true
-blog_name = "indirect"
-id_string = "73292601800"
+is_blazed = false
+is_blaze_pending = false
+interactability_blaze = "everyone"
+can_blaze = false
+post_url = "https://indirect.io/post/73292601800/computers-multiply-by-using-a-combination-of"
 can_like = false
+interactability_reblog = "everyone"
+id_string = "73292601800"
+date = "2014-01-14 08:34:22 GMT"
+timestamp = 1389688462.0
+reblog_key = "lpSpz62L"
+summary = "Computers “multiply” by using a combination of expensive logarithmic look up tables and extremely lucky guesses."
+source_title = "medium.com"
+can_reply = false
+format = "markdown"
+source = "<a href=\"https://medium.com/cool-code-pal/1f5fd88a219e\">4 more Javascript hacks to make your javascript faster</a>"
 can_reblog = false
+display_avatar = true
+id = 73292601800.0
+slug = "computers-multiply-by-using-a-combination-of"
+should_open_in_legacy = true
+note_count = 0.0
+state = "published"
+short_url = "https://tmblr.co/ZY3jby14Gb5d8"
+bookmarklet = true
+source_url = "https://medium.com/cool-code-pal/1f5fd88a219e"
 
 [tumblr.blog]
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]

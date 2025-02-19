@@ -6,81 +6,50 @@ slug = "httpstcoznoyjgfevk-kenny-lauderdale"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbygqe-M64W00"
-summary = "https://t.co/ZNOYjgFeVK — Kenny Lauderdale (@KennyLauderdal3)"
-can_reply = false
 is_blocks_post_format = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reblog = false
-date = "2024-12-31 22:44:32 GMT"
-state = "published"
+image_permalink = "https://indirect.io/image/771421711098839040"
+can_send_in_message = true
 is_blazed = false
 slug = "httpstcoznoyjgfevk-kenny-lauderdale"
-reblog_key = "5NCvjZ6O"
+should_open_in_legacy = true
 caption = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> — <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/771421711098839040"
-can_send_in_message = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/771421711098839040/httpstcoznoyjgfevk-kenny-lauderdale"
-timestamp = 1735685072.0
+can_reply = false
+type = "photo"
+format = "html"
+reblog_key = "5NCvjZ6O"
 link_url = "https://twitter.com/KennyLauderdal3/status/1804951109859229927"
 can_like = false
-type = "photo"
-id_string = "771421711098839040"
-should_open_in_legacy = true
-id = 7.71421711098839e+17
-format = "html"
-note_count = 0.0
 display_avatar = true
-blog_name = "indirect"
+state = "published"
 is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbygqe-M64W00"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+id_string = "771421711098839040"
+summary = "https://t.co/ZNOYjgFeVK — Kenny Lauderdale (@KennyLauderdal3)"
+interactability_blaze = "everyone"
+timestamp = 1735685072.0
+id = 7.71421711098839e+17
+post_url = "https://indirect.io/post/771421711098839040/httpstcoznoyjgfevk-kenny-lauderdale"
+can_blaze = false
+date = "2024-12-31 22:44:32 GMT"
+note_count = 0.0
+can_reblog = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> — <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> — <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
-content = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> &mdash; <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_description = true
-show_title = true
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-header_stretch = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "771421711098839040"
 
 [[tumblr.photos]]
 caption = ""
@@ -101,9 +70,9 @@ width = 640.0
 height = 427.0
 
 [[tumblr.photos.alt_sizes]]
+height = 360.0
 url = "/images/0a/3d/2deafac82a8d3dcc046f823a0a38.png"
 width = 540.0
-height = 360.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0f/79/127271938531e4702e8ef6726a46.png"
@@ -126,11 +95,44 @@ width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/dd/28/724677b5a83876a46daf6e2df34c.png"
 width = 75.0
+height = 75.0
 
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> — <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+content_raw = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> — <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
+content = "<p><a href=\"https://t.co/ZNOYjgFeVK\">https://t.co/ZNOYjgFeVK</a> &mdash; <a href=\"https://twitter.com/KennyLauderdal3/status/1804951109859229927\">Kenny Lauderdale (@KennyLauderdal3)</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_full_width = 3000.0
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_image_poster = ""
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "771421711098839040"
 +++

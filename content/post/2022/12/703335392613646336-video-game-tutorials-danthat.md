@@ -6,63 +6,89 @@ slug = "video-game-tutorials-danthat"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyd2lz0gia00"
-link_url = "http://twitter.com/danthat/status/1601681800962924544"
-type = "photo"
-date = "2022-12-11 10:01:39 GMT"
-timestamp = 1670752899.0
-caption = "<p>Video game tutorials — <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
 slug = "video-game-tutorials-danthat"
-can_blaze = false
-state = "published"
-summary = "Video game tutorials — @danthat"
-can_send_in_message = true
-id = 7.033353926136463e+17
-is_blaze_pending = false
+date = "2022-12-11 10:01:39 GMT"
 reblog_key = "WCKjeWoq"
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/703335392613646336"
-blog_name = "indirect"
-id_string = "703335392613646336"
+caption = "<p>Video game tutorials — <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
+type = "photo"
+is_blocks_post_format = false
 is_blazed = false
-format = "html"
-can_like = false
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/703335392613646336/video-game-tutorials-danthat"
+can_blaze = false
 note_count = 0.0
-can_reblog = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+id_string = "703335392613646336"
+state = "published"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+image_permalink = "https://indirect.io/image/703335392613646336"
+can_like = false
+link_url = "http://twitter.com/danthat/status/1601681800962924544"
+timestamp = 1670752899.0
+format = "html"
 display_avatar = true
+blog_name = "indirect"
+id = 7.033353926136463e+17
+can_reblog = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/703335392613646336/video-game-tutorials-danthat"
+short_url = "https://tmblr.co/ZY3jbyd2lz0gia00"
+summary = "Video game tutorials — @danthat"
+
+[[tumblr.trail]]
+content_raw = "<p>Video game tutorials — <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
+content = "<p>Video game tutorials &mdash; <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+title_color = "#444444"
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+background_color = "#FAFAFA"
+show_title = true
+
+[tumblr.trail.post]
+id = "703335392613646336"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>Video game tutorials — <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/9c/6d/1fd5158f6d0d4598de5661bd6350.jpg"
 width = 1080.0
 height = 780.0
+url = "/images/9c/6d/1fd5158f6d0d4598de5661bd6350.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/9c/6d/1fd5158f6d0d4598de5661bd6350.jpg"
 width = 1080.0
 height = 780.0
-url = "/images/9c/6d/1fd5158f6d0d4598de5661bd6350.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/af/83/0268cd3ffdfbb484fc2ab0df248c.jpg"
@@ -70,9 +96,9 @@ width = 640.0
 height = 462.0
 
 [[tumblr.photos.alt_sizes]]
-height = 390.0
 url = "/images/8c/28/8a98b93e3a30c13e4e92ad3fd581.jpg"
 width = 540.0
+height = 390.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/85/c7/05ab68930713f35394bc438956e5.jpg"
@@ -90,47 +116,23 @@ width = 250.0
 height = 181.0
 
 [[tumblr.photos.alt_sizes]]
-width = 100.0
 height = 72.0
 url = "/images/2f/bd/0a9026a61ec8af54fe97a5f7271f.jpg"
+width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/35/7b/7883d721f57c906f08daa692aa48.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-content = "<p>Video game tutorials &mdash; <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Video game tutorials — <a href=\"http://twitter.com/danthat/status/1601681800962924544\">@danthat</a></p>"
-
-[tumblr.trail.blog]
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
-[tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-show_description = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_header_image = false
-show_title = true
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-
-[tumblr.trail.post]
-id = "703335392613646336"
+[tumblr.blog.tumblrmart_accessories]
 +++

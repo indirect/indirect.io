@@ -6,50 +6,50 @@ slug = "far-less-oversight-and-public-control-from"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/90879715938/far-less-oversight-and-public-control-from"
-summary = "far less oversight and public control. From privately-run healthcare providers to privately-run prisons to privately-run..."
-can_reblog = false
-id_string = "90879715938"
+type = "quote"
 short_url = "https://tmblr.co/ZY3jby1KescfY"
-source_title = "faz.net"
-can_like = false
+source_url = "http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html?printPagedArticle=true#pageIndex_2"
+can_reblog = false
+blog_name = "indirect"
+id = 90879715938.0
+is_blaze_pending = false
+can_blaze = false
+date = "2014-07-05 21:09:05 GMT"
+summary = "far less oversight and public control. From privately-run healthcare providers to privately-run prisons to privately-run..."
 note_count = 0.0
+is_blocks_post_format = false
+id_string = "90879715938"
+timestamp = 1404594545.0
+text = "far less oversight and public control. From privately-run healthcare providers to privately-run prisons to privately-run militias dispatched to war zones, this is the public-private partnership model on which much of American infrastructure operates these days"
 source = "<a href=\"http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html?printPagedArticle=true#pageIndex_2\">Information Consumerism: The Price of Hypocrisy</a>"
 interactability_reblog = "everyone"
 can_reply = false
-display_avatar = true
-type = "quote"
-is_blocks_post_format = false
-blog_name = "indirect"
-format = "markdown"
-bookmarklet = true
-text = "far less oversight and public control. From privately-run healthcare providers to privately-run prisons to privately-run militias dispatched to war zones, this is the public-private partnership model on which much of American infrastructure operates these days"
-state = "published"
-should_open_in_legacy = true
-can_send_in_message = true
-can_blaze = false
-reblog_key = "VD2AkznK"
-source_url = "http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html?printPagedArticle=true#pageIndex_2"
-interactability_blaze = "everyone"
-id = 90879715938.0
-slug = "far-less-oversight-and-public-control-from"
-timestamp = 1404594545.0
-date = "2014-07-05 21:09:05 GMT"
 is_blazed = false
-is_blaze_pending = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html?printPagedArticle=true#pageIndex_2\">Information Consumerism: The Price of Hypocrisy</a></p>"
-tree_html = ""
+post_url = "https://indirect.io/post/90879715938/far-less-oversight-and-public-control-from"
+can_send_in_message = true
+display_avatar = true
+state = "published"
+format = "markdown"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+bookmarklet = true
+source_title = "faz.net"
+can_like = false
+slug = "far-less-oversight-and-public-control-from"
+reblog_key = "VD2AkznK"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html?printPagedArticle=true#pageIndex_2\">Information Consumerism: The Price of Hypocrisy</a></p>"
 +++

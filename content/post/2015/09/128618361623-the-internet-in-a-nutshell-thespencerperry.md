@@ -6,35 +6,35 @@ slug = "the-internet-in-a-nutshell-thespencerperry"
 type = "tumblr-photo"
 
 [tumblr]
-image_permalink = "https://indirect.tumblr.com/image/128618361623"
-date = "2015-09-08 05:24:07 GMT"
-caption = "<p>The internet in a nutshell. — <a href=\"http://twitter.com/TheSpencerPerry/status/640983987448492032\">@TheSpencerPerry</a></p>"
-can_send_in_message = true
-id = 128618361623.0
-state = "published"
-summary = "The internet in a nutshell. — @TheSpencerPerry"
-post_url = "https://indirect.tumblr.com/post/128618361623/the-internet-in-a-nutshell-thespencerperry"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1toG7CN"
 id_string = "128618361623"
-interactability_blaze = "everyone"
-display_avatar = true
+can_reblog = false
+state = "published"
 type = "photo"
 is_blocks_post_format = false
+id = 128618361623.0
+post_url = "https://indirect.io/post/128618361623/the-internet-in-a-nutshell-thespencerperry"
+format = "html"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/128618361623"
 blog_name = "indirect"
-link_url = "http://twitter.com/TheSpencerPerry/status/640983987448492032"
-interactability_reblog = "everyone"
+slug = "the-internet-in-a-nutshell-thespencerperry"
+reblog_key = "2iL7fXuz"
+summary = "The internet in a nutshell. — @TheSpencerPerry"
+caption = "<p>The internet in a nutshell. — <a href=\"http://twitter.com/TheSpencerPerry/status/640983987448492032\">@TheSpencerPerry</a></p>"
 can_reply = false
 is_blazed = false
-reblog_key = "2iL7fXuz"
-should_open_in_legacy = true
-note_count = 0.0
-can_like = false
-can_reblog = false
-is_blaze_pending = false
 can_blaze = false
-slug = "the-internet-in-a-nutshell-thespencerperry"
+short_url = "https://tmblr.co/ZY3jby1toG7CN"
+interactability_blaze = "everyone"
+display_avatar = true
 timestamp = 1441689847.0
+link_url = "http://twitter.com/TheSpencerPerry/status/640983987448492032"
+can_like = false
+can_send_in_message = true
+is_blaze_pending = false
+date = "2015-09-08 05:24:07 GMT"
+note_count = 0.0
+interactability_reblog = "everyone"
 
 [[tumblr.trail]]
 content_raw = "<p>The internet in a nutshell. — <a href=\"http://twitter.com/TheSpencerPerry/status/640983987448492032\">@TheSpencerPerry</a></p>"
@@ -42,43 +42,45 @@ content = "<p>The internet in a nutshell. &mdash; <a href=\"http://twitter.com/T
 is_current_item = true
 is_root_item = true
 
+[tumblr.trail.post]
+id = "128618361623"
+
 [tumblr.trail.blog]
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
+header_full_width = 3000.0
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_header_image = false
 show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_font = "Gibson"
-avatar_shape = "square"
+header_full_height = 1055.0
 header_bounds = ""
 link_color = "#529ECC"
-show_avatar = true
 show_description = true
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_header_image = false
-title_color = "#444444"
+avatar_shape = "square"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-
-[tumblr.trail.post]
-id = "128618361623"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -126,6 +128,6 @@ width = 75.0
 height = 75.0
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>The internet in a nutshell. — <a href=\"http://twitter.com/TheSpencerPerry/status/640983987448492032\">@TheSpencerPerry</a></p>"
+tree_html = ""
 +++

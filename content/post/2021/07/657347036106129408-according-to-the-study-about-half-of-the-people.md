@@ -6,48 +6,44 @@ slug = "according-to-the-study-about-half-of-the-people"
 type = "tumblr-photo"
 
 [tumblr]
-can_like = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/657347036106129408/according-to-the-study-about-half-of-the-people"
-reblog_key = "2KKl3z9N"
-can_reblog = false
-can_reply = false
-image_permalink = "https://indirect.tumblr.com/image/657347036106129408"
-display_avatar = true
-date = "2021-07-21 19:16:25 GMT"
-timestamp = 1626894985.0
-should_open_in_legacy = true
-can_send_in_message = true
-is_blocks_post_format = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyaVNQM5Gm00"
-link_url = "http://twitter.com/mikestabile/status/1417625100661100546"
-type = "photo"
-blog_name = "indirect"
-is_blazed = false
-slug = "according-to-the-study-about-half-of-the-people"
 state = "published"
-summary = "According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists,..."
+format = "html"
+reblog_key = "2KKl3z9N"
+short_url = "https://tmblr.co/ZY3jbyaVNQM5Gm00"
+should_open_in_legacy = true
+can_reply = false
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/657347036106129408/according-to-the-study-about-half-of-the-people"
+date = "2021-07-21 19:16:25 GMT"
 interactability_reblog = "everyone"
-is_blaze_pending = false
-note_count = 0.0
-caption = "<p>According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists, the anti-porn religious, men&rsquo;s rights movement, pick-up artists, or other regressive groups. — <a href=\"http://twitter.com/mikestabile/status/1417625100661100546\">@mikestabile</a></p>"
 interactability_blaze = "everyone"
 id = 6.573470361061294e+17
+is_blaze_pending = false
+summary = "According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists,..."
+caption = "<p>According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists, the anti-porn religious, men&rsquo;s rights movement, pick-up artists, or other regressive groups. — <a href=\"http://twitter.com/mikestabile/status/1417625100661100546\">@mikestabile</a></p>"
+can_like = false
+can_reblog = false
+image_permalink = "https://indirect.io/image/657347036106129408"
+can_blaze = false
+display_avatar = true
+type = "photo"
+timestamp = 1626894985.0
+note_count = 0.0
+can_send_in_message = true
+link_url = "http://twitter.com/mikestabile/status/1417625100661100546"
+blog_name = "indirect"
 id_string = "657347036106129408"
-
-[tumblr.reblog]
-comment = "<p>According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists, the anti-porn religious, men’s rights movement, pick-up artists, or other regressive groups. — <a href=\"http://twitter.com/mikestabile/status/1417625100661100546\">@mikestabile</a></p>"
-tree_html = ""
+is_blazed = false
+slug = "according-to-the-study-about-half-of-the-people"
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -65,23 +61,25 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_font_weight = "bold"
+header_full_width = 3000.0
 avatar_shape = "square"
-background_color = "#FAFAFA"
-header_stretch = true
-show_description = true
-show_header_image = false
-title_font = "Gibson"
-body_font = "Helvetica Neue"
 link_color = "#529ECC"
+show_header_image = false
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 show_avatar = true
 show_title = true
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_color = "#444444"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_stretch = true
 
 [tumblr.trail.post]
 id = "657347036106129408"
@@ -89,20 +87,15 @@ id = "657347036106129408"
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-height = 248.0
-url = "/images/0e/26/0eafdb80e2ea4ba797499df6e0ad.jpg"
-width = 500.0
-
 [[tumblr.photos.alt_sizes]]
 url = "/images/0e/26/0eafdb80e2ea4ba797499df6e0ad.jpg"
 width = 500.0
 height = 248.0
 
 [[tumblr.photos.alt_sizes]]
+height = 198.0
 url = "/images/ff/5e/ac7a6f27515296404b03451fa8a7.jpg"
 width = 400.0
-height = 198.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/df/32/afcc739cd16a5b2f84acb64459b4.jpg"
@@ -110,12 +103,21 @@ width = 250.0
 height = 124.0
 
 [[tumblr.photos.alt_sizes]]
+height = 50.0
 url = "/images/07/fa/1e7cde74c6ca01cb607f3d9d9f0f.jpg"
 width = 100.0
-height = 50.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/9d/66/99c832a95b5e461a0cc88653209b.jpg"
 width = 75.0
-height = 75.0
+
+[tumblr.photos.original_size]
+url = "/images/0e/26/0eafdb80e2ea4ba797499df6e0ad.jpg"
+width = 500.0
+height = 248.0
+
+[tumblr.reblog]
+comment = "<p>According to the study, about half of the people in anti-masturbation movement overlap ideologically with white supremacists, the anti-porn religious, men’s rights movement, pick-up artists, or other regressive groups. — <a href=\"http://twitter.com/mikestabile/status/1417625100661100546\">@mikestabile</a></p>"
+tree_html = ""
 +++

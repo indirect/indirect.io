@@ -6,47 +6,47 @@ slug = "trumps-people-tell-a-lie-then-another-lie-to"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/158579258758/trumps-people-tell-a-lie-then-another-lie-to"
-id_string = "158579258758"
-short_url = "https://tmblr.co/ZY3jby2Ji3tM6"
-state = "published"
-is_blazed = false
+interactability_reblog = "everyone"
 is_blaze_pending = false
-slug = "trumps-people-tell-a-lie-then-another-lie-to"
 date = "2017-03-19 07:41:27 GMT"
-summary = "Trump’s people tell a lie. Then another lie to cover it. Then two to cover those. 3, then 5, then 8. We call this the Fib-o-Nazi..."
-should_open_in_legacy = true
+display_avatar = true
 blog_name = "indirect"
+id_string = "158579258758"
+interactability_blaze = "everyone"
+can_reply = false
+summary = "Trump’s people tell a lie. Then another lie to cover it. Then two to cover those. 3, then 5, then 8. We call this the Fib-o-Nazi..."
+source = "<a href=\"http://twitter.com/benefactumgames/status/843072781197721600\">@benefactumgames</a>"
+type = "quote"
+id = 158579258758.0
+post_url = "https://indirect.io/post/158579258758/trumps-people-tell-a-lie-then-another-lie-to"
+slug = "trumps-people-tell-a-lie-then-another-lie-to"
+text = "Trump&rsquo;s people tell a lie. Then another lie to cover it. Then two to cover those. 3, then 5, then 8. We call this the Fib-o-Nazi Sequence."
+can_reblog = false
+is_blocks_post_format = false
+is_blazed = false
+reblog_key = "kNI5GBuZ"
+short_url = "https://tmblr.co/ZY3jby2Ji3tM6"
+can_send_in_message = true
 can_like = false
 timestamp = 1489909287.0
-text = "Trump&rsquo;s people tell a lie. Then another lie to cover it. Then two to cover those. 3, then 5, then 8. We call this the Fib-o-Nazi Sequence."
-source = "<a href=\"http://twitter.com/benefactumgames/status/843072781197721600\">@benefactumgames</a>"
-id = 158579258758.0
-reblog_key = "kNI5GBuZ"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-is_blocks_post_format = false
-can_blaze = false
 format = "html"
-display_avatar = true
+should_open_in_legacy = true
 note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+state = "published"
+can_blaze = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/benefactumgames/status/843072781197721600\">@benefactumgames</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,43 +6,43 @@ slug = "for-those-of-you-under-the-age-of-25-a-magazine"
 type = "tumblr-quote"
 
 [tumblr]
+should_open_in_legacy = true
 is_blocks_post_format = false
-format = "markdown"
+id = 8070181056.0
+interactability_blaze = "everyone"
+can_send_in_message = true
+is_blazed = false
+reblog_key = "XTqWSAiR"
 note_count = 0.0
+can_like = false
+can_reblog = false
+display_avatar = true
+format = "markdown"
+text = "For those of you under the age of 25, a magazine is a blog made out of trees"
 type = "quote"
+is_blaze_pending = false
+timestamp = 1311650101.0
 id_string = "8070181056"
 date = "2011-07-26 03:15:01 GMT"
-can_like = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/8070181056/for-those-of-you-under-the-age-of-25-a-magazine"
-state = "published"
-source = "<a href=\"http://www.cultofmac.com/how-the-editor-of-windows-magazine-became-an-apple-fanboy/105882\">How the Editor of Windows Magazine Became an Apple Fanboy</a>"
-interactability_blaze = "everyone"
-can_reblog = false
-id = 8070181056.0
-timestamp = 1311650101.0
-reblog_key = "XTqWSAiR"
-is_blazed = false
-slug = "for-those-of-you-under-the-age-of-25-a-magazine"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby7X1J30"
-should_open_in_legacy = true
-can_reply = false
-can_blaze = false
 summary = "For those of you under the age of 25, a magazine is a blog made out of trees"
-text = "For those of you under the age of 25, a magazine is a blog made out of trees"
-can_send_in_message = true
+blog_name = "indirect"
+state = "published"
+can_blaze = false
+post_url = "https://indirect.io/post/8070181056/for-those-of-you-under-the-age-of-25-a-magazine"
+source = "<a href=\"http://www.cultofmac.com/how-the-editor-of-windows-magazine-became-an-apple-fanboy/105882\">How the Editor of Windows Magazine Became an Apple Fanboy</a>"
+interactability_reblog = "everyone"
+can_reply = false
+slug = "for-those-of-you-under-the-age-of-25-a-magazine"
+short_url = "https://tmblr.co/ZY3jby7X1J30"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

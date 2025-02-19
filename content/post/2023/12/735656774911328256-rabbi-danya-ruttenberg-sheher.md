@@ -7,69 +7,45 @@ type = "tumblr-photo"
 
 [tumblr]
 type = "photo"
-can_blaze = false
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-display_avatar = true
-is_blazed = false
-date = "2023-12-03 04:16:11 GMT"
-state = "published"
-caption = "<p>— <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
-can_like = false
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/735656774911328256/rabbi-danya-ruttenberg-sheher"
 timestamp = 1701576971.0
-format = "html"
-blog_name = "indirect"
-id = 7.356567749113283e+17
-id_string = "735656774911328256"
-reblog_key = "DiN32QZa"
-summary = "— Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)"
-can_reply = false
-is_blaze_pending = false
-note_count = 1.0
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jbyera-1fCm00"
-image_permalink = "https://indirect.tumblr.com/image/735656774911328256"
+can_like = false
 interactability_reblog = "everyone"
-slug = "rabbi-danya-ruttenberg-sheher"
-should_open_in_legacy = true
+interactability_blaze = "everyone"
+blog_name = "indirect"
+id_string = "735656774911328256"
+is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/735656774911328256/rabbi-danya-ruttenberg-sheher"
+id = 7.356567749113283e+17
+short_url = "https://tmblr.co/ZY3jbyera-1fCm00"
+summary = "— Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)"
+display_avatar = true
+date = "2023-12-03 04:16:11 GMT"
 link_url = "https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d"
+slug = "rabbi-danya-ruttenberg-sheher"
+format = "html"
+can_reply = false
+can_blaze = false
+reblog_key = "DiN32QZa"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/735656774911328256"
+can_send_in_message = true
+is_blocks_post_format = false
+state = "published"
+note_count = 1.0
+caption = "<p>— <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
+can_reblog = false
 
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>— <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
-content = "<p>&mdash; <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
+[tumblr.blog]
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
-[tumblr.trail.blog.theme]
-show_description = true
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_title = true
-header_image_poster = ""
-show_avatar = true
-
-[tumblr.trail.post]
-id = "735656774911328256"
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -80,14 +56,14 @@ width = 1000.0
 height = 1000.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f5/43/3ecbc24e4a0b41af430554ce8b7f.jpg"
 width = 1000.0
 height = 1000.0
-url = "/images/f5/43/3ecbc24e4a0b41af430554ce8b7f.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/2c/77/b341cd075cd9a5a5f76bc42164de.jpg"
 width = 640.0
 height = 640.0
-url = "/images/2c/77/b341cd075cd9a5a5f76bc42164de.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/89/1f/c1466bebfe47ddec638d2a46923b.jpg"
@@ -100,9 +76,9 @@ width = 500.0
 height = 500.0
 
 [[tumblr.photos.alt_sizes]]
+height = 400.0
 url = "/images/bf/9b/5820ddc0ac82d7de1e433e140639.jpg"
 width = 400.0
-height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ee/37/15cd7b6e30dd1d9877043277db8a.jpg"
@@ -110,27 +86,53 @@ width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/d6/93/545fabfa1d37ab84113591495e95.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/04/c3/a9cfbb4e7dad60388213e5d9e27f.jpg"
 width = 75.0
 height = 75.0
+url = "/images/04/c3/a9cfbb4e7dad60388213e5d9e27f.jpg"
 
 [tumblr.reblog]
 comment = "<p>— <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
 tree_html = ""
 
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
+[[tumblr.trail]]
+content_raw = "<p>— <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
+content = "<p>&mdash; <a href=\"https://bsky.app/profile/theradr.bsky.social/post/3kfm6x5gfwr2d\">Rabbi Danya Ruttenberg (she/her) (@theradr.bsky.social)</a></p>"
+is_current_item = true
+is_root_item = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+title_font = "Gibson"
+header_full_width = 3000.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+show_description = true
+show_title = true
+title_color = "#444444"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "735656774911328256"
 +++

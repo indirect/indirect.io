@@ -6,47 +6,47 @@ slug = "film-piracy-feeds-babies"
 type = "tumblr-quote"
 
 [tumblr]
+can_send_in_message = true
+id = 52769902791.0
+id_string = "52769902791"
+can_blaze = false
+text = "Film piracy feeds babies"
+is_blaze_pending = false
 summary = "Film piracy feeds babies"
-should_open_in_legacy = true
-source = "<a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a>"
-blog_name = "indirect"
 display_avatar = true
 type = "quote"
-can_like = false
-date = "2013-06-12 05:15:27 GMT"
-id = 52769902791.0
-is_blazed = false
-can_reblog = false
-can_reply = false
-id_string = "52769902791"
-is_blaze_pending = false
-timestamp = 1371014127.0
-text = "Film piracy feeds babies"
+should_open_in_legacy = true
 interactability_reblog = "everyone"
-can_send_in_message = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/52769902791/film-piracy-feeds-babies"
-slug = "film-piracy-feeds-babies"
-reblog_key = "8E2RnJ0R"
 interactability_blaze = "everyone"
-note_count = 0.0
+can_reply = false
+blog_name = "indirect"
+slug = "film-piracy-feeds-babies"
 state = "published"
-can_blaze = false
-format = "markdown"
 short_url = "https://tmblr.co/ZY3jbyn9LD37"
+can_like = false
+is_blazed = false
+format = "markdown"
+is_blocks_post_format = false
+note_count = 0.0
+source = "<a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a>"
+can_reblog = false
+post_url = "https://indirect.io/post/52769902791/film-piracy-feeds-babies"
+date = "2013-06-12 05:15:27 GMT"
+timestamp = 1371014127.0
+reblog_key = "8E2RnJ0R"
 
 [tumblr.reblog]
 tree_html = ""
 comment = "<p><a href=\"http://tmblr.co/ZUGGVyn9AxTy\">adult swim</a></p>"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 +++

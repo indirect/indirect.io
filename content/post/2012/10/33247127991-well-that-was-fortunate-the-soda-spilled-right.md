@@ -6,43 +6,43 @@ slug = "well-that-was-fortunate-the-soda-spilled-right"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
-source = "sica"
+timestamp = 1349813040.0
+reblog_key = "tzJkavlM"
+note_count = 0.0
 can_like = false
 id_string = "33247127991"
-is_blazed = false
 is_blaze_pending = false
-can_blaze = false
-slug = "well-that-was-fortunate-the-soda-spilled-right"
-post_url = "https://indirect.tumblr.com/post/33247127991/well-that-was-fortunate-the-soda-spilled-right"
-state = "published"
-can_reblog = false
-can_reply = false
-timestamp = 1349813040.0
-short_url = "https://tmblr.co/ZY3jbyUzhkct"
-is_blocks_post_format = false
-blog_name = "indirect"
+post_url = "https://indirect.io/post/33247127991/well-that-was-fortunate-the-soda-spilled-right"
 date = "2012-10-09 20:04:00 GMT"
 summary = "Well, that was fortunate. The soda spilled right onto… the towels."
-can_send_in_message = true
+can_reply = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyUzhkct"
+can_reblog = false
+display_avatar = true
 id = 33247127991.0
-format = "markdown"
-note_count = 0.0
-text = "Well, that was fortunate. The soda spilled right onto… the towels."
+can_blaze = false
 interactability_reblog = "everyone"
+is_blocks_post_format = false
+text = "Well, that was fortunate. The soda spilled right onto… the towels."
 type = "quote"
-reblog_key = "tzJkavlM"
 should_open_in_legacy = true
+can_send_in_message = true
+blog_name = "indirect"
+is_blazed = false
+slug = "well-that-was-fortunate-the-soda-spilled-right"
+format = "markdown"
+source = "sica"
 interactability_blaze = "everyone"
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

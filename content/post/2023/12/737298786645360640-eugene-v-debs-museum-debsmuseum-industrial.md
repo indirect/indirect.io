@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 display_avatar = true
-is_blazed = false
-slug = "eugene-v-debs-museum-debsmuseum-industrial"
-source = "<a href=\"https://twitter.com/DebsMuseum/status/1737336721941971162\">Eugene V. Debs Museum (@DebsMuseum)</a>"
-id = 7.372987866453606e+17
-can_send_in_message = true
-can_reply = false
-is_blocks_post_format = false
-id_string = "737298786645360640"
-short_url = "https://tmblr.co/ZY3jbyexQLSFKi00"
-text = "<blockquote><p>\n<a href=\"https://twitter.com/DebsMuseum/status/1737315369486819473\">Eugene V. Debs Museum (@DebsMuseum)</a>: Industrial unionism is so goated when exploitation is the vibe\n</p></blockquote>\n\n<p>This one has proven controversial. Getting some pushback</p>"
-can_reblog = false
-timestamp = 1703142916.0
-type = "quote"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/737298786645360640/eugene-v-debs-museum-debsmuseum-industrial"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-format = "markdown"
+post_url = "https://indirect.io/post/737298786645360640/eugene-v-debs-museum-debsmuseum-industrial"
 reblog_key = "CWS5vrmw"
-should_open_in_legacy = true
-can_like = false
-blog_name = "indirect"
-date = "2023-12-21 07:15:16 GMT"
-note_count = 0.0
-interactability_reblog = "everyone"
-state = "published"
+short_url = "https://tmblr.co/ZY3jbyexQLSFKi00"
 summary = "Eugene V. Debs Museum (@DebsMuseum): Industrial unionism is so goated when exploitation is the vibe\n\n\n This one has proven..."
+can_like = false
+interactability_reblog = "everyone"
+date = "2023-12-21 07:15:16 GMT"
+blog_name = "indirect"
+text = "<blockquote><p>\n<a href=\"https://twitter.com/DebsMuseum/status/1737315369486819473\">Eugene V. Debs Museum (@DebsMuseum)</a>: Industrial unionism is so goated when exploitation is the vibe\n</p></blockquote>\n\n<p>This one has proven controversial. Getting some pushback</p>"
+can_send_in_message = true
+is_blocks_post_format = false
+is_blazed = false
+can_reply = false
+source = "<a href=\"https://twitter.com/DebsMuseum/status/1737336721941971162\">Eugene V. Debs Museum (@DebsMuseum)</a>"
+type = "quote"
+is_blaze_pending = false
+can_blaze = false
+slug = "eugene-v-debs-museum-debsmuseum-industrial"
+timestamp = 1703142916.0
+format = "markdown"
+id = 7.372987866453606e+17
+id_string = "737298786645360640"
+state = "published"
+note_count = 0.0
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reblog = false
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

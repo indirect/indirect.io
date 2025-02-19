@@ -6,47 +6,47 @@ slug = "hiring-manager-we-3-diversity-but-cant-lower"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "149704260033"
+post_url = "https://indirect.io/post/149704260033/hiring-manager-we-3-diversity-but-cant-lower"
 source = "<a href=\"http://twitter.com/josh_cheek/status/770624979436199936\">@josh_cheek</a>"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-can_blaze = false
-should_open_in_legacy = true
 note_count = 0.0
-can_send_in_message = true
-can_like = false
-state = "published"
-type = "quote"
-reblog_key = "eVRd1SLX"
-summary = "Hiring Manager: “We <3 diversity, but can’t lower the bar for our devs” \nMe: “No, I was suggesting raising it. But, for your..."
-text = "Hiring Manager: &ldquo;We &lt;3 diversity, but can&rsquo;t lower the bar for our devs&rdquo;<br/>\nMe: &ldquo;No, I was suggesting raising it. But, for your hiring managers&rdquo;"
-interactability_blaze = "everyone"
+can_reply = false
 slug = "hiring-manager-we-3-diversity-but-cant-lower"
 format = "html"
-interactability_reblog = "everyone"
-can_reblog = false
-can_reply = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/149704260033/hiring-manager-we-3-diversity-but-cant-lower"
+id_string = "149704260033"
+date = "2016-08-30 16:16:53 GMT"
+reblog_key = "eVRd1SLX"
 short_url = "https://tmblr.co/ZY3jby2BR4Rd1"
 display_avatar = true
-id = 149704260033.0
-date = "2016-08-30 16:16:53 GMT"
-timestamp = 1472573813.0
-is_blocks_post_format = false
+blog_name = "indirect"
+text = "Hiring Manager: &ldquo;We &lt;3 diversity, but can&rsquo;t lower the bar for our devs&rdquo;<br/>\nMe: &ldquo;No, I was suggesting raising it. But, for your hiring managers&rdquo;"
+can_like = false
+interactability_blaze = "everyone"
+type = "quote"
+can_blaze = false
 is_blazed = false
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+state = "published"
+summary = "Hiring Manager: “We <3 diversity, but can’t lower the bar for our devs” \nMe: “No, I was suggesting raising it. But, for your..."
+should_open_in_legacy = true
+can_send_in_message = true
+is_blocks_post_format = false
+id = 149704260033.0
+timestamp = 1472573813.0
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/josh_cheek/status/770624979436199936\">@josh_cheek</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

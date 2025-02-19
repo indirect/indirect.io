@@ -6,87 +6,67 @@ slug = "just-discovered-that-my-home-screen-is-to-this"
 type = "tumblr-photo"
 
 [tumblr]
-can_reply = false
+id = 59662518401.0
+is_blazed = false
+image_permalink = "https://indirect.io/image/59662518401"
 reblog_key = "JoZwUN6a"
-short_url = "https://tmblr.co/ZY3jbytaASY1"
-interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+display_avatar = true
 is_blaze_pending = false
 can_blaze = false
-can_reblog = false
-display_avatar = true
-is_blazed = false
-type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/59662518401/just-discovered-that-my-home-screen-is-to-this"
-should_open_in_legacy = true
-note_count = 0.0
-can_like = false
-can_send_in_message = true
-is_blocks_post_format = false
-timestamp = 1377760312.0
-state = "published"
+post_url = "https://indirect.io/post/59662518401/just-discovered-that-my-home-screen-is-to-this"
 format = "markdown"
-image_permalink = "https://indirect.tumblr.com/image/59662518401"
-id = 59662518401.0
+caption = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
+can_like = false
+can_reply = false
+timestamp = 1377760312.0
+summary = "Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh."
+can_reblog = false
+is_blocks_post_format = false
+blog_name = "indirect"
+slug = "just-discovered-that-my-home-screen-is-to-this"
+can_send_in_message = true
+type = "photo"
+short_url = "https://tmblr.co/ZY3jbytaASY1"
+note_count = 0.0
+interactability_blaze = "everyone"
 id_string = "59662518401"
 date = "2013-08-29 07:11:52 GMT"
-interactability_reblog = "everyone"
-slug = "just-discovered-that-my-home-screen-is-to-this"
-summary = "Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh."
-caption = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
+state = "published"
+should_open_in_legacy = true
 
-[[tumblr.trail]]
-content_raw = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
-content = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
 name = "indirect"
-active = true
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
-[tumblr.trail.blog.theme]
-show_description = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
+[tumblr.blog.tumblrmart_accessories]
 
-[tumblr.trail.post]
-id = "59662518401"
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/5c/39/88e1ac5178a545556e2abc1c95ca.jpg"
-width = 1280.0
-height = 518.0
-
-[[tumblr.photos.alt_sizes]]
 height = 518.0
 url = "/images/5c/39/88e1ac5178a545556e2abc1c95ca.jpg"
 width = 1280.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/73/58/e0c8587f0ab838fb8cf2119c2de0.jpg"
+width = 1280.0
+height = 518.0
+url = "/images/5c/39/88e1ac5178a545556e2abc1c95ca.jpg"
+
+[[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 259.0
+url = "/images/73/58/e0c8587f0ab838fb8cf2119c2de0.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e7/de/5c315c17b461378d9acf08ef58ab.jpg"
@@ -104,9 +84,9 @@ width = 400.0
 height = 162.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/4c/d7/c0935520f3186b3b2bb49d1b4703.jpg"
 width = 250.0
 height = 101.0
-url = "/images/4c/d7/c0935520f3186b3b2bb49d1b4703.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b3/7f/2da60e900d408c75464576385c94.jpg"
@@ -118,18 +98,40 @@ url = "/images/0e/72/3a5f251a57fc897cf7ed09769cfd.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
-tree_html = ""
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
+content = "<p>Just discovered that my home screen is, to this day, based on the iOS 2.0 homescreen. Heh.</p>"
 
-[tumblr.blog]
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+active = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_header_image = false
+title_font_weight = "bold"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_title = true
+title_color = "#444444"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+
+[tumblr.trail.post]
+id = "59662518401"
 +++

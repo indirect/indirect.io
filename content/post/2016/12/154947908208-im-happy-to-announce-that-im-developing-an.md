@@ -6,47 +6,47 @@ slug = "im-happy-to-announce-that-im-developing-an"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-slug = "im-happy-to-announce-that-im-developing-an"
 date = "2016-12-25 20:55:46 GMT"
-timestamp = 1482699346.0
-short_url = "https://tmblr.co/ZY3jby2GJdN9m"
-can_like = false
-interactability_blaze = "everyone"
 source = "<a href=\"http://twitter.com/OhPoorPup/status/813113699804147712\">@OhPoorPup</a>"
-is_blocks_post_format = false
-id_string = "154947908208"
-is_blazed = false
-state = "published"
-format = "html"
+can_like = false
+blog_name = "indirect"
 reblog_key = "6fos4kwd"
-can_send_in_message = true
-interactability_reblog = "everyone"
-is_blaze_pending = false
-summary = "I’m happy to announce that I’m developing an inscrutable, labyrinthine multiplayer shooter. That’s right folks. I’m making..."
-should_open_in_legacy = true
-can_reblog = false
 display_avatar = true
-post_url = "https://indirect.tumblr.com/post/154947908208/im-happy-to-announce-that-im-developing-an"
-can_blaze = false
+type = "quote"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+can_reply = false
+slug = "im-happy-to-announce-that-im-developing-an"
+format = "html"
 note_count = 0.0
 text = "I&rsquo;m happy to announce that I&rsquo;m developing an inscrutable, labyrinthine multiplayer shooter. That&rsquo;s right folks. I&rsquo;m making Finnegan&rsquo;s Quake"
-can_reply = false
-type = "quote"
 id = 154947908208.0
+is_blaze_pending = false
+post_url = "https://indirect.io/post/154947908208/im-happy-to-announce-that-im-developing-an"
+short_url = "https://tmblr.co/ZY3jby2GJdN9m"
+interactability_reblog = "everyone"
+id_string = "154947908208"
+can_blaze = false
+state = "published"
+summary = "I’m happy to announce that I’m developing an inscrutable, labyrinthine multiplayer shooter. That’s right folks. I’m making..."
+timestamp = 1482699346.0
+can_reblog = false
+is_blocks_post_format = false
+is_blazed = false
+can_send_in_message = true
 
 [tumblr.blog]
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/OhPoorPup/status/813113699804147712\">@OhPoorPup</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/OhPoorPup/status/813113699804147712\">@OhPoorPup</a></p>"
 +++

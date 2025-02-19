@@ -6,47 +6,47 @@ slug = "lastpositivist-oh-ur-an-ontologist-name"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
+can_like = false
 blog_name = "indirect"
-date = "2020-02-23 21:35:01 GMT"
 should_open_in_legacy = true
 text = "@lastpositivist oh ur an ontologist? name everything"
-interactability_reblog = "everyone"
-id_string = "190988188953"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/190988188953/lastpositivist-oh-ur-an-ontologist-name"
-summary = "@lastpositivist oh ur an ontologist? name everything"
-is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-interactability_blaze = "everyone"
-can_reply = false
-id = 190988188953.0
-reblog_key = "BlssIY4I"
-note_count = 0.0
 can_reblog = false
-type = "quote"
-state = "published"
 can_send_in_message = true
-format = "html"
+date = "2020-02-23 21:35:01 GMT"
+state = "published"
+id = 190988188953.0
+id_string = "190988188953"
+can_blaze = false
+summary = "@lastpositivist oh ur an ontologist? name everything"
+interactability_blaze = "everyone"
+short_url = "https://tmblr.co/ZY3jby2nto7qP"
+note_count = 0.0
+can_reply = false
+timestamp = 1582493701.0
+type = "quote"
+is_blaze_pending = false
+reblog_key = "BlssIY4I"
+post_url = "https://indirect.io/post/190988188953/lastpositivist-oh-ur-an-ontologist-name"
 slug = "lastpositivist-oh-ur-an-ontologist-name"
 source = "<a href=\"http://twitter.com/fields_unsown/status/1230801731740528640\">@fields_unsown</a>"
-timestamp = 1582493701.0
-short_url = "https://tmblr.co/ZY3jby2nto7qP"
-can_like = false
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+is_blazed = false
+format = "html"
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/fields_unsown/status/1230801731740528640\">@fields_unsown</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,49 +6,49 @@ slug = "were-managing-the-complexity-of-the-devices-our"
 type = "tumblr-quote"
 
 [tumblr]
-format = "markdown"
-interactability_reblog = "everyone"
-display_avatar = true
-id_string = "166585020563"
-is_blazed = false
-slug = "were-managing-the-complexity-of-the-devices-our"
-blog_name = "indirect"
-can_blaze = false
-timestamp = 1508455035.0
-short_url = "https://tmblr.co/ZY3jby2R9FR2J"
-summary = "We’re managing the complexity of the devices our civilization has created to manage complexity."
-should_open_in_legacy = true
-is_blocks_post_format = false
-id = 166585020563.0
-post_url = "https://indirect.tumblr.com/post/166585020563/were-managing-the-complexity-of-the-devices-our"
+state = "published"
+note_count = 0.0
+source_url = "https://www.crummy.com/writing/speaking/2008-QCon/conclusion.html"
 source_title = "crummy.com"
-can_send_in_message = true
+text = "We&rsquo;re managing the complexity of the devices our civilization has created to manage complexity."
 type = "quote"
+id = 166585020563.0
+post_url = "https://indirect.io/post/166585020563/were-managing-the-complexity-of-the-devices-our"
+slug = "were-managing-the-complexity-of-the-devices-our"
+timestamp = 1508455035.0
+is_blocks_post_format = false
+id_string = "166585020563"
+summary = "We’re managing the complexity of the devices our civilization has created to manage complexity."
+can_send_in_message = true
+is_blazed = false
+format = "markdown"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_reblog = false
+is_blaze_pending = false
+can_blaze = false
+date = "2017-10-19 23:17:15 GMT"
+can_like = false
+blog_name = "indirect"
 reblog_key = "jQDSclJA"
 source = "<a href=\"https://www.crummy.com/writing/speaking/2008-QCon/conclusion.html\">Justice Will Take Us Millions Of Intricate Moves</a>"
-can_like = false
-text = "We&rsquo;re managing the complexity of the devices our civilization has created to manage complexity."
-note_count = 0.0
+display_avatar = true
 interactability_blaze = "everyone"
-can_reblog = false
 can_reply = false
-is_blaze_pending = false
-date = "2017-10-19 23:17:15 GMT"
-state = "published"
-source_url = "https://www.crummy.com/writing/speaking/2008-QCon/conclusion.html"
+short_url = "https://tmblr.co/ZY3jby2R9FR2J"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://www.crummy.com/writing/speaking/2008-QCon/conclusion.html\">Justice Will Take Us Millions Of Intricate Moves</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

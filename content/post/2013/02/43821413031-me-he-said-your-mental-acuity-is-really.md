@@ -6,49 +6,49 @@ slug = "me-he-said-your-mental-acuity-is-really"
 type = "tumblr-chat"
 
 [tumblr]
-can_send_in_message = true
 id_string = "43821413031"
-reblog_key = "j0ZTkqfs"
-short_url = "https://tmblr.co/ZY3jbyepzRAd"
-interactability_blaze = "everyone"
-display_avatar = true
-can_like = false
-id = 43821413031.0
-slug = "me-he-said-your-mental-acuity-is-really"
+date = "2013-02-23 18:59:55 GMT"
+should_open_in_legacy = true
+can_send_in_message = true
+state = "published"
+type = "chat"
+can_blaze = false
+timestamp = 1361645995.0
 summary = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because..."
 can_reply = false
-timestamp = 1361645995.0
-format = "markdown"
-type = "chat"
-date = "2013-02-23 18:59:55 GMT"
-state = "published"
-should_open_in_legacy = true
+reblog_key = "j0ZTkqfs"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blocks_post_format = false
 blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/43821413031/me-he-said-your-mental-acuity-is-really"
-note_count = 0.0
-body = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because the angle is larger!\nme: oh, you are that, too."
 is_blazed = false
-is_blaze_pending = false
-can_blaze = false
-interactability_reblog = "everyone"
+short_url = "https://tmblr.co/ZY3jbyepzRAd"
+note_count = 0.0
+id = 43821413031.0
+format = "markdown"
+body = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because the angle is larger!\nme: oh, you are that, too."
+can_like = false
 can_reblog = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/43821413031/me-he-said-your-mental-acuity-is-really"
+slug = "me-he-said-your-mental-acuity-is-really"
+display_avatar = true
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.dialogue]]
-phrase = "he said your mental acuity is really something"
 name = "me"
 label = "me:"
+phrase = "he said your mental acuity is really something"
 
 [[tumblr.dialogue]]
 name = "her"

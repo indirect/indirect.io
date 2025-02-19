@@ -6,39 +6,35 @@ slug = "people-are-afraid-to-talk-for-fear-of-offending"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-format = "html"
-should_open_in_legacy = true
-link_url = "http://twitter.com/wondermarkfeed/status/525549617685868544"
-can_reblog = false
-type = "photo"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/100887417353/people-are-afraid-to-talk-for-fear-of-offending"
-short_url = "https://tmblr.co/ZY3jby1TzMz89"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blocks_post_format = false
 slug = "people-are-afraid-to-talk-for-fear-of-offending"
 timestamp = 1414214525.0
-reblog_key = "qnTyCtoF"
+blog_name = "indirect"
+id = 100887417353.0
+id_string = "100887417353"
+can_blaze = false
+should_open_in_legacy = true
+link_url = "http://twitter.com/wondermarkfeed/status/525549617685868544"
+format = "html"
+is_blazed = false
+post_url = "https://indirect.io/post/100887417353/people-are-afraid-to-talk-for-fear-of-offending"
+note_count = 0.0
 caption = "<p>&ldquo;People are afraid to TALK for fear of offending someone!&rdquo; // #1071; Old Dog, Oldest Trick — <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
 date = "2014-10-25 05:22:05 GMT"
-blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jby1TzMz89"
 summary = "\"People are afraid to TALK for fear of offending someone!\" // #1071; Old Dog, Oldest Trick — @wondermarkfeed"
-image_permalink = "https://indirect.tumblr.com/image/100887417353"
-note_count = 0.0
-id = 100887417353.0
+image_permalink = "https://indirect.io/image/100887417353"
+reblog_key = "qnTyCtoF"
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-can_send_in_message = true
-can_like = false
-can_reply = false
-id_string = "100887417353"
 is_blaze_pending = false
-can_blaze = false
-
-[tumblr.reblog]
-comment = "<p>“People are afraid to TALK for fear of offending someone!” // #1071; Old Dog, Oldest Trick — <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
-tree_html = ""
+state = "published"
+can_send_in_message = true
+can_reply = false
+display_avatar = true
+is_blocks_post_format = false
+type = "photo"
+can_like = false
+can_reblog = false
 
 [[tumblr.photos]]
 caption = ""
@@ -59,9 +55,9 @@ width = 540.0
 height = 423.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/e8/dd/54eb60ac600a41a39ebbc0fb475d.png"
 width = 500.0
 height = 391.0
-url = "/images/e8/dd/54eb60ac600a41a39ebbc0fb475d.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/15/f5/9d14e148c8414d536fc9ee4e2761.png"
@@ -79,53 +75,59 @@ width = 100.0
 height = 78.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/9c/8d/ddb6c69d59d3088879e0fbc89646.png"
 width = 75.0
 height = 75.0
-url = "/images/9c/8d/ddb6c69d59d3088879e0fbc89646.png"
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+comment = "<p>“People are afraid to TALK for fear of offending someone!” // #1071; Old Dog, Oldest Trick — <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content = "<p>&ldquo;People are afraid to TALK for fear of offending someone!&rdquo; // #1071; Old Dog, Oldest Trick &mdash; <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
 is_current_item = true
 is_root_item = true
 content_raw = "<p>“People are afraid to TALK for fear of offending someone!” // #1071; Old Dog, Oldest Trick — <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
+content = "<p>&ldquo;People are afraid to TALK for fear of offending someone!&rdquo; // #1071; Old Dog, Oldest Trick &mdash; <a href=\"http://twitter.com/wondermarkfeed/status/525549617685868544\">@wondermarkfeed</a></p>"
 
 [tumblr.trail.blog]
+share_likes = false
+share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
-share_likes = false
-share_following = false
 
 [tumblr.trail.blog.theme]
-title_font = "Gibson"
-title_font_weight = "bold"
+header_full_width = 3000.0
+header_image_poster = ""
+link_color = "#529ECC"
 show_title = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+title_font_weight = "bold"
+header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-show_description = true
-title_color = "#444444"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
 header_bounds = ""
-header_image_poster = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+show_description = true
+show_header_image = false
+title_color = "#444444"
 
 [tumblr.trail.post]
 id = "100887417353"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

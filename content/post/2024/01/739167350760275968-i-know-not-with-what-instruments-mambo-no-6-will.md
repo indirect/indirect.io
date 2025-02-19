@@ -6,47 +6,47 @@ slug = "i-know-not-with-what-instruments-mambo-no-6-will"
 type = "tumblr-quote"
 
 [tumblr]
-id = 7.39167350760276e+17
-slug = "i-know-not-with-what-instruments-mambo-no-6-will"
-format = "markdown"
-should_open_in_legacy = true
-blog_name = "indirect"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jbyf23CeBeW00"
-id_string = "739167350760275968"
-post_url = "https://indirect.tumblr.com/post/739167350760275968/i-know-not-with-what-instruments-mambo-no-6-will"
+is_blaze_pending = false
 summary = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
-text = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
-interactability_reblog = "everyone"
-date = "2024-01-10 22:15:17 GMT"
-state = "published"
-note_count = 0.0
-can_reblog = false
+can_send_in_message = true
 display_avatar = true
 is_blazed = false
+post_url = "https://indirect.io/post/739167350760275968/i-know-not-with-what-instruments-mambo-no-6-will"
+slug = "i-know-not-with-what-instruments-mambo-no-6-will"
+reblog_key = "IBvw9Xel"
+short_url = "https://tmblr.co/ZY3jbyf23CeBeW00"
+should_open_in_legacy = true
 source = "<a href=\"https://bsky.app/profile/krystal.swor.ds/post/3kilblzrouf25\">✨Angel Facts™✨️ (@krystal.swor.ds)</a>"
 can_like = false
-can_send_in_message = true
-can_reply = false
-type = "quote"
-is_blaze_pending = false
-can_blaze = false
+interactability_blaze = "everyone"
+id_string = "739167350760275968"
 timestamp = 1704924917.0
-reblog_key = "IBvw9Xel"
+format = "markdown"
+note_count = 0.0
+id = 7.39167350760276e+17
+can_blaze = false
+interactability_reblog = "everyone"
+can_reblog = false
+is_blocks_post_format = false
+state = "published"
+text = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
+date = "2024-01-10 22:15:17 GMT"
+type = "quote"
+blog_name = "indirect"
+can_reply = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/krystal.swor.ds/post/3kilblzrouf25\">✨Angel Facts™✨️ (@krystal.swor.ds)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

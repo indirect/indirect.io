@@ -8,41 +8,41 @@ type = "tumblr-quote"
 [tumblr]
 id = 181891653793.0
 id_string = "181891653793"
-is_blazed = false
+timestamp = 1547106845.0
+can_reblog = false
+display_avatar = true
+type = "quote"
 can_blaze = false
-note_count = 0.0
-text = "<p>[taking date back home]</p>\n\n<p>her: u wanna get naughty? ;)</p>\n\n<p>me: &hellip;yes</p>\n\n<p>santa claus: *takes off hot girl mask* you just fucked up pal</p>"
+post_url = "https://indirect.io/post/181891653793/taking-date-back-home-her-u-wanna-get"
+short_url = "https://tmblr.co/ZY3jby2fPbc2X"
+interactability_reblog = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
+summary = "[taking date back home]\n\n her: u wanna get naughty? ;)\n\n me: …yes\n\n santa claus: *takes off hot girl mask* you just fucked up..."
+should_open_in_legacy = true
+is_blazed = false
+format = "html"
 source = "<a href=\"http://twitter.com/_coryrichardson/status/1082663694272733184\">@_coryrichardson</a>"
 interactability_blaze = "everyone"
+slug = "taking-date-back-home-her-u-wanna-get"
+note_count = 0.0
+can_like = false
 date = "2019-01-10 07:54:05 GMT"
 state = "published"
-format = "html"
-timestamp = 1547106845.0
-can_send_in_message = true
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby2fPbc2X"
-should_open_in_legacy = true
-display_avatar = true
-can_like = false
-reblog_key = "znIJ4nKf"
-is_blocks_post_format = false
-slug = "taking-date-back-home-her-u-wanna-get"
-can_reblog = false
-type = "quote"
-summary = "[taking date back home]\n\n her: u wanna get naughty? ;)\n\n me: …yes\n\n santa claus: *takes off hot girl mask* you just fucked up..."
+text = "<p>[taking date back home]</p>\n\n<p>her: u wanna get naughty? ;)</p>\n\n<p>me: &hellip;yes</p>\n\n<p>santa claus: *takes off hot girl mask* you just fucked up pal</p>"
 can_reply = false
 blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/181891653793/taking-date-back-home-her-u-wanna-get"
-interactability_reblog = "everyone"
+is_blaze_pending = false
+reblog_key = "znIJ4nKf"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

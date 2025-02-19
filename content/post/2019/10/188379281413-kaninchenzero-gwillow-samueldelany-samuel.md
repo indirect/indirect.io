@@ -6,84 +6,69 @@ slug = "kaninchenzero-gwillow-samueldelany-samuel"
 type = "tumblr-photo"
 
 [tumblr]
+is_blocks_post_format = false
+format = "html"
+display_avatar = true
+id_string = "188379281413"
+is_blazed = false
+slug = "kaninchenzero-gwillow-samueldelany-samuel"
+state = "published"
+should_open_in_legacy = false
+can_send_in_message = true
+is_blaze_pending = false
 note_count = 5290.0
 id = 188379281413.0
-can_blaze = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jby2lSHxW5"
-can_reblog = false
-is_blazed = false
+parent_post_url = "https://mckitterick.tumblr.com/post/188329108935"
 date = "2019-10-16 04:30:07 GMT"
 caption = "<p><a class=\"tumblr_blog\" href=\"http://kaninchenzero.tumblr.com/post/135611551942\">kaninchenzero</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://gwillow.tumblr.com/post/135606172578\">gwillow</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://samueldelany.tumblr.com/post/82806452407\">samueldelany</a>:</p>\n<blockquote>\n<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>\n</blockquote>\n<p>“The PC police are ruining SF/F! We need to go back to the good ole days!” Here is Samuel R. Delany reviewing Star Wars Episode IV–and critiquing it for its lack of women and POC characters. In 1977. You’re very welcome. (His response to the old “It’s just entertainment!” chestnut? Muting half of humanity is not entertaining.) This, right here, is how it is possible to love something–as Delany clearly loved Star Wars–yet recognize its flaws and discuss them in an intelligent, productive way. <br/></p>\n</blockquote>\n\n<p>“<i>Star Wars</i>, as far as I can tell, has no story at all”</p>\n\ngod bless you, chip delany\n</blockquote>"
-can_send_in_message = true
-parent_post_url = "https://mckitterick.tumblr.com/post/188329108935"
+type = "photo"
+blog_name = "indirect"
+photoset_layout = "1111"
+can_like = false
+interactability_blaze = "noone"
+can_blaze = false
 reblog_key = "IgubUC7Y"
 summary = "Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy."
-interactability_blaze = "noone"
-is_blaze_pending = false
-timestamp = 1571200207.0
-state = "published"
-blog_name = "indirect"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/188379281413/kaninchenzero-gwillow-samueldelany-samuel"
-photoset_layout = "1111"
-type = "photo"
-id_string = "188379281413"
-should_open_in_legacy = false
 interactability_reblog = "everyone"
+can_reblog = false
+post_url = "https://indirect.io/post/188379281413/kaninchenzero-gwillow-samueldelany-samuel"
+timestamp = 1571200207.0
+short_url = "https://tmblr.co/ZY3jby2lSHxW5"
 can_reply = false
-display_avatar = true
-slug = "kaninchenzero-gwillow-samueldelany-samuel"
-can_like = false
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = "<p><a class=\"tumblr_blog\" href=\"http://kaninchenzero.tumblr.com/post/135611551942\">kaninchenzero</a>:</p><blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://gwillow.tumblr.com/post/135606172578\">gwillow</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://samueldelany.tumblr.com/post/82806452407\">samueldelany</a>:</p>\n<blockquote>\n<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>\n</blockquote>\n<p>“The PC police are ruining SF/F! We need to go back to the good ole days!” Here is Samuel R. Delany reviewing Star Wars Episode IV–and critiquing it for its lack of women and POC characters. In 1977. You’re very welcome. (His response to the old “It’s just entertainment!” chestnut? Muting half of humanity is not entertaining.) This, right here, is how it is possible to love something–as Delany clearly loved Star Wars–yet recognize its flaws and discuss them in an intelligent, productive way. <br></p>\n</blockquote>\n\n<p>“<i>Star Wars</i>, as far as I can tell, has no story at all”</p>\n\ngod bless you, chip delany\n</blockquote>"
-comment = ""
 
 [[tumblr.trail]]
-content_raw = "<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>"
 content = "<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>"
 is_root_item = true
+content_raw = "<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>"
 
 [tumblr.trail.blog]
-name = "samueldelany"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "samueldelany"
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
+header_full_height = 315.0
+header_focus_width = 561.0
+header_image = "/images/4a/51/5b0e746c74c4fd9a35e561d74979.jpg"
 header_image_focused = "https://64.media.tumblr.com/2df847d42da663e71ad2f992ff5d0a97/39144708eaa34bfd-a3/s2048x3072_c5397,0,94444,100000/3a8294794bf0e4ebb907d2b663d641fc38dd65d1.jpg"
+header_image_poster = ""
+header_stretch = true
+header_image_scaled = "/images/6d/3c/87347a139de8994dc1cf5a35951e.jpg"
 link_color = "#529ECC"
 show_avatar = true
-title_color = "#444444"
-title_font = "Gibson"
-header_focus_width = 561.0
-body_font = "Helvetica Neue"
-header_image = "/images/4a/51/5b0e746c74c4fd9a35e561d74979.jpg"
-show_header_image = true
 header_full_width = 630.0
-header_full_height = 315.0
 header_focus_height = 315.0
-header_image_poster = ""
-header_image_scaled = "/images/6d/3c/87347a139de8994dc1cf5a35951e.jpg"
-show_title = true
-avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
 header_bounds = "0,595,315,34"
-header_stretch = true
 show_description = true
+show_header_image = true
+title_font = "Gibson"
+avatar_shape = "square"
+show_title = true
+title_color = "#444444"
 title_font_weight = "bold"
 
 [tumblr.trail.post]
@@ -94,30 +79,30 @@ content_raw = "<p>“The PC police are ruining SF/F! We need to go back to the g
 content = "<p>&ldquo;The PC police are ruining SF/F! We need to go back to the good ole days!&rdquo; Here is Samuel R. Delany reviewing Star Wars Episode IV&ndash;and critiquing it for its lack of women and POC characters. In 1977. You&rsquo;re very welcome. (His response to the old&nbsp;&ldquo;It&rsquo;s just entertainment!&rdquo; chestnut? Muting half of humanity is not entertaining.) This, right here, is how it is possible to love something&ndash;as Delany clearly loved Star Wars&ndash;yet recognize its flaws and discuss them in an intelligent, productive way.&nbsp;<br /></p>"
 
 [tumblr.trail.blog]
+can_be_followed = true
 name = "gwillow"
 active = true
 share_likes = true
 share_following = true
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
-background_color = "#FFFFFF"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#00B8FF"
-show_header_image = true
-body_font = "Helvetica Neue"
-avatar_shape = "circle"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_font_weight = "bold"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_description = true
-title_color = "#000000"
 title_font = "Gibson"
+header_bounds = ""
+header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+title_font_weight = "bold"
+background_color = "#FFFFFF"
+body_font = "Helvetica Neue"
+link_color = "#00B8FF"
+show_avatar = true
+header_stretch = true
+title_color = "#000000"
+avatar_shape = "circle"
+header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_description = true
+show_header_image = true
+show_title = true
 
 [tumblr.trail.post]
 id = "135606172578"
@@ -126,38 +111,38 @@ id = "135606172578"
 content_raw = "<p><p>“<i>Star Wars</i>, as far as I can tell, has no story at all”</p>\n\ngod bless you, chip delany</p>"
 content = "<p><p>&ldquo;<i>Star Wars</i>, as far as I can tell, has no story at all&rdquo;</p>\n\ngod bless you, chip delany</p>"
 
-[tumblr.trail.post]
-id = "135611551942"
-
 [tumblr.trail.blog]
+active = true
 share_likes = true
 share_following = false
 can_be_followed = true
 name = "kaninchenzero"
-active = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "https://64.media.tumblr.com/07002a0cf56b790c467f769d1f6229dc/d22c9054ca8002ba-ef/s2048x3072_c16563,44375,88203,84609/f9f9b527b0f96f945eea5eb459700ab8cd42f039.jpg"
-show_title = true
-title_color = "#444444"
-header_full_width = 1280.0
-header_image = "/images/82/ca/6f59c2e7e88d2fc4f75719702054.jpg"
-header_image_scaled = "/images/12/e5/dd2cd1b9529fbcb511d6845c8c2d.jpg"
-show_avatar = true
-header_focus_width = 917.0
-background_color = "#FAFAFA"
-link_color = "#775B89"
-title_font = "Sans Serif"
-title_font_weight = "bold"
-header_stretch = true
-header_full_height = 1280.0
 header_focus_height = 515.0
 avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image_poster = ""
+header_image = "/images/82/ca/6f59c2e7e88d2fc4f75719702054.jpg"
 show_description = true
+title_color = "#444444"
+header_full_height = 1280.0
+header_image_focused = "https://64.media.tumblr.com/07002a0cf56b790c467f769d1f6229dc/d22c9054ca8002ba-ef/s2048x3072_c16563,44375,88203,84609/f9f9b527b0f96f945eea5eb459700ab8cd42f039.jpg"
+header_image_scaled = "/images/12/e5/dd2cd1b9529fbcb511d6845c8c2d.jpg"
+link_color = "#775B89"
 show_header_image = true
+show_title = true
+title_font_weight = "bold"
+header_focus_width = 917.0
+body_font = "Helvetica Neue"
 header_bounds = "568,1129,1083,212"
+header_full_width = 1280.0
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_stretch = true
+show_avatar = true
+title_font = "Sans Serif"
+
+[tumblr.trail.post]
+id = "135611551942"
 
 [[tumblr.photos]]
 caption = ""
@@ -203,9 +188,9 @@ width = 100.0
 height = 133.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/bb/e8/2cfff5445b6d772b194701cef68d.jpg"
 width = 75.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -216,9 +201,9 @@ width = 728.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
+height = 960.0
 url = "/images/70/36/7605afd0758b0def581621309867.jpg"
 width = 728.0
-height = 960.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/91/81/338ee64d01a722ded53c808672a1.jpg"
@@ -231,9 +216,9 @@ width = 540.0
 height = 712.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/79/4e/3ad5ac2c551c4b4d485525340645.jpg"
 width = 500.0
 height = 659.0
-url = "/images/79/4e/3ad5ac2c551c4b4d485525340645.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/80/e6/817ff384e4532cd23aa75642c40d.jpg"
@@ -251,12 +236,17 @@ width = 100.0
 height = 132.0
 
 [[tumblr.photos.alt_sizes]]
-width = 75.0
 height = 75.0
 url = "/images/e1/c5/98f3dba9ba4f605d3adb6bbfcc0c.jpg"
+width = 75.0
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/a8/0f/10d9fff755b45a1a54b052e5ee1e.jpg"
+width = 732.0
+height = 960.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a8/0f/10d9fff755b45a1a54b052e5ee1e.jpg"
@@ -264,9 +254,9 @@ width = 732.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/a5/6d/068a10ca985a26d2d4754fd2c149.jpg"
 width = 640.0
 height = 839.0
-url = "/images/a5/6d/068a10ca985a26d2d4754fd2c149.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 708.0
@@ -279,9 +269,9 @@ width = 500.0
 height = 656.0
 
 [[tumblr.photos.alt_sizes]]
-width = 400.0
 height = 525.0
 url = "/images/86/74/e71236bd1f585b64f03fbbfa3f6a.jpg"
+width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/95/99/b8ffa966a711052230451c631271.jpg"
@@ -297,11 +287,6 @@ height = 131.0
 url = "/images/00/48/48fc063377b4ead38db736cb9492.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/a8/0f/10d9fff755b45a1a54b052e5ee1e.jpg"
-width = 732.0
-height = 960.0
 
 [[tumblr.photos]]
 caption = ""
@@ -350,4 +335,19 @@ width = 100.0
 url = "/images/11/a5/58eabaf9d9afc380b03e504825ac.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = ""
+tree_html = "<p><a class=\"tumblr_blog\" href=\"http://kaninchenzero.tumblr.com/post/135611551942\">kaninchenzero</a>:</p><blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://gwillow.tumblr.com/post/135606172578\">gwillow</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://samueldelany.tumblr.com/post/82806452407\">samueldelany</a>:</p>\n<blockquote>\n<p>Samuel Delany reviews the first Star Wars movie, 1977, in Cosmos Science Fiction and Fantasy.</p>\n</blockquote>\n<p>“The PC police are ruining SF/F! We need to go back to the good ole days!” Here is Samuel R. Delany reviewing Star Wars Episode IV–and critiquing it for its lack of women and POC characters. In 1977. You’re very welcome. (His response to the old “It’s just entertainment!” chestnut? Muting half of humanity is not entertaining.) This, right here, is how it is possible to love something–as Delany clearly loved Star Wars–yet recognize its flaws and discuss them in an intelligent, productive way. <br></p>\n</blockquote>\n\n<p>“<i>Star Wars</i>, as far as I can tell, has no story at all”</p>\n\ngod bless you, chip delany\n</blockquote>"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

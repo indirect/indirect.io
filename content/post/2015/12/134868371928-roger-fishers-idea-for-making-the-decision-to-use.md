@@ -6,38 +6,43 @@ slug = "roger-fishers-idea-for-making-the-decision-to-use"
 type = "tumblr-photo"
 
 [tumblr]
-slug = "roger-fishers-idea-for-making-the-decision-to-use"
-timestamp = 1449687296.0
-reblog_key = "zfy6SvE5"
 should_open_in_legacy = true
 caption = "<p>Roger Fisher&rsquo;s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> — <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
-is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/134868371928/roger-fishers-idea-for-making-the-decision-to-use"
-blog_name = "indirect"
-interactability_reblog = "everyone"
-id_string = "134868371928"
-can_like = false
-image_permalink = "https://indirect.tumblr.com/image/134868371928"
-state = "published"
-link_url = "http://twitter.com/AtomicAnalyst/status/672124785271312384"
-interactability_blaze = "everyone"
-can_send_in_message = true
-type = "photo"
-is_blocks_post_format = false
-id = 134868371928.0
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1zco0dO"
-note_count = 0.0
-can_reply = false
+image_permalink = "https://indirect.io/image/134868371928"
 can_blaze = false
-summary = "Roger Fisher's idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic):..."
+slug = "roger-fishers-idea-for-making-the-decision-to-use"
+note_count = 0.0
+is_blocks_post_format = false
+blog_name = "indirect"
+post_url = "https://indirect.io/post/134868371928/roger-fishers-idea-for-making-the-decision-to-use"
 date = "2015-12-09 18:54:56 GMT"
-can_reblog = false
+short_url = "https://tmblr.co/ZY3jby1zco0dO"
+can_like = false
+interactability_reblog = "everyone"
+summary = "Roger Fisher's idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic):..."
+link_url = "http://twitter.com/AtomicAnalyst/status/672124785271312384"
+can_send_in_message = true
+id = 134868371928.0
+id_string = "134868371928"
+timestamp = 1449687296.0
+reblog_key = "zfy6SvE5"
+interactability_blaze = "everyone"
 display_avatar = true
+is_blazed = false
+state = "published"
+format = "html"
+can_reblog = false
+type = "photo"
+is_blaze_pending = false
+can_reply = false
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/1f/52/c5438519f3b4ed8284b77b0981da.png"
+width = 207.0
+height = 533.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/1f/52/c5438519f3b4ed8284b77b0981da.png"
@@ -45,9 +50,9 @@ width = 207.0
 height = 533.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/62/72/2003c4f085c94428ec00d6278ddb.png"
 width = 155.0
 height = 400.0
-url = "/images/62/72/2003c4f085c94428ec00d6278ddb.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3c/1c/73014b443e0953648e4f18f8b305.png"
@@ -59,19 +64,26 @@ url = "/images/8c/ed/2d869c82c5cd0028a16d000160f6.png"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/1f/52/c5438519f3b4ed8284b77b0981da.png"
-width = 207.0
-height = 533.0
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Roger Fisher’s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> — <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p>Roger Fisher’s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> — <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
-content = "<p>Roger Fisher&rsquo;s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> &mdash; <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
 is_current_item = true
 is_root_item = true
-
-[tumblr.trail.post]
-id = "134868371928"
+content_raw = "<p>Roger Fisher’s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> — <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
+content = "<p>Roger Fisher&rsquo;s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> &mdash; <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -81,36 +93,26 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font_weight = "bold"
-header_image_poster = ""
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-body_font = "Helvetica Neue"
-show_title = true
+show_avatar = true
+show_header_image = false
 title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_bounds = ""
+header_image_poster = ""
+show_description = true
+show_title = true
+title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>Roger Fisher’s idea for making the decision to use nuclear weapons less abstract (from March 1981 @BulletinAtomic): <a href=\"https://t.co/h7arl36sKE\">https://t.co/h7arl36sKE</a> — <a href=\"http://twitter.com/AtomicAnalyst/status/672124785271312384\">@AtomicAnalyst</a></p>"
-tree_html = ""
+[tumblr.trail.post]
+id = "134868371928"
 +++

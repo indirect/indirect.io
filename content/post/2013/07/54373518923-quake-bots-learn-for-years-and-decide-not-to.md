@@ -6,46 +6,53 @@ slug = "quake-bots-learn-for-years-and-decide-not-to"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-state = "published"
-image_permalink = "https://indirect.tumblr.com/image/54373518923"
-can_reply = false
-type = "photo"
-is_blazed = false
-is_blaze_pending = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/54373518923/quake-bots-learn-for-years-and-decide-not-to"
-can_like = false
-slug = "quake-bots-learn-for-years-and-decide-not-to"
-caption = "<p>Quake bots learn for years, and decide&hellip; not to kill.</p>"
-link_url = "http://i.imgur.com/dx7sVXj.jpg"
-interactability_blaze = "everyone"
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbyoewWvB"
-bookmarklet = true
-blog_name = "indirect"
-format = "markdown"
 reblog_key = "3POFvwEX"
 summary = "Quake bots learn for years, and decide... not to kill."
-note_count = 1.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-id_string = "54373518923"
-timestamp = 1372714761.0
-can_reblog = false
-is_blocks_post_format = false
-id = 54373518923.0
+should_open_in_legacy = true
+display_avatar = true
 date = "2013-07-01 21:39:21 GMT"
+short_url = "https://tmblr.co/ZY3jbyoewWvB"
+caption = "<p>Quake bots learn for years, and decide&hellip; not to kill.</p>"
+link_url = "http://i.imgur.com/dx7sVXj.jpg"
+image_permalink = "https://indirect.io/image/54373518923"
+interactability_reblog = "everyone"
+id = 54373518923.0
+post_url = "https://indirect.io/post/54373518923/quake-bots-learn-for-years-and-decide-not-to"
+bookmarklet = true
+can_reply = false
+is_blaze_pending = false
+can_blaze = false
+state = "published"
+interactability_blaze = "everyone"
+can_send_in_message = true
+is_blazed = false
+type = "photo"
+is_blocks_post_format = false
+can_reblog = false
+blog_name = "indirect"
+id_string = "54373518923"
+slug = "quake-bots-learn-for-years-and-decide-not-to"
+note_count = 1.0
+can_like = false
+timestamp = 1372714761.0
+format = "markdown"
 
-[tumblr.reblog]
-comment = "<p>Quake bots learn for years, and decide… not to kill.</p>"
-tree_html = ""
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-content_raw = "<p>Quake bots learn for years, and decide… not to kill.</p>"
-content = "<p>Quake bots learn for years, and decide&hellip; not to kill.</p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>Quake bots learn for years, and decide… not to kill.</p>"
+content = "<p>Quake bots learn for years, and decide&hellip; not to kill.</p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -55,26 +62,32 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_description = true
-show_header_image = false
-title_color = "#444444"
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-title_font_weight = "bold"
 show_avatar = true
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
+show_title = true
 title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_width = 3000.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
+show_header_image = false
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+title_color = "#444444"
+title_font_weight = "bold"
+show_description = true
+avatar_shape = "square"
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "54373518923"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Quake bots learn for years, and decide… not to kill.</p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -85,14 +98,14 @@ width = 829.0
 height = 1920.0
 
 [[tumblr.photos.alt_sizes]]
-width = 829.0
 height = 1920.0
 url = "/images/e4/6c/aa3850f898f18898f63d3d663bdb.jpg"
+width = 829.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/85/70/2e426a7cad438e53ceff6cf5820e.jpg"
 width = 414.0
 height = 960.0
-url = "/images/85/70/2e426a7cad438e53ceff6cf5820e.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/fe/b5/033ab58a980a87fa8d9761bc79a5.jpg"
@@ -105,14 +118,14 @@ width = 324.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3e/00/ad839b15cd62b99bc601409e107d.jpg"
 width = 259.0
 height = 600.0
+url = "/images/3e/00/ad839b15cd62b99bc601409e107d.jpg"
 
 [[tumblr.photos.alt_sizes]]
-width = 173.0
 height = 400.0
 url = "/images/19/98/dccbc3102abd8844d2f10e12814a.jpg"
+width = 173.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/82/98/286b64450b2eb4f06a3a66057358.jpg"
@@ -123,15 +136,4 @@ height = 200.0
 url = "/images/83/2b/a9ebcee782ad4057a2c8b5cd9ddd.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

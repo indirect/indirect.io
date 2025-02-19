@@ -7,51 +7,51 @@ title = "How Complex Systems Fail"
 type = "tumblr-link"
 
 [tumblr]
+blog_name = "indirect"
+is_blazed = false
+slug = "how-complex-systems-fail"
+short_url = "https://tmblr.co/ZY3jbyZx14Vl4a00"
+interactability_reblog = "everyone"
+id_string = "647115678457937920"
+url = "https://how.complexsystems.fail/"
+post_url = "https://indirect.io/post/647115678457937920/how-complex-systems-fail"
+should_open_in_legacy = true
+source_url = "https://how.complexsystems.fail/"
+type = "link"
+is_blocks_post_format = false
+format = "markdown"
+can_reblog = false
+can_blaze = false
+reblog_key = "W9jaRVxO"
+note_count = 0.0
+source_title = "how.complexsystems.fail"
 title = "How Complex Systems Fail"
-publisher = "how.complexsystems.fail"
+description = ""
 can_like = false
 can_send_in_message = true
-display_avatar = true
-is_blocks_post_format = false
+state = "published"
 id = 6.471156784579379e+17
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/647115678457937920/how-complex-systems-fail"
-short_url = "https://tmblr.co/ZY3jbyZx14Vl4a00"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-blog_name = "indirect"
-slug = "how-complex-systems-fail"
-can_reply = false
-type = "link"
-date = "2021-03-30 20:53:22 GMT"
-reblog_key = "W9jaRVxO"
-can_blaze = false
-source_title = "how.complexsystems.fail"
-can_reblog = false
-id_string = "647115678457937920"
-timestamp = 1617137602.0
-source_url = "https://how.complexsystems.fail/"
-description = ""
-state = "published"
-format = "markdown"
 summary = "How Complex Systems Fail"
-note_count = 0.0
-url = "https://how.complexsystems.fail/"
+publisher = "how.complexsystems.fail"
 interactability_blaze = "everyone"
-is_blazed = false
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+can_reply = false
+date = "2021-03-30 20:53:22 GMT"
+timestamp = 1617137602.0
+display_avatar = true
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

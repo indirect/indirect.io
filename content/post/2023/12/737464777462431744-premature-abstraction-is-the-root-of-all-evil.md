@@ -6,47 +6,47 @@ slug = "premature-abstraction-is-the-root-of-all-evil"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-blog_name = "indirect"
-timestamp = 1703301217.0
-state = "published"
-summary = "Premature abstraction is the root of all evil"
+note_count = 2.0
+post_url = "https://indirect.io/post/737464777462431744/premature-abstraction-is-the-root-of-all-evil"
+slug = "premature-abstraction-is-the-root-of-all-evil"
+date = "2023-12-23 03:13:37 GMT"
+text = "Premature abstraction is the root of all evil"
 can_reblog = false
+interactability_reblog = "everyone"
 type = "quote"
+id = 7.374647774624317e+17
+timestamp = 1703301217.0
+source = "<a href=\"https://twitter.com/withoutboats/status/1738155399222628509\">srrrse (@withoutboats)</a>"
+can_like = false
+id_string = "737464777462431744"
 is_blaze_pending = false
-interactability_blaze = "everyone"
-is_blazed = false
+should_open_in_legacy = true
+is_blocks_post_format = false
 can_blaze = false
+summary = "Premature abstraction is the root of all evil"
 format = "markdown"
 short_url = "https://tmblr.co/ZY3jbyey04xF0i00"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/737464777462431744/premature-abstraction-is-the-root-of-all-evil"
-date = "2023-12-23 03:13:37 GMT"
-source = "<a href=\"https://twitter.com/withoutboats/status/1738155399222628509\">srrrse (@withoutboats)</a>"
 can_send_in_message = true
-id_string = "737464777462431744"
-note_count = 2.0
-text = "Premature abstraction is the root of all evil"
-id = 7.374647774624317e+17
-slug = "premature-abstraction-is-the-root-of-all-evil"
+can_reply = false
+display_avatar = true
+state = "published"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+is_blazed = false
 reblog_key = "236jeC95"
-should_open_in_legacy = true
-can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/withoutboats/status/1738155399222628509\">srrrse (@withoutboats)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

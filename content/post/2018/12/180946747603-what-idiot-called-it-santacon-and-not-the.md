@@ -6,47 +6,47 @@ slug = "what-idiot-called-it-santacon-and-not-the"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "180946747603"
-format = "html"
-reblog_key = "cn0JM2vp"
-can_send_in_message = true
 slug = "what-idiot-called-it-santacon-and-not-the"
-state = "published"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby2eXH43J"
 is_blocks_post_format = false
-should_open_in_legacy = true
-can_like = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/180946747603/what-idiot-called-it-santacon-and-not-the"
-date = "2018-12-09 08:37:08 GMT"
-can_reply = false
+id_string = "180946747603"
 id = 180946747603.0
-summary = "what idiot called it santacon and not the gathering of the jinglelos"
 note_count = 0.0
+state = "published"
+type = "quote"
+is_blaze_pending = false
+reblog_key = "cn0JM2vp"
+interactability_reblog = "everyone"
+post_url = "https://indirect.io/post/180946747603/what-idiot-called-it-santacon-and-not-the"
+summary = "what idiot called it santacon and not the gathering of the jinglelos"
+display_avatar = true
+can_like = false
+timestamp = 1544344628.0
+blog_name = "indirect"
+format = "html"
+can_send_in_message = true
+date = "2018-12-09 08:37:08 GMT"
+is_blazed = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby2eXH43J"
 text = "what idiot called it santacon and not the gathering of the jinglelos"
 source = "<a href=\"http://twitter.com/Zeddary/status/1071462836814131200\">@Zeddary</a>"
-blog_name = "indirect"
-can_blaze = false
-type = "quote"
-timestamp = 1544344628.0
-interactability_reblog = "everyone"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 can_reblog = false
-display_avatar = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/Zeddary/status/1071462836814131200\">@Zeddary</a></p>"
+can_reply = false
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/Zeddary/status/1071462836814131200\">@Zeddary</a></p>"
+tree_html = ""
 +++

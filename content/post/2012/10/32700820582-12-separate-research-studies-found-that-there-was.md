@@ -6,50 +6,50 @@ slug = "12-separate-research-studies-found-that-there-was"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-interactability_blaze = "everyone"
-can_reply = false
-text = "12 separate research studies found that there was no evidence that eating sugar makes kids hyper"
-display_avatar = true
-blog_name = "indirect"
+id_string = "32700820582"
 timestamp = 1349136287.0
-source_title = "mindthesciencegap.org"
-can_like = false
-can_send_in_message = true
 summary = "12 separate research studies found that there was no evidence that eating sugar makes kids hyper"
-is_blocks_post_format = false
-is_blaze_pending = false
-can_blaze = false
-date = "2012-10-02 00:04:47 GMT"
-reblog_key = "Uk3IBeJu"
-interactability_reblog = "everyone"
-is_blazed = false
-state = "published"
-post_url = "https://indirect.tumblr.com/post/32700820582/12-separate-research-studies-found-that-there-was"
-slug = "12-separate-research-studies-found-that-there-was"
 should_open_in_legacy = true
 bookmarklet = true
+display_avatar = true
+slug = "12-separate-research-studies-found-that-there-was"
 source_url = "http://www.mindthesciencegap.org/2012/10/01/why-arent-my-kids-hyper-after-binging-on-sugar/"
+text = "12 separate research studies found that there was no evidence that eating sugar makes kids hyper"
+can_like = false
+interactability_blaze = "everyone"
+state = "published"
+reblog_key = "Uk3IBeJu"
 id = 32700820582.0
-format = "markdown"
-note_count = 0.0
-source = "<a href=\"http://www.mindthesciencegap.org/2012/10/01/why-arent-my-kids-hyper-after-binging-on-sugar/\">Mind the Science Gap</a>"
-id_string = "32700820582"
+is_blazed = false
+post_url = "https://indirect.io/post/32700820582/12-separate-research-studies-found-that-there-was"
+can_reply = false
+blog_name = "indirect"
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jbyUT7knc"
+note_count = 0.0
+source_title = "mindthesciencegap.org"
+can_send_in_message = true
+is_blaze_pending = false
+date = "2012-10-02 00:04:47 GMT"
+format = "markdown"
+interactability_reblog = "everyone"
 can_reblog = false
+type = "quote"
+is_blocks_post_format = false
+source = "<a href=\"http://www.mindthesciencegap.org/2012/10/01/why-arent-my-kids-hyper-after-binging-on-sugar/\">Mind the Science Gap</a>"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.mindthesciencegap.org/2012/10/01/why-arent-my-kids-hyper-after-binging-on-sugar/\">Mind the Science Gap</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

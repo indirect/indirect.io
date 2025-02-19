@@ -6,47 +6,47 @@ slug = "no-new-years-resolutions-it-is-the-circumstances"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1672221874.0
+can_blaze = false
 summary = "no new years resolutions. it is the circumstances turn to improve"
-display_avatar = true
+can_send_in_message = true
+is_blaze_pending = false
+date = "2022-12-28 10:04:34 GMT"
+format = "html"
+is_blocks_post_format = false
+slug = "no-new-years-resolutions-it-is-the-circumstances"
+blog_name = "indirect"
+id_string = "704875723893129216"
+text = "no new years resolutions. it is the circumstances turn to improve"
+interactability_blaze = "everyone"
+can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
 state = "published"
 reblog_key = "1jDPpmSm"
-can_like = false
-can_send_in_message = true
-blog_name = "indirect"
-date = "2022-12-28 10:04:34 GMT"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-id = 7.048757238931292e+17
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/704875723893129216/no-new-years-resolutions-it-is-the-circumstances"
-short_url = "https://tmblr.co/ZY3jbyd8EBnzSa00"
-type = "quote"
-note_count = 0.0
-can_reply = false
-id_string = "704875723893129216"
-can_blaze = false
-slug = "no-new-years-resolutions-it-is-the-circumstances"
-format = "html"
-source = "<a href=\"http://twitter.com/sarahclazarus/status/1471297392041463810\">@sarahclazarus</a>"
+display_avatar = true
 is_blazed = false
-text = "no new years resolutions. it is the circumstances turn to improve"
-can_reblog = false
+post_url = "https://indirect.io/post/704875723893129216/no-new-years-resolutions-it-is-the-circumstances"
+short_url = "https://tmblr.co/ZY3jbyd8EBnzSa00"
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+note_count = 0.0
+type = "quote"
+id = 7.048757238931292e+17
+timestamp = 1672221874.0
+source = "<a href=\"http://twitter.com/sarahclazarus/status/1471297392041463810\">@sarahclazarus</a>"
+can_reply = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/sarahclazarus/status/1471297392041463810\">@sarahclazarus</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

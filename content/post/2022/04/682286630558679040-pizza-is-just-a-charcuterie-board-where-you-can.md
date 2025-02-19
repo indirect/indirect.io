@@ -6,47 +6,47 @@ slug = "pizza-is-just-a-charcuterie-board-where-you-can"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-blog_name = "indirect"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a>"
+reblog_key = "61tdALRh"
+short_url = "https://tmblr.co/ZY3jbybt_1DPSi00"
 interactability_blaze = "everyone"
-date = "2022-04-23 02:00:35 GMT"
-format = "html"
-can_reply = false
-id = 6.82286630558679e+17
-can_blaze = false
+display_avatar = true
 interactability_reblog = "everyone"
-type = "quote"
-slug = "pizza-is-just-a-charcuterie-board-where-you-can"
+text = "Pizza is just a charcuterie board where you can also eat the board."
 summary = "Pizza is just a charcuterie board where you can also eat the board."
 can_like = false
-can_send_in_message = true
+is_blaze_pending = false
+can_blaze = false
+slug = "pizza-is-just-a-charcuterie-board-where-you-can"
+should_open_in_legacy = true
+source = "<a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a>"
+date = "2022-04-23 02:00:35 GMT"
+note_count = 0.0
 is_blocks_post_format = false
+id = 6.82286630558679e+17
 id_string = "682286630558679040"
+post_url = "https://indirect.io/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can"
+format = "html"
+can_reply = false
+type = "quote"
+state = "published"
+can_reblog = false
+can_send_in_message = true
+blog_name = "indirect"
 is_blazed = false
 timestamp = 1650679235.0
-short_url = "https://tmblr.co/ZY3jbybt_1DPSi00"
-display_avatar = true
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/682286630558679040/pizza-is-just-a-charcuterie-board-where-you-can"
-reblog_key = "61tdALRh"
-note_count = 0.0
-text = "Pizza is just a charcuterie board where you can also eat the board."
-can_reblog = false
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/ziibiing/status/1516986853794197504\">@ziibiing</a></p>"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

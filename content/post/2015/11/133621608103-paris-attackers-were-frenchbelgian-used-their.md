@@ -6,47 +6,47 @@ slug = "paris-attackers-were-frenchbelgian-used-their"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-blog_name = "indirect"
-id = 133621608103.0
-can_blaze = false
 summary = "Paris attackers were French/Belgian, used their own credit cards and cleartext.\n\n Gov response: Ban Syrian refugees, encryption..."
-state = "published"
-should_open_in_legacy = true
+reblog_key = "Jxmn9rRM"
+is_blaze_pending = false
+can_blaze = false
 source = "<a href=\"http://twitter.com/AustenAllred/status/667770647477624833\">@AustenAllred</a>"
+can_like = false
+interactability_blaze = "everyone"
+display_avatar = true
+type = "quote"
+is_blocks_post_format = false
+id = 133621608103.0
+can_reblog = false
+id_string = "133621608103"
+post_url = "https://indirect.io/post/133621608103/paris-attackers-were-frenchbelgian-used-their"
+date = "2015-11-20 23:50:22 GMT"
 can_send_in_message = true
 can_reply = false
+is_blazed = false
+text = "<p>Paris attackers were French/Belgian, used their own credit cards and cleartext.</p>\n\n<p>Gov response: Ban Syrian refugees, encryption and Bitcoin.</p>"
+slug = "paris-attackers-were-frenchbelgian-used-their"
+state = "published"
+format = "html"
+should_open_in_legacy = true
+note_count = 0.0
+interactability_reblog = "everyone"
+blog_name = "indirect"
 timestamp = 1448063422.0
 short_url = "https://tmblr.co/ZY3jby1yST_wd"
-date = "2015-11-20 23:50:22 GMT"
-text = "<p>Paris attackers were French/Belgian, used their own credit cards and cleartext.</p>\n\n<p>Gov response: Ban Syrian refugees, encryption and Bitcoin.</p>"
-display_avatar = true
-can_like = false
-interactability_reblog = "everyone"
-id_string = "133621608103"
-is_blaze_pending = false
-format = "html"
-type = "quote"
-reblog_key = "Jxmn9rRM"
-can_reblog = false
-is_blocks_post_format = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/133621608103/paris-attackers-were-frenchbelgian-used-their"
-interactability_blaze = "everyone"
-slug = "paris-attackers-were-frenchbelgian-used-their"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/AustenAllred/status/667770647477624833\">@AustenAllred</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,42 +6,42 @@ slug = "millions-of-belles-dames-a-year-are-avec-merci"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-date = "2024-01-10 01:28:01 GMT"
-blog_name = "indirect"
-id = 7.39088878787543e+17
-id_string = "739088878787543040"
-is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyf1nMjTai00"
 summary = "millions of belles dames a year are avec merci, yet the media focuses on the one or two who are sans merci"
-type = "quote"
-format = "markdown"
-reblog_key = "GDtQkGJa"
-slug = "millions-of-belles-dames-a-year-are-avec-merci"
-post_url = "https://indirect.tumblr.com/post/739088878787543040/millions-of-belles-dames-a-year-are-avec-merci"
-text = "millions of belles dames a year are avec merci, yet the media focuses on the one or two who are sans merci"
-is_blocks_post_format = false
-interactability_reblog = "everyone"
-can_reply = false
 can_blaze = false
-display_avatar = true
+should_open_in_legacy = true
 note_count = 0.0
 can_like = false
 interactability_blaze = "everyone"
-can_reblog = false
+type = "quote"
+is_blocks_post_format = false
 state = "published"
+can_reply = false
+id = 7.39088878787543e+17
 is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyf1nMjTai00"
-source = "<a href=\"https://bsky.app/profile/vandroidhelsing.bsky.social/post/3ki6577fqfw2z\">Jared Pechaček (@vandroidhelsing.bsky.social)</a>"
-can_send_in_message = true
+can_reblog = false
+display_avatar = true
+post_url = "https://indirect.io/post/739088878787543040/millions-of-belles-dames-a-year-are-avec-merci"
 timestamp = 1704850081.0
+reblog_key = "GDtQkGJa"
+text = "millions of belles dames a year are avec merci, yet the media focuses on the one or two who are sans merci"
+can_send_in_message = true
+blog_name = "indirect"
+id_string = "739088878787543040"
+is_blaze_pending = false
+source = "<a href=\"https://bsky.app/profile/vandroidhelsing.bsky.social/post/3ki6577fqfw2z\">Jared Pechaček (@vandroidhelsing.bsky.social)</a>"
+interactability_reblog = "everyone"
+slug = "millions-of-belles-dames-a-year-are-avec-merci"
+date = "2024-01-10 01:28:01 GMT"
+format = "markdown"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]

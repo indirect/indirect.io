@@ -6,46 +6,46 @@ slug = "tech-talk-template-i-dont-know-what-im-doing"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://twitter.com/Pinboard/status/382152551086301184\">@Pinboard</a>"
-date = "2013-09-23 23:42:35 GMT"
-note_count = 0.0
-id = 62103691912.0
-post_url = "https://indirect.tumblr.com/post/62103691912/tech-talk-template-i-dont-know-what-im-doing"
-slug = "tech-talk-template-i-dont-know-what-im-doing"
-summary = "Tech talk template: I don’t know what I’m doing, and here’s how"
-should_open_in_legacy = true
-bookmarklet = true
-type = "quote"
-format = "markdown"
-source_url = "https://twitter.com/Pinboard/status/382152551086301184"
-can_reblog = false
-can_reply = false
-display_avatar = true
-interactability_blaze = "everyone"
-source_title = "twitter.com"
-text = "Tech talk template: I don&rsquo;t know what I&rsquo;m doing, and here&rsquo;s how"
-is_blocks_post_format = false
 blog_name = "indirect"
-is_blazed = false
+post_url = "https://indirect.io/post/62103691912/tech-talk-template-i-dont-know-what-im-doing"
+reblog_key = "mq2AwKhk"
+source_url = "https://twitter.com/Pinboard/status/382152551086301184"
+interactability_blaze = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
+slug = "tech-talk-template-i-dont-know-what-im-doing"
+date = "2013-09-23 23:42:35 GMT"
+summary = "Tech talk template: I don’t know what I’m doing, and here’s how"
+can_reblog = false
+is_blaze_pending = false
+format = "markdown"
+source = "<a href=\"https://twitter.com/Pinboard/status/382152551086301184\">@Pinboard</a>"
+can_reply = false
+type = "quote"
+id = 62103691912.0
 can_blaze = false
-timestamp = 1379979755.0
-id_string = "62103691912"
+should_open_in_legacy = true
+source_title = "twitter.com"
 can_like = false
 interactability_reblog = "everyone"
-is_blaze_pending = false
+note_count = 0.0
+timestamp = 1379979755.0
 state = "published"
-reblog_key = "mq2AwKhk"
+bookmarklet = true
+display_avatar = true
+is_blazed = false
 short_url = "https://tmblr.co/ZY3jbyvrgoA8"
-can_send_in_message = true
+text = "Tech talk template: I don&rsquo;t know what I&rsquo;m doing, and here&rsquo;s how"
+id_string = "62103691912"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

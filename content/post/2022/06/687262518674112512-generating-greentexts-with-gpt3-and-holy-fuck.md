@@ -6,56 +6,41 @@ slug = "generating-greentexts-with-gpt3-and-holy-fuck"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/687262518674112512/generating-greentexts-with-gpt3-and-holy-fuck"
-is_blaze_pending = false
-format = "html"
-reblog_key = "6onqXDwg"
-link_url = "http://twitter.com/funnycats22/status/1536643746778992641"
-can_send_in_message = true
-timestamp = 1655424612.0
+caption = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
 note_count = 0.0
-can_like = false
-can_reblog = false
-can_reply = false
-blog_name = "indirect"
-slug = "generating-greentexts-with-gpt3-and-holy-fuck"
+can_blaze = false
 state = "published"
+format = "html"
+can_reblog = false
+blog_name = "indirect"
 is_blazed = false
+interactability_blaze = "everyone"
+can_reply = false
+id_string = "687262518674112512"
+is_blaze_pending = false
+display_avatar = true
+type = "photo"
+slug = "generating-greentexts-with-gpt3-and-holy-fuck"
+should_open_in_legacy = true
+link_url = "http://twitter.com/funnycats22/status/1536643746778992641"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+date = "2022-06-17 00:10:12 GMT"
+timestamp = 1655424612.0
+reblog_key = "6onqXDwg"
+short_url = "https://tmblr.co/ZY3jbyc9fPwL0i00"
 summary = "generating greentexts with gpt3 and holy fuck — @funnycats22"
 photoset_layout = "13"
-can_blaze = false
-display_avatar = true
+can_send_in_message = true
+can_like = false
 id = 6.872625186741125e+17
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id_string = "687262518674112512"
-date = "2022-06-17 00:10:12 GMT"
-short_url = "https://tmblr.co/ZY3jbyc9fPwL0i00"
-should_open_in_legacy = true
-caption = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
-
-[tumblr.reblog]
-comment = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+post_url = "https://indirect.io/post/687262518674112512/generating-greentexts-with-gpt3-and-holy-fuck"
 
 [[tumblr.trail]]
+content_raw = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
 content = "<p>generating greentexts with gpt3 and holy fuck &mdash; <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -65,29 +50,51 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
+show_description = true
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+header_full_width = 3000.0
+header_stretch = true
 show_avatar = true
 show_title = true
 title_font_weight = "bold"
-show_header_image = false
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font = "Gibson"
-avatar_shape = "square"
 background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
 header_bounds = ""
-title_color = "#444444"
+link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "687262518674112512"
 
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>generating greentexts with gpt3 and holy fuck — <a href=\"http://twitter.com/funnycats22/status/1536643746778992641\">@funnycats22</a></p>"
+tree_html = ""
+
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/cb/1f/ed0268d763cccd99ddcf8470100b.jpg"
+width = 1080.0
+height = 1169.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cb/1f/ed0268d763cccd99ddcf8470100b.jpg"
@@ -95,14 +102,14 @@ width = 1080.0
 height = 1169.0
 
 [[tumblr.photos.alt_sizes]]
+height = 693.0
 url = "/images/6c/4c/f6c4a8db911c6c8cb5753c492099.jpg"
 width = 640.0
-height = 693.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/99/b0/ee559343b9707dbcbb8df173165f.jpg"
 width = 540.0
 height = 585.0
+url = "/images/99/b0/ee559343b9707dbcbb8df173165f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ed/2d/213eb43314d57b754171dc1569c7.jpg"
@@ -115,24 +122,19 @@ width = 400.0
 height = 433.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/bf/a9/9c2bea41d53e2f5086ef189f87e1.jpg"
 width = 250.0
 height = 271.0
-url = "/images/bf/a9/9c2bea41d53e2f5086ef189f87e1.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5f/15/194be842f4d3c23a686931e6af65.jpg"
 width = 100.0
 height = 108.0
+url = "/images/5f/15/194be842f4d3c23a686931e6af65.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/0f/92/7b55504053c6f23991e34f98a415.jpg"
 width = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/cb/1f/ed0268d763cccd99ddcf8470100b.jpg"
-width = 1080.0
-height = 1169.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -153,9 +155,9 @@ width = 640.0
 height = 687.0
 
 [[tumblr.photos.alt_sizes]]
+height = 580.0
 url = "/images/77/f4/c5bf936640f4e00d068a102405af.jpg"
 width = 540.0
-height = 580.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b0/fe/e0ebd74fb09cf1737d02ffaacd74.jpg"
@@ -168,9 +170,9 @@ width = 400.0
 height = 430.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/4a/f6/a5f0aab67852f322b163f0250125.jpg"
 width = 250.0
 height = 269.0
-url = "/images/4a/f6/a5f0aab67852f322b163f0250125.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 107.0
@@ -186,9 +188,9 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
+height = 1003.0
 url = "/images/33/bc/6c9a5b339e1dc04dc496a7313f3f.jpg"
 width = 1071.0
-height = 1003.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/33/bc/6c9a5b339e1dc04dc496a7313f3f.jpg"
@@ -216,14 +218,14 @@ width = 400.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bd/f2/019ee2bad98d71768f7c5f502f1a.jpg"
 width = 250.0
 height = 234.0
+url = "/images/bd/f2/019ee2bad98d71768f7c5f502f1a.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 94.0
 url = "/images/4d/7e/77d814fd70920b0cf43701aecae8.jpg"
 width = 100.0
-height = 94.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3e/64/65cba0091d7239b42d35e6bf4fa3.jpg"
@@ -274,7 +276,7 @@ width = 100.0
 height = 136.0
 
 [[tumblr.photos.alt_sizes]]
+width = 75.0
 height = 75.0
 url = "/images/49/32/35d9e7dd408eca935d713f8f5eec.jpg"
-width = 75.0
 +++

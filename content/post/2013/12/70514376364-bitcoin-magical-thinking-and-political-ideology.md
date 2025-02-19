@@ -7,49 +7,49 @@ title = "Bitcoin, Magical Thinking, and Political Ideology"
 type = "tumblr-link"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/70514376364/bitcoin-magical-thinking-and-political-ideology"
-format = "markdown"
-should_open_in_legacy = true
-note_count = 0.0
-publisher = "al3x.net"
-type = "link"
-is_blocks_post_format = false
-id = 70514376364.0
-is_blaze_pending = false
 title = "Bitcoin, Magical Thinking, and Political Ideology"
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-can_blaze = false
-date = "2013-12-19 20:31:00 GMT"
-description = ""
-can_reply = false
-blog_name = "indirect"
-id_string = "70514376364"
-slug = "bitcoin-magical-thinking-and-political-ideology"
-timestamp = 1387485060.0
-short_url = "https://tmblr.co/ZY3jby11g_-wi"
-url = "https://al3x.net/2013/12/18/bitcoin.html"
 can_send_in_message = true
+id = 70514376364.0
+can_blaze = false
+slug = "bitcoin-magical-thinking-and-political-ideology"
+date = "2013-12-19 20:31:00 GMT"
+should_open_in_legacy = true
 state = "published"
 reblog_key = "c9qEPHOV"
-summary = "Bitcoin, Magical Thinking, and Political Ideology"
-interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 display_avatar = true
+can_reblog = false
+type = "link"
+timestamp = 1387485060.0
+post_url = "https://indirect.io/post/70514376364/bitcoin-magical-thinking-and-political-ideology"
+id_string = "70514376364"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby11g_-wi"
+can_like = false
+can_reply = false
+is_blocks_post_format = false
+is_blaze_pending = false
+summary = "Bitcoin, Magical Thinking, and Political Ideology"
+note_count = 0.0
+url = "https://al3x.net/2013/12/18/bitcoin.html"
+publisher = "al3x.net"
+description = ""
+interactability_reblog = "everyone"
+blog_name = "indirect"
 is_blazed = false
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
 +++

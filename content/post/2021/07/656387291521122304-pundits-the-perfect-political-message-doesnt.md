@@ -6,46 +6,76 @@ slug = "pundits-the-perfect-political-message-doesnt"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/656387291521122304/pundits-the-perfect-political-message-doesnt"
-date = "2021-07-11 05:01:41 GMT"
-reblog_key = "wi1pgdNH"
-summary = "Pundits: the perfect political message doesn't exist\n \n Zoomers: — @aaronhuertas"
-can_reblog = false
-is_blocks_post_format = false
-state = "published"
-image_permalink = "https://indirect.tumblr.com/image/656387291521122304"
-blog_name = "indirect"
-id = 6.563872915211223e+17
-id_string = "656387291521122304"
-can_like = false
-can_reply = false
-display_avatar = true
-type = "photo"
-timestamp = 1625979701.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-is_blazed = false
-slug = "pundits-the-perfect-political-message-doesnt"
-format = "html"
 note_count = 0.0
+reblog_key = "wi1pgdNH"
 caption = "<p>Pundits: the perfect political message doesn&rsquo;t exist\n<br/>\n<br/>Zoomers: — <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
-link_url = "http://twitter.com/aaronhuertas/status/1413976610789789697"
-interactability_blaze = "everyone"
+can_reply = false
+summary = "Pundits: the perfect political message doesn't exist\n \n Zoomers: — @aaronhuertas"
+blog_name = "indirect"
 is_blaze_pending = false
+slug = "pundits-the-perfect-political-message-doesnt"
+can_send_in_message = true
+id = 6.563872915211223e+17
+state = "published"
 short_url = "https://tmblr.co/ZY3jbyaRzCEICe00"
-can_blaze = false
 should_open_in_legacy = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
+id_string = "656387291521122304"
+can_blaze = false
+post_url = "https://indirect.io/post/656387291521122304/pundits-the-perfect-political-message-doesnt"
+date = "2021-07-11 05:01:41 GMT"
+format = "html"
+image_permalink = "https://indirect.io/image/656387291521122304"
+can_like = false
+type = "photo"
+is_blazed = false
+display_avatar = true
+is_blocks_post_format = false
+link_url = "http://twitter.com/aaronhuertas/status/1413976610789789697"
+timestamp = 1625979701.0
 
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+[tumblr.reblog]
+comment = "<p>Pundits: the perfect political message doesn’t exist\n<br>\n<br>Zoomers: — <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>Pundits: the perfect political message doesn’t exist\n<br>\n<br>Zoomers: — <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
+content = "<p>Pundits: the perfect political message doesn&rsquo;t exist\n<br />\n<br />Zoomers: &mdash; <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
+active = true
+share_likes = false
+share_following = false
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+header_stretch = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_description = true
+show_title = true
+header_full_height = 1055.0
+
+[tumblr.trail.post]
+id = "656387291521122304"
 
 [[tumblr.photos]]
 caption = ""
@@ -66,14 +96,14 @@ width = 500.0
 height = 589.0
 
 [[tumblr.photos.alt_sizes]]
-height = 472.0
 url = "/images/3d/b9/868179b9537baf260d8578ecf397.jpg"
 width = 400.0
+height = 472.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/97/6f/2d8821773e0b699298284a5c382f.jpg"
 width = 250.0
 height = 295.0
+url = "/images/97/6f/2d8821773e0b699298284a5c382f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7d/fb/661091ba24bafb11e19c421663d6.jpg"
@@ -85,42 +115,14 @@ url = "/images/d2/7f/4782eaa5fed6751e0f07126c8aa3.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-content_raw = "<p>Pundits: the perfect political message doesn’t exist\n<br>\n<br>Zoomers: — <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
-content = "<p>Pundits: the perfect political message doesn&rsquo;t exist\n<br />\n<br />Zoomers: &mdash; <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_title = true
-title_font = "Gibson"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "656387291521122304"
-
-[tumblr.reblog]
-comment = "<p>Pundits: the perfect political message doesn’t exist\n<br>\n<br>Zoomers: — <a href=\"http://twitter.com/aaronhuertas/status/1413976610789789697\">@aaronhuertas</a></p>"
-tree_html = ""
+[tumblr.blog.tumblrmart_accessories]
 +++

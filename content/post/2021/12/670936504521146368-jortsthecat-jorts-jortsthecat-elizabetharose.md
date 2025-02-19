@@ -6,42 +6,80 @@ slug = "jortsthecat-jorts-jortsthecat-elizabetharose"
 type = "tumblr-photo"
 
 [tumblr]
+can_send_in_message = true
+type = "photo"
+date = "2021-12-18 19:15:11 GMT"
+reblog_key = "ZeS14GxL"
+post_url = "https://indirect.io/post/670936504521146368/jortsthecat-jorts-jortsthecat-elizabetharose"
+short_url = "https://tmblr.co/ZY3jbybFfJ8oqq00"
+note_count = 0.0
+link_url = "http://twitter.com/ElizabethARose/status/1472062968321953792"
+can_reblog = false
+can_reply = false
+display_avatar = true
+image_permalink = "https://indirect.io/image/670936504521146368"
+is_blazed = false
+is_blaze_pending = false
 timestamp = 1639854911.0
+summary = "@JortsTheCat #Jorts #JortsTheCat — @ElizabethARose"
+should_open_in_legacy = true
+caption = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
+is_blocks_post_format = false
+id_string = "670936504521146368"
+format = "html"
 blog_name = "indirect"
 id = 6.709365045211464e+17
-id_string = "670936504521146368"
-date = "2021-12-18 19:15:11 GMT"
 can_like = false
 interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbybFfJ8oqq00"
-image_permalink = "https://indirect.tumblr.com/image/670936504521146368"
-display_avatar = true
-type = "photo"
-link_url = "http://twitter.com/ElizabethARose/status/1472062968321953792"
-interactability_reblog = "everyone"
-can_reblog = false
-is_blocks_post_format = false
-is_blaze_pending = false
-slug = "jortsthecat-jorts-jortsthecat-elizabetharose"
-reblog_key = "ZeS14GxL"
-note_count = 0.0
 can_blaze = false
-should_open_in_legacy = true
-can_reply = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/670936504521146368/jortsthecat-jorts-jortsthecat-elizabetharose"
-format = "html"
-summary = "@JortsTheCat #Jorts #JortsTheCat — @ElizabethARose"
+slug = "jortsthecat-jorts-jortsthecat-elizabetharose"
 state = "published"
-caption = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
-can_send_in_message = true
+interactability_reblog = "everyone"
 
-[tumblr.reblog]
-comment = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
+content = "<p>@JortsTheCat #Jorts #JortsTheCat &mdash; <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+title_color = "#444444"
+title_font = "Gibson"
+show_description = true
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_poster = ""
+link_color = "#529ECC"
+show_header_image = false
+show_title = true
+avatar_shape = "square"
+title_font_weight = "bold"
+show_avatar = true
+header_full_width = 3000.0
+
+[tumblr.trail.post]
+id = "670936504521146368"
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/0c/c0/e2d4d3e60504db6f64463ffc3450.jpg"
+width = 1200.0
+height = 821.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0c/c0/e2d4d3e60504db6f64463ffc3450.jpg"
@@ -69,9 +107,9 @@ width = 400.0
 height = 274.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/17/62/18c6c3270885e40e7887986f883f.jpg"
 width = 250.0
 height = 171.0
+url = "/images/17/62/18c6c3270885e40e7887986f883f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f1/7a/b915afdb6e0de216c13cea116f77.jpg"
@@ -83,54 +121,18 @@ url = "/images/fa/ee/401b2474b0e3d3ecbd2c2e7898a8.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/0c/c0/e2d4d3e60504db6f64463ffc3450.jpg"
-width = 1200.0
-height = 821.0
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
-content = "<p>@JortsTheCat #Jorts #JortsTheCat &mdash; <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-show_title = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-
-[tumblr.trail.post]
-id = "670936504521146368"
-
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>@JortsTheCat #Jorts #JortsTheCat — <a href=\"http://twitter.com/ElizabethARose/status/1472062968321953792\">@ElizabethARose</a></p>"
+tree_html = ""
 +++

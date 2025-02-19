@@ -6,41 +6,41 @@ slug = "how-i-feel-some-days-wallstreetsilv"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-is_blaze_pending = false
-can_blaze = false
+can_reblog = false
+can_send_in_message = true
+format = "html"
 summary = "How I feel some days ... — @WallStreetSilv"
+type = "photo"
+slug = "how-i-feel-some-days-wallstreetsilv"
+state = "published"
+caption = "<p>How I feel some days &hellip; — <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
+timestamp = 1664574049.0
+is_blazed = false
+can_blaze = false
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+id = 6.968563989942436e+17
+date = "2022-09-30 21:40:49 GMT"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/696856398994243584"
+post_url = "https://indirect.io/post/696856398994243584/how-i-feel-some-days-wallstreetsilv"
+short_url = "https://tmblr.co/ZY3jbychkpFfWe00"
+blog_name = "indirect"
+id_string = "696856398994243584"
+reblog_key = "yOwt0cbw"
 can_like = false
 can_reply = false
-post_url = "https://indirect.tumblr.com/post/696856398994243584/how-i-feel-some-days-wallstreetsilv"
-can_send_in_message = true
-link_url = "http://twitter.com/WallStreetSilv/status/1575919658317889553"
-is_blocks_post_format = false
-blog_name = "indirect"
 display_avatar = true
+is_blaze_pending = false
 note_count = 0.0
-can_reblog = false
-reblog_key = "yOwt0cbw"
-short_url = "https://tmblr.co/ZY3jbychkpFfWe00"
-type = "photo"
-id_string = "696856398994243584"
-is_blazed = false
-slug = "how-i-feel-some-days-wallstreetsilv"
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/696856398994243584"
-date = "2022-09-30 21:40:49 GMT"
-timestamp = 1664574049.0
-state = "published"
-format = "html"
-id = 6.968563989942436e+17
-caption = "<p>How I feel some days &hellip; — <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
+link_url = "http://twitter.com/WallStreetSilv/status/1575919658317889553"
 
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>How I feel some days … — <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
 content = "<p>How I feel some days &hellip; &mdash; <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -50,49 +50,50 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-title_color = "#444444"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font = "Gibson"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_header_image = false
-avatar_shape = "square"
+header_full_height = 1055.0
 body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 show_title = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_color = "#444444"
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+show_header_image = false
 title_font_weight = "bold"
+header_full_width = 3000.0
+header_image_poster = ""
+show_description = true
 
 [tumblr.trail.post]
 id = "696856398994243584"
 
+[tumblr.reblog]
+comment = "<p>How I feel some days … — <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
+tree_html = ""
+
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/0e/4a/bbaf63ad68621fb5b932a2fd76a5.png"
-width = 640.0
-height = 572.0
-
 [[tumblr.photos.alt_sizes]]
 url = "/images/0e/4a/bbaf63ad68621fb5b932a2fd76a5.png"
 width = 640.0
 height = 572.0
 
 [[tumblr.photos.alt_sizes]]
+height = 483.0
 url = "/images/79/4a/4a20fd81c19cafc6282b495e5c2d.png"
 width = 540.0
-height = 483.0
 
 [[tumblr.photos.alt_sizes]]
-height = 447.0
 url = "/images/b0/5c/7f7805e11dd7fbc34afc1b41f659.png"
 width = 500.0
+height = 447.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/1c/27/da54a2dac7cb3d05f2a73dc5001b.png"
@@ -114,18 +115,19 @@ url = "/images/77/23/5240a426b46e050ad00a1e7b8864.png"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+url = "/images/0e/4a/bbaf63ad68621fb5b932a2fd76a5.png"
+width = 640.0
+height = 572.0
+
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>How I feel some days … — <a href=\"http://twitter.com/WallStreetSilv/status/1575919658317889553\">@WallStreetSilv</a></p>"
-tree_html = ""
 +++

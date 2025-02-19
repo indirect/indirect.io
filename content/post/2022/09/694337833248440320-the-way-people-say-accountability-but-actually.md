@@ -6,47 +6,47 @@ slug = "the-way-people-say-accountability-but-actually"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id = 6.943378332484403e+17
-id_string = "694337833248440320"
-slug = "the-way-people-say-accountability-but-actually"
+reblog_key = "MMv1ph5i"
+summary = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
 should_open_in_legacy = true
-can_reply = false
-display_avatar = true
-can_like = false
-interactability_reblog = "everyone"
 text = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
-is_blaze_pending = false
+can_like = false
+source = "<a href=\"http://twitter.com/olukukoyi/status/1565719225058185216\">@olukukoyi</a>"
+display_avatar = true
+id = 6.943378332484403e+17
+slug = "the-way-people-say-accountability-but-actually"
+format = "html"
+is_blocks_post_format = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jbycYo9IWuq00"
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reply = false
+is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/694337833248440320/the-way-people-say-accountability-but-actually"
 date = "2022-09-03 02:29:18 GMT"
 timestamp = 1662172158.0
-state = "published"
-type = "quote"
+interactability_reblog = "everyone"
 blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/694337833248440320/the-way-people-say-accountability-but-actually"
 can_reblog = false
-reblog_key = "MMv1ph5i"
-interactability_blaze = "everyone"
-source = "<a href=\"http://twitter.com/olukukoyi/status/1565719225058185216\">@olukukoyi</a>"
-can_blaze = false
-format = "html"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbycYo9IWuq00"
-summary = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
-note_count = 0.0
 can_send_in_message = true
+type = "quote"
+id_string = "694337833248440320"
+is_blaze_pending = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/olukukoyi/status/1565719225058185216\">@olukukoyi</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

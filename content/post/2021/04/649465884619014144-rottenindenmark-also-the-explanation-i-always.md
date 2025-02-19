@@ -6,94 +6,48 @@ slug = "rottenindenmark-also-the-explanation-i-always"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/649465884619014144/rottenindenmark-also-the-explanation-i-always"
-reblog_key = "vpgPEUPj"
-interactability_reblog = "everyone"
-note_count = 0.0
-type = "photo"
+caption = "<p>@RottenInDenmark Also the explanation I always return to: — <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
+timestamp = 1619378933.0
+can_reply = false
 is_blaze_pending = false
-can_like = false
-can_send_in_message = true
-id_string = "649465884619014144"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbya3NSVoSu00"
+can_blaze = false
 summary = "@RottenInDenmark Also the explanation I always return to: — @stahlscott"
-interactability_blaze = "everyone"
-can_reblog = false
+should_open_in_legacy = true
+id = 6.494658846190141e+17
+post_url = "https://indirect.io/post/649465884619014144/rottenindenmark-also-the-explanation-i-always"
+note_count = 0.0
+interactability_reblog = "everyone"
+can_send_in_message = true
+blog_name = "indirect"
 link_url = "http://twitter.com/stahlscott/status/1386322800118353929"
-image_permalink = "https://indirect.tumblr.com/image/649465884619014144"
+image_permalink = "https://indirect.io/image/649465884619014144"
+display_avatar = true
+id_string = "649465884619014144"
+is_blazed = false
+slug = "rottenindenmark-also-the-explanation-i-always"
+format = "html"
+can_like = false
+type = "photo"
 is_blocks_post_format = false
 date = "2021-04-25 19:28:53 GMT"
-timestamp = 1619378933.0
-format = "html"
-should_open_in_legacy = true
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-slug = "rottenindenmark-also-the-explanation-i-always"
-caption = "<p>@RottenInDenmark Also the explanation I always return to: — <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
-can_reply = false
-display_avatar = true
-id = 6.494658846190141e+17
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>@RottenInDenmark Also the explanation I always return to: — <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
-content = "<p>@RottenInDenmark Also the explanation I always return to: &mdash; <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-title_font = "Gibson"
-header_bounds = ""
-title_font_weight = "bold"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "649465884619014144"
+reblog_key = "vpgPEUPj"
+short_url = "https://tmblr.co/ZY3jbya3NSVoSu00"
+interactability_blaze = "everyone"
+can_reblog = false
+state = "published"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/26/83/3cd294ec81fc03d63c55e1868815.jpg"
 width = 828.0
 height = 826.0
+url = "/images/26/83/3cd294ec81fc03d63c55e1868815.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 826.0
 url = "/images/26/83/3cd294ec81fc03d63c55e1868815.jpg"
 width = 828.0
-height = 826.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/74/a8/db56a971b9d26cd30fc38b5cf91a.jpg"
@@ -121,9 +75,9 @@ width = 250.0
 height = 249.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/f0/9d/c96c1e2ee41118749aa2bb33970e.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b5/73/f1098e1bc7e4c73c1c60bba8709c.jpg"
@@ -133,4 +87,52 @@ height = 75.0
 [tumblr.reblog]
 comment = "<p>@RottenInDenmark Also the explanation I always return to: — <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>@RottenInDenmark Also the explanation I always return to: — <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
+content = "<p>@RottenInDenmark Also the explanation I always return to: &mdash; <a href=\"http://twitter.com/stahlscott/status/1386322800118353929\">@stahlscott</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_avatar = true
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+avatar_shape = "square"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+background_color = "#FAFAFA"
+show_description = true
+title_color = "#444444"
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "649465884619014144"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

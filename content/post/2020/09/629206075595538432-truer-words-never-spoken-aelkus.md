@@ -6,39 +6,39 @@ slug = "truer-words-never-spoken-aelkus"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/629206075595538432/truer-words-never-spoken-aelkus"
-state = "published"
-format = "html"
-reblog_key = "0sqI806y"
-interactability_blaze = "everyone"
-can_reblog = false
-slug = "truer-words-never-spoken-aelkus"
-is_blaze_pending = false
-type = "photo"
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyYxOvUIOy00"
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-date = "2020-09-14 04:27:53 GMT"
-timestamp = 1600057673.0
-can_like = false
-can_send_in_message = true
-id_string = "629206075595538432"
-is_blazed = false
 caption = "<p>truer words never spoken — <a href=\"http://twitter.com/Aelkus/status/1305356181985165314\">@Aelkus</a></p>"
-id = 6.292060755955384e+17
-link_url = "http://twitter.com/Aelkus/status/1305356181985165314"
-image_permalink = "https://indirect.tumblr.com/image/629206075595538432"
-can_reply = false
+image_permalink = "https://indirect.io/image/629206075595538432"
+date = "2020-09-14 04:27:53 GMT"
 display_avatar = true
-summary = "truer words never spoken — @Aelkus"
+is_blazed = false
+slug = "truer-words-never-spoken-aelkus"
+timestamp = 1600057673.0
+state = "published"
+should_open_in_legacy = true
+type = "photo"
+is_blaze_pending = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyYxOvUIOy00"
+can_like = false
+can_reply = false
+link_url = "http://twitter.com/Aelkus/status/1305356181985165314"
+interactability_blaze = "everyone"
+id = 6.292060755955384e+17
+post_url = "https://indirect.io/post/629206075595538432/truer-words-never-spoken-aelkus"
+interactability_reblog = "everyone"
+id_string = "629206075595538432"
+can_reblog = false
 is_blocks_post_format = false
+reblog_key = "0sqI806y"
+summary = "truer words never spoken — @Aelkus"
+note_count = 0.0
+can_send_in_message = true
+blog_name = "indirect"
+can_blaze = false
 
 [tumblr.reblog]
-comment = "<p>truer words never spoken — <a href=\"http://twitter.com/Aelkus/status/1305356181985165314\">@Aelkus</a></p>"
 tree_html = ""
+comment = "<p>truer words never spoken — <a href=\"http://twitter.com/Aelkus/status/1305356181985165314\">@Aelkus</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -49,9 +49,9 @@ width = 781.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a0/37/ca17f26b0d2862471dab22b87d9a.jpg"
 width = 781.0
 height = 960.0
+url = "/images/a0/37/ca17f26b0d2862471dab22b87d9a.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e1/86/a4860be32405dc31f03f1361042f.jpg"
@@ -74,9 +74,9 @@ width = 400.0
 height = 492.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7d/fb/9eb8c3a3cb9ff13361a30266d5fe.jpg"
 width = 250.0
 height = 307.0
+url = "/images/7d/fb/9eb8c3a3cb9ff13361a30266d5fe.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/50/ac/e8d8e94d4375de0ee7b52fbfd75a.jpg"
@@ -89,13 +89,13 @@ width = 75.0
 height = 75.0
 
 [tumblr.blog]
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -106,30 +106,32 @@ content_raw = "<p>truer words never spoken — <a href=\"http://twitter.com/Aelk
 content = "<p>truer words never spoken &mdash; <a href=\"http://twitter.com/Aelkus/status/1305356181985165314\">@Aelkus</a></p>"
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-title_font = "Gibson"
-title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+header_full_width = 3000.0
+show_description = true
 show_header_image = false
 avatar_shape = "square"
-header_bounds = ""
-header_image_poster = ""
-show_description = true
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
 body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_color = "#444444"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_title = true
 
 [tumblr.trail.post]
 id = "629206075595538432"

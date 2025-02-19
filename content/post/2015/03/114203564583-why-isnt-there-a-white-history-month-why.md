@@ -6,81 +6,35 @@ slug = "why-isnt-there-a-white-history-month-why"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-can_blaze = false
-caption = "<p>&ldquo;Why isn&rsquo;t there a white history month?&rdquo; &ldquo;Why isn&rsquo;t there straight pride? &quot;Why don&rsquo;t people take meninism seriously?&rdquo; — <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
-id = 114203564583.0
-link_url = "http://twitter.com/corinnegarnier_/status/575831860133163008"
-interactability_reblog = "everyone"
-can_reply = false
-is_blazed = false
-slug = "why-isnt-there-a-white-history-month-why"
-reblog_key = "Qdk2XZqX"
-image_permalink = "https://indirect.tumblr.com/image/114203564583"
-is_blocks_post_format = false
-is_blaze_pending = false
-summary = "\"Why isn't there a white history month?\" \"Why isn't there straight pride? \"Why don't people take meninism seriously?\" —..."
-should_open_in_legacy = true
-can_send_in_message = true
-blog_name = "indirect"
-state = "published"
-format = "html"
-interactability_blaze = "everyone"
 id_string = "114203564583"
-date = "2015-03-21 08:36:00 GMT"
+post_url = "https://indirect.io/post/114203564583/why-isnt-there-a-white-history-month-why"
+is_blocks_post_format = false
+can_blaze = false
 timestamp = 1426926960.0
-short_url = "https://tmblr.co/ZY3jby1gN41ed"
-can_like = false
-display_avatar = true
 note_count = 0.0
+can_send_in_message = true
+id = 114203564583.0
+date = "2015-03-21 08:36:00 GMT"
+should_open_in_legacy = true
+can_reply = false
+is_blaze_pending = false
+reblog_key = "Qdk2XZqX"
+type = "photo"
+slug = "why-isnt-there-a-white-history-month-why"
+link_url = "http://twitter.com/corinnegarnier_/status/575831860133163008"
+can_like = false
+short_url = "https://tmblr.co/ZY3jby1gN41ed"
+caption = "<p>&ldquo;Why isn&rsquo;t there a white history month?&rdquo; &ldquo;Why isn&rsquo;t there straight pride? &quot;Why don&rsquo;t people take meninism seriously?&rdquo; — <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
+interactability_reblog = "everyone"
+is_blazed = false
+format = "html"
+summary = "\"Why isn't there a white history month?\" \"Why isn't there straight pride? \"Why don't people take meninism seriously?\" —..."
+image_permalink = "https://indirect.io/image/114203564583"
+display_avatar = true
+state = "published"
+interactability_blaze = "everyone"
 can_reblog = false
-post_url = "https://indirect.tumblr.com/post/114203564583/why-isnt-there-a-white-history-month-why"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>“Why isn’t there a white history month?” “Why isn’t there straight pride? \"Why don’t people take meninism seriously?” — <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
-content = "<p>&ldquo;Why isn&rsquo;t there a white history month?&rdquo; &ldquo;Why isn&rsquo;t there straight pride? \"Why don&rsquo;t people take meninism seriously?&rdquo; &mdash; <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-show_avatar = true
-title_color = "#444444"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-show_description = true
-title_font = "Gibson"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
-avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-
-[tumblr.trail.post]
-id = "114203564583"
+blog_name = "indirect"
 
 [[tumblr.photos]]
 caption = ""
@@ -121,9 +75,9 @@ width = 210.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e6/42/4152b19a55d77d11a47e7fa5b206.jpg"
 width = 100.0
 height = 190.0
+url = "/images/e6/42/4152b19a55d77d11a47e7fa5b206.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/71/d9/24e3a6a7d8fab733ccb7a11747c5.jpg"
@@ -133,4 +87,52 @@ height = 75.0
 [tumblr.reblog]
 comment = "<p>“Why isn’t there a white history month?” “Why isn’t there straight pride? \"Why don’t people take meninism seriously?” — <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>“Why isn’t there a white history month?” “Why isn’t there straight pride? \"Why don’t people take meninism seriously?” — <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
+content = "<p>&ldquo;Why isn&rsquo;t there a white history month?&rdquo; &ldquo;Why isn&rsquo;t there straight pride? \"Why don&rsquo;t people take meninism seriously?&rdquo; &mdash; <a href=\"http://twitter.com/corinnegarnier_/status/575831860133163008\">@corinnegarnier_</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+link_color = "#529ECC"
+title_color = "#444444"
+title_font = "Gibson"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+title_font_weight = "bold"
+show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+show_title = true
+
+[tumblr.trail.post]
+id = "114203564583"
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

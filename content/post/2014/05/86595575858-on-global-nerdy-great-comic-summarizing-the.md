@@ -6,39 +6,35 @@ slug = "on-global-nerdy-great-comic-summarizing-the"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-can_reply = false
-caption = "<p>On &ldquo;Global Nerdy&rdquo;: Great comic summarizing the evolution of Microsoft Windows: — <a href=\"http://twitter.com/AccordionGuy/status/469811361921650688\">@AccordionGuy</a></p>"
+post_url = "https://indirect.io/post/86595575858/on-global-nerdy-great-comic-summarizing-the"
+timestamp = 1400853001.0
+is_blocks_post_format = false
 id = 86595575858.0
-state = "published"
-reblog_key = "jBkSlgYy"
-can_like = false
-display_avatar = true
-blog_name = "indirect"
 id_string = "86595575858"
 is_blaze_pending = false
-summary = "On \"Global Nerdy\": Great comic summarizing the evolution of Microsoft Windows: — @AccordionGuy"
 interactability_blaze = "everyone"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/86595575858/on-global-nerdy-great-comic-summarizing-the"
-can_send_in_message = true
-image_permalink = "https://indirect.tumblr.com/image/86595575858"
-type = "photo"
-slug = "on-global-nerdy-great-comic-summarizing-the"
-date = "2014-05-23 13:50:01 GMT"
-format = "html"
+state = "published"
+reblog_key = "jBkSlgYy"
 short_url = "https://tmblr.co/ZY3jby1GfVw0o"
-note_count = 0.0
-is_blazed = false
-timestamp = 1400853001.0
+summary = "On \"Global Nerdy\": Great comic summarizing the evolution of Microsoft Windows: — @AccordionGuy"
+can_reply = false
+type = "photo"
+can_like = false
+should_open_in_legacy = true
+caption = "<p>On &ldquo;Global Nerdy&rdquo;: Great comic summarizing the evolution of Microsoft Windows: — <a href=\"http://twitter.com/AccordionGuy/status/469811361921650688\">@AccordionGuy</a></p>"
+image_permalink = "https://indirect.io/image/86595575858"
+slug = "on-global-nerdy-great-comic-summarizing-the"
+blog_name = "indirect"
 interactability_reblog = "everyone"
+can_blaze = false
+date = "2014-05-23 13:50:01 GMT"
+note_count = 0.0
+can_send_in_message = true
+is_blazed = false
+format = "html"
 link_url = "http://twitter.com/AccordionGuy/status/469811361921650688"
 can_reblog = false
-is_blocks_post_format = false
-
-[tumblr.reblog]
-comment = "<p>On “Global Nerdy”: Great comic summarizing the evolution of Microsoft Windows: — <a href=\"http://twitter.com/AccordionGuy/status/469811361921650688\">@AccordionGuy</a></p>"
-tree_html = ""
+display_avatar = true
 
 [[tumblr.trail]]
 content_raw = "<p>On “Global Nerdy”: Great comic summarizing the evolution of Microsoft Windows: — <a href=\"http://twitter.com/AccordionGuy/status/469811361921650688\">@AccordionGuy</a></p>"
@@ -47,30 +43,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
+header_image_poster = ""
+header_full_height = 1055.0
 show_header_image = false
 avatar_shape = "square"
-title_font = "Gibson"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
 show_avatar = true
-show_title = true
-title_color = "#444444"
+title_font = "Gibson"
 title_font_weight = "bold"
+header_full_width = 3000.0
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
+header_bounds = ""
+header_stretch = true
 show_description = true
+show_title = true
+title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 
 [tumblr.trail.post]
 id = "86595575858"
@@ -78,15 +76,20 @@ id = "86595575858"
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
+[tumblr.photos.original_size]
 url = "/images/ff/7e/8977c17aa76a0446b4ce9acf48e5.png"
 width = 598.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
+height = 400.0
+url = "/images/ff/7e/8977c17aa76a0446b4ce9acf48e5.png"
+width = 598.0
+
+[[tumblr.photos.alt_sizes]]
+height = 361.0
 url = "/images/71/72/8f1c25cfd409fe681a2535b376de.png"
 width = 540.0
-height = 361.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/43/11/2a01a2de645e38ab3c861cc8e200.png"
@@ -113,19 +116,18 @@ url = "/images/96/19/881d03b26326d7be31ad8dc9dbdf.png"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/ff/7e/8977c17aa76a0446b4ce9acf48e5.png"
-width = 598.0
-height = 400.0
-
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>On “Global Nerdy”: Great comic summarizing the evolution of Microsoft Windows: — <a href=\"http://twitter.com/AccordionGuy/status/469811361921650688\">@AccordionGuy</a></p>"
 +++

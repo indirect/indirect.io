@@ -6,103 +6,53 @@ slug = "lol-entire-bitcoin-market-cap-is-dwarfed-by-15b"
 type = "tumblr-photo"
 
 [tumblr]
-is_blocks_post_format = false
-can_blaze = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1ZvpGmS"
-link_url = "http://twitter.com/zach_hustles/status/551626307117674498"
-can_like = false
-type = "photo"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/107270179868/lol-entire-bitcoin-market-cap-is-dwarfed-by-15b"
-id = 107270179868.0
-id_string = "107270179868"
-slug = "lol-entire-bitcoin-market-cap-is-dwarfed-by-15b"
-format = "html"
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/107270179868"
-interactability_reblog = "everyone"
 can_send_in_message = true
-summary = "Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — @zach_hustles"
-display_avatar = true
+is_blazed = false
+interactability_blaze = "everyone"
+image_permalink = "https://indirect.io/image/107270179868"
+type = "photo"
+is_blocks_post_format = false
+timestamp = 1420509617.0
 blog_name = "indirect"
+id_string = "107270179868"
+should_open_in_legacy = true
+id = 107270179868.0
+post_url = "https://indirect.io/post/107270179868/lol-entire-bitcoin-market-cap-is-dwarfed-by-15b"
+caption = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
+link_url = "http://twitter.com/zach_hustles/status/551626307117674498"
+is_blaze_pending = false
+can_blaze = false
+slug = "lol-entire-bitcoin-market-cap-is-dwarfed-by-15b"
+reblog_key = "fGU5XDWa"
+short_url = "https://tmblr.co/ZY3jby1ZvpGmS"
+date = "2015-01-06 02:00:17 GMT"
+state = "published"
+format = "html"
+can_like = false
+interactability_reblog = "everyone"
 can_reblog = false
 can_reply = false
-is_blaze_pending = false
-date = "2015-01-06 02:00:17 GMT"
-caption = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
-interactability_blaze = "everyone"
-reblog_key = "fGU5XDWa"
+display_avatar = true
+summary = "Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — @zach_hustles"
 note_count = 0.0
-timestamp = 1420509617.0
-
-[[tumblr.trail]]
-content_raw = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
-content = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin &mdash; <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_stretch = true
-show_avatar = true
-show_description = true
-show_header_image = false
-show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-link_color = "#529ECC"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "107270179868"
-
-[tumblr.reblog]
-comment = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 408.0
-url = "/images/45/6d/9774ebe13f2e14f2564fd8d6709a.jpg"
-width = 599.0
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/45/6d/9774ebe13f2e14f2564fd8d6709a.jpg"
 width = 599.0
 height = 408.0
 
 [[tumblr.photos.alt_sizes]]
+width = 599.0
+height = 408.0
+url = "/images/45/6d/9774ebe13f2e14f2564fd8d6709a.jpg"
+
+[[tumblr.photos.alt_sizes]]
+url = "/images/0c/6d/8692f7db62e0072d3ffcd7751cec.jpg"
 width = 540.0
 height = 368.0
-url = "/images/0c/6d/8692f7db62e0072d3ffcd7751cec.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/84/78/cadbd872606f82115a6aa601ef69.jpg"
@@ -125,7 +75,59 @@ width = 100.0
 height = 68.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/32/45/8a94aab22a7c69fc287162b87ec8.jpg"
 width = 75.0
 height = 75.0
-url = "/images/32/45/8a94aab22a7c69fc287162b87ec8.jpg"
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
+content = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin &mdash; <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "107270179868"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+body_font = "Helvetica Neue"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_description = true
+show_header_image = false
+avatar_shape = "square"
+background_color = "#FAFAFA"
+show_title = true
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+
+[tumblr.reblog]
+comment = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card market. #Bitcoin — <a href=\"http://twitter.com/zach_hustles/status/551626307117674498\">@zach_hustles</a></p>"
+tree_html = ""
 +++

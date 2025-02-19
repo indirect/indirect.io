@@ -7,45 +7,45 @@ title = "Opsec For Hackers^WFreedom Fighters"
 type = "tumblr-link"
 
 [tumblr]
-interactability_reblog = "everyone"
-display_avatar = true
-should_open_in_legacy = true
-note_count = 0.0
-title = "Opsec For Hackers^WFreedom Fighters"
+id = 64723493458.0
+date = "2013-10-21 23:36:58 GMT"
+summary = "Opsec For Hackers^WFreedom Fighters"
+description = ""
+post_url = "https://indirect.io/post/64723493458/opsec-for-hackers-wfreedom-fighters"
 state = "published"
+is_blocks_post_format = false
+can_blaze = false
+reblog_key = "saUL5WKU"
+note_count = 0.0
+id_string = "64723493458"
+publisher = "files.arko.net"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+timestamp = 1382398618.0
+is_blazed = false
+url = "http://files.arko.net/3v1M0s3m1Y1E/opsec%20after%20lulzsec.pdf"
 blog_name = "indirect"
+is_blaze_pending = false
+title = "Opsec For Hackers^WFreedom Fighters"
+type = "link"
+slug = "opsec-for-hackers-wfreedom-fighters"
+should_open_in_legacy = true
+can_reblog = false
+can_send_in_message = true
+can_reply = false
+format = "markdown"
 short_url = "https://tmblr.co/ZY3jbyyHqY9I"
 can_like = false
-can_blaze = false
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/64723493458/opsec-for-hackers-wfreedom-fighters"
-slug = "opsec-for-hackers-wfreedom-fighters"
-is_blaze_pending = false
-format = "markdown"
-reblog_key = "saUL5WKU"
-description = ""
-can_reblog = false
-url = "http://files.arko.net/3v1M0s3m1Y1E/opsec%20after%20lulzsec.pdf"
-date = "2013-10-21 23:36:58 GMT"
-is_blocks_post_format = false
-id_string = "64723493458"
-is_blazed = false
-can_reply = false
-timestamp = 1382398618.0
-summary = "Opsec For Hackers^WFreedom Fighters"
-publisher = "files.arko.net"
-type = "link"
-interactability_blaze = "everyone"
-id = 64723493458.0
+display_avatar = true
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

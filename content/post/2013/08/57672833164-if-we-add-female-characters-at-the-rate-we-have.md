@@ -6,50 +6,50 @@ slug = "if-we-add-female-characters-at-the-rate-we-have"
 type = "tumblr-quote"
 
 [tumblr]
-text = "if we add female characters at the rate we have been for the past 20 years, we will achieve parity in 700 years"
-is_blazed = false
-reblog_key = "1jgUa3Ik"
-display_avatar = true
-source = "<a href=\"http://www.npr.org/templates/transcript/transcript.php?storyId=197390707\">Hollywood Needs More Women</a>"
-summary = "if we add female characters at the rate we have been for the past 20 years, we will achieve parity in 700 years"
-bookmarklet = true
-type = "quote"
-blog_name = "indirect"
-date = "2013-08-08 03:50:57 GMT"
-short_url = "https://tmblr.co/ZY3jbyrjaPYC"
-can_reblog = false
-state = "published"
-note_count = 0.0
-interactability_blaze = "everyone"
 is_blaze_pending = false
-can_send_in_message = true
-can_reply = false
-source_url = "http://www.npr.org/templates/transcript/transcript.php?storyId=197390707"
-is_blocks_post_format = false
-id = 57672833164.0
-slug = "if-we-add-female-characters-at-the-rate-we-have"
-timestamp = 1375933857.0
 format = "markdown"
-should_open_in_legacy = true
-can_like = false
+source_url = "http://www.npr.org/templates/transcript/transcript.php?storyId=197390707"
+can_reblog = false
+date = "2013-08-08 03:50:57 GMT"
 interactability_reblog = "everyone"
-id_string = "57672833164"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/57672833164/if-we-add-female-characters-at-the-rate-we-have"
+interactability_blaze = "everyone"
+can_reply = false
+summary = "if we add female characters at the rate we have been for the past 20 years, we will achieve parity in 700 years"
+type = "quote"
+id = 57672833164.0
+is_blazed = false
+post_url = "https://indirect.io/post/57672833164/if-we-add-female-characters-at-the-rate-we-have"
+blog_name = "indirect"
+reblog_key = "1jgUa3Ik"
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbyrjaPYC"
 source_title = "NPR"
+source = "<a href=\"http://www.npr.org/templates/transcript/transcript.php?storyId=197390707\">Hollywood Needs More Women</a>"
+display_avatar = true
+state = "published"
+should_open_in_legacy = true
+bookmarklet = true
+note_count = 0.0
+timestamp = 1375933857.0
+id_string = "57672833164"
+slug = "if-we-add-female-characters-at-the-rate-we-have"
+is_blocks_post_format = false
+can_blaze = false
+text = "if we add female characters at the rate we have been for the past 20 years, we will achieve parity in 700 years"
+can_like = false
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.npr.org/templates/transcript/transcript.php?storyId=197390707\">Hollywood Needs More Women</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.npr.org/templates/transcript/transcript.php?storyId=197390707\">Hollywood Needs More Women</a></p>"
-tree_html = ""
 +++

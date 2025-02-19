@@ -7,84 +7,86 @@ title = "Dan 🌈 on Twitter: &quot;god i forgot about this amazing and terrifyi
 type = "tumblr-link"
 
 [tumblr]
-id = 161844467478.0
-reblog_key = "ewW9lvSn"
-description = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli… <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> — <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
-interactability_reblog = "everyone"
-state = "published"
-blog_name = "indirect"
-is_blaze_pending = false
-date = "2017-06-15 07:13:00 GMT"
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/161844467478/dan-on-twitter-quotgod-i-forgot-about-this"
-title = "Dan 🌈 on Twitter: &quot;god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 million miles behind it https://t.co/Li6SBnPr70&quot;"
-can_blaze = false
-slug = "dan-on-twitter-quotgod-i-forgot-about-this"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-timestamp = 1497510780.0
-note_count = 0.0
-can_like = false
-publisher = "twitter.com"
 type = "link"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby2MkhfSM"
-can_reblog = false
-is_blazed = false
-should_open_in_legacy = true
-can_send_in_message = true
-id_string = "161844467478"
+date = "2017-06-15 07:13:00 GMT"
 summary = "Dan 🌈 on Twitter: &quot;god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun..."
+format = "html"
+should_open_in_legacy = true
+publisher = "twitter.com"
+can_like = false
+id_string = "161844467478"
+title = "Dan 🌈 on Twitter: &quot;god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 million miles behind it https://t.co/Li6SBnPr70&quot;"
+can_reply = false
+is_blaze_pending = false
+state = "published"
+note_count = 0.0
 url = "https://twitter.com/i/web/status/875154672742535169"
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli… <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> — <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
-content = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli&hellip; <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> &mdash; <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-show_title = true
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-avatar_shape = "square"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_color = "#444444"
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "161844467478"
+description = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli… <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> — <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
+blog_name = "indirect"
+is_blazed = false
+can_blaze = false
+interactability_reblog = "everyone"
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jby2MkhfSM"
+interactability_blaze = "everyone"
+can_reblog = false
+id = 161844467478.0
+timestamp = 1497510780.0
+can_send_in_message = true
+display_avatar = true
+post_url = "https://indirect.io/post/161844467478/dan-on-twitter-quotgod-i-forgot-about-this"
+slug = "dan-on-twitter-quotgod-i-forgot-about-this"
+reblog_key = "ewW9lvSn"
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli… <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> — <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli&hellip; <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> &mdash; <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>god i forgot about this amazing and terrifying pic. the black dot in the upper left is mercury. the sun is 36 milli… <a href=\"https://t.co/rYIeGHotL8\">https://t.co/rYIeGHotL8</a> — <a href=\"http://twitter.com/queerly_it_is/status/875154672742535169\">@queerly_it_is</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+avatar_shape = "square"
+header_bounds = ""
+show_description = true
+show_header_image = false
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "161844467478"
 +++

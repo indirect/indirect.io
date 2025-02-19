@@ -7,84 +7,86 @@ title = "Republicans Unanimously Block Equal Pay Bill | ThinkProgress"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-blog_name = "indirect"
-description = "<p>Republicans unanimously voted down an equal pay bill today - — <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
-interactability_reblog = "everyone"
-id = 97645731343.0
-timestamp = 1410872223.0
-short_url = "https://tmblr.co/ZY3jby1Qy8vuF"
-summary = "Republicans Unanimously Block Equal Pay Bill | ThinkProgress"
-should_open_in_legacy = true
+slug = "republicans-unanimously-block-equal-pay-bill"
+format = "html"
+note_count = 0.0
 title = "Republicans Unanimously Block Equal Pay Bill | ThinkProgress"
 url = "http://thinkprogress.org/economy/2014/09/15/3567740/republicans-paycheck-fairness-act/"
+state = "published"
+is_blocks_post_format = false
+date = "2014-09-16 12:57:03 GMT"
+short_url = "https://tmblr.co/ZY3jby1Qy8vuF"
+publisher = "thinkprogress.org"
+can_reblog = false
+can_reply = false
+id = 97645731343.0
+reblog_key = "79u5D3OQ"
+timestamp = 1410872223.0
 id_string = "97645731343"
 is_blazed = false
+summary = "Republicans Unanimously Block Equal Pay Bill | ThinkProgress"
 can_like = false
-can_reply = false
-state = "published"
-is_blaze_pending = false
-slug = "republicans-unanimously-block-equal-pay-bill"
-date = "2014-09-16 12:57:03 GMT"
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/97645731343/republicans-unanimously-block-equal-pay-bill"
-publisher = "thinkprogress.org"
-type = "link"
-can_blaze = false
-format = "html"
 interactability_blaze = "everyone"
-can_reblog = false
+should_open_in_legacy = true
+can_blaze = false
+description = "<p>Republicans unanimously voted down an equal pay bill today - — <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
+interactability_reblog = "everyone"
+can_send_in_message = true
+type = "link"
+blog_name = "indirect"
 display_avatar = true
-reblog_key = "79u5D3OQ"
-note_count = 0.0
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+is_blaze_pending = false
+post_url = "https://indirect.io/post/97645731343/republicans-unanimously-block-equal-pay-bill"
 
 [tumblr.reblog]
 comment = "<p>Republicans unanimously voted down an equal pay bill today - — <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
 tree_html = ""
 
 [[tumblr.trail]]
+content = "<p>Republicans unanimously voted down an equal pay bill today - &mdash; <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
 is_current_item = true
 is_root_item = true
 content_raw = "<p>Republicans unanimously voted down an equal pay bill today - — <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
-content = "<p>Republicans unanimously voted down an equal pay bill today - &mdash; <a href=\"http://twitter.com/samkottler/status/511689695345250304\">@samkottler</a></p>"
 
 [tumblr.trail.blog]
+share_following = false
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
-share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
+show_header_image = false
+title_color = "#444444"
 title_font = "Gibson"
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_font_weight = "bold"
 avatar_shape = "square"
 header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 show_avatar = true
-show_header_image = false
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
 show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+show_description = true
 
 [tumblr.trail.post]
 id = "97645731343"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 +++

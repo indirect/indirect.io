@@ -6,47 +6,47 @@ slug = "if-you-read-all-four-kiss-autobiographies-its"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "fKhziV5j"
-can_reblog = false
-can_like = false
-interactability_blaze = "everyone"
-can_reply = false
-display_avatar = true
-date = "2025-02-17 01:43:49 GMT"
-source = "<a href=\"https://bsky.app/profile/bransonreese.bsky.social/post/3li3bdip45c2f\">Branson Reese 🇵🇸 (@bransonreese.bsky.social)</a>"
-interactability_reblog = "everyone"
-type = "quote"
-is_blocks_post_format = false
-can_blaze = false
-note_count = 0.0
-timestamp = 1739756629.0
-short_url = "https://tmblr.co/ZY3jbyh3pkNVum00"
-text = "If you read all four KISS autobiographies it&rsquo;s like Rashomon for idiots."
-blog_name = "indirect"
-id_string = "775691047536885760"
-state = "published"
-slug = "if-you-read-all-four-kiss-autobiographies-its"
-format = "markdown"
-should_open_in_legacy = true
-can_send_in_message = true
-id = 7.756910475368858e+17
-post_url = "https://indirect.tumblr.com/post/775691047536885760/if-you-read-all-four-kiss-autobiographies-its"
-summary = "If you read all four KISS autobiographies it’s like Rashomon for idiots."
-is_blazed = false
 is_blaze_pending = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/bransonreese.bsky.social/post/3li3bdip45c2f\">Branson Reese 🇵🇸 (@bransonreese.bsky.social)</a></p>"
-tree_html = ""
+can_blaze = false
+post_url = "https://indirect.io/post/775691047536885760/if-you-read-all-four-kiss-autobiographies-its"
+state = "published"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+date = "2025-02-17 01:43:49 GMT"
+reblog_key = "fKhziV5j"
+summary = "If you read all four KISS autobiographies it’s like Rashomon for idiots."
+timestamp = 1739756629.0
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyh3pkNVum00"
+display_avatar = true
+id_string = "775691047536885760"
+is_blazed = false
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+id = 7.756910475368858e+17
+slug = "if-you-read-all-four-kiss-autobiographies-its"
+can_like = false
+can_reply = false
+text = "If you read all four KISS autobiographies it&rsquo;s like Rashomon for idiots."
+can_reblog = false
+can_send_in_message = true
+type = "quote"
+note_count = 0.0
+source = "<a href=\"https://bsky.app/profile/bransonreese.bsky.social/post/3li3bdip45c2f\">Branson Reese 🇵🇸 (@bransonreese.bsky.social)</a>"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://bsky.app/profile/bransonreese.bsky.social/post/3li3bdip45c2f\">Branson Reese 🇵🇸 (@bransonreese.bsky.social)</a></p>"
 +++

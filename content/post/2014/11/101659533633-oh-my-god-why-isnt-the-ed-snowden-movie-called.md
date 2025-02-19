@@ -6,47 +6,47 @@ slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/101659533633/oh-my-god-why-isnt-the-ed-snowden-movie-called"
-reblog_key = "LJpWkhJ0"
-summary = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
 id_string = "101659533633"
 date = "2014-11-03 07:27:58 GMT"
-short_url = "https://tmblr.co/ZY3jby1UhOM51"
-text = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
-interactability_reblog = "everyone"
-type = "quote"
-blog_name = "indirect"
-slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
-should_open_in_legacy = true
-can_reblog = false
-timestamp = 1414999678.0
+format = "html"
+summary = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
+note_count = 1.0
+display_avatar = true
+state = "published"
 source = "<a href=\"http://twitter.com/ashfein/status/529122686405181441\">@ashfein</a>"
+blog_name = "indirect"
+is_blaze_pending = false
+interactability_blaze = "everyone"
+can_reply = false
+interactability_reblog = "everyone"
+can_blaze = false
+slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
+short_url = "https://tmblr.co/ZY3jby1UhOM51"
+is_blazed = false
+timestamp = 1414999678.0
+can_like = false
 is_blocks_post_format = false
 id = 101659533633.0
-state = "published"
-format = "html"
-interactability_blaze = "everyone"
-display_avatar = true
-is_blazed = false
-can_like = false
-is_blaze_pending = false
-can_blaze = false
-note_count = 1.0
+post_url = "https://indirect.io/post/101659533633/oh-my-god-why-isnt-the-ed-snowden-movie-called"
+reblog_key = "LJpWkhJ0"
+can_reblog = false
 can_send_in_message = true
-can_reply = false
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+type = "quote"
+should_open_in_legacy = true
+text = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ashfein/status/529122686405181441\">@ashfein</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -7,49 +7,45 @@ title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &
 type = "tumblr-link"
 
 [tumblr]
-timestamp = 1586735547.0
-reblog_key = "oiSaTYgd"
-url = "https://twitter.com/sailorramen/status/1249409768227098625"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/615236813428277248/bean-boy-at-home-on-twitter-quothe39s"
-can_blaze = false
-can_reblog = false
-date = "2020-04-12 23:52:27 GMT"
-blog_name = "indirect"
-id_string = "615236813428277248"
-summary = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
-should_open_in_legacy = true
-state = "published"
-title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
-publisher = "twitter.com"
-can_like = false
-can_reply = false
-type = "link"
-id = 6.152368134282772e+17
-is_blazed = false
-description = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
 display_avatar = true
-is_blocks_post_format = false
+timestamp = 1586735547.0
+url = "https://twitter.com/sailorramen/status/1249409768227098625"
+blog_name = "indirect"
 slug = "bean-boy-at-home-on-twitter-quothe39s"
-format = "html"
+state = "published"
+description = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
 can_send_in_message = true
 is_blaze_pending = false
+can_blaze = false
+can_reblog = false
+id_string = "615236813428277248"
+is_blazed = false
 short_url = "https://tmblr.co/ZY3jbyY9mfz58i00"
+interactability_blaze = "everyone"
+format = "html"
+reblog_key = "oiSaTYgd"
+summary = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
+should_open_in_legacy = true
+can_like = false
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/615236813428277248/bean-boy-at-home-on-twitter-quothe39s"
 note_count = 0.0
+type = "link"
+id = 6.152368134282772e+17
+date = "2020-04-12 23:52:27 GMT"
+title = "bean boy (at home) on Twitter: &quot;he&#39;s literally levitating… &quot;"
 interactability_reblog = "everyone"
-
-[tumblr.reblog]
-comment = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
-tree_html = ""
+publisher = "twitter.com"
+can_reply = false
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -59,6 +55,9 @@ content = "<p>HE HAS RISEN!! &mdash; <a href=\"http://twitter.com/AC_Roald/statu
 is_current_item = true
 is_root_item = true
 
+[tumblr.trail.post]
+id = "615236813428277248"
+
 [tumblr.trail.blog]
 share_following = false
 can_be_followed = true
@@ -67,24 +66,27 @@ active = true
 share_likes = false
 
 [tumblr.trail.blog.theme]
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-show_header_image = false
+title_color = "#444444"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
 title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_stretch = true
+background_color = "#FAFAFA"
 header_image_poster = ""
 show_description = true
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
+show_header_image = false
 title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_stretch = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
-avatar_shape = "square"
-background_color = "#FAFAFA"
 
-[tumblr.trail.post]
-id = "615236813428277248"
+[tumblr.reblog]
+comment = "<p>HE HAS RISEN!! — <a href=\"http://twitter.com/AC_Roald/status/1249432194906456076\">@AC_Roald</a></p>"
+tree_html = ""
 +++

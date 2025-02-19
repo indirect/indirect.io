@@ -6,47 +6,47 @@ slug = "wondering-what-would-happen-if-you-applied"
 type = "tumblr-quote"
 
 [tumblr]
-summary = "Wondering what would happen if you applied JPEG-style lossy compression to text?\n \n Well, here’s the tool you’ve been waiting..."
-can_reblog = false
-timestamp = 1711149025.0
-type = "quote"
-id = 7.456938001507779e+17
-is_blazed = false
-format = "markdown"
-should_open_in_legacy = true
-id_string = "745693800150777856"
-reblog_key = "zIjYeoWs"
 blog_name = "indirect"
-slug = "wondering-what-would-happen-if-you-applied"
-date = "2024-03-22 23:10:25 GMT"
-is_blocks_post_format = false
+post_url = "https://indirect.io/post/745693800150777856/wondering-what-would-happen-if-you-applied"
+format = "markdown"
+can_send_in_message = true
+id = 7.456938001507779e+17
+can_reblog = false
+type = "quote"
 can_blaze = false
-state = "published"
 short_url = "https://tmblr.co/ZY3jbyfPF8zrCi00"
 source = "<a href=\"https://twitter.com/lcamtuf/status/1769159567802606064\">lcamtuf (@lcamtuf@infosec.exchange) (@lcamtuf)</a>"
-interactability_reblog = "everyone"
-text = "Wondering what would happen if you applied JPEG-style lossy compression to text?\n<br/>\n<br/>Well, here&rsquo;s the tool you&rsquo;ve been waiting for - The Text Lossifizer: <a href=\"https://lcamtuf.coredump.cx/lossifizer/\">https://lcamtuf.coredump.cx/lossifizer/</a>"
-interactability_blaze = "everyone"
-can_reply = false
+id_string = "745693800150777856"
 is_blaze_pending = false
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/745693800150777856/wondering-what-would-happen-if-you-applied"
+date = "2024-03-22 23:10:25 GMT"
+reblog_key = "zIjYeoWs"
+summary = "Wondering what would happen if you applied JPEG-style lossy compression to text?\n \n Well, here’s the tool you’ve been waiting..."
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+is_blazed = false
+should_open_in_legacy = true
 note_count = 0.0
-can_like = false
+text = "Wondering what would happen if you applied JPEG-style lossy compression to text?\n<br/>\n<br/>Well, here&rsquo;s the tool you&rsquo;ve been waiting for - The Text Lossifizer: <a href=\"https://lcamtuf.coredump.cx/lossifizer/\">https://lcamtuf.coredump.cx/lossifizer/</a>"
 display_avatar = true
+timestamp = 1711149025.0
+state = "published"
+can_like = false
+can_reply = false
+interactability_reblog = "everyone"
+slug = "wondering-what-would-happen-if-you-applied"
 
 [tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/lcamtuf/status/1769159567802606064\">lcamtuf (@lcamtuf@infosec.exchange) (@lcamtuf)</a></p>"
 tree_html = ""
+comment = "<p><a href=\"https://twitter.com/lcamtuf/status/1769159567802606064\">lcamtuf (@lcamtuf@infosec.exchange) (@lcamtuf)</a></p>"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

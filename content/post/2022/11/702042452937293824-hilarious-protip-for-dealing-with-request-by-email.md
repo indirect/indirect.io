@@ -6,43 +6,43 @@ slug = "hilarious-protip-for-dealing-with-request-by-email"
 type = "tumblr-quote"
 
 [tumblr]
+can_reply = false
 is_blocks_post_format = false
-can_send_in_message = true
-timestamp = 1669519856.0
-state = "published"
-should_open_in_legacy = true
 id_string = "702042452937293824"
-is_blaze_pending = false
-date = "2022-11-27 03:30:56 GMT"
-blog_name = "indirect"
 slug = "hilarious-protip-for-dealing-with-request-by-email"
+can_like = false
+display_avatar = true
+is_blazed = false
+can_blaze = false
+state = "published"
 format = "markdown"
-reblog_key = "9Ts1YegE"
+is_blaze_pending = false
+timestamp = 1669519856.0
 short_url = "https://tmblr.co/ZY3jbyc_9_Gmaa00"
 text = "Hilarious protip for dealing with request by email from unethical boss to do something unethical: forward it to security as a suspected phishing attempt."
-can_like = false
-interactability_reblog = "everyone"
-source = "<a href=\"https://hachyderm.io/@dalias/109401297808419257\">@dalias</a>"
-interactability_blaze = "everyone"
-can_reblog = false
-can_blaze = false
-note_count = 0.0
-display_avatar = true
+can_send_in_message = true
+date = "2022-11-27 03:30:56 GMT"
 type = "quote"
+reblog_key = "9Ts1YegE"
+should_open_in_legacy = true
+note_count = 0.0
+source = "<a href=\"https://hachyderm.io/@dalias/109401297808419257\">@dalias</a>"
+can_reblog = false
+blog_name = "indirect"
 id = 7.020424529372938e+17
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/702042452937293824/hilarious-protip-for-dealing-with-request-by-email"
+post_url = "https://indirect.io/post/702042452937293824/hilarious-protip-for-dealing-with-request-by-email"
 summary = "Hilarious protip for dealing with request by email from unethical boss to do something unethical: forward it to security as a..."
-can_reply = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

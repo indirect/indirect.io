@@ -6,43 +6,43 @@ slug = "i-am-goooood-at-the-innuendo-stuff-p"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
 blog_name = "indirect"
-can_blaze = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jby2CB5j"
 format = "html"
 reblog_key = "rGcDmIvJ"
-source = "rachel"
-can_reply = false
 interactability_blaze = "everyone"
-is_blocks_post_format = false
-id = 36745581.0
 id_string = "36745581"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-display_avatar = true
-note_count = 0.0
+post_url = "https://indirect.io/post/36745581/i-am-goooood-at-the-innuendo-stuff-p"
 can_like = false
-can_reblog = false
-date = "2008-06-01 04:50:55 GMT"
-timestamp = 1212295855.0
+interactability_reblog = "everyone"
 can_send_in_message = true
-is_blazed = false
-is_blaze_pending = false
-slug = "i-am-goooood-at-the-innuendo-stuff-p"
-summary = "i am goooood at the innuendo stuff :P"
+is_blocks_post_format = false
+should_open_in_legacy = true
+state = "published"
 text = "i am goooood at the innuendo stuff :P"
-post_url = "https://indirect.tumblr.com/post/36745581/i-am-goooood-at-the-innuendo-stuff-p"
+slug = "i-am-goooood-at-the-innuendo-stuff-p"
+timestamp = 1212295855.0
+summary = "i am goooood at the innuendo stuff :P"
+note_count = 0.0
+can_reply = false
+type = "quote"
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jby2CB5j"
+is_blaze_pending = false
+can_blaze = false
+source = "rachel"
+can_reblog = false
+display_avatar = true
+id = 36745581.0
+date = "2008-06-01 04:50:55 GMT"
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

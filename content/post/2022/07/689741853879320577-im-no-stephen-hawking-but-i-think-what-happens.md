@@ -6,87 +6,43 @@ slug = "im-no-stephen-hawking-but-i-think-what-happens"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2022-07-14 08:58:10 GMT"
-blog_name = "indirect"
-format = "html"
-interactability_blaze = "everyone"
-type = "photo"
-short_url = "https://tmblr.co/ZY3jbycIT8-BCa01"
-can_reply = false
 is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/689741853879320577/im-no-stephen-hawking-but-i-think-what-happens"
+format = "html"
+reblog_key = "9dRnZ8ed"
+can_reply = false
+short_url = "https://tmblr.co/ZY3jbycIT8-BCa01"
+should_open_in_legacy = true
+link_url = "http://twitter.com/UncleDuke1969/status/1526547830210543617"
+type = "photo"
+blog_name = "indirect"
 caption = "<p>i&rsquo;m no stephen hawking but i think\n<br/>what happens is that they cancel\n<br/>each other out — <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
 can_like = false
-id = 6.897418538793206e+17
-timestamp = 1657789090.0
-link_url = "http://twitter.com/UncleDuke1969/status/1526547830210543617"
-can_blaze = false
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-state = "published"
-summary = "i'm no stephen hawking but i think\n what happens is that they cancel\n each other out — @UncleDuke1969"
+interactability_blaze = "everyone"
+slug = "im-no-stephen-hawking-but-i-think-what-happens"
 note_count = 0.0
-interactability_reblog = "everyone"
-image_permalink = "https://indirect.tumblr.com/image/689741853879320577"
+can_reblog = false
+display_avatar = true
+image_permalink = "https://indirect.io/image/689741853879320577"
+is_blocks_post_format = false
 id_string = "689741853879320577"
 is_blaze_pending = false
-slug = "im-no-stephen-hawking-but-i-think-what-happens"
-reblog_key = "9dRnZ8ed"
-should_open_in_legacy = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/689741853879320577/im-no-stephen-hawking-but-i-think-what-happens"
-
-[[tumblr.trail]]
-content_raw = "<p>i’m no stephen hawking but i think\n<br>what happens is that they cancel\n<br>each other out — <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
-content = "<p>i&rsquo;m no stephen hawking but i think\n<br />what happens is that they cancel\n<br />each other out &mdash; <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "689741853879320577"
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_stretch = true
-show_header_image = false
-title_color = "#444444"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.reblog]
-comment = "<p>i’m no stephen hawking but i think\n<br>what happens is that they cancel\n<br>each other out — <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
-tree_html = ""
+state = "published"
+interactability_reblog = "everyone"
+can_send_in_message = true
+timestamp = 1657789090.0
+id = 6.897418538793206e+17
+date = "2022-07-14 08:58:10 GMT"
+summary = "i'm no stephen hawking but i think\n what happens is that they cancel\n each other out — @UncleDuke1969"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-height = 678.0
-url = "/images/27/af/1171d705fff8d0a609e5dd17f848.jpg"
-width = 678.0
-
 [[tumblr.photos.alt_sizes]]
+url = "/images/27/af/1171d705fff8d0a609e5dd17f848.jpg"
 width = 678.0
 height = 678.0
-url = "/images/27/af/1171d705fff8d0a609e5dd17f848.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b3/fc/3f90a6c127e9db106323b93054d6.jpg"
@@ -114,23 +70,69 @@ width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-width = 100.0
 height = 100.0
 url = "/images/2f/02/d4b51bd7d046728beb78c9f28e2c.jpg"
+width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/77/96/f285b19e2a8e74da86182e8742ee.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+url = "/images/27/af/1171d705fff8d0a609e5dd17f848.jpg"
+width = 678.0
+height = 678.0
+
+[tumblr.reblog]
+comment = "<p>i’m no stephen hawking but i think\n<br>what happens is that they cancel\n<br>each other out — <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
+tree_html = ""
+
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>i’m no stephen hawking but i think\n<br>what happens is that they cancel\n<br>each other out — <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
+content = "<p>i&rsquo;m no stephen hawking but i think\n<br />what happens is that they cancel\n<br />each other out &mdash; <a href=\"http://twitter.com/UncleDuke1969/status/1526547830210543617\">@UncleDuke1969</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+show_title = true
+title_color = "#444444"
+header_full_width = 3000.0
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+show_avatar = true
+show_description = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_full_height = 1055.0
+title_font = "Gibson"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+
+[tumblr.trail.post]
+id = "689741853879320577"
 +++

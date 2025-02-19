@@ -6,47 +6,47 @@ slug = "cut-my-list-in-two-pieces-thats-how-you-start"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-state = "published"
-can_send_in_message = true
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/742062435887972352/cut-my-list-in-two-pieces-thats-how-you-start"
-format = "markdown"
-note_count = 0.0
-id = 7.420624358879724e+17
-is_blazed = false
-is_blaze_pending = false
+should_open_in_legacy = true
+id_string = "742062435887972352"
 slug = "cut-my-list-in-two-pieces-thats-how-you-start"
 date = "2024-02-11 21:11:26 GMT"
-should_open_in_legacy = true
 summary = "CUT MY LIST IN TWO PIECES\n \n THAT’S HOW YOU START QUICK SORT https://t.co/QOYrNogjgC"
-interactability_reblog = "everyone"
 can_reblog = false
 can_reply = false
-timestamp = 1707685886.0
-text = "CUT MY LIST IN TWO PIECES\n<br/>\n<br/>THAT’S HOW YOU START QUICK SORT <a href=\"https://t.co/QOYrNogjgC\">https://t.co/QOYrNogjgC</a>"
+id = 7.420624358879724e+17
+state = "published"
 can_like = false
-is_blocks_post_format = false
-source = "<a href=\"https://twitter.com/QuinnyPig/status/1710447650112438710\">Corey Quinn (@QuinnyPig)</a>"
-type = "quote"
+display_avatar = true
 blog_name = "indirect"
+can_blaze = false
+type = "quote"
+interactability_reblog = "everyone"
+note_count = 0.0
+text = "CUT MY LIST IN TWO PIECES\n<br/>\n<br/>THAT’S HOW YOU START QUICK SORT <a href=\"https://t.co/QOYrNogjgC\">https://t.co/QOYrNogjgC</a>"
+is_blocks_post_format = false
 reblog_key = "Ssd5BkXh"
 short_url = "https://tmblr.co/ZY3jbyfCLTgKGu00"
+post_url = "https://indirect.io/post/742062435887972352/cut-my-list-in-two-pieces-thats-how-you-start"
+is_blaze_pending = false
+can_send_in_message = true
+is_blazed = false
+timestamp = 1707685886.0
+format = "markdown"
+source = "<a href=\"https://twitter.com/QuinnyPig/status/1710447650112438710\">Corey Quinn (@QuinnyPig)</a>"
 interactability_blaze = "everyone"
-id_string = "742062435887972352"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/QuinnyPig/status/1710447650112438710\">Corey Quinn (@QuinnyPig)</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
 +++

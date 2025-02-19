@@ -6,47 +6,47 @@ slug = "why-is-gravity-so-cheap-why-because-its"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-timestamp = 1674423789.0
+is_blocks_post_format = false
+can_reblog = false
 state = "published"
+is_blazed = false
+interactability_reblog = "everyone"
 format = "markdown"
-reblog_key = "vwH0pkiE"
-short_url = "https://tmblr.co/ZY3jbydGRAM3mi00"
+should_open_in_legacy = true
+text = "<p>Why is gravity so cheap?</p>\n\n<p>Why Because it&rsquo;s mass-produced.</p>"
+interactability_blaze = "everyone"
 id = 7.0718459963315e+17
+id_string = "707184599633149952"
 slug = "why-is-gravity-so-cheap-why-because-its"
 summary = "Why is gravity so cheap?\n\n Why Because it’s mass-produced."
 can_like = false
+can_reply = false
 type = "quote"
 is_blaze_pending = false
-source = "<a href=\"https://mastodon.lol/@Ten/109728163517263641\">@Ten</a>"
-can_reblog = false
-display_avatar = true
-id_string = "707184599633149952"
-should_open_in_legacy = true
-is_blocks_post_format = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/707184599633149952/why-is-gravity-so-cheap-why-because-its"
-is_blazed = false
-note_count = 0.0
-text = "<p>Why is gravity so cheap?</p>\n\n<p>Why Because it&rsquo;s mass-produced.</p>"
-can_reply = false
-date = "2023-01-22 21:43:09 GMT"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/707184599633149952/why-is-gravity-so-cheap-why-because-its"
+timestamp = 1674423789.0
 can_send_in_message = true
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://mastodon.lol/@Ten/109728163517263641\">@Ten</a></p>"
-tree_html = ""
+display_avatar = true
+date = "2023-01-22 21:43:09 GMT"
+short_url = "https://tmblr.co/ZY3jbydGRAM3mi00"
+note_count = 0.0
+blog_name = "indirect"
+can_blaze = false
+reblog_key = "vwH0pkiE"
+source = "<a href=\"https://mastodon.lol/@Ten/109728163517263641\">@Ten</a>"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://mastodon.lol/@Ten/109728163517263641\">@Ten</a></p>"
 +++

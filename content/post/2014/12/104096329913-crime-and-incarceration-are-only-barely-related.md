@@ -6,39 +6,72 @@ slug = "crime-and-incarceration-are-only-barely-related"
 type = "tumblr-photo"
 
 [tumblr]
-note_count = 0.0
-can_send_in_message = true
-blog_name = "indirect"
 timestamp = 1417465779.0
-summary = "Crime and incarceration are only barely related. Once more with a feeling. — @tanehisicoates"
-id_string = "104096329913"
+can_reblog = false
+can_send_in_message = true
+post_url = "https://indirect.io/post/104096329913/crime-and-incarceration-are-only-barely-related"
 short_url = "https://tmblr.co/ZY3jby1Wyd-2v"
-can_like = false
+link_url = "http://twitter.com/tanehisicoates/status/539445852713287681"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+slug = "crime-and-incarceration-are-only-barely-related"
+type = "photo"
+can_blaze = false
+date = "2014-12-01 20:29:39 GMT"
+reblog_key = "RYFbFjy8"
+image_permalink = "https://indirect.io/image/104096329913"
 can_reply = false
 is_blocks_post_format = false
-format = "html"
-caption = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
-type = "photo"
-interactability_reblog = "everyone"
-display_avatar = true
-image_permalink = "https://indirect.tumblr.com/image/104096329913"
-id = 104096329913.0
 state = "published"
-reblog_key = "RYFbFjy8"
-should_open_in_legacy = true
-link_url = "http://twitter.com/tanehisicoates/status/539445852713287681"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/104096329913/crime-and-incarceration-are-only-barely-related"
-date = "2014-12-01 20:29:39 GMT"
+format = "html"
+summary = "Crime and incarceration are only barely related. Once more with a feeling. — @tanehisicoates"
 interactability_blaze = "everyone"
+display_avatar = true
+should_open_in_legacy = true
+note_count = 0.0
+caption = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
+id = 104096329913.0
+id_string = "104096329913"
+can_like = false
 is_blazed = false
-can_blaze = false
-slug = "crime-and-incarceration-are-only-barely-related"
-can_reblog = false
+is_blaze_pending = false
 
-[tumblr.reblog]
-comment = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
-tree_html = ""
+[[tumblr.trail]]
+content_raw = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
+content = "<p>Crime and incarceration are only barely related. Once more with a feeling. &mdash; <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+link_color = "#529ECC"
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+background_color = "#FAFAFA"
+header_image_poster = ""
+show_avatar = true
+show_header_image = false
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_bounds = ""
+show_description = true
+show_title = true
+title_font = "Gibson"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "104096329913"
 
 [[tumblr.photos]]
 caption = ""
@@ -59,9 +92,9 @@ height = 383.0
 url = "/images/97/5f/4a14bd859f4df8b9426822c25396.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 355.0
 url = "/images/03/e4/de6d2b9b250078befa7a139ac183.jpg"
 width = 500.0
+height = 355.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/05/33/5f0b90f9f3ce39f66b6f5d24f88b.jpg"
@@ -84,48 +117,17 @@ width = 75.0
 height = 75.0
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
-content = "<p>Crime and incarceration are only barely related. Once more with a feeling. &mdash; <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-show_header_image = false
-show_title = true
-title_font_weight = "bold"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-title_color = "#444444"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_description = true
-
-[tumblr.trail.post]
-id = "104096329913"
+[tumblr.reblog]
+comment = "<p>Crime and incarceration are only barely related. Once more with a feeling. — <a href=\"http://twitter.com/tanehisicoates/status/539445852713287681\">@tanehisicoates</a></p>"
+tree_html = ""
 +++

@@ -6,47 +6,47 @@ slug = "mcc-if-usa-is-so-great-why-did-they-make-usb"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-can_blaze = false
-date = "2024-03-19 19:42:13 GMT"
-source = "<a href=\"https://mastodon.social/@a2_4am/112120260928922712\">@a2_4am</a>"
-id = 7.454089110767043e+17
 summary = "@mcc if USA is so great why did they make USB"
-is_blocks_post_format = false
-id_string = "745408911076704256"
 note_count = 0.0
-slug = "mcc-if-usa-is-so-great-why-did-they-make-usb"
-can_reply = false
-is_blaze_pending = false
-timestamp = 1710877333.0
-should_open_in_legacy = true
-text = "<a href=\"https://mastodon.social/@mcc\" class=\"u-url mention\">@<span>mcc</span></a> if USA is so great why did they make USB"
-type = "quote"
+can_like = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+id = 7.454089110767043e+17
+id_string = "745408911076704256"
 state = "published"
 format = "markdown"
-reblog_key = "ufrI4QBy"
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jbyfOENID8q00"
-can_send_in_message = true
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/745408911076704256/mcc-if-usa-is-so-great-why-did-they-make-usb"
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
+source = "<a href=\"https://mastodon.social/@a2_4am/112120260928922712\">@a2_4am</a>"
+can_reply = false
 display_avatar = true
-interactability_reblog = "everyone"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+type = "quote"
+can_send_in_message = true
+is_blazed = false
+timestamp = 1710877333.0
+can_reblog = false
+text = "<a href=\"https://mastodon.social/@mcc\" class=\"u-url mention\">@<span>mcc</span></a> if USA is so great why did they make USB"
+is_blocks_post_format = false
+is_blaze_pending = false
+date = "2024-03-19 19:42:13 GMT"
+should_open_in_legacy = true
+blog_name = "indirect"
+post_url = "https://indirect.io/post/745408911076704256/mcc-if-usa-is-so-great-why-did-they-make-usb"
+slug = "mcc-if-usa-is-so-great-why-did-they-make-usb"
+reblog_key = "ufrI4QBy"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://mastodon.social/@a2_4am/112120260928922712\">@a2_4am</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

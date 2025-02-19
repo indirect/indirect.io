@@ -6,85 +6,87 @@ slug = "antoniofrench-responds-to-question-why-arent"
 type = "tumblr-photo"
 
 [tumblr]
-link_url = "http://twitter.com/mrmedina/status/539129900247318528"
-summary = ".@AntonioFrench responds to question: \"Why aren't black peoples this outraged over black-on-black killings?\" — @mrmedina"
-can_reblog = false
-blog_name = "indirect"
-id = 104019679648.0
+slug = "antoniofrench-responds-to-question-why-arent"
 date = "2014-11-30 22:53:56 GMT"
-can_like = false
+timestamp = 1417388036.0
+should_open_in_legacy = true
+display_avatar = true
+type = "photo"
+id = 104019679648.0
 interactability_blaze = "everyone"
 can_send_in_message = true
 is_blaze_pending = false
-state = "published"
-type = "photo"
-can_blaze = false
-format = "html"
-reblog_key = "gMRqFezm"
-should_open_in_legacy = true
-id_string = "104019679648"
-slug = "antoniofrench-responds-to-question-why-arent"
-caption = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/104019679648/antoniofrench-responds-to-question-why-arent"
-timestamp = 1417388036.0
-short_url = "https://tmblr.co/ZY3jby1Wu3bcW"
 note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/104019679648"
-interactability_reblog = "everyone"
+can_like = false
+can_reblog = false
+can_reply = false
+format = "html"
+caption = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
 is_blocks_post_format = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1Wu3bcW"
+summary = ".@AntonioFrench responds to question: \"Why aren't black peoples this outraged over black-on-black killings?\" — @mrmedina"
 is_blazed = false
+post_url = "https://indirect.io/post/104019679648/antoniofrench-responds-to-question-why-arent"
+state = "published"
+link_url = "http://twitter.com/mrmedina/status/539129900247318528"
+image_permalink = "https://indirect.io/image/104019679648"
+interactability_reblog = "everyone"
+id_string = "104019679648"
+blog_name = "indirect"
+reblog_key = "gMRqFezm"
 
 [tumblr.reblog]
 comment = "<p>.@AntonioFrench responds to question: “Why aren’t black peoples this outraged over black-on-black killings?” — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
 tree_html = ""
 
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>.@AntonioFrench responds to question: “Why aren’t black peoples this outraged over black-on-black killings?” — <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
 content = "<p>.@AntonioFrench responds to question: &ldquo;Why aren&rsquo;t black peoples this outraged over black-on-black killings?&rdquo; &mdash; <a href=\"http://twitter.com/mrmedina/status/539129900247318528\">@mrmedina</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
+share_likes = false
+share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
-share_likes = false
-share_following = false
 
 [tumblr.trail.blog.theme]
 link_color = "#529ECC"
-background_color = "#FAFAFA"
-header_image_poster = ""
-show_header_image = false
 show_title = true
-avatar_shape = "square"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-title_color = "#444444"
 title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+background_color = "#FAFAFA"
 header_stretch = true
+show_header_image = false
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+show_description = true
+title_color = "#444444"
+header_full_width = 3000.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "104019679648"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -120,9 +122,9 @@ width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/14/8f/761b74276ff0e97cf5ceb97c1f01.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/89/66/39e7cc62e0cf5f432ac57132d868.jpg"

@@ -6,43 +6,43 @@ slug = "one-of-my-kids-thought-carnal-desires-meant-the"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id = 6.917131082275881e+17
 can_blaze = false
-slug = "one-of-my-kids-thought-carnal-desires-meant-the"
-format = "html"
-reblog_key = "FCeSg7FQ"
-short_url = "https://tmblr.co/ZY3jbycPTMWsOm00"
-id_string = "691713108227588096"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/691713108227588096/one-of-my-kids-thought-carnal-desires-meant-the"
-state = "published"
-should_open_in_legacy = true
-text = "One of my kids thought “carnal desires” meant the desire to eat lots of meat."
-can_like = false
-date = "2022-08-05 03:10:25 GMT"
-note_count = 0.0
-can_reblog = false
-can_reply = false
-display_avatar = true
-summary = "One of my kids thought “carnal desires” meant the desire to eat lots of meat."
-interactability_reblog = "everyone"
-blog_name = "indirect"
-can_send_in_message = true
-is_blazed = false
-source = "<a href=\"http://twitter.com/epicciuto/status/1555156446429515776\">@epicciuto</a>"
-type = "quote"
-timestamp = 1659669025.0
 interactability_blaze = "everyone"
+can_reply = false
+is_blazed = false
+blog_name = "indirect"
+note_count = 0.0
+format = "html"
+slug = "one-of-my-kids-thought-carnal-desires-meant-the"
+timestamp = 1659669025.0
+state = "published"
+type = "quote"
+is_blocks_post_format = false
+summary = "One of my kids thought “carnal desires” meant the desire to eat lots of meat."
+text = "One of my kids thought “carnal desires” meant the desire to eat lots of meat."
+reblog_key = "FCeSg7FQ"
+source = "<a href=\"http://twitter.com/epicciuto/status/1555156446429515776\">@epicciuto</a>"
+display_avatar = true
+interactability_reblog = "everyone"
+id_string = "691713108227588096"
+post_url = "https://indirect.io/post/691713108227588096/one-of-my-kids-thought-carnal-desires-meant-the"
+short_url = "https://tmblr.co/ZY3jbycPTMWsOm00"
+should_open_in_legacy = true
+can_like = false
+is_blaze_pending = false
+can_reblog = false
+can_send_in_message = true
+date = "2022-08-05 03:10:25 GMT"
+id = 6.917131082275881e+17
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 

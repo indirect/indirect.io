@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 type = "quote"
-blog_name = "indirect"
-timestamp = 1214624971.0
-reblog_key = "NVwPy3ma"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 can_send_in_message = true
-is_blazed = false
-state = "published"
-can_blaze = false
 is_blocks_post_format = false
-id = 40133767.0
+blog_name = "indirect"
+slug = "i-dont-say-good-things"
+can_like = false
+date = "2008-06-28 03:49:31 GMT"
+timestamp = 1214624971.0
+can_reblog = false
+state = "published"
+is_blaze_pending = false
+can_blaze = false
+should_open_in_legacy = true
+can_reply = false
+reblog_key = "NVwPy3ma"
+summary = "I don’t say good things."
+note_count = 0.0
+source = "rachel"
+format = "html"
+display_avatar = true
 id_string = "40133767"
 short_url = "https://tmblr.co/ZY3jby2P6I7"
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+id = 40133767.0
+is_blazed = false
+post_url = "https://indirect.io/post/40133767/i-dont-say-good-things"
 text = "I don&rsquo;t say good things."
-display_avatar = true
-is_blaze_pending = false
-should_open_in_legacy = true
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/40133767/i-dont-say-good-things"
-slug = "i-dont-say-good-things"
-note_count = 0.0
-date = "2008-06-28 03:49:31 GMT"
-can_like = false
-can_reply = false
-format = "html"
-summary = "I don’t say good things."
-source = "rachel"
 
 [tumblr.blog]
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

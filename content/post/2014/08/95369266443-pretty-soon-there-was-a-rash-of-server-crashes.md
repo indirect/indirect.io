@@ -6,43 +6,43 @@ slug = "pretty-soon-there-was-a-rash-of-server-crashes"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2014-08-21 13:23:46 GMT"
-reblog_key = "18ZgBXdR"
-type = "quote"
-is_blocks_post_format = false
-summary = "Pretty soon there was a rash of server crashes because the horse inside the player was wandering around, picking up the stuff it..."
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
-blog_name = "indirect"
-id_string = "95369266443"
-post_url = "https://indirect.tumblr.com/post/95369266443/pretty-soon-there-was-a-rash-of-server-crashes"
-timestamp = 1408627426.0
-source = "<a href=\"http://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/##Pretty+soon+there+was+a+rash+of+server+crashes+because+the+horse+inside+the+player+was+wandering+around%2C+picking+up+the+stuff+it+found+inside+the+player%2C+rifling+through+the+player%E2%80%99s+backpack+and+eating+things+it+thought+were+edible\">Random UO anecdote #2</a>"
-is_blazed = false
-format = "markdown"
-can_like = false
-can_send_in_message = true
 text = "Pretty soon there was a rash of server crashes because the horse inside the player was wandering around, picking up the stuff it found inside the player, rifling through the player’s backpack and eating things it thought were edible"
-display_avatar = true
-id = 95369266443.0
-slug = "pretty-soon-there-was-a-rash-of-server-crashes"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1OqSuKB"
-should_open_in_legacy = true
-note_count = 0.0
-is_blaze_pending = false
+summary = "Pretty soon there was a rash of server crashes because the horse inside the player was wandering around, picking up the stuff it..."
 can_blaze = false
+timestamp = 1408627426.0
+state = "published"
+type = "quote"
+id = 95369266443.0
+is_blazed = false
+display_avatar = true
+can_send_in_message = true
+date = "2014-08-21 13:23:46 GMT"
+id_string = "95369266443"
+should_open_in_legacy = true
+source = "<a href=\"http://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/##Pretty+soon+there+was+a+rash+of+server+crashes+because+the+horse+inside+the+player+was+wandering+around%2C+picking+up+the+stuff+it+found+inside+the+player%2C+rifling+through+the+player%E2%80%99s+backpack+and+eating+things+it+thought+were+edible\">Random UO anecdote #2</a>"
+interactability_reblog = "everyone"
+can_reply = false
+slug = "pretty-soon-there-was-a-rash-of-server-crashes"
+reblog_key = "18ZgBXdR"
+can_reblog = false
+is_blaze_pending = false
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1OqSuKB"
+note_count = 0.0
+post_url = "https://indirect.io/post/95369266443/pretty-soon-there-was-a-rash-of-server-crashes"
+is_blocks_post_format = false
+blog_name = "indirect"
+can_like = false
+interactability_blaze = "everyone"
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

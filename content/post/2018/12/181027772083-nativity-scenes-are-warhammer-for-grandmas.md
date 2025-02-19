@@ -6,43 +6,43 @@ slug = "nativity-scenes-are-warhammer-for-grandmas"
 type = "tumblr-quote"
 
 [tumblr]
-id = 181027772083.0
-can_blaze = false
-reblog_key = "4XtzuU5Q"
-can_like = false
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blaze_pending = false
-slug = "nativity-scenes-are-warhammer-for-grandmas"
+id_string = "181027772083"
 source = "<a href=\"http://twitter.com/Avagardra/status/1071942726214660096\">@Avagardra</a>"
 can_send_in_message = true
-can_reply = false
 type = "quote"
-summary = "Nativity Scenes are warhammer for grandmas"
-note_count = 0.0
-is_blazed = false
+slug = "nativity-scenes-are-warhammer-for-grandmas"
 date = "2018-12-11 22:08:54 GMT"
-id_string = "181027772083"
-format = "html"
-text = "Nativity Scenes are warhammer for grandmas"
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/181027772083/nativity-scenes-are-warhammer-for-grandmas"
-short_url = "https://tmblr.co/ZY3jby2ec69Qp"
 timestamp = 1544566134.0
+format = "html"
+summary = "Nativity Scenes are warhammer for grandmas"
+id = 181027772083.0
 state = "published"
+short_url = "https://tmblr.co/ZY3jby2ec69Qp"
 should_open_in_legacy = true
+text = "Nativity Scenes are warhammer for grandmas"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+is_blazed = false
+post_url = "https://indirect.io/post/181027772083/nativity-scenes-are-warhammer-for-grandmas"
+display_avatar = true
+is_blaze_pending = false
+is_blocks_post_format = false
+can_blaze = false
+reblog_key = "4XtzuU5Q"
+note_count = 0.0
+can_reply = false
+can_like = false
 interactability_blaze = "everyone"
 can_reblog = false
-is_blocks_post_format = false
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

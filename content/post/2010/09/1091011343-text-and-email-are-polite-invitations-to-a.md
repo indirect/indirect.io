@@ -6,36 +6,40 @@ slug = "text-and-email-are-polite-invitations-to-a"
 type = "tumblr-text"
 
 [tumblr]
-body = "<blockquote>“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the receiver. In stark contrast, when you get a phone call, it’s almost always a convenient time for the caller and a bad time for the recipient, who I refer to as the “victim” because I insist on accuracy. My philosophy is that every phone conversation has a loser.”</blockquote>\n\n<p>— <a href=\"http://dilbert.com/blog/entry/phone/\">Scott Adams: Phone</a> (via <a href=\"http://www.marco.org/1089576380\" class=\"tumblr_blog\">marco</a>)</p>"
-type = "text"
-blog_name = "indirect"
-is_blazed = false
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby111uCF"
 interactability_blaze = "noone"
+display_avatar = true
+timestamp = 1284027071.0
+can_blaze = false
+can_reblog = false
+post_url = "https://indirect.io/post/1091011343/text-and-email-are-polite-invitations-to-a"
+can_like = false
+interactability_reblog = "everyone"
+can_send_in_message = true
+source_url = "http://dilbert.com/blog/entry/phone/"
+id = 1091011343.0
+is_blazed = false
+reblog_key = "Th8BxbEM"
+can_reply = false
+parent_post_url = "https://www.tumblr.com/blog/view/marco/1089576380"
+summary = "“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the..."
+type = "text"
+slug = "text-and-email-are-polite-invitations-to-a"
+state = "published"
+short_url = "https://tmblr.co/ZY3jby111uCF"
+should_open_in_legacy = false
+note_count = 735.0
+date = "2010-09-09 10:11:11 GMT"
+is_blocks_post_format = false
 id_string = "1091011343"
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/1091011343/text-and-email-are-polite-invitations-to-a"
-note_count = 735.0
-can_like = false
-can_send_in_message = true
-slug = "text-and-email-are-polite-invitations-to-a"
-timestamp = 1284027071.0
+blog_name = "indirect"
+format = "markdown"
 source_title = "dilbert.com"
-is_blocks_post_format = false
-can_blaze = false
-state = "published"
-id = 1091011343.0
-can_reblog = false
-date = "2010-09-09 10:11:11 GMT"
-summary = "“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the..."
-should_open_in_legacy = false
-interactability_reblog = "everyone"
-parent_post_url = "https://www.tumblr.com/blog/view/marco/1089576380"
-reblog_key = "Th8BxbEM"
-source_url = "http://dilbert.com/blog/entry/phone/"
-can_reply = false
-display_avatar = true
+body = "<blockquote>“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the receiver. In stark contrast, when you get a phone call, it’s almost always a convenient time for the caller and a bad time for the recipient, who I refer to as the “victim” because I insist on accuracy. My philosophy is that every phone conversation has a loser.”</blockquote>\n\n<p>— <a href=\"http://dilbert.com/blog/entry/phone/\">Scott Adams: Phone</a> (via <a href=\"http://www.marco.org/1089576380\" class=\"tumblr_blog\">marco</a>)</p>"
+
+[tumblr.reblog]
+comment = "<p><blockquote>“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the receiver. In stark contrast, when you get a phone call, it’s almost always a convenient time for the caller and a bad time for the recipient, who I refer to as the “victim” because I insist on accuracy. My philosophy is that every phone conversation has a loser.”</blockquote>\n\n<p>— <a href=\"http://dilbert.com/blog/entry/phone/\">Scott Adams: Phone</a> (via <a href=\"http://www.marco.org/1089576380\" class=\"tumblr_blog\">marco</a>)</p></p>"
+tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p><blockquote>“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the receiver. In stark contrast, when you get a phone call, it’s almost always a convenient time for the caller and a bad time for the recipient, who I refer to as the “victim” because I insist on accuracy. My philosophy is that every phone conversation has a loser.”</blockquote>\n\n<p>— <a href=\"http://dilbert.com/blog/entry/phone/\">Scott Adams: Phone</a> (via <a href=\"http://www.marco.org/1089576380\" class=\"tumblr_blog\">marco</a>)</p></p>"
@@ -50,39 +54,37 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
 header_bounds = ""
-header_stretch = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_poster = ""
+show_avatar = true
 show_title = true
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-show_header_image = false
 avatar_shape = "square"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_poster = ""
-show_avatar = true
+header_stretch = true
+link_color = "#529ECC"
 show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_color = "#444444"
+header_full_height = 1055.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "1091011343"
 
-[tumblr.reblog]
-comment = "<p><blockquote>“Text and email are polite invitations to a conversation. They happen at the speed and leisure of both the sender and the receiver. In stark contrast, when you get a phone call, it’s almost always a convenient time for the caller and a bad time for the recipient, who I refer to as the “victim” because I insist on accuracy. My philosophy is that every phone conversation has a loser.”</blockquote>\n\n<p>— <a href=\"http://dilbert.com/blog/entry/phone/\">Scott Adams: Phone</a> (via <a href=\"http://www.marco.org/1089576380\" class=\"tumblr_blog\">marco</a>)</p></p>"
-tree_html = ""
-
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

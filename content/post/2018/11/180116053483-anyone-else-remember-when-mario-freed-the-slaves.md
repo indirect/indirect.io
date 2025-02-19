@@ -6,35 +6,50 @@ slug = "anyone-else-remember-when-mario-freed-the-slaves"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-blog_name = "indirect"
-caption = "<p>anyone else remember when mario freed the slaves — <a href=\"http://twitter.com/Miexriir/status/1061676799019675648\">@Miexriir</a></p>"
-can_reblog = false
-can_send_in_message = true
-id = 180116053483.0
-is_blazed = false
-slug = "anyone-else-remember-when-mario-freed-the-slaves"
-timestamp = 1542231470.0
-interactability_blaze = "everyone"
-note_count = 0.0
-can_reply = false
-type = "photo"
-post_url = "https://indirect.tumblr.com/post/180116053483/anyone-else-remember-when-mario-freed-the-slaves"
-summary = "anyone else remember when mario freed the slaves — @Miexriir"
-link_url = "http://twitter.com/Miexriir/status/1061676799019675648"
-is_blocks_post_format = false
 id_string = "180116053483"
-is_blaze_pending = false
+timestamp = 1542231470.0
+can_reply = false
+can_blaze = false
 date = "2018-11-14 21:37:50 GMT"
-state = "published"
-can_like = false
-display_avatar = true
+short_url = "https://tmblr.co/ZY3jby2dlmDth"
+summary = "anyone else remember when mario freed the slaves — @Miexriir"
+caption = "<p>anyone else remember when mario freed the slaves — <a href=\"http://twitter.com/Miexriir/status/1061676799019675648\">@Miexriir</a></p>"
+image_permalink = "https://indirect.io/image/180116053483"
+blog_name = "indirect"
+is_blaze_pending = false
 format = "html"
 reblog_key = "QygZmaXl"
-short_url = "https://tmblr.co/ZY3jby2dlmDth"
-image_permalink = "https://indirect.tumblr.com/image/180116053483"
+note_count = 0.0
+state = "published"
 interactability_reblog = "everyone"
+type = "photo"
 should_open_in_legacy = true
+can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
+id = 180116053483.0
+is_blazed = false
+post_url = "https://indirect.io/post/180116053483/anyone-else-remember-when-mario-freed-the-slaves"
+slug = "anyone-else-remember-when-mario-freed-the-slaves"
+can_like = false
+interactability_blaze = "everyone"
+can_reblog = false
+link_url = "http://twitter.com/Miexriir/status/1061676799019675648"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>anyone else remember when mario freed the slaves — <a href=\"http://twitter.com/Miexriir/status/1061676799019675648\">@Miexriir</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -45,9 +60,9 @@ width = 1200.0
 height = 670.0
 
 [[tumblr.photos.alt_sizes]]
-height = 670.0
 url = "/images/30/69/72aff2e338f282474b536c8e2272.jpg"
 width = 1200.0
+height = 670.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4a/0a/ed96e791ceca6b4649cb624b98f4.jpg"
@@ -75,18 +90,14 @@ width = 250.0
 height = 140.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/29/7b/ae90a2901322e332c6186e7dea58.jpg"
 width = 100.0
 height = 56.0
-url = "/images/29/7b/ae90a2901322e332c6186e7dea58.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/63/54/32dbbe8b8e03cde24d758f90a414.jpg"
 width = 75.0
-
-[tumblr.reblog]
-comment = "<p>anyone else remember when mario freed the slaves — <a href=\"http://twitter.com/Miexriir/status/1061676799019675648\">@Miexriir</a></p>"
-tree_html = ""
+height = 75.0
 
 [[tumblr.trail]]
 content_raw = "<p>anyone else remember when mario freed the slaves — <a href=\"http://twitter.com/Miexriir/status/1061676799019675648\">@Miexriir</a></p>"
@@ -102,35 +113,26 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
 avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
 body_font = "Helvetica Neue"
-header_image_poster = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
 show_title = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-show_header_image = false
 title_font = "Gibson"
-title_font_weight = "bold"
 header_bounds = ""
+header_image_poster = ""
+show_description = true
+title_color = "#444444"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+show_header_image = false
 
 [tumblr.trail.post]
 id = "180116053483"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

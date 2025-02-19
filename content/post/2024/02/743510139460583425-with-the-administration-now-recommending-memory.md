@@ -6,47 +6,47 @@ slug = "with-the-administration-now-recommending-memory"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyfHUeXLSm01"
+should_open_in_legacy = true
+display_avatar = true
+is_blocks_post_format = false
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/743510139460583425/with-the-administration-now-recommending-memory"
-note_count = 0.0
-text = "With the administration now recommending memory safe languages,  I&rsquo;m assuming the RNC platform is going to talk about preserving our god-given freedom as Americans to overwrite the stack whenever and wherever we want."
-can_reblog = false
-id = 7.435101394605834e+17
-can_reply = false
+timestamp = 1709066523.0
+summary = "With the administration now recommending memory safe languages,  I’m assuming the RNC platform is going to talk about preserving..."
+state = "published"
 type = "quote"
 slug = "with-the-administration-now-recommending-memory"
 format = "markdown"
-can_send_in_message = true
-is_blocks_post_format = false
-summary = "With the administration now recommending memory safe languages,  I’m assuming the RNC platform is going to talk about preserving..."
-interactability_blaze = "everyone"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyfHUeXLSm01"
-should_open_in_legacy = true
-source = "<a href=\"https://federate.social/@mattblaze/112005258058245743\">@mattblaze</a>"
-display_avatar = true
-id_string = "743510139460583425"
-is_blazed = false
-date = "2024-02-27 20:42:03 GMT"
-reblog_key = "sqXCUlMk"
-can_like = false
 interactability_reblog = "everyone"
-blog_name = "indirect"
-timestamp = 1709066523.0
+can_reblog = false
+id = 7.435101394605834e+17
+post_url = "https://indirect.io/post/743510139460583425/with-the-administration-now-recommending-memory"
+can_like = false
+can_send_in_message = true
+is_blazed = false
+reblog_key = "sqXCUlMk"
+text = "With the administration now recommending memory safe languages,  I&rsquo;m assuming the RNC platform is going to talk about preserving our god-given freedom as Americans to overwrite the stack whenever and wherever we want."
+id_string = "743510139460583425"
+date = "2024-02-27 20:42:03 GMT"
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reply = false
+is_blaze_pending = false
+source = "<a href=\"https://federate.social/@mattblaze/112005258058245743\">@mattblaze</a>"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"https://federate.social/@mattblaze/112005258058245743\">@mattblaze</a></p>"
+tree_html = ""
 +++

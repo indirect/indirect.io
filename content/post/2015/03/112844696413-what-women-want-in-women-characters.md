@@ -7,46 +7,46 @@ title = "What Women Want in Women Characters"
 type = "tumblr-link"
 
 [tumblr]
+state = "published"
+description = ""
+is_blaze_pending = false
+reblog_key = "vnQMgwfa"
+note_count = 0.0
+title = "What Women Want in Women Characters"
+can_send_in_message = true
+slug = "what-women-want-in-women-characters"
+is_blazed = false
+url = "http://muddycolors.blogspot.com/2015/03/what-women-wantin-women-characters.html"
+short_url = "https://tmblr.co/ZY3jby1f64MjT"
 should_open_in_legacy = true
 bookmarklet = true
-description = ""
-can_blaze = false
-format = "markdown"
-reblog_key = "vnQMgwfa"
-type = "link"
-id_string = "112844696413"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1f64MjT"
-title = "What Women Want in Women Characters"
 can_like = false
-can_send_in_message = true
-blog_name = "indirect"
-interactability_blaze = "everyone"
+can_reply = false
+date = "2015-03-06 03:41:37 GMT"
+type = "link"
+is_blocks_post_format = false
+format = "markdown"
+timestamp = 1425613297.0
+publisher = "muddycolors.blogspot.com"
+interactability_reblog = "everyone"
 can_reblog = false
 display_avatar = true
-timestamp = 1425613297.0
-state = "published"
-note_count = 0.0
-is_blocks_post_format = false
-is_blazed = false
-interactability_reblog = "everyone"
-can_reply = false
+blog_name = "indirect"
 id = 112844696413.0
-post_url = "https://indirect.tumblr.com/post/112844696413/what-women-want-in-women-characters"
-slug = "what-women-want-in-women-characters"
-url = "http://muddycolors.blogspot.com/2015/03/what-women-wantin-women-characters.html"
-publisher = "muddycolors.blogspot.com"
-date = "2015-03-06 03:41:37 GMT"
+id_string = "112844696413"
+post_url = "https://indirect.io/post/112844696413/what-women-want-in-women-characters"
 summary = "What Women Want in Women Characters"
+interactability_blaze = "everyone"
+can_blaze = false
 
 [tumblr.blog]
-can_show_badges = true
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

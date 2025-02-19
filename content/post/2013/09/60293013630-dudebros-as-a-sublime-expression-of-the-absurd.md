@@ -7,46 +7,46 @@ title = "Dudebros as a sublime expression of the absurd"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-can_like = false
-is_blazed = false
-can_blaze = false
-can_reblog = false
-can_send_in_message = true
-id = 60293013630.0
-timestamp = 1378326526.0
-summary = "Dudebros as a sublime expression of the absurd"
-interactability_blaze = "everyone"
-should_open_in_legacy = true
-bookmarklet = true
-note_count = 0.0
-type = "link"
-slug = "dudebros-as-a-sublime-expression-of-the-absurd"
-state = "published"
 short_url = "https://tmblr.co/ZY3jbyu9lc1_"
-title = "Dudebros as a sublime expression of the absurd"
-is_blaze_pending = false
-date = "2013-09-04 20:28:46 GMT"
-reblog_key = "A1E6qbVa"
-id_string = "60293013630"
-format = "markdown"
-url = "http://baruffio.com/docs/dudebros.html"
-description = "<p>(or: proving @shanley’s point without realizing it)</p>"
+publisher = "baruffio.com"
+can_blaze = false
+should_open_in_legacy = true
+interactability_reblog = "everyone"
 can_reply = false
+timestamp = 1378326526.0
+description = "<p>(or: proving @shanley’s point without realizing it)</p>"
 display_avatar = true
 blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/60293013630/dudebros-as-a-sublime-expression-of-the-absurd"
-publisher = "baruffio.com"
-interactability_reblog = "everyone"
+is_blazed = false
+bookmarklet = true
+note_count = 0.0
+id_string = "60293013630"
+format = "markdown"
+can_send_in_message = true
+is_blocks_post_format = false
+slug = "dudebros-as-a-sublime-expression-of-the-absurd"
+reblog_key = "A1E6qbVa"
+title = "Dudebros as a sublime expression of the absurd"
+can_like = false
+state = "published"
+type = "link"
+id = 60293013630.0
+post_url = "https://indirect.io/post/60293013630/dudebros-as-a-sublime-expression-of-the-absurd"
+summary = "Dudebros as a sublime expression of the absurd"
+can_reblog = false
+url = "http://baruffio.com/docs/dudebros.html"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+date = "2013-09-04 20:28:46 GMT"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -55,37 +55,39 @@ comment = "<p>(or: proving @shanley’s point without realizing it)</p>"
 tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p>(or: proving @shanley’s point without realizing it)</p>"
 content = "<p>(or: proving @shanley&rsquo;s point without realizing it)</p>"
 is_current_item = true
 is_root_item = true
-
-[tumblr.trail.post]
-id = "60293013630"
+content_raw = "<p>(or: proving @shanley’s point without realizing it)</p>"
 
 [tumblr.trail.blog]
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image_poster = ""
-title_color = "#444444"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-title_font_weight = "bold"
-header_bounds = ""
 show_description = true
-show_title = true
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
+header_full_height = 1055.0
+avatar_shape = "square"
 link_color = "#529ECC"
+show_title = true
+header_full_width = 3000.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+title_color = "#444444"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_header_image = false
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "60293013630"
 +++

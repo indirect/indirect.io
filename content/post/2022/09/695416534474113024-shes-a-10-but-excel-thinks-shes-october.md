@@ -6,47 +6,47 @@ slug = "shes-a-10-but-excel-thinks-shes-october"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/695416534474113024/shes-a-10-but-excel-thinks-shes-october"
-display_avatar = true
-blog_name = "indirect"
-id_string = "695416534474113024"
-is_blazed = false
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
-state = "published"
-source = "<a href=\"http://twitter.com/netcapgirl/status/1569355763671261185\">@netcapgirl</a>"
-can_like = false
-can_send_in_message = true
-is_blocks_post_format = false
-is_blaze_pending = false
-slug = "shes-a-10-but-excel-thinks-shes-october"
-date = "2022-09-15 00:14:48 GMT"
-reblog_key = "ipEUnWJT"
-short_url = "https://tmblr.co/ZY3jbyccdQTKGq00"
-should_open_in_legacy = true
-type = "quote"
-id = 6.95416534474113e+17
-can_blaze = false
-text = "she’s a 10 but Excel thinks she’s October"
 format = "html"
-interactability_reblog = "everyone"
-timestamp = 1663200888.0
-summary = "she’s a 10 but Excel thinks she’s October"
+short_url = "https://tmblr.co/ZY3jbyccdQTKGq00"
 note_count = 0.0
+source = "<a href=\"http://twitter.com/netcapgirl/status/1569355763671261185\">@netcapgirl</a>"
+blog_name = "indirect"
+is_blaze_pending = false
+summary = "she’s a 10 but Excel thinks she’s October"
+can_like = false
+display_avatar = true
+date = "2022-09-15 00:14:48 GMT"
+interactability_reblog = "everyone"
+post_url = "https://indirect.io/post/695416534474113024/shes-a-10-but-excel-thinks-shes-october"
+slug = "shes-a-10-but-excel-thinks-shes-october"
+timestamp = 1663200888.0
+interactability_blaze = "everyone"
+id_string = "695416534474113024"
+should_open_in_legacy = true
+text = "she’s a 10 but Excel thinks she’s October"
+can_reblog = false
+reblog_key = "ipEUnWJT"
+can_send_in_message = true
+can_reply = false
+is_blocks_post_format = false
+id = 6.95416534474113e+17
+is_blazed = false
+type = "quote"
+can_blaze = false
+state = "published"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/netcapgirl/status/1569355763671261185\">@netcapgirl</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

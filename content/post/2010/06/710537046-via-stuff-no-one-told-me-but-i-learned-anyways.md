@@ -6,86 +6,51 @@ slug = "via-stuff-no-one-told-me-but-i-learned-anyways"
 type = "tumblr-photo"
 
 [tumblr]
-caption = "<p>via <a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
-timestamp = 1276840620.0
 type = "photo"
-id = 710537046.0
-should_open_in_legacy = true
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/710537046/via-stuff-no-one-told-me-but-i-learned-anyways"
-note_count = 0.0
-can_reblog = false
-display_avatar = true
-is_blaze_pending = false
-state = "published"
-can_like = false
-is_blazed = false
-slug = "via-stuff-no-one-told-me-but-i-learned-anyways"
 reblog_key = "QVxVvFpz"
-bookmarklet = true
-interactability_reblog = "everyone"
-can_send_in_message = true
-format = "html"
+note_count = 0.0
 link_url = "http://4.bp.blogspot.com/_VGsreexPmwc/TA4Bbn1tz-I/AAAAAAAAA8Q/jTue8H6lMS8/s1600/QzG4V.jpg"
-image_permalink = "https://indirect.tumblr.com/image/710537046"
-is_blocks_post_format = false
+can_reblog = false
+can_send_in_message = true
+image_permalink = "https://indirect.io/image/710537046"
+is_blazed = false
+post_url = "https://indirect.io/post/710537046/via-stuff-no-one-told-me-but-i-learned-anyways"
+state = "published"
+display_avatar = true
 id_string = "710537046"
-date = "2010-06-18 05:57:00 GMT"
+format = "html"
 short_url = "https://tmblr.co/ZY3jbygMUzM"
-interactability_blaze = "everyone"
+can_like = false
 can_reply = false
-can_blaze = false
+is_blaze_pending = false
+caption = "<p>via <a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
+is_blocks_post_format = false
+blog_name = "indirect"
+slug = "via-stuff-no-one-told-me-but-i-learned-anyways"
+date = "2010-06-18 05:57:00 GMT"
+should_open_in_legacy = true
+bookmarklet = true
+timestamp = 1276840620.0
 summary = "via stuff no one told me (but I learned anyways)"
+interactability_reblog = "everyone"
+id = 710537046.0
+can_blaze = false
+interactability_blaze = "everyone"
 
 [tumblr.reblog]
 comment = "<p>via <a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>via <a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
-content = "<p>via&nbsp;<a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-show_title = true
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-link_color = "#529ECC"
-show_header_image = false
-title_font = "Gibson"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "710537046"
 
 [[tumblr.photos]]
 caption = ""
@@ -121,7 +86,44 @@ url = "/images/f7/6a/32a6ec8ad95c5aa33249aa888ca9.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/71/07/621b4ed252e7250c135f90bab827.jpg"
 width = 75.0
-height = 75.0
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>via <a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
+content = "<p>via&nbsp;<a href=\"http://stuffnoonetoldme.blogspot.com/2010/06/blog-post.html\">stuff no one told me (but I learned anyways)</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+show_avatar = true
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_title = true
+title_color = "#444444"
+show_description = true
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_stretch = true
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "710537046"
 +++

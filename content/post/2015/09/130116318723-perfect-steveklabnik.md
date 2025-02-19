@@ -6,50 +6,39 @@ slug = "perfect-steveklabnik"
 type = "tumblr-photo"
 
 [tumblr]
-id_string = "130116318723"
-date = "2015-09-29 05:38:57 GMT"
-should_open_in_legacy = true
-is_blazed = false
-timestamp = 1443505137.0
-short_url = "https://tmblr.co/ZY3jby1vBYNO3"
-can_reblog = false
 is_blocks_post_format = false
-slug = "perfect-steveklabnik"
+is_blaze_pending = false
 summary = "Perfect — @steveklabnik"
 can_like = false
-can_send_in_message = true
-display_avatar = true
-can_blaze = false
+is_blazed = false
+slug = "perfect-steveklabnik"
+caption = "<p>Perfect — <a href=\"http://twitter.com/steveklabnik/status/648702392142299136\">@steveklabnik</a></p>"
+can_reblog = false
+id = 130116318723.0
+state = "published"
 format = "html"
 reblog_key = "dgzRge2z"
-link_url = "http://twitter.com/steveklabnik/status/648702392142299136"
 blog_name = "indirect"
-is_blaze_pending = false
-note_count = 0.0
-caption = "<p>Perfect — <a href=\"http://twitter.com/steveklabnik/status/648702392142299136\">@steveklabnik</a></p>"
-post_url = "https://indirect.tumblr.com/post/130116318723/perfect-steveklabnik"
-state = "published"
-image_permalink = "https://indirect.tumblr.com/image/130116318723"
-type = "photo"
-id = 130116318723.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+date = "2015-09-29 05:38:57 GMT"
 can_reply = false
+type = "photo"
+can_blaze = false
+post_url = "https://indirect.io/post/130116318723/perfect-steveklabnik"
+can_send_in_message = true
+display_avatar = true
+should_open_in_legacy = true
+note_count = 0.0
+link_url = "http://twitter.com/steveklabnik/status/648702392142299136"
+image_permalink = "https://indirect.io/image/130116318723"
+interactability_blaze = "everyone"
+id_string = "130116318723"
+timestamp = 1443505137.0
+short_url = "https://tmblr.co/ZY3jby1vBYNO3"
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p>Perfect — <a href=\"http://twitter.com/steveklabnik/status/648702392142299136\">@steveklabnik</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -60,14 +49,14 @@ width = 600.0
 height = 756.0
 
 [[tumblr.photos.alt_sizes]]
+height = 756.0
 url = "/images/27/45/1c41311e4b0165e96051ae5906dd.jpg"
 width = 600.0
-height = 756.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c4/a5/98a06f9a72ff2b67fb8dc31f5fd6.jpg"
 width = 540.0
 height = 680.0
+url = "/images/c4/a5/98a06f9a72ff2b67fb8dc31f5fd6.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/27/6c/b6459af2664f0dcdc29c4cd2e2eb.jpg"
@@ -95,10 +84,10 @@ width = 75.0
 height = 75.0
 
 [[tumblr.trail]]
+is_root_item = true
 content_raw = "<p>Perfect — <a href=\"http://twitter.com/steveklabnik/status/648702392142299136\">@steveklabnik</a></p>"
 content = "<p>Perfect &mdash; <a href=\"http://twitter.com/steveklabnik/status/648702392142299136\">@steveklabnik</a></p>"
 is_current_item = true
-is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -108,24 +97,37 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
+header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
 title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_image_poster = ""
-header_stretch = true
+show_header_image = false
+title_color = "#444444"
 title_font = "Gibson"
 avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_avatar = true
 show_description = true
-show_title = true
-title_color = "#444444"
 
 [tumblr.trail.post]
 id = "130116318723"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

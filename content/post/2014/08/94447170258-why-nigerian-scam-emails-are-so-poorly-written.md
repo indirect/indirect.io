@@ -6,85 +6,35 @@ slug = "why-nigerian-scam-emails-are-so-poorly-written"
 type = "tumblr-photo"
 
 [tumblr]
+post_url = "https://indirect.io/post/94447170258/why-nigerian-scam-emails-are-so-poorly-written"
+timestamp = 1407777429.0
+caption = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
+note_count = 0.0
+date = "2014-08-11 17:17:09 GMT"
+can_like = false
+can_reply = false
+type = "photo"
+is_blocks_post_format = false
+is_blaze_pending = false
 link_url = "http://twitter.com/mzmyslowski/status/498122164110098432"
+image_permalink = "https://indirect.io/image/94447170258"
+interactability_blaze = "everyone"
+is_blazed = false
+can_blaze = false
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_reblog = false
+can_send_in_message = true
+display_avatar = true
+state = "published"
+summary = "Why Nigerian scam emails are so poorly written. — @mzmyslowski"
+id_string = "94447170258"
 slug = "why-nigerian-scam-emails-are-so-poorly-written"
 reblog_key = "kbg525Hm"
-summary = "Why Nigerian scam emails are so poorly written. — @mzmyslowski"
-is_blaze_pending = false
-date = "2014-08-11 17:17:09 GMT"
-id_string = "94447170258"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/94447170258/why-nigerian-scam-emails-are-so-poorly-written"
-should_open_in_legacy = true
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1NzVNBI"
-display_avatar = true
-type = "photo"
-timestamp = 1407777429.0
-note_count = 0.0
-can_like = false
-interactability_blaze = "everyone"
-can_reply = false
-is_blocks_post_format = false
-id = 94447170258.0
-caption = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
-interactability_reblog = "everyone"
-can_send_in_message = true
 blog_name = "indirect"
+id = 94447170258.0
 format = "html"
-image_permalink = "https://indirect.tumblr.com/image/94447170258"
-can_reblog = false
-can_blaze = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
-content = "<p>Why Nigerian scam emails are so poorly written. &mdash; <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-show_description = true
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_poster = ""
-title_color = "#444444"
-title_font_weight = "bold"
-show_title = true
-header_stretch = true
-show_header_image = false
-avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "94447170258"
-
-[tumblr.reblog]
-comment = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
-tree_html = ""
+short_url = "https://tmblr.co/ZY3jby1NzVNBI"
 
 [[tumblr.photos]]
 caption = ""
@@ -105,14 +55,14 @@ width = 540.0
 height = 302.0
 
 [[tumblr.photos.alt_sizes]]
-height = 279.0
 url = "/images/d1/1a/41080026b8e913bd1f78a82ebcc9.jpg"
 width = 500.0
+height = 279.0
 
 [[tumblr.photos.alt_sizes]]
-height = 223.0
 url = "/images/50/9e/22032683a9dfa0e94ff10aa298bb.jpg"
 width = 400.0
+height = 223.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5c/4f/dee0263cc53bc01640140fad502e.jpg"
@@ -125,7 +75,59 @@ width = 100.0
 height = 56.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/d6/3a/74bab2c82340e257eeccb70e6afd.jpg"
 width = 75.0
-height = 75.0
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content = "<p>Why Nigerian scam emails are so poorly written. &mdash; <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+header_image_poster = ""
+show_description = true
+title_color = "#444444"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+show_title = true
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+
+[tumblr.trail.post]
+id = "94447170258"
+
+[tumblr.reblog]
+comment = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http://twitter.com/mzmyslowski/status/498122164110098432\">@mzmyslowski</a></p>"
+tree_html = ""
 +++

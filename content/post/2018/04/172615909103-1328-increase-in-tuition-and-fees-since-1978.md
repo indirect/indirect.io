@@ -7,84 +7,38 @@ type = "tumblr-photo"
 
 [tumblr]
 id_string = "172615909103"
-state = "published"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reply = false
-timestamp = 1522911918.0
+post_url = "https://indirect.io/post/172615909103/1328-increase-in-tuition-and-fees-since-1978"
 is_blaze_pending = false
 can_blaze = false
-reblog_key = "HvHawCMO"
-note_count = 0.0
-can_reblog = false
-is_blocks_post_format = false
-date = "2018-04-05 07:05:18 GMT"
-summary = "1328% increase in tuition and fees since 1978 — @AustenAllred"
-image_permalink = "https://indirect.tumblr.com/image/172615909103"
-can_like = false
-interactability_blaze = "everyone"
-slug = "1328-increase-in-tuition-and-fees-since-1978"
-format = "html"
 short_url = "https://tmblr.co/ZY3jby2WmjRxl"
-caption = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
-post_url = "https://indirect.tumblr.com/post/172615909103/1328-increase-in-tuition-and-fees-since-1978"
-link_url = "http://twitter.com/AustenAllred/status/981734778922848256"
-blog_name = "indirect"
 id = 172615909103.0
+date = "2018-04-05 07:05:18 GMT"
+reblog_key = "HvHawCMO"
+image_permalink = "https://indirect.io/image/172615909103"
+can_like = false
 display_avatar = true
+blog_name = "indirect"
+should_open_in_legacy = true
+can_reply = false
+link_url = "http://twitter.com/AustenAllred/status/981734778922848256"
 type = "photo"
+is_blocks_post_format = false
+format = "html"
+summary = "1328% increase in tuition and fees since 1978 — @AustenAllred"
 is_blazed = false
+note_count = 0.0
+caption = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
+timestamp = 1522911918.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
 can_send_in_message = true
+slug = "1328-increase-in-tuition-and-fees-since-1978"
+state = "published"
 
 [tumblr.reblog]
-comment = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
 tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
-content = "<p>1328% increase in tuition and fees since 1978 &mdash; <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-show_header_image = false
-title_color = "#444444"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-show_title = true
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "172615909103"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+comment = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -115,9 +69,9 @@ width = 500.0
 height = 363.0
 
 [[tumblr.photos.alt_sizes]]
-height = 291.0
 url = "/images/c2/7c/e8b691e88660562fb7da8e5ed31d.jpg"
 width = 400.0
+height = 291.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2c/68/f296811b574d345fe3da13ef52ad.jpg"
@@ -130,7 +84,55 @@ width = 100.0
 height = 73.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/a7/8c/1f15d27eab9cced41de922ba17f6.jpg"
 width = 75.0
-height = 75.0
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>1328% increase in tuition and fees since 1978 — <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
+content = "<p>1328% increase in tuition and fees since 1978 &mdash; <a href=\"http://twitter.com/AustenAllred/status/981734778922848256\">@AustenAllred</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "172615909103"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+header_full_width = 3000.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+show_title = true
+header_bounds = ""
+header_image_poster = ""
+show_description = true
+body_font = "Helvetica Neue"
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 +++

@@ -6,47 +6,47 @@ slug = "institutions-will-try-to-preserve-the-problem-to"
 type = "tumblr-quote"
 
 [tumblr]
+interactability_reblog = "everyone"
+timestamp = 1270321430.0
+can_reply = false
+id = 493866349.0
+reblog_key = "frkDbqtN"
+short_url = "https://tmblr.co/ZY3jbyTRyrj"
+note_count = 0.0
+source = "Clay Shirky"
+blog_name = "indirect"
+can_like = false
+is_blocks_post_format = false
 id_string = "493866349"
 is_blaze_pending = false
-timestamp = 1270321430.0
-short_url = "https://tmblr.co/ZY3jbyTRyrj"
-text = "Institutions will try to preserve the problem to which they are the solution."
-blog_name = "indirect"
-state = "published"
-note_count = 0.0
-date = "2010-04-03 19:03:50 GMT"
-can_like = false
-interactability_reblog = "everyone"
-can_reblog = false
-display_avatar = true
-reblog_key = "frkDbqtN"
-id = 493866349.0
-post_url = "https://indirect.tumblr.com/post/493866349/institutions-will-try-to-preserve-the-problem-to"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-is_blazed = false
-format = "html"
-source = "Clay Shirky"
-summary = "Institutions will try to preserve the problem to which they are the solution."
-can_send_in_message = true
-type = "quote"
-can_blaze = false
 slug = "institutions-will-try-to-preserve-the-problem-to"
 should_open_in_legacy = true
-can_reply = false
-
-[tumblr.reblog]
-comment = "<p>Clay Shirky</p>"
-tree_html = ""
+is_blazed = false
+date = "2010-04-03 19:03:50 GMT"
+summary = "Institutions will try to preserve the problem to which they are the solution."
+can_send_in_message = true
+state = "published"
+can_blaze = false
+post_url = "https://indirect.io/post/493866349/institutions-will-try-to-preserve-the-problem-to"
+text = "Institutions will try to preserve the problem to which they are the solution."
+interactability_blaze = "everyone"
+display_avatar = true
+type = "quote"
+format = "html"
+can_reblog = false
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Clay Shirky</p>"
 +++

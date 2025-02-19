@@ -6,69 +6,34 @@ slug = "programmer-flow-chart-via-codinghorror"
 type = "tumblr-photo"
 
 [tumblr]
-can_reblog = false
-can_send_in_message = true
-timestamp = 1378064317.0
-should_open_in_legacy = true
-display_avatar = true
-reblog_key = "dSndUNdN"
 caption = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
+can_like = false
+id_string = "60000826371"
+note_count = 0.0
+is_blazed = false
+post_url = "https://indirect.io/post/60000826371/programmer-flow-chart-via-codinghorror"
+can_reblog = false
+id = 60000826371.0
+slug = "programmer-flow-chart-via-codinghorror"
+short_url = "https://tmblr.co/ZY3jbytuK-G3"
+summary = "programmer flow chart via [@codinghorror](https://twitter.com/codinghorror/status/373683012585549825)"
+should_open_in_legacy = true
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
+image_permalink = "https://indirect.io/image/60000826371"
+format = "markdown"
+is_blaze_pending = false
+timestamp = 1378064317.0
+is_blocks_post_format = false
+can_send_in_message = true
+can_reply = false
+display_avatar = true
 blog_name = "indirect"
-slug = "programmer-flow-chart-via-codinghorror"
+type = "photo"
+can_blaze = false
 date = "2013-09-01 19:38:37 GMT"
 state = "published"
-can_like = false
-id = 60000826371.0
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/60000826371/programmer-flow-chart-via-codinghorror"
-summary = "programmer flow chart via [@codinghorror](https://twitter.com/codinghorror/status/373683012585549825)"
-image_permalink = "https://indirect.tumblr.com/image/60000826371"
-is_blocks_post_format = false
-format = "markdown"
-can_reply = false
-note_count = 0.0
-type = "photo"
-id_string = "60000826371"
-is_blazed = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbytuK-G3"
-
-[[tumblr.trail]]
-content_raw = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
-content = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-title_font_weight = "bold"
-show_header_image = false
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_title = true
-show_description = true
-avatar_shape = "square"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-
-[tumblr.trail.post]
-id = "60000826371"
+reblog_key = "dSndUNdN"
 
 [[tumblr.photos]]
 caption = ""
@@ -89,9 +54,9 @@ width = 540.0
 height = 540.0
 
 [[tumblr.photos.alt_sizes]]
+height = 500.0
 url = "/images/e8/5c/321db6691106404bab5471d28333.jpg"
 width = 500.0
-height = 500.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9f/0b/17a672a5d1db2febc505f53700a8.jpg"
@@ -104,27 +69,64 @@ width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-height = 100.0
 url = "/images/43/e3/f333cd0c1a74a62b2122030c3694.jpg"
 width = 100.0
+height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c9/70/f5ba30f474c6a812932d54470d61.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+url = "/images/c9/70/f5ba30f474c6a812932d54470d61.jpg"
 
 [tumblr.reblog]
 comment = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
+content = "<p>programmer flow chart via <a href=\"https://twitter.com/codinghorror/status/373683012585549825\">@codinghorror</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+header_full_width = 3000.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+show_description = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+show_header_image = false
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "60000826371"
 +++

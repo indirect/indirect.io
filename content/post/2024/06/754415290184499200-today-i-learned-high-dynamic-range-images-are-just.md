@@ -6,78 +6,95 @@ slug = "today-i-learned-high-dynamic-range-images-are-just"
 type = "tumblr-photo"
 
 [tumblr]
-format = "html"
-is_blocks_post_format = false
-blog_name = "indirect"
-id_string = "754415290184499200"
-can_reblog = false
-can_send_in_message = true
-date = "2024-06-27 05:34:44 GMT"
-state = "published"
-caption = "<p>today i learned high dynamic range images are just loud pictures\n<br/>\n<br/>literally! that gross &ldquo;fake HDR look&rdquo; effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it&rsquo;s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> — <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
-interactability_blaze = "everyone"
-can_reply = false
-type = "photo"
-slug = "today-i-learned-high-dynamic-range-images-are-just"
-note_count = 0.0
-short_url = "https://tmblr.co/ZY3jbyfuEBMOaW00"
-interactability_reblog = "everyone"
+id = 7.544152901844992e+17
 is_blazed = false
-post_url = "https://indirect.tumblr.com/post/754415290184499200/today-i-learned-high-dynamic-range-images-are-just"
 summary = "today i learned high dynamic range images are just loud pictures\n \n literally! that gross \"fake HDR look\" effect is the same..."
 photoset_layout = "11"
-display_avatar = true
-id = 7.544152901844992e+17
-reblog_key = "FMQST6FY"
 should_open_in_legacy = true
+interactability_reblog = "everyone"
 link_url = "https://twitter.com/cirkelnio/status/1805679578104442958"
 can_like = false
-is_blaze_pending = false
+post_url = "https://indirect.io/post/754415290184499200/today-i-learned-high-dynamic-range-images-are-just"
+format = "html"
+reblog_key = "FMQST6FY"
+interactability_blaze = "everyone"
+type = "photo"
+id_string = "754415290184499200"
 can_blaze = false
 timestamp = 1719466484.0
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyfuEBMOaW00"
+caption = "<p>today i learned high dynamic range images are just loud pictures\n<br/>\n<br/>literally! that gross &ldquo;fake HDR look&rdquo; effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it&rsquo;s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> — <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
+can_reblog = false
+date = "2024-06-27 05:34:44 GMT"
+display_avatar = true
+is_blaze_pending = false
+slug = "today-i-learned-high-dynamic-range-images-are-just"
+can_send_in_message = true
+can_reply = false
+is_blocks_post_format = false
+blog_name = "indirect"
+note_count = 0.0
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
+is_root_item = true
 content_raw = "<p>today i learned high dynamic range images are just loud pictures\n<br>\n<br>literally! that gross “fake HDR look” effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it’s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> — <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
 content = "<p>today i learned high dynamic range images are just loud pictures\n<br />\n<br />literally! that gross &ldquo;fake HDR look&rdquo; effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it&rsquo;s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> &mdash; <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
 is_current_item = true
-is_root_item = true
 
 [tumblr.trail.blog]
-share_likes = false
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-background_color = "#FAFAFA"
 link_color = "#529ECC"
-show_header_image = false
-title_color = "#444444"
 show_description = true
-show_title = true
+header_full_width = 3000.0
 header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_avatar = true
+show_header_image = false
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+title_color = "#444444"
 title_font = "Gibson"
 title_font_weight = "bold"
+show_title = true
 avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
 
 [tumblr.trail.post]
 id = "754415290184499200"
+
+[tumblr.reblog]
+comment = "<p>today i learned high dynamic range images are just loud pictures\n<br>\n<br>literally! that gross “fake HDR look” effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it’s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> — <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/03/ef/f68e73ad4136dda6bb31828cb3a8.jpg"
 width = 999.0
 height = 1200.0
-url = "/images/03/ef/f68e73ad4136dda6bb31828cb3a8.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/03/ef/f68e73ad4136dda6bb31828cb3a8.jpg"
@@ -122,6 +139,11 @@ height = 75.0
 [[tumblr.photos]]
 caption = ""
 
+[tumblr.photos.original_size]
+height = 1200.0
+url = "/images/90/11/79fce2ecf98231da3c39d50b745f.jpg"
+width = 999.0
+
 [[tumblr.photos.alt_sizes]]
 url = "/images/90/11/79fce2ecf98231da3c39d50b745f.jpg"
 width = 999.0
@@ -148,37 +170,17 @@ width = 400.0
 height = 480.0
 
 [[tumblr.photos.alt_sizes]]
+height = 300.0
 url = "/images/ca/f7/2a946945ead3e8e975f0b2f92d5e.jpg"
 width = 250.0
-height = 300.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/8a/cc/f815f601bd4627c66ac930f229b8.jpg"
 width = 100.0
 height = 120.0
-url = "/images/8a/cc/f815f601bd4627c66ac930f229b8.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ff/f8/acfbe7910d6d9d455e71a7680ba4.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/90/11/79fce2ecf98231da3c39d50b745f.jpg"
-width = 999.0
-height = 1200.0
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>today i learned high dynamic range images are just loud pictures\n<br>\n<br>literally! that gross “fake HDR look” effect is the same thing as CD loudness war mastering: you turn up the volume (contrast) until it’s clipping (blown out) and then you run it through a compressor (tone mapping) <a href=\"https://t.co/WaQJBD7zfy\">https://t.co/WaQJBD7zfy</a> — <a href=\"https://twitter.com/cirkelnio/status/1805679578104442958\">es (@cirkelnio)</a></p>"
-tree_html = ""
 +++

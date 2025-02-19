@@ -6,43 +6,43 @@ slug = "have-decided-that-making-your-own-sourdough-is-the"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-can_reblog = false
 format = "html"
+interactability_blaze = "everyone"
 can_send_in_message = true
-timestamp = 1588968796.0
-post_url = "https://indirect.tumblr.com/post/617578545190928384/have-decided-that-making-your-own-sourdough-is-the"
-blog_name = "indirect"
-id = 6.175785451909284e+17
-state = "published"
-reblog_key = "t6VPpmbN"
-can_like = false
-id_string = "617578545190928384"
-summary = "Have decided that making your own sourdough is the bread equivalent of Gentoo"
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbyYI56el0W00"
-source = "<a href=\"http://twitter.com/BlueSpaceCanary/status/1258852030816239616\">@BlueSpaceCanary</a>"
+can_reply = false
 type = "quote"
-is_blocks_post_format = false
 is_blazed = false
 slug = "have-decided-that-making-your-own-sourdough-is-the"
-text = "Have decided that making your own sourdough is the bread equivalent of Gentoo"
-can_reply = false
-date = "2020-05-08 20:13:16 GMT"
-interactability_blaze = "everyone"
-is_blaze_pending = false
+summary = "Have decided that making your own sourdough is the bread equivalent of Gentoo"
+id = 6.175785451909284e+17
 can_blaze = false
 should_open_in_legacy = true
+is_blaze_pending = false
+post_url = "https://indirect.io/post/617578545190928384/have-decided-that-making-your-own-sourdough-is-the"
+can_like = false
+short_url = "https://tmblr.co/ZY3jbyYI56el0W00"
+text = "Have decided that making your own sourdough is the bread equivalent of Gentoo"
+source = "<a href=\"http://twitter.com/BlueSpaceCanary/status/1258852030816239616\">@BlueSpaceCanary</a>"
+is_blocks_post_format = false
+id_string = "617578545190928384"
+reblog_key = "t6VPpmbN"
 note_count = 0.0
+timestamp = 1588968796.0
+interactability_reblog = "everyone"
+display_avatar = true
+blog_name = "indirect"
+can_reblog = false
+date = "2020-05-08 20:13:16 GMT"
+state = "published"
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,74 +6,35 @@ slug = "this-is-randy-in-the-90s-he-bought-the-rights-to"
 type = "tumblr-photo"
 
 [tumblr]
-timestamp = 1642049719.0
-reblog_key = "CChR7jZw"
-interactability_blaze = "everyone"
-can_reply = false
-type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/673237927245053952/this-is-randy-in-the-90s-he-bought-the-rights-to"
-date = "2022-01-13 04:55:19 GMT"
-id = 6.73237927245054e+17
-short_url = "https://tmblr.co/ZY3jbybNqbFkmm00"
-state = "published"
-is_blazed = false
-is_blaze_pending = false
-display_avatar = true
-caption = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br/>\n<br/>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
-interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
 format = "html"
+can_like = false
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbybNqbFkmm00"
+caption = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br/>\n<br/>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/673237927245053952/this-is-randy-in-the-90s-he-bought-the-rights-to"
+can_reply = false
+note_count = 0.0
 summary = "This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting..."
 should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/673237927245053952"
-is_blocks_post_format = false
-id_string = "673237927245053952"
-note_count = 0.0
-can_like = false
-link_url = "http://twitter.com/stopskeletons/status/1481323523742126083"
 can_blaze = false
+reblog_key = "CChR7jZw"
 slug = "this-is-randy-in-the-90s-he-bought-the-rights-to"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br>\n<br>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br>\n<br>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
-content = "<p>This is Randy. In the 90&rsquo;s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br />\n<br />When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. &mdash; <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-title_color = "#444444"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-show_title = true
-background_color = "#FAFAFA"
-show_avatar = true
-title_font = "Gibson"
-avatar_shape = "square"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "673237927245053952"
+date = "2022-01-13 04:55:19 GMT"
+state = "published"
+image_permalink = "https://indirect.io/image/673237927245053952"
+display_avatar = true
+is_blocks_post_format = false
+timestamp = 1642049719.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reblog = false
+can_send_in_message = true
+link_url = "http://twitter.com/stopskeletons/status/1481323523742126083"
+type = "photo"
+id = 6.73237927245054e+17
+id_string = "673237927245053952"
+is_blazed = false
 
 [[tumblr.photos]]
 caption = ""
@@ -114,9 +75,9 @@ width = 250.0
 height = 139.0
 
 [[tumblr.photos.alt_sizes]]
-height = 56.0
 url = "/images/7d/3a/510010f196b55c1ba2109ed1df8c.jpg"
 width = 100.0
+height = 56.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/53/78/7460562f6d34e44650abde7763e8.jpg"
@@ -124,13 +85,54 @@ width = 75.0
 height = 75.0
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br>\n<br>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
+content = "<p>This is Randy. In the 90&rsquo;s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br />\n<br />When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. &mdash; <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_stretch = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_avatar = true
+show_description = true
+title_font = "Gibson"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+show_title = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "673237927245053952"
+
+[tumblr.reblog]
+comment = "<p>This is Randy. In the 90’s he bought the rights to Doom with plans to publish a 3DO port. He thought it just meant copy/pasting files from the PC disc. He was an idiot\n<br>\n<br>When you say the blockchain and NFTs will let you put all characters into all games, you sound like Randy. — <a href=\"http://twitter.com/stopskeletons/status/1481323523742126083\">@stopskeletons</a></p>"
+tree_html = ""
 +++

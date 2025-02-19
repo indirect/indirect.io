@@ -6,41 +6,41 @@ slug = "i-told-a-colleague-that-logistic-regression-is-ai"
 type = "tumblr-photo"
 
 [tumblr]
-timestamp = 1692827605.0
-id_string = "726482400516898816"
-is_blazed = false
-is_blaze_pending = false
+blog_name = "indirect"
+post_url = "https://indirect.io/post/726482400516898816/i-told-a-colleague-that-logistic-regression-is-ai"
 short_url = "https://tmblr.co/ZY3jbyeK__JgOW00"
 can_like = false
-type = "photo"
-state = "published"
-format = "html"
-interactability_blaze = "everyone"
+is_blaze_pending = false
+interactability_reblog = "everyone"
+link_url = "https://nerdculture.de/@rlmcelreath/110938545075497824"
+can_blaze = false
+slug = "i-told-a-colleague-that-logistic-regression-is-ai"
+timestamp = 1692827605.0
+display_avatar = true
+is_blazed = false
+note_count = 0.0
+caption = "<p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am &ldquo;Tinder is AI&rdquo;.</p> — <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a>"
 can_reblog = false
 can_send_in_message = true
-display_avatar = true
-is_blocks_post_format = false
-link_url = "https://nerdculture.de/@rlmcelreath/110938545075497824"
-should_open_in_legacy = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/726482400516898816/i-told-a-colleague-that-logistic-regression-is-ai"
-slug = "i-told-a-colleague-that-logistic-regression-is-ai"
-summary = "I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am \"Tinder is AI\"...."
-caption = "<p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am &ldquo;Tinder is AI&rdquo;.</p> — <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a>"
-reblog_key = "iAsjvHYA"
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/726482400516898816"
-interactability_reblog = "everyone"
 can_reply = false
-blog_name = "indirect"
+is_blocks_post_format = false
+interactability_blaze = "everyone"
+id_string = "726482400516898816"
+format = "html"
+reblog_key = "iAsjvHYA"
+image_permalink = "https://indirect.io/image/726482400516898816"
+type = "photo"
+state = "published"
 id = 7.264824005168988e+17
 date = "2023-08-23 21:53:25 GMT"
+summary = "I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am \"Tinder is AI\"...."
+should_open_in_legacy = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
@@ -81,9 +81,9 @@ width = 500.0
 height = 300.0
 
 [[tumblr.photos.alt_sizes]]
-width = 400.0
 height = 240.0
 url = "/images/bd/bb/25dd046a339a7e79640f9623c68c.png"
+width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c3/c4/46620e9f450986bbfaac4d0bb4ae.png"
@@ -96,22 +96,15 @@ width = 100.0
 height = 60.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/6e/e0/f7d59c839edd7858286f5b705999.png"
 width = 75.0
 height = 75.0
-url = "/images/6e/e0/f7d59c839edd7858286f5b705999.png"
-
-[tumblr.reblog]
-comment = "<p><p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am “Tinder is AI”.</p> — <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a></p>"
-tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p><p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am “Tinder is AI”.</p> — <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a></p>"
 content = "<p><p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am &ldquo;Tinder is AI&rdquo;.</p> &mdash; <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a></p>"
 is_current_item = true
 is_root_item = true
-
-[tumblr.trail.post]
-id = "726482400516898816"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -121,21 +114,30 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
-show_avatar = true
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
 title_font = "Gibson"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_bounds = ""
+show_avatar = true
+show_description = true
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_color = "#444444"
+title_font_weight = "bold"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_title = true
+link_color = "#529ECC"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+show_header_image = false
+
+[tumblr.trail.post]
+id = "726482400516898816"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><p>I told a colleague that logistic regression is AI and they got mad at me, so I made a chart. Find yourself. I am “Tinder is AI”.</p> — <a href=\"https://nerdculture.de/@rlmcelreath/110938545075497824\">@rlmcelreath</a></p>"
 +++

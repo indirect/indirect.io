@@ -6,34 +6,34 @@ slug = "why-the-super-rich-are-inevitable"
 type = "tumblr-text"
 
 [tumblr]
-is_blocks_post_format = true
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyd8cQgy4W00"
+slug = "why-the-super-rich-are-inevitable"
 body = "<p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"display_url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"title\":\"Why the super rich are inevitable\",\"description\":\"Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it.\",\"site_name\":\"The Pudding\",\"poster\":[{\"media_key\":\"32d0e70209de19637b77b7e8922895c8:f726bedc7ddd9f2e-96\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":628}]}'><a href=\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\" target=\"_blank\">Why the super rich are inevitable</a></p>"
-blog_name = "indirect"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/704982300262268928/why-the-super-rich-are-inevitable"
-can_reblog = false
-can_send_in_message = true
-state = "published"
+can_like = false
+can_reply = false
+is_blocks_post_format = true
+id = 7.049823002622689e+17
 summary = "Why the super rich are inevitable"
 note_count = 0.0
-interactability_reblog = "everyone"
-timestamp = 1672323513.0
-date = "2022-12-29 14:18:33 GMT"
-display_avatar = true
 type = "text"
-is_blaze_pending = false
-format = "html"
-reblog_key = "xsLNz88p"
-id = 7.049823002622689e+17
+date = "2022-12-29 14:18:33 GMT"
+interactability_reblog = "everyone"
+can_reblog = false
+display_avatar = true
 id_string = "704982300262268928"
 should_open_in_legacy = false
 title = ""
-can_like = false
-slug = "why-the-super-rich-are-inevitable"
+blog_name = "indirect"
+reblog_key = "xsLNz88p"
+post_url = "https://indirect.io/post/704982300262268928/why-the-super-rich-are-inevitable"
+timestamp = 1672323513.0
+can_send_in_message = true
+is_blazed = false
+is_blaze_pending = false
+can_blaze = false
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyd8cQgy4W00"
+format = "html"
 interactability_blaze = "everyone"
-can_reply = false
 
 [[tumblr.trail]]
 content_raw = "<p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"display_url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"title\":\"Why the super rich are inevitable\",\"description\":\"Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it.\",\"site_name\":\"The Pudding\",\"poster\":[{\"media_key\":\"32d0e70209de19637b77b7e8922895c8:f726bedc7ddd9f2e-96\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":628}]}'><a href=\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\" target=\"_blank\">Why the super rich are inevitable</a></p>"
@@ -41,47 +41,49 @@ content = "<p class=\"npf_link\" data-npf=\"{&quot;type&quot;:&quot;link&quot;,&
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_title = true
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-background_color = "#FAFAFA"
-avatar_shape = "square"
-header_bounds = ""
-show_description = true
-show_header_image = false
-
 [tumblr.trail.post]
 id = "704982300262268928"
 
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_bounds = ""
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+show_avatar = true
+show_description = true
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_title = true
+title_font_weight = "bold"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"display_url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"title\":\"Why the super rich are inevitable\",\"description\":\"Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it.\",\"site_name\":\"The Pudding\",\"poster\":[{\"media_key\":\"32d0e70209de19637b77b7e8922895c8:f726bedc7ddd9f2e-96\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":628}]}'><a href=\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\" target=\"_blank\">Why the super rich are inevitable</a></p>"
+
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"display_url\":\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\",\"title\":\"Why the super rich are inevitable\",\"description\":\"Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it.\",\"site_name\":\"The Pudding\",\"poster\":[{\"media_key\":\"32d0e70209de19637b77b7e8922895c8:f726bedc7ddd9f2e-96\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":628}]}'><a href=\"https://href.li/?https://pudding.cool/2022/12/yard-sale/\" target=\"_blank\">Why the super rich are inevitable</a></p>"
-tree_html = ""
 +++

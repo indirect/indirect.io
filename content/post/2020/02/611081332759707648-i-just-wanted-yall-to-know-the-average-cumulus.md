@@ -6,43 +6,43 @@ slug = "i-just-wanted-yall-to-know-the-average-cumulus"
 type = "tumblr-quote"
 
 [tumblr]
-can_send_in_message = true
-short_url = "https://tmblr.co/ZY3jbyXw-pm80y00"
-should_open_in_legacy = true
+type = "quote"
+blog_name = "indirect"
+timestamp = 1582772572.0
 text = "I just wanted y’all to know the average cumulus cloud weighs approximately 1.1 million pounds. (500,000kg) and share in my simultaneous fascination and horror."
-interactability_reblog = "everyone"
-is_blazed = false
+can_send_in_message = true
 can_blaze = false
 slug = "i-just-wanted-yall-to-know-the-average-cumulus"
-note_count = 0.0
-can_reply = false
-can_like = false
-type = "quote"
-is_blocks_post_format = false
-blog_name = "indirect"
 summary = "I just wanted y’all to know the average cumulus cloud weighs approximately 1.1 million pounds. (500,000kg) and share in my..."
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/611081332759707648/i-just-wanted-yall-to-know-the-average-cumulus"
-state = "published"
-display_avatar = true
-id_string = "611081332759707648"
-can_reblog = false
-timestamp = 1582772572.0
+can_reply = false
+post_url = "https://indirect.io/post/611081332759707648/i-just-wanted-yall-to-know-the-average-cumulus"
 format = "html"
-reblog_key = "Y7bj4kSc"
+note_count = 0.0
+can_reblog = false
+display_avatar = true
 id = 6.110813327597076e+17
 is_blaze_pending = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+id_string = "611081332759707648"
 date = "2020-02-27 03:02:52 GMT"
+state = "published"
 source = "<a href=\"http://twitter.com/Brynn_Metheney/status/1232425484832501760\">@Brynn_Metheney</a>"
+can_like = false
+should_open_in_legacy = true
+is_blocks_post_format = false
+is_blazed = false
+reblog_key = "Y7bj4kSc"
+short_url = "https://tmblr.co/ZY3jbyXw-pm80y00"
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

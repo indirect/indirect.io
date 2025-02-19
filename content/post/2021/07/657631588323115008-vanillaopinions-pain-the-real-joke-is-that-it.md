@@ -6,48 +6,33 @@ slug = "vanillaopinions-pain-the-real-joke-is-that-it"
 type = "tumblr-text"
 
 [tumblr]
-state = "published"
+can_blaze = false
 summary = "@vanillaopinions: pain\n\n\n\nThe real joke is that it kills way more people than the trolley but decentralizes blame so nobody has..."
-timestamp = 1627166355.0
+can_reblog = false
+post_url = "https://indirect.io/post/657631588323115008/vanillaopinions-pain-the-real-joke-is-that-it"
+interactability_blaze = "everyone"
+can_reply = false
+id_string = "657631588323115008"
+is_blaze_pending = false
+state = "published"
+format = "html"
+is_blazed = false
+slug = "vanillaopinions-pain-the-real-joke-is-that-it"
+date = "2021-07-24 22:39:15 GMT"
+short_url = "https://tmblr.co/ZY3jbyaWO77-4q00"
+note_count = 0.0
+type = "text"
+should_open_in_legacy = false
 body = "<blockquote><p>\n<a href=\"http://twitter.com/vanillaopinions/status/1418751301953982464\">@vanillaopinions</a>: pain\n<img src=\"http://pbs.twimg.com/media/E7BqycOXMAkR6A4.jpg\"/>\n</p></blockquote>\n\nThe real joke is that it kills way more people than the trolley but decentralizes blame so nobody has to feel responsible. — <a href=\"http://twitter.com/leftoblique/status/1419034920421269505\">@leftoblique</a>"
 interactability_reblog = "everyone"
-can_reblog = false
-note_count = 0.0
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-format = "html"
-reblog_key = "Hm52oThu"
-id_string = "657631588323115008"
-slug = "vanillaopinions-pain-the-real-joke-is-that-it"
-short_url = "https://tmblr.co/ZY3jbyaWO77-4q00"
-should_open_in_legacy = false
-type = "text"
-blog_name = "indirect"
 id = 6.57631588323115e+17
-post_url = "https://indirect.tumblr.com/post/657631588323115008/vanillaopinions-pain-the-real-joke-is-that-it"
-date = "2021-07-24 22:39:15 GMT"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-is_blaze_pending = false
-can_blaze = false
+timestamp = 1627166355.0
 can_like = false
-is_blazed = false
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/vanillaopinions/status/1418751301953982464\">@vanillaopinions</a>: pain\n<img src=\"http://pbs.twimg.com/media/E7BqycOXMAkR6A4.jpg\">\n</p></blockquote>\n\nThe real joke is that it kills way more people than the trolley but decentralizes blame so nobody has to feel responsible. — <a href=\"http://twitter.com/leftoblique/status/1419034920421269505\">@leftoblique</a></p>"
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+display_avatar = true
+is_blocks_post_format = false
+blog_name = "indirect"
+reblog_key = "Hm52oThu"
+can_send_in_message = true
 
 [[tumblr.trail]]
 content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/vanillaopinions/status/1418751301953982464\">@vanillaopinions</a>: pain\n<img src=\"http://pbs.twimg.com/media/E7BqycOXMAkR6A4.jpg\">\n</p></blockquote>\n\nThe real joke is that it kills way more people than the trolley but decentralizes blame so nobody has to feel responsible. — <a href=\"http://twitter.com/leftoblique/status/1419034920421269505\">@leftoblique</a></p>"
@@ -56,31 +41,48 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
 show_description = true
-show_title = true
+header_full_height = 1055.0
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
 title_color = "#444444"
-background_color = "#FAFAFA"
-title_font = "Gibson"
+title_font_weight = "bold"
 header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_header_image = false
+header_full_width = 3000.0
+header_image_poster = ""
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "657631588323115008"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/vanillaopinions/status/1418751301953982464\">@vanillaopinions</a>: pain\n<img src=\"http://pbs.twimg.com/media/E7BqycOXMAkR6A4.jpg\">\n</p></blockquote>\n\nThe real joke is that it kills way more people than the trolley but decentralizes blame so nobody has to feel responsible. — <a href=\"http://twitter.com/leftoblique/status/1419034920421269505\">@leftoblique</a></p>"
+tree_html = ""
 +++

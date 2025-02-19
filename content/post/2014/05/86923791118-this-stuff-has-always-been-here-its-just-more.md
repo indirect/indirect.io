@@ -6,50 +6,50 @@ slug = "this-stuff-has-always-been-here-its-just-more"
 type = "tumblr-quote"
 
 [tumblr]
-id = 86923791118.0
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1Gz3yiE"
-display_avatar = true
-timestamp = 1401133109.0
-summary = "this stuff has always been here. It’s just more intense, and more violent, now that the bigots feel threatened"
-source_title = "nkjemisin.com"
-type = "quote"
-slug = "this-stuff-has-always-been-here-its-just-more"
-can_like = false
+text = "this stuff has always been here. It’s just more intense, and more violent, now that the bigots feel threatened"
 can_send_in_message = true
-format = "markdown"
-can_reply = false
+display_avatar = true
+is_blazed = false
+slug = "this-stuff-has-always-been-here-its-just-more"
+timestamp = 1401133109.0
+source_title = "nkjemisin.com"
 id_string = "86923791118"
+can_like = false
+is_blocks_post_format = false
+blog_name = "indirect"
+note_count = 0.0
+can_reply = false
+type = "quote"
+format = "markdown"
+source_url = "http://nkjemisin.com/2014/05/wiscon-38-guest-of-honor-speech/"
+date = "2014-05-26 19:38:29 GMT"
+id = 86923791118.0
+can_blaze = false
+reblog_key = "ndsmIsw0"
+short_url = "https://tmblr.co/ZY3jby1Gz3yiE"
 bookmarklet = true
+interactability_reblog = "everyone"
+summary = "this stuff has always been here. It’s just more intense, and more violent, now that the bigots feel threatened"
+should_open_in_legacy = true
 source = "<a href=\"http://nkjemisin.com/2014/05/wiscon-38-guest-of-honor-speech/\">Wiscon 38 Guest of Honor Speech</a>"
 interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-note_count = 0.0
-source_url = "http://nkjemisin.com/2014/05/wiscon-38-guest-of-honor-speech/"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/86923791118/this-stuff-has-always-been-here-its-just-more"
-text = "this stuff has always been here. It’s just more intense, and more violent, now that the bigots feel threatened"
-interactability_reblog = "everyone"
 can_reblog = false
-date = "2014-05-26 19:38:29 GMT"
 state = "published"
-reblog_key = "ndsmIsw0"
-should_open_in_legacy = true
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+is_blaze_pending = false
+post_url = "https://indirect.io/post/86923791118/this-stuff-has-always-been-here-its-just-more"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://nkjemisin.com/2014/05/wiscon-38-guest-of-honor-speech/\">Wiscon 38 Guest of Honor Speech</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

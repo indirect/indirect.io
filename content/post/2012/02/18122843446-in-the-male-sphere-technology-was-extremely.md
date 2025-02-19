@@ -6,47 +6,47 @@ slug = "in-the-male-sphere-technology-was-extremely"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
 short_url = "https://tmblr.co/ZY3jbyGuDAKs"
-text = "In the “male” sphere […] technology was extremely high-level, better than anywhere I’d yet lived. In the “female” sphere, […] it was on a level my grandmother would find familiar."
-source = "<a href=\"http://www.antipope.org/charlie/blog-static/2012/02/life-with-and-without-animated.html\">Life With and Without Animated Ducks: The Future Is Gender Distributed</a>"
-id = 18122843446.0
-is_blazed = false
-can_blaze = false
-slug = "in-the-male-sphere-technology-was-extremely"
-date = "2012-02-23 08:52:11 GMT"
 should_open_in_legacy = true
-blog_name = "indirect"
-reblog_key = "zvCxOEXa"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_send_in_message = true
 display_avatar = true
 type = "quote"
-id_string = "18122843446"
-can_reblog = false
+can_blaze = false
 can_like = false
-state = "published"
-format = "markdown"
-interactability_blaze = "everyone"
-can_reply = false
+id = 18122843446.0
 timestamp = 1329987131.0
-post_url = "https://indirect.tumblr.com/post/18122843446/in-the-male-sphere-technology-was-extremely"
-summary = "In the “male” sphere […] technology was extremely high-level, better than anywhere I’d yet lived. In the “female” sphere, […] it..."
+reblog_key = "zvCxOEXa"
 is_blaze_pending = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+state = "published"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+date = "2012-02-23 08:52:11 GMT"
+text = "In the “male” sphere […] technology was extremely high-level, better than anywhere I’d yet lived. In the “female” sphere, […] it was on a level my grandmother would find familiar."
+can_reblog = false
+interactability_reblog = "everyone"
+is_blazed = false
+format = "markdown"
+summary = "In the “male” sphere […] technology was extremely high-level, better than anywhere I’d yet lived. In the “female” sphere, […] it..."
+source = "<a href=\"http://www.antipope.org/charlie/blog-static/2012/02/life-with-and-without-animated.html\">Life With and Without Animated Ducks: The Future Is Gender Distributed</a>"
+can_send_in_message = true
+blog_name = "indirect"
+post_url = "https://indirect.io/post/18122843446/in-the-male-sphere-technology-was-extremely"
+slug = "in-the-male-sphere-technology-was-extremely"
+note_count = 0.0
+can_reply = false
+id_string = "18122843446"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.antipope.org/charlie/blog-static/2012/02/life-with-and-without-animated.html\">Life With and Without Animated Ducks: The Future Is Gender Distributed</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

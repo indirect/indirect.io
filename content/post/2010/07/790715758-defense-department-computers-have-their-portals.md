@@ -6,47 +6,47 @@ slug = "defense-department-computers-have-their-portals"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "CWI6pLYl"
-note_count = 0.0
-is_blazed = false
-format = "html"
-type = "quote"
-blog_name = "indirect"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyl8Lrk"
-interactability_reblog = "everyone"
-id_string = "790715758"
-slug = "defense-department-computers-have-their-portals"
-can_reply = false
-display_avatar = true
-state = "published"
-summary = "Defense Department computers have their portals disabled to prevent the use of external memory devices"
-source = "<p>&hellip;who knew computers had portals?</p>\n<p><a href=\"http://www.nytimes.com/2010/07/09/world/09breach.html?_r=1\">Loophole May Have Aided Theft of Classified Data</a></p>"
-can_reblog = false
+interactability_blaze = "everyone"
 is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/790715758/defense-department-computers-have-their-portals"
+note_count = 0.0
+interactability_reblog = "everyone"
+slug = "defense-department-computers-have-their-portals"
+can_reblog = false
+source = "<p>&hellip;who knew computers had portals?</p>\n<p><a href=\"http://www.nytimes.com/2010/07/09/world/09breach.html?_r=1\">Loophole May Have Aided Theft of Classified Data</a></p>"
+can_like = false
+is_blazed = false
 date = "2010-07-09 20:22:00 GMT"
-should_open_in_legacy = true
+reblog_key = "CWI6pLYl"
+display_avatar = true
+is_blaze_pending = false
+format = "html"
+summary = "Defense Department computers have their portals disabled to prevent the use of external memory devices"
 text = "Defense Department computers have their portals disabled to prevent the use of external memory devices"
 can_send_in_message = true
-id = 790715758.0
-is_blaze_pending = false
+can_reply = false
+id_string = "790715758"
+post_url = "https://indirect.io/post/790715758/defense-department-computers-have-their-portals"
 timestamp = 1278706920.0
-can_like = false
-interactability_blaze = "everyone"
+state = "published"
+id = 790715758.0
+can_blaze = false
+should_open_in_legacy = true
+type = "quote"
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyl8Lrk"
 
 [tumblr.reblog]
 comment = "<p>…who knew computers had portals?</p>\n<p><a href=\"http://www.nytimes.com/2010/07/09/world/09breach.html?_r=1\">Loophole May Have Aided Theft of Classified Data</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

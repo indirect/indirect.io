@@ -6,47 +6,47 @@ slug = "steveklabnik-it-really-is-you-can-even-see-it-in"
 type = "tumblr-quote"
 
 [tumblr]
-can_reblog = false
-display_avatar = true
-is_blocks_post_format = false
+date = "2015-05-11 19:31:15 GMT"
+summary = "@steveklabnik It really is. You can even see it in the HN article that links to this — it’s being totally denied and mansplained..."
+should_open_in_legacy = true
+can_blaze = false
+post_url = "https://indirect.io/post/118715782563/steveklabnik-it-really-is-you-can-even-see-it-in"
 format = "html"
 source = "<a href=\"http://twitter.com/skyhighwings/status/597754183991861248\">@skyhighwings</a>"
-can_reply = false
+text = "@steveklabnik It really is. You can even see it in the HN article that links to this — it&rsquo;s being totally denied and mansplained away."
 id = 118715782563.0
-can_blaze = false
-slug = "steveklabnik-it-really-is-you-can-even-see-it-in"
 reblog_key = "T9tM2Nwd"
 short_url = "https://tmblr.co/ZY3jby1ka0nMZ"
-summary = "@steveklabnik It really is. You can even see it in the HN article that links to this — it’s being totally denied and mansplained..."
-can_send_in_message = true
-state = "published"
-should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+display_avatar = true
 timestamp = 1431372675.0
+interactability_reblog = "everyone"
+slug = "steveklabnik-it-really-is-you-can-even-see-it-in"
+can_like = false
+is_blocks_post_format = false
+blog_name = "indirect"
+is_blaze_pending = false
 type = "quote"
 id_string = "118715782563"
-post_url = "https://indirect.tumblr.com/post/118715782563/steveklabnik-it-really-is-you-can-even-see-it-in"
 is_blazed = false
-interactability_blaze = "everyone"
-date = "2015-05-11 19:31:15 GMT"
-is_blaze_pending = false
-text = "@steveklabnik It really is. You can even see it in the HN article that links to this — it&rsquo;s being totally denied and mansplained away."
-can_like = false
-interactability_reblog = "everyone"
-blog_name = "indirect"
-note_count = 0.0
+state = "published"
+can_reblog = false
+can_send_in_message = true
+can_reply = false
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/skyhighwings/status/597754183991861248\">@skyhighwings</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,43 +6,43 @@ slug = "genders-are-like-cars-everyone-keeps-telling-me-i"
 type = "tumblr-quote"
 
 [tumblr]
-id = 88921011258.0
-slug = "genders-are-like-cars-everyone-keeps-telling-me-i"
-timestamp = 1402888503.0
-display_avatar = true
-type = "quote"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/88921011258/genders-are-like-cars-everyone-keeps-telling-me-i"
-should_open_in_legacy = true
-text = "Genders are like cars, everyone keeps telling me I abso need one and I keep going &ldquo;I LIVE IN SAN FRANCISCO&rdquo;"
 can_send_in_message = true
-summary = "Genders are like cars, everyone keeps telling me I abso need one and I keep going “I LIVE IN SAN FRANCISCO”"
-interactability_reblog = "everyone"
-can_reblog = false
-id_string = "88921011258"
-can_reply = false
-note_count = 0.0
-source = "<a href=\"http://twitter.com/tonitonirocca/status/337697644468129792\">@tonitonirocca</a>"
-can_like = false
-is_blaze_pending = false
-reblog_key = "9I37qJiR"
-short_url = "https://tmblr.co/ZY3jby1Iq6lGw"
-interactability_blaze = "everyone"
+type = "quote"
 is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-state = "published"
 date = "2014-06-16 03:15:03 GMT"
+short_url = "https://tmblr.co/ZY3jby1Iq6lGw"
+can_reply = false
+can_like = false
+interactability_reblog = "everyone"
+state = "published"
+reblog_key = "9I37qJiR"
+should_open_in_legacy = true
+blog_name = "indirect"
+post_url = "https://indirect.io/post/88921011258/genders-are-like-cars-everyone-keeps-telling-me-i"
+note_count = 0.0
+interactability_blaze = "everyone"
+display_avatar = true
+slug = "genders-are-like-cars-everyone-keeps-telling-me-i"
+text = "Genders are like cars, everyone keeps telling me I abso need one and I keep going &ldquo;I LIVE IN SAN FRANCISCO&rdquo;"
+source = "<a href=\"http://twitter.com/tonitonirocca/status/337697644468129792\">@tonitonirocca</a>"
+id_string = "88921011258"
+can_blaze = false
 format = "html"
+summary = "Genders are like cars, everyone keeps telling me I abso need one and I keep going “I LIVE IN SAN FRANCISCO”"
+can_reblog = false
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1402888503.0
+id = 88921011258.0
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 

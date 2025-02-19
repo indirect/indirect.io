@@ -7,84 +7,45 @@ type = "tumblr-photo"
 
 [tumblr]
 is_blocks_post_format = false
-id_string = "1523336525"
-post_url = "https://indirect.tumblr.com/post/1523336525/penny-arcade-full-circle"
-state = "published"
-note_count = 2.0
-timestamp = 1289286986.0
-can_reply = false
-slug = "penny-arcade-full-circle"
-interactability_reblog = "everyone"
-type = "photo"
-blog_name = "indirect"
-bookmarklet = true
-caption = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
 id = 1523336525.0
-date = "2010-11-09 07:16:26 GMT"
-reblog_key = "NZLXiJmh"
+short_url = "https://tmblr.co/ZY3jby1Qp4LD"
+can_reply = false
+type = "photo"
+slug = "penny-arcade-full-circle"
 source_url = "http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29"
-link_url = "http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29"
-image_permalink = "https://indirect.tumblr.com/image/1523336525"
+blog_name = "indirect"
+summary = "Penny Arcade! - Full Circle"
 can_like = false
+interactability_reblog = "everyone"
 can_reblog = false
 can_blaze = false
-format = "markdown"
-summary = "Penny Arcade! - Full Circle"
-display_avatar = true
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1Qp4LD"
-source_title = "penny-arcade.com"
+image_permalink = "https://indirect.io/image/1523336525"
+caption = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
 can_send_in_message = true
-is_blazed = false
-should_open_in_legacy = true
+display_avatar = true
+id_string = "1523336525"
+timestamp = 1289286986.0
+state = "published"
+reblog_key = "NZLXiJmh"
 interactability_blaze = "everyone"
-
-[[tumblr.trail]]
-content_raw = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
-content = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "1523336525"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_header_image = false
-title_font = "Gibson"
-title_font_weight = "bold"
-header_stretch = true
-show_description = true
-show_avatar = true
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
+post_url = "https://indirect.io/post/1523336525/penny-arcade-full-circle"
+should_open_in_legacy = true
+bookmarklet = true
+link_url = "http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29"
+is_blazed = false
+is_blaze_pending = false
+date = "2010-11-09 07:16:26 GMT"
+format = "markdown"
+note_count = 2.0
+source_title = "penny-arcade.com"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 401.0
 url = "/images/b7/7a/0d981e8707df11a7b30e5a64887a.jpg"
 width = 800.0
+height = 401.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b7/7a/0d981e8707df11a7b30e5a64887a.jpg"
@@ -117,9 +78,9 @@ width = 250.0
 height = 125.0
 
 [[tumblr.photos.alt_sizes]]
+width = 100.0
 height = 50.0
 url = "/images/fc/e7/0788ed5fd7fea403b54b2bd57b5b.jpg"
-width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b1/b1/8e1469ca40ebbb13ba5e035f3942.jpg"
@@ -127,13 +88,54 @@ width = 75.0
 height = 75.0
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p><a href=\"http://www.penny-arcade.com/comic/2010/11/8/full-circle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pa-mainsite+%28Penny+Arcade%29\">Penny Arcade! - Full Circle</a></p>"
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_avatar = true
+header_full_width = 3000.0
+header_bounds = ""
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_full_height = 1055.0
+header_image_poster = ""
+header_stretch = true
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "1523336525"
 +++

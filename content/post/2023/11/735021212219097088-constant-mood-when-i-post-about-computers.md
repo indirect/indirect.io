@@ -6,43 +6,43 @@ slug = "constant-mood-when-i-post-about-computers"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-format = "markdown"
-text = "Constant mood when I post about computers"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/735021212219097088/constant-mood-when-i-post-about-computers"
-display_avatar = true
-id_string = "735021212219097088"
-timestamp = 1700970852.0
-summary = "Constant mood when I post about computers"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
-id = 7.350212122190971e+17
-reblog_key = "EzKE50Vv"
-can_reply = false
-is_blaze_pending = false
 type = "quote"
-slug = "constant-mood-when-i-post-about-computers"
-source = "<a href=\"https://cohost.org/eramdam/post/3578074-constant-mood-when-i\">@</a>"
-blog_name = "indirect"
-is_blazed = false
-date = "2023-11-26 03:54:12 GMT"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyepKUNmia00"
-can_like = false
+is_blaze_pending = false
 can_blaze = false
+post_url = "https://indirect.io/post/735021212219097088/constant-mood-when-i-post-about-computers"
+can_reblog = false
+is_blocks_post_format = false
+is_blazed = false
+reblog_key = "EzKE50Vv"
+state = "published"
+id = 7.350212122190971e+17
+slug = "constant-mood-when-i-post-about-computers"
+short_url = "https://tmblr.co/ZY3jbyepKUNmia00"
+source = "<a href=\"https://cohost.org/eramdam/post/3578074-constant-mood-when-i\">@</a>"
+date = "2023-11-26 03:54:12 GMT"
+timestamp = 1700970852.0
 should_open_in_legacy = true
+blog_name = "indirect"
+id_string = "735021212219097088"
+note_count = 0.0
+text = "Constant mood when I post about computers"
+format = "markdown"
+summary = "Constant mood when I post about computers"
+can_like = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+display_avatar = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,43 +6,43 @@ slug = "fonts-have-a-weight-and-fonts-have-a-height-so"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyb858_B4q00"
-text = "Fonts have a weight and fonts have a height, so technically it should be possible to calculate the BMI of a font."
 interactability_blaze = "everyone"
+can_reply = false
+is_blocks_post_format = false
+summary = "Fonts have a weight and fonts have a height, so technically it should be possible to calculate the BMI of a font."
+interactability_reblog = "everyone"
 can_reblog = false
 can_send_in_message = true
-is_blazed = false
 can_like = false
-display_avatar = true
-interactability_reblog = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/668807151410692096/fonts-have-a-weight-and-fonts-have-a-height-so"
-is_blocks_post_format = false
 id_string = "668807151410692096"
-format = "html"
-reblog_key = "gfDjYsHL"
-summary = "Fonts have a weight and fonts have a height, so technically it should be possible to calculate the BMI of a font."
-should_open_in_legacy = true
-type = "quote"
-can_reply = false
 can_blaze = false
-timestamp = 1637824202.0
-source = "<a href=\"http://twitter.com/emilyst/status/1463761207500763140\">@emilyst</a>"
-id = 6.688071514106921e+17
+reblog_key = "gfDjYsHL"
+text = "Fonts have a weight and fonts have a height, so technically it should be possible to calculate the BMI of a font."
 is_blaze_pending = false
-slug = "fonts-have-a-weight-and-fonts-have-a-height-so"
+short_url = "https://tmblr.co/ZY3jbyb858_B4q00"
+state = "published"
+is_blazed = false
 date = "2021-11-25 07:10:02 GMT"
 note_count = 0.0
+blog_name = "indirect"
+source = "<a href=\"http://twitter.com/emilyst/status/1463761207500763140\">@emilyst</a>"
+display_avatar = true
+post_url = "https://indirect.io/post/668807151410692096/fonts-have-a-weight-and-fonts-have-a-height-so"
+format = "html"
+slug = "fonts-have-a-weight-and-fonts-have-a-height-so"
+timestamp = 1637824202.0
+type = "quote"
+id = 6.688071514106921e+17
+should_open_in_legacy = true
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

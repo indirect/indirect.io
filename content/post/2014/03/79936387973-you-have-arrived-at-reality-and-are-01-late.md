@@ -6,43 +6,43 @@ slug = "you-have-arrived-at-reality-and-are-01-late"
 type = "tumblr-quote"
 
 [tumblr]
+is_blaze_pending = false
+post_url = "https://indirect.io/post/79936387973/you-have-arrived-at-reality-and-are-01-late"
+text = "You have arrived at $REALITY and are ∞:∞:01 late.  This is the terminal station."
+interactability_reblog = "everyone"
+can_send_in_message = true
 can_blaze = false
 short_url = "https://tmblr.co/ZY3jby1ASb7k5"
-id = 79936387973.0
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/79936387973/you-have-arrived-at-reality-and-are-01-late"
-reblog_key = "wzjluzHu"
-interactability_blaze = "everyone"
+source = "<a href=\"https://twitter.com/etrolleybus/status/444876427658559489\">@etrolleybus</a>"
+can_like = false
+slug = "you-have-arrived-at-reality-and-are-01-late"
 state = "published"
-blog_name = "indirect"
 format = "markdown"
 summary = "You have arrived at $REALITY and are ∞:∞:01 late.  This is the terminal station."
-can_reply = false
-is_blaze_pending = false
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
+type = "quote"
 is_blocks_post_format = false
-slug = "you-have-arrived-at-reality-and-are-01-late"
+id_string = "79936387973"
+is_blazed = false
 date = "2014-03-18 03:12:42 GMT"
 timestamp = 1395112362.0
-source = "<a href=\"https://twitter.com/etrolleybus/status/444876427658559489\">@etrolleybus</a>"
-can_send_in_message = true
-can_like = false
-id_string = "79936387973"
-text = "You have arrived at $REALITY and are ∞:∞:01 late.  This is the terminal station."
+interactability_blaze = "everyone"
+can_reply = false
+should_open_in_legacy = true
+can_reblog = false
+note_count = 0.0
+blog_name = "indirect"
+id = 79936387973.0
+reblog_key = "wzjluzHu"
 display_avatar = true
-is_blazed = false
 
 [tumblr.blog]
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,47 +6,47 @@ slug = "over-many-years-i-have-been-gradually-replacing"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "over-many-years-i-have-been-gradually-replacing"
-summary = "Over many years, I have been gradually replacing all of the paragraphs in the Ship of Theseus Wikipedia article."
-text = "Over many years, I have been gradually replacing all of the paragraphs in the Ship of Theseus Wikipedia article."
-display_avatar = true
-state = "published"
-should_open_in_legacy = true
-can_send_in_message = true
-interactability_reblog = "everyone"
-is_blaze_pending = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/708392109988773889/over-many-years-i-have-been-gradually-replacing"
-reblog_key = "Wqbv5OJL"
-can_reblog = false
-is_blocks_post_format = false
-type = "quote"
-is_blazed = false
-timestamp = 1675575361.0
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbydKjjxjaW01"
-source = "<a href=\"https://mastodon.social/@Chrishallbeck/109592365827841537\">@Chrishallbeck</a>"
 can_reply = false
-date = "2023-02-05 05:36:01 GMT"
+display_avatar = true
+short_url = "https://tmblr.co/ZY3jbydKjjxjaW01"
+summary = "Over many years, I have been gradually replacing all of the paragraphs in the Ship of Theseus Wikipedia article."
+note_count = 0.0
 interactability_blaze = "everyone"
+type = "quote"
+can_blaze = false
+text = "Over many years, I have been gradually replacing all of the paragraphs in the Ship of Theseus Wikipedia article."
+source = "<a href=\"https://mastodon.social/@Chrishallbeck/109592365827841537\">@Chrishallbeck</a>"
 can_like = false
 blog_name = "indirect"
+slug = "over-many-years-i-have-been-gradually-replacing"
+can_reblog = false
 id = 7.083921099887739e+17
-note_count = 0.0
+is_blazed = false
+post_url = "https://indirect.io/post/708392109988773889/over-many-years-i-have-been-gradually-replacing"
+state = "published"
+reblog_key = "Wqbv5OJL"
+timestamp = 1675575361.0
+should_open_in_legacy = true
+is_blaze_pending = false
+format = "markdown"
+interactability_reblog = "everyone"
+can_send_in_message = true
+is_blocks_post_format = false
 id_string = "708392109988773889"
+date = "2023-02-05 05:36:01 GMT"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"https://mastodon.social/@Chrishallbeck/109592365827841537\">@Chrishallbeck</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

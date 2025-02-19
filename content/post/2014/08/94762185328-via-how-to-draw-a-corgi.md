@@ -6,71 +6,84 @@ slug = "via-how-to-draw-a-corgi"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-date = "2014-08-14 22:26:59 GMT"
-display_avatar = true
-id = 94762185328.0
-post_url = "https://indirect.tumblr.com/post/94762185328/via-how-to-draw-a-corgi"
-state = "published"
-format = "markdown"
-interactability_reblog = "everyone"
-can_reply = false
-type = "photo"
-slug = "via-how-to-draw-a-corgi"
-timestamp = 1408055219.0
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-is_blaze_pending = false
-can_blaze = false
-summary = "(via How to Draw a Corgi)"
-caption = "<p>(via <a href=\"http://www.pinterest.com/pin/167125836147517719/\">How to Draw a Corgi</a>)</p>"
 blog_name = "indirect"
-id_string = "94762185328"
-reblog_key = "RsMXKqak"
-short_url = "https://tmblr.co/ZY3jby1OGH39m"
+id = 94762185328.0
+slug = "via-how-to-draw-a-corgi"
+note_count = 1.0
+is_blaze_pending = false
 should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/94762185328"
+caption = "<p>(via <a href=\"http://www.pinterest.com/pin/167125836147517719/\">How to Draw a Corgi</a>)</p>"
+display_avatar = true
+timestamp = 1408055219.0
+reblog_key = "RsMXKqak"
+can_like = false
+interactability_blaze = "everyone"
 can_reblog = false
 can_send_in_message = true
-link_url = "http://www.pinterest.com/pin/167125836147517719/"
+is_blocks_post_format = false
+date = "2014-08-14 22:26:59 GMT"
+short_url = "https://tmblr.co/ZY3jby1OGH39m"
+interactability_reblog = "everyone"
+is_blazed = false
+post_url = "https://indirect.io/post/94762185328/via-how-to-draw-a-corgi"
+format = "markdown"
+image_permalink = "https://indirect.io/image/94762185328"
+type = "photo"
+id_string = "94762185328"
+state = "published"
+summary = "(via How to Draw a Corgi)"
+can_blaze = false
+can_reply = false
 bookmarklet = true
-note_count = 1.0
-can_like = false
+link_url = "http://www.pinterest.com/pin/167125836147517719/"
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>(via <a href=\"http://www.pinterest.com/pin/167125836147517719/\">How to Draw a Corgi</a>)</p>"
 content = "<p>(via <a href=\"http://www.pinterest.com/pin/167125836147517719/\">How to Draw a Corgi</a>)</p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_font = "Gibson"
 avatar_shape = "square"
-body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_title = true
+background_color = "#FAFAFA"
+header_image_poster = ""
 show_description = true
 show_header_image = false
 title_color = "#444444"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
+title_font = "Gibson"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-link_color = "#529ECC"
 show_avatar = true
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "94762185328"
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -106,25 +119,14 @@ width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/7a/b6/32d91d894ab62b2a12261719a9bf.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/5f/7f/c67b36ea0207da3bde5787732146.jpg"
 width = 75.0
-height = 75.0
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>(via <a href=\"http://www.pinterest.com/pin/167125836147517719/\">How to Draw a Corgi</a>)</p>"

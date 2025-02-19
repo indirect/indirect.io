@@ -6,47 +6,47 @@ slug = "america-school-6-18-should-be-free-more-than"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1420791253.0
-reblog_key = "kvzab8L0"
-can_like = false
-can_send_in_message = true
-display_avatar = true
-is_blazed = false
-summary = "America: School 6-18 should be free. More than free! MANDATORY \n“Hey can you cover school 19-22 also?” \nNo that’s socialism..."
-interactability_blaze = "everyone"
-can_reblog = false
-is_blocks_post_format = false
-id = 107582703088.0
-id_string = "107582703088"
-format = "html"
-note_count = 0.0
-type = "quote"
-can_reply = false
-is_blaze_pending = false
-can_blaze = false
-slug = "america-school-6-18-should-be-free-more-than"
-blog_name = "indirect"
-date = "2015-01-09 08:14:13 GMT"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/mcclure111/status/553359017217511424\">@mcclure111</a>"
-post_url = "https://indirect.tumblr.com/post/107582703088/america-school-6-18-should-be-free-more-than"
-short_url = "https://tmblr.co/ZY3jby1aCRSNm"
 state = "published"
+is_blaze_pending = false
+is_blocks_post_format = false
+slug = "america-school-6-18-should-be-free-more-than"
+date = "2015-01-09 08:14:13 GMT"
+short_url = "https://tmblr.co/ZY3jby1aCRSNm"
+can_like = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+post_url = "https://indirect.io/post/107582703088/america-school-6-18-should-be-free-more-than"
+timestamp = 1420791253.0
 text = "America: School 6-18 should be free. More than free! MANDATORY<br/>\n&ldquo;Hey can you cover school 19-22 also?&rdquo;<br/>\nNo that&rsquo;s socialism<br/>\n&ldquo;19-20?&rdquo;<br/>\nSOCIALISM"
+id = 107582703088.0
+summary = "America: School 6-18 should be free. More than free! MANDATORY \n“Hey can you cover school 19-22 also?” \nNo that’s socialism..."
+should_open_in_legacy = true
+note_count = 0.0
+id_string = "107582703088"
+is_blazed = false
+can_blaze = false
+source = "<a href=\"http://twitter.com/mcclure111/status/553359017217511424\">@mcclure111</a>"
+can_reblog = false
+type = "quote"
+blog_name = "indirect"
+reblog_key = "kvzab8L0"
+format = "html"
 interactability_reblog = "everyone"
+display_avatar = true
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/mcclure111/status/553359017217511424\">@mcclure111</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

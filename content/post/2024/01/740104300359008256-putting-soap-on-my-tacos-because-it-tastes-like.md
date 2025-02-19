@@ -6,47 +6,47 @@ slug = "putting-soap-on-my-tacos-because-it-tastes-like"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-date = "2024-01-21 06:27:42 GMT"
-format = "markdown"
-timestamp = 1705818462.0
-short_url = "https://tmblr.co/ZY3jbyf5OF2Veq00"
-summary = "putting soap on my tacos because it tastes like cilantro to me"
-note_count = 0.0
-type = "quote"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/740104300359008256/putting-soap-on-my-tacos-because-it-tastes-like"
-slug = "putting-soap-on-my-tacos-because-it-tastes-like"
-should_open_in_legacy = true
-state = "published"
-can_like = false
-interactability_reblog = "everyone"
-can_reply = false
 id = 7.401043003590083e+17
-is_blazed = false
+date = "2024-01-21 06:27:42 GMT"
 reblog_key = "nVHs9qCo"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-text = "putting soap on my tacos because it tastes like cilantro to me"
-id_string = "740104300359008256"
-can_reblog = false
-display_avatar = true
-source = "<a href=\"https://bsky.app/profile/juniorhoncho.bsky.social/post/3kjhuaestft2y\">more mr. nice guy  (@juniorhoncho.bsky.social)</a>"
+summary = "putting soap on my tacos because it tastes like cilantro to me"
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyf5OF2Veq00"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+is_blazed = false
+slug = "putting-soap-on-my-tacos-because-it-tastes-like"
+format = "markdown"
 can_send_in_message = true
+can_reply = false
+id_string = "740104300359008256"
+timestamp = 1705818462.0
+state = "published"
+note_count = 0.0
+display_avatar = true
+can_blaze = false
+post_url = "https://indirect.io/post/740104300359008256/putting-soap-on-my-tacos-because-it-tastes-like"
+can_like = false
+type = "quote"
+is_blaze_pending = false
+text = "putting soap on my tacos because it tastes like cilantro to me"
+source = "<a href=\"https://bsky.app/profile/juniorhoncho.bsky.social/post/3kjhuaestft2y\">more mr. nice guy  (@juniorhoncho.bsky.social)</a>"
+interactability_blaze = "everyone"
+can_reblog = false
+is_blocks_post_format = false
 
 [tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/juniorhoncho.bsky.social/post/3kjhuaestft2y\">more mr. nice guy  (@juniorhoncho.bsky.social)</a></p>"
 tree_html = ""
+comment = "<p><a href=\"https://bsky.app/profile/juniorhoncho.bsky.social/post/3kjhuaestft2y\">more mr. nice guy  (@juniorhoncho.bsky.social)</a></p>"
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,85 +6,39 @@ slug = "in-poland-there-is-a-larp-group-that-roleplays-as"
 type = "tumblr-photo"
 
 [tumblr]
-format = "html"
-note_count = 0.0
+photoset_layout = "13"
+blog_name = "indirect"
+id = 6.855382245522473e+17
+slug = "in-poland-there-is-a-larp-group-that-roleplays-as"
 interactability_reblog = "everyone"
 can_reblog = false
 state = "published"
+type = "photo"
+is_blazed = false
 reblog_key = "sVGYbqqz"
 can_like = false
-type = "photo"
-is_blocks_post_format = false
-date = "2022-05-28 23:23:15 GMT"
-short_url = "https://tmblr.co/ZY3jbyc3XM8IOu00"
-photoset_layout = "13"
-can_reply = false
-display_avatar = true
-blog_name = "indirect"
-id = 6.855382245522473e+17
-is_blazed = false
 is_blaze_pending = false
-should_open_in_legacy = true
-caption = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
-link_url = "http://twitter.com/PenBercifield/status/1530466376204398592"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/685538224552247296/in-poland-there-is-a-larp-group-that-roleplays-as"
-slug = "in-poland-there-is-a-larp-group-that-roleplays-as"
-timestamp = 1653780195.0
+interactability_blaze = "everyone"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyc3XM8IOu00"
 summary = "In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — @PenBercifield"
 id_string = "685538224552247296"
-interactability_blaze = "everyone"
+link_url = "http://twitter.com/PenBercifield/status/1530466376204398592"
+should_open_in_legacy = true
+is_blocks_post_format = false
+can_blaze = false
+date = "2022-05-28 23:23:15 GMT"
+note_count = 0.0
+caption = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
 can_send_in_message = true
+can_reply = false
+display_avatar = true
+post_url = "https://indirect.io/post/685538224552247296/in-poland-there-is-a-larp-group-that-roleplays-as"
+timestamp = 1653780195.0
 
 [tumblr.reblog]
 comment = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
-content = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing &ldquo;Ohio.&rdquo; &mdash; <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-avatar_shape = "square"
-link_color = "#529ECC"
-show_avatar = true
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-show_header_image = false
-show_title = true
-title_font = "Gibson"
-show_description = true
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "685538224552247296"
 
 [[tumblr.photos]]
 caption = ""
@@ -95,9 +49,9 @@ width = 873.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/9b/d8/5cd865e2655a03e05abf05d0cc1d.jpg"
 width = 873.0
 height = 1200.0
-url = "/images/9b/d8/5cd865e2655a03e05abf05d0cc1d.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/6b/9f/ad7abf460540410aaf0cecdda473.jpg"
@@ -110,14 +64,14 @@ width = 540.0
 height = 742.0
 
 [[tumblr.photos.alt_sizes]]
-height = 687.0
 url = "/images/21/cb/313dda2d82364454daacfdd806b2.jpg"
 width = 500.0
+height = 687.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/98/c0/6dfaabe0608d74bc673d0322075a.jpg"
 width = 400.0
 height = 550.0
+url = "/images/98/c0/6dfaabe0608d74bc673d0322075a.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9d/5e/4d880b58099db42aef1ebd6c8940.jpg"
@@ -138,9 +92,9 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
+height = 800.0
 url = "/images/5d/8f/0f6dd3bd456f34e429b72f87948c.jpg"
 width = 1200.0
-height = 800.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5d/8f/0f6dd3bd456f34e429b72f87948c.jpg"
@@ -168,9 +122,9 @@ height = 267.0
 url = "/images/11/42/c60a18a0a657650e367e47a137a1.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 167.0
 url = "/images/ed/2a/4fba7b2817323bf4f3fe724c1d84.jpg"
 width = 250.0
-height = 167.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9a/ee/b23f3d5561328c02ad5ad4beddaa.jpg"
@@ -178,17 +132,12 @@ width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/5c/88/4a5293a8f12a8fdf4e36118e2634.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
-
-[tumblr.photos.original_size]
-url = "/images/51/68/64a42d58037d239cb0f0e1437c2b.jpg"
-width = 1200.0
-height = 800.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/51/68/64a42d58037d239cb0f0e1437c2b.jpg"
@@ -201,14 +150,14 @@ width = 640.0
 height = 427.0
 
 [[tumblr.photos.alt_sizes]]
+height = 360.0
 url = "/images/bc/92/523450a6cf004e15f82c04284ad3.jpg"
 width = 540.0
-height = 360.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/65/5e/23be899d93a7dd458cdffecf35c2.jpg"
 width = 500.0
 height = 333.0
-url = "/images/65/5e/23be899d93a7dd458cdffecf35c2.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/05/93/343bbbed373f314b67d02f49720a.jpg"
@@ -221,27 +170,32 @@ width = 250.0
 height = 167.0
 
 [[tumblr.photos.alt_sizes]]
-height = 67.0
 url = "/images/91/44/848d30fb5a2fc9c17a1a123c63eb.jpg"
 width = 100.0
+height = 67.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7f/59/e16a063264a42c44a8f8c1805a6c.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+url = "/images/51/68/64a42d58037d239cb0f0e1437c2b.jpg"
+width = 1200.0
+height = 800.0
+
 [[tumblr.photos]]
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-height = 800.0
 url = "/images/20/2d/985d7608693f016d01cb23f701a5.jpg"
 width = 1200.0
+height = 800.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/fc/10/d9269b4640caa1178e2db3f693cc.jpg"
 width = 640.0
 height = 427.0
-url = "/images/fc/10/d9269b4640caa1178e2db3f693cc.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/97/c5/6098ebc2dd03e978f295e93e0d5f.jpg"
@@ -249,9 +203,9 @@ width = 540.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
+height = 333.0
 url = "/images/4d/83/c2c4215541a33ac4554f040ffa40.jpg"
 width = 500.0
-height = 333.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c1/c5/6389176537df955b84489a3c4e5f.jpg"
@@ -269,12 +223,60 @@ width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f1/3e/36728eae6054ba7d22b932dcb14b.jpg"
 width = 75.0
 height = 75.0
-url = "/images/f1/3e/36728eae6054ba7d22b932dcb14b.jpg"
 
 [tumblr.photos.original_size]
 url = "/images/20/2d/985d7608693f016d01cb23f701a5.jpg"
 width = 1200.0
 height = 800.0
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing “Ohio.” — <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
+content = "<p>In Poland, there is a LARP group that roleplays as contemporary Americans. Here they are doing &ldquo;Ohio.&rdquo; &mdash; <a href=\"http://twitter.com/PenBercifield/status/1530466376204398592\">@PenBercifield</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+show_title = true
+title_font = "Gibson"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_description = true
+show_header_image = false
+title_color = "#444444"
+title_font_weight = "bold"
+header_image_poster = ""
+background_color = "#FAFAFA"
+
+[tumblr.trail.post]
+id = "685538224552247296"
 +++

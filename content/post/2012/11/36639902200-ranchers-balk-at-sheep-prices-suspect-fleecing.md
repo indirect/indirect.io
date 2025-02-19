@@ -6,47 +6,47 @@ slug = "ranchers-balk-at-sheep-prices-suspect-fleecing"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyY7w8du"
+id_string = "36639902200"
 summary = "Ranchers Balk at Sheep Prices, Suspect Fleecing"
-display_avatar = true
-can_blaze = false
-is_blocks_post_format = false
+can_reply = false
+id = 36639902200.0
 state = "published"
 interactability_reblog = "everyone"
-id_string = "36639902200"
-is_blaze_pending = false
-interactability_blaze = "everyone"
-type = "quote"
-timestamp = 1353985667.0
-should_open_in_legacy = true
-source = "Billings Gazette (via This Is True)"
 can_reblog = false
-id = 36639902200.0
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/36639902200/ranchers-balk-at-sheep-prices-suspect-fleecing"
+type = "quote"
+is_blaze_pending = false
 note_count = 0.0
-blog_name = "indirect"
-date = "2012-11-27 03:07:47 GMT"
-reblog_key = "JwL6QK29"
-can_like = false
+interactability_blaze = "everyone"
 can_send_in_message = true
-can_reply = false
-slug = "ranchers-balk-at-sheep-prices-suspect-fleecing"
+is_blocks_post_format = false
+can_blaze = false
+timestamp = 1353985667.0
+reblog_key = "JwL6QK29"
+is_blazed = false
 format = "html"
+post_url = "https://indirect.io/post/36639902200/ranchers-balk-at-sheep-prices-suspect-fleecing"
+date = "2012-11-27 03:07:47 GMT"
+can_like = false
+slug = "ranchers-balk-at-sheep-prices-suspect-fleecing"
 text = "Ranchers Balk at Sheep Prices, Suspect Fleecing"
+display_avatar = true
+source = "Billings Gazette (via This Is True)"
+short_url = "https://tmblr.co/ZY3jbyY7w8du"
+should_open_in_legacy = true
+blog_name = "indirect"
 
 [tumblr.reblog]
 comment = "<p>Billings Gazette (via This Is True)</p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

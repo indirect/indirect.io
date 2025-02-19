@@ -6,46 +6,46 @@ slug = "because-all-devices-share-the-same-global-pin"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-state = "published"
+display_avatar = true
+type = "quote"
+id = 53316894020.0
+slug = "because-all-devices-share-the-same-global-pin"
+reblog_key = "YglnYqOt"
+short_url = "https://tmblr.co/ZY3jbynfxpr4"
+interactability_reblog = "everyone"
 id_string = "53316894020"
-source_url = "http://docs.blackberry.com/en/admin/deliverables/21760/PIN_encryption_keys_for_BBM_1840226_11.jsp"
-can_like = false
-can_reply = false
-text = "Because all devices share the same global PIN encryption key, there is a limit to how effectively BlackBerry Messenger messages are encrypted."
-source = "<a href=\"http://docs.blackberry.com/en/admin/deliverables/21760/PIN_encryption_keys_for_BBM_1840226_11.jsp\">Security Note - BlackBerry Messenger</a>"
+can_blaze = false
+date = "2013-06-19 00:08:55 GMT"
+bookmarklet = true
+can_send_in_message = true
+post_url = "https://indirect.io/post/53316894020/because-all-devices-share-the-same-global-pin"
+state = "published"
 is_blazed = false
+note_count = 0.0
+source = "<a href=\"http://docs.blackberry.com/en/admin/deliverables/21760/PIN_encryption_keys_for_BBM_1840226_11.jsp\">Security Note - BlackBerry Messenger</a>"
+can_like = false
+text = "Because all devices share the same global PIN encryption key, there is a limit to how effectively BlackBerry Messenger messages are encrypted."
+is_blocks_post_format = false
+blog_name = "indirect"
 is_blaze_pending = false
+format = "markdown"
 should_open_in_legacy = true
+timestamp = 1371600535.0
+summary = "Because all devices share the same global PIN encryption key, there is a limit to how effectively BlackBerry Messenger messages..."
 source_title = "docs.blackberry.com"
 can_reblog = false
-type = "quote"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/53316894020/because-all-devices-share-the-same-global-pin"
-date = "2013-06-19 00:08:55 GMT"
-reblog_key = "YglnYqOt"
-is_blocks_post_format = false
-slug = "because-all-devices-share-the-same-global-pin"
-timestamp = 1371600535.0
-note_count = 0.0
-interactability_reblog = "everyone"
+can_reply = false
+source_url = "http://docs.blackberry.com/en/admin/deliverables/21760/PIN_encryption_keys_for_BBM_1840226_11.jsp"
 interactability_blaze = "everyone"
-can_send_in_message = true
-id = 53316894020.0
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbynfxpr4"
-summary = "Because all devices share the same global PIN encryption key, there is a limit to how effectively BlackBerry Messenger messages..."
-bookmarklet = true
-display_avatar = true
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,81 +6,83 @@ slug = "everyone-in-america-is-totally-insane"
 type = "tumblr-text"
 
 [tumblr]
-summary = "Everyone in America is Totally Insane"
-note_count = 0.0
-can_reblog = false
-display_avatar = true
-type = "text"
-is_blocks_post_format = true
-can_like = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-can_blaze = false
-timestamp = 1689542859.0
 format = "html"
-can_reply = false
-slug = "everyone-in-america-is-totally-insane"
-short_url = "https://tmblr.co/ZY3jbye8lr2JGa00"
-blog_name = "indirect"
-id_string = "723038092981846016"
-should_open_in_legacy = false
-body = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
+interactability_reblog = "everyone"
 state = "published"
+id_string = "723038092981846016"
+post_url = "https://indirect.io/post/723038092981846016/everyone-in-america-is-totally-insane"
 id = 7.23038092981846e+17
+can_blaze = false
 date = "2023-07-16 21:27:39 GMT"
-title = ""
+should_open_in_legacy = false
 can_send_in_message = true
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/723038092981846016/everyone-in-america-is-totally-insane"
+can_reply = false
+interactability_blaze = "everyone"
+display_avatar = true
+timestamp = 1689542859.0
+type = "text"
+slug = "everyone-in-america-is-totally-insane"
+note_count = 0.0
+title = ""
 reblog_key = "pH24hc3R"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+short_url = "https://tmblr.co/ZY3jbye8lr2JGa00"
+body = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
+can_like = false
+can_reblog = false
+is_blocks_post_format = true
+blog_name = "indirect"
+is_blazed = false
+summary = "Everyone in America is Totally Insane"
+is_blaze_pending = false
 
 [tumblr.reblog]
 comment = "<p>> Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
 tree_html = ""
 
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
-content_raw = "<p>> Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
-content = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf=\"{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane&quot;,&quot;display_url&quot;:&quot;https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane&quot;,&quot;title&quot;:&quot;Everyone in America is Totally Insane&quot;,&quot;description&quot;:&quot;Yes, You Too&quot;,&quot;site_name&quot;:&quot;johnganz.substack.com&quot;,&quot;poster&quot;:[{&quot;media_key&quot;:&quot;61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:1200,&quot;height&quot;:600}]}\"><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>> Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf='{\"type\":\"link\",\"url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"display_url\":\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\",\"title\":\"Everyone in America is Totally Insane\",\"description\":\"Yes, You Too\",\"site_name\":\"johnganz.substack.com\",\"poster\":[{\"media_key\":\"61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a\",\"type\":\"image/jpeg\",\"width\":1200,\"height\":600}]}'><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
+content = "<p>&gt; Is it a coincidence that just as the Silicon Valley paradigm of American capitalism might be running out of steam and stagnating, these guys are all getting very paranoid and going reactionary? Maybe not.</p><p class=\"npf_link\" data-npf=\"{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane&quot;,&quot;display_url&quot;:&quot;https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane&quot;,&quot;title&quot;:&quot;Everyone in America is Totally Insane&quot;,&quot;description&quot;:&quot;Yes, You Too&quot;,&quot;site_name&quot;:&quot;johnganz.substack.com&quot;,&quot;poster&quot;:[{&quot;media_key&quot;:&quot;61ba098e9728f3234359a70f6a873699:0c74eb3e71f558de-0a&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:1200,&quot;height&quot;:600}]}\"><a href=\"https://href.li/?https://johnganz.substack.com/p/everyone-in-america-is-totally-insane\" target=\"_blank\">Everyone in America is Totally Insane</a></p>"
 
 [tumblr.trail.blog]
-share_likes = false
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-show_header_image = false
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
 header_bounds = ""
-header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
 show_avatar = true
-show_description = true
 title_color = "#444444"
 title_font = "Gibson"
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+link_color = "#529ECC"
+show_header_image = false
 show_title = true
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "723038092981846016"

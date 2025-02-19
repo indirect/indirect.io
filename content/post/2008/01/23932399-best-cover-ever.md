@@ -6,83 +6,85 @@ slug = "best-cover-ever"
 type = "tumblr-photo"
 
 [tumblr]
-image_permalink = "https://indirect.tumblr.com/image/23932399"
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jby1RItl"
-interactability_blaze = "everyone"
-type = "photo"
-is_blocks_post_format = false
-blog_name = "indirect"
-id = 23932399.0
-reblog_key = "1vQQkuyD"
-caption = "<p>Best. Cover. Ever. </p>"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/23932399/best-cover-ever"
-date = "2008-01-16 22:03:00 GMT"
-display_avatar = true
-is_blaze_pending = false
-timestamp = 1200520980.0
-state = "published"
-summary = "Best. Cover. Ever. "
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reply = false
-format = "html"
-note_count = 0.0
-link_url = "http://www.typography.com/images/blogImages/finerpoints_hoefler.jpg"
-can_like = false
 id_string = "23932399"
+caption = "<p>Best. Cover. Ever. </p>"
+link_url = "http://www.typography.com/images/blogImages/finerpoints_hoefler.jpg"
+can_reblog = false
+can_send_in_message = true
+post_url = "https://indirect.io/post/23932399/best-cover-ever"
+timestamp = 1200520980.0
+interactability_reblog = "everyone"
+display_avatar = true
+image_permalink = "https://indirect.io/image/23932399"
 is_blazed = false
 slug = "best-cover-ever"
-can_send_in_message = true
-
-[tumblr.reblog]
-comment = "<p>Best. Cover. Ever. </p>"
-tree_html = ""
+reblog_key = "1vQQkuyD"
+note_count = 0.0
+state = "published"
+id = 23932399.0
+date = "2008-01-16 22:03:00 GMT"
+can_reply = false
+short_url = "https://tmblr.co/ZY3jby1RItl"
+summary = "Best. Cover. Ever. "
+interactability_blaze = "everyone"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
+is_blocks_post_format = false
+is_blaze_pending = false
+format = "html"
+should_open_in_legacy = true
+type = "photo"
 
 [[tumblr.trail]]
+content_raw = "<p>Best. Cover. Ever. </p>"
 content = "<p>Best. Cover. Ever.&nbsp;</p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>Best. Cover. Ever. </p>"
 
 [tumblr.trail.blog]
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
 header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_color = "#444444"
-title_font_weight = "bold"
 avatar_shape = "square"
-background_color = "#FAFAFA"
-title_font = "Gibson"
-show_title = true
+link_color = "#529ECC"
 show_avatar = true
 show_description = true
 show_header_image = false
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_stretch = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "23932399"
 
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Best. Cover. Ever. </p>"
+
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

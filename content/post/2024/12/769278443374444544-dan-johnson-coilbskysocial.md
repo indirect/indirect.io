@@ -6,44 +6,44 @@ slug = "dan-johnson-coilbskysocial"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-short_url = "https://tmblr.co/ZY3jbygj1giUim00"
-interactability_blaze = "everyone"
-can_blaze = false
-image_permalink = "https://indirect.tumblr.com/image/769278443374444544"
-reblog_key = "UzsvskmC"
-interactability_reblog = "everyone"
-can_reply = false
 type = "photo"
-slug = "dan-johnson-coilbskysocial"
-timestamp = 1733641093.0
+can_blaze = false
 summary = "— Dan Johnson (@coil.bsky.social)"
-note_count = 0.0
 caption = "<p>— <a href=\"https://bsky.app/profile/coil.bsky.social/post/3lcrfkabek22d\">Dan Johnson (@coil.bsky.social)</a></p>"
-is_blocks_post_format = false
-can_reblog = false
 can_send_in_message = true
-id_string = "769278443374444544"
+image_permalink = "https://indirect.io/image/769278443374444544"
 is_blazed = false
-date = "2024-12-08 06:58:13 GMT"
+post_url = "https://indirect.io/post/769278443374444544/dan-johnson-coilbskysocial"
 format = "html"
-link_url = "https://bsky.app/profile/coil.bsky.social/post/3lcrfkabek22d"
-display_avatar = true
 should_open_in_legacy = true
+can_reblog = false
+id_string = "769278443374444544"
+is_blocks_post_format = false
+date = "2024-12-08 06:58:13 GMT"
+note_count = 0.0
+interactability_reblog = "everyone"
+display_avatar = true
 blog_name = "indirect"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/769278443374444544/dan-johnson-coilbskysocial"
-can_like = false
+link_url = "https://bsky.app/profile/coil.bsky.social/post/3lcrfkabek22d"
+state = "published"
 id = 7.692784433744445e+17
+is_blaze_pending = false
+slug = "dan-johnson-coilbskysocial"
+reblog_key = "UzsvskmC"
+can_like = false
+interactability_blaze = "everyone"
+timestamp = 1733641093.0
+short_url = "https://tmblr.co/ZY3jbygj1giUim00"
+can_reply = false
 
 [tumblr.blog]
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -65,23 +65,25 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-avatar_shape = "square"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-show_header_image = false
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
-show_avatar = true
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_description = true
 title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_poster = ""
+show_avatar = true
+show_header_image = false
+show_title = true
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "769278443374444544"
@@ -105,9 +107,9 @@ width = 640.0
 height = 420.0
 
 [[tumblr.photos.alt_sizes]]
-height = 355.0
 url = "/images/39/46/ac8aaef015d238114f08d3e7adb8.jpg"
 width = 540.0
+height = 355.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/8b/4a/349d97265631932d8e1b704eb45d.jpg"
@@ -120,14 +122,14 @@ width = 400.0
 height = 263.0
 
 [[tumblr.photos.alt_sizes]]
-width = 250.0
 height = 164.0
 url = "/images/03/5f/dc40d78b01cbcca08a2c41703de1.jpg"
+width = 250.0
 
 [[tumblr.photos.alt_sizes]]
+height = 66.0
 url = "/images/a3/64/48e7b475503c451981baff8ed7b8.jpg"
 width = 100.0
-height = 66.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/49/7e/9b710e2ca2cb56b4ac5e741aa5d9.jpg"

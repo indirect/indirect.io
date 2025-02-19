@@ -6,47 +6,47 @@ slug = "america-is-definitely-the-worlds-policeman-in-the"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blocks_post_format = false
-slug = "america-is-definitely-the-worlds-policeman-in-the"
-source = "<a href=\"http://twitter.com/tinyrevolution/status/516273103903948801\">@tinyrevolution</a>"
-id = 98854577848.0
-id_string = "98854577848"
-state = "published"
-should_open_in_legacy = true
-can_send_in_message = true
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blazed = false
-reblog_key = "EGboY8BO"
-can_reply = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/98854577848/america-is-definitely-the-worlds-policeman-in-the"
-short_url = "https://tmblr.co/ZY3jby1S4CIQu"
-can_reblog = false
-is_blaze_pending = false
-can_blaze = false
-summary = "America is definitely the world’s policeman in the sense that we’re constantly shooting lots of innocent non-white people"
-note_count = 0.0
 date = "2014-10-01 02:00:21 GMT"
-timestamp = 1412128821.0
-format = "html"
-text = "America is definitely the world&rsquo;s policeman in the sense that we&rsquo;re constantly shooting lots of innocent non-white people"
+state = "published"
+can_send_in_message = true
+id = 98854577848.0
+post_url = "https://indirect.io/post/98854577848/america-is-definitely-the-worlds-policeman-in-the"
+can_reply = false
+is_blocks_post_format = false
+is_blazed = false
+is_blaze_pending = false
+summary = "America is definitely the world’s policeman in the sense that we’re constantly shooting lots of innocent non-white people"
+can_reblog = false
 can_like = false
+note_count = 0.0
+blog_name = "indirect"
+can_blaze = false
+text = "America is definitely the world&rsquo;s policeman in the sense that we&rsquo;re constantly shooting lots of innocent non-white people"
+interactability_reblog = "everyone"
+reblog_key = "EGboY8BO"
 interactability_blaze = "everyone"
+id_string = "98854577848"
+slug = "america-is-definitely-the-worlds-policeman-in-the"
+format = "html"
+short_url = "https://tmblr.co/ZY3jby1S4CIQu"
+source = "<a href=\"http://twitter.com/tinyrevolution/status/516273103903948801\">@tinyrevolution</a>"
+display_avatar = true
+type = "quote"
+timestamp = 1412128821.0
+should_open_in_legacy = true
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/tinyrevolution/status/516273103903948801\">@tinyrevolution</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/tinyrevolution/status/516273103903948801\">@tinyrevolution</a></p>"
 +++

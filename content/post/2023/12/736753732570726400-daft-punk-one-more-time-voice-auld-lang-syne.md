@@ -6,47 +6,47 @@ slug = "daft-punk-one-more-time-voice-auld-lang-syne"
 type = "tumblr-quote"
 
 [tumblr]
-id = 7.367537325707264e+17
-is_blazed = false
 reblog_key = "EeG7ZLmb"
-date = "2023-12-15 06:51:52 GMT"
-timestamp = 1702623112.0
-state = "published"
-type = "quote"
-id_string = "736753732570726400"
-short_url = "https://tmblr.co/ZY3jbyevUPt4qa00"
-should_open_in_legacy = true
-source = "<a href=\"https://bsky.app/profile/oldfriend99.bsky.social/post/3kggwh3gfms2m\">josh (oldfriend99)  (@oldfriend99.bsky.social)</a>"
-can_like = false
+summary = "(daft punk One More Time voice) Auld Lang Syne"
 interactability_blaze = "everyone"
+id_string = "736753732570726400"
+can_blaze = false
+timestamp = 1702623112.0
 can_reblog = false
 is_blaze_pending = false
-can_blaze = false
+date = "2023-12-15 06:51:52 GMT"
+state = "published"
 text = "(daft punk One More Time voice) Auld Lang Syne"
-can_send_in_message = true
-format = "markdown"
-note_count = 0.0
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/736753732570726400/daft-punk-one-more-time-voice-auld-lang-syne"
+source = "<a href=\"https://bsky.app/profile/oldfriend99.bsky.social/post/3kggwh3gfms2m\">josh (oldfriend99)  (@oldfriend99.bsky.social)</a>"
 is_blocks_post_format = false
+can_like = false
+type = "quote"
+is_blazed = false
+display_avatar = true
 blog_name = "indirect"
 slug = "daft-punk-one-more-time-voice-auld-lang-syne"
-summary = "(daft punk One More Time voice) Auld Lang Syne"
+short_url = "https://tmblr.co/ZY3jbyevUPt4qa00"
+should_open_in_legacy = true
+can_send_in_message = true
 can_reply = false
+format = "markdown"
+note_count = 0.0
 interactability_reblog = "everyone"
+id = 7.367537325707264e+17
+post_url = "https://indirect.io/post/736753732570726400/daft-punk-one-more-time-voice-auld-lang-syne"
 
 [tumblr.reblog]
-comment = "<p><a href=\"https://bsky.app/profile/oldfriend99.bsky.social/post/3kggwh3gfms2m\">josh (oldfriend99)  (@oldfriend99.bsky.social)</a></p>"
 tree_html = ""
+comment = "<p><a href=\"https://bsky.app/profile/oldfriend99.bsky.social/post/3kggwh3gfms2m\">josh (oldfriend99)  (@oldfriend99.bsky.social)</a></p>"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

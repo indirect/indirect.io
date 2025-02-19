@@ -6,47 +6,47 @@ slug = "oh-so-god-could-kill-his-own-son-but-i-cant"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
+text = "oh so god could kill his own son but i can’t"
+interactability_blaze = "everyone"
 blog_name = "indirect"
 is_blazed = false
-slug = "oh-so-god-could-kill-his-own-son-but-i-cant"
-reblog_key = "bBsBOdFw"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
+id = 6.833641266915574e+17
 id_string = "683364126691557376"
-post_url = "https://indirect.tumblr.com/post/683364126691557376/oh-so-god-could-kill-his-own-son-but-i-cant"
-format = "html"
-note_count = 0.0
-can_blaze = false
-date = "2022-05-04 23:26:56 GMT"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbybxp0rtiW00"
-text = "oh so god could kill his own son but i can’t"
-is_blaze_pending = false
 summary = "oh so god could kill his own son but i can’t"
 should_open_in_legacy = true
-can_reblog = false
+can_reply = false
+type = "quote"
+slug = "oh-so-god-could-kill-his-own-son-but-i-cant"
 state = "published"
 can_send_in_message = true
-id = 6.833641266915574e+17
-display_avatar = true
-type = "quote"
-timestamp = 1651706816.0
+can_blaze = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbybxp0rtiW00"
 source = "<a href=\"http://twitter.com/xalleejx/status/1521630266250481665\">@xalleejx</a>"
+post_url = "https://indirect.io/post/683364126691557376/oh-so-god-could-kill-his-own-son-but-i-cant"
+date = "2022-05-04 23:26:56 GMT"
+is_blocks_post_format = false
+is_blaze_pending = false
+timestamp = 1651706816.0
 can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
+display_avatar = true
+reblog_key = "bBsBOdFw"
+note_count = 0.0
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/xalleejx/status/1521630266250481665\">@xalleejx</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

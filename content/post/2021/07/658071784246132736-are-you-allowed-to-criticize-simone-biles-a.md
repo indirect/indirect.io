@@ -6,51 +6,36 @@ slug = "are-you-allowed-to-criticize-simone-biles-a"
 type = "tumblr-photo"
 
 [tumblr]
-can_like = false
-is_blocks_post_format = false
-state = "published"
-slug = "are-you-allowed-to-criticize-simone-biles-a"
-timestamp = 1627586158.0
-format = "markdown"
-can_send_in_message = true
-is_blazed = false
-date = "2021-07-29 19:15:58 GMT"
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/658071784246132736"
-can_reply = false
-can_blaze = false
-reblog_key = "Lng7Kthz"
-should_open_in_legacy = true
-source_title = "edge.mcsw.net"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbyaXyCqOii00"
-interactability_reblog = "everyone"
-display_avatar = true
-type = "photo"
-blog_name = "indirect"
-id_string = "658071784246132736"
-can_reblog = false
-id = 6.580717842461327e+17
-source_url = "https://edge.mcsw.net/mcsweeneys/vd2fcj19ptsueqbhue8f6xhjv6k9"
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/658071784246132736/are-you-allowed-to-criticize-simone-biles-a"
+date = "2021-07-29 19:15:58 GMT"
+timestamp = 1627586158.0
+can_reply = false
+blog_name = "indirect"
+slug = "are-you-allowed-to-criticize-simone-biles-a"
 summary = "[Are You Allowed to Criticize Simone Biles?: A Decision..."
+source_url = "https://edge.mcsw.net/mcsweeneys/vd2fcj19ptsueqbhue8f6xhjv6k9"
+can_blaze = false
+source_title = "edge.mcsw.net"
+interactability_reblog = "everyone"
+id = 6.580717842461327e+17
+id_string = "658071784246132736"
+short_url = "https://tmblr.co/ZY3jbyaXyCqOii00"
+should_open_in_legacy = true
+can_like = false
+can_reblog = false
+can_send_in_message = true
+state = "published"
+format = "markdown"
 caption = "<p><a href=\"https://www.mcsweeneys.net/articles/are-you-allowed-to-criticize-simone-biles-a-decision-tree\">Are You Allowed to Criticize Simone Biles?: A Decision Tree</a></p>"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://www.mcsweeneys.net/articles/are-you-allowed-to-criticize-simone-biles-a-decision-tree\">Are You Allowed to Criticize Simone Biles?: A Decision Tree</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+type = "photo"
+note_count = 0.0
+display_avatar = true
+is_blocks_post_format = false
+reblog_key = "Lng7Kthz"
+interactability_blaze = "everyone"
+is_blazed = false
+post_url = "https://indirect.io/post/658071784246132736/are-you-allowed-to-criticize-simone-biles-a"
+image_permalink = "https://indirect.io/image/658071784246132736"
 
 [[tumblr.photos]]
 caption = ""
@@ -71,14 +56,14 @@ width = 1280.0
 height = 1656.0
 
 [[tumblr.photos.alt_sizes]]
-height = 828.0
 url = "/images/03/68/7e9ad4dca23f6b58af2267bfbde7.png"
 width = 640.0
+height = 828.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/54/ed/8a1759ea5989fe832f19f0dc8a8b.png"
 width = 540.0
 height = 699.0
+url = "/images/54/ed/8a1759ea5989fe832f19f0dc8a8b.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ac/68/c3f5d5e0f94788945d38b4cf51b8.png"
@@ -110,6 +95,21 @@ url = "/images/dc/11/26330a63c9a90c3aa525c788f8d6.png"
 width = 386.0
 height = 500.0
 
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://www.mcsweeneys.net/articles/are-you-allowed-to-criticize-simone-biles-a-decision-tree\">Are You Allowed to Criticize Simone Biles?: A Decision Tree</a></p>"
+tree_html = ""
+
 [[tumblr.trail]]
 content = "<p><a href=\"https://www.mcsweeneys.net/articles/are-you-allowed-to-criticize-simone-biles-a-decision-tree\">Are You Allowed to Criticize Simone Biles?: A Decision Tree</a></p>"
 is_current_item = true
@@ -117,30 +117,32 @@ is_root_item = true
 content_raw = "<p><a href=\"https://www.mcsweeneys.net/articles/are-you-allowed-to-criticize-simone-biles-a-decision-tree\">Are You Allowed to Criticize Simone Biles?: A Decision Tree</a></p>"
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_header_image = false
+show_title = true
+title_color = "#444444"
+header_bounds = ""
 title_font_weight = "bold"
 body_font = "Helvetica Neue"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-show_avatar = true
-show_title = true
-avatar_shape = "square"
-show_header_image = false
+link_color = "#529ECC"
+show_description = true
 title_font = "Gibson"
+avatar_shape = "square"
 background_color = "#FAFAFA"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+show_avatar = true
 
 [tumblr.trail.post]
 id = "658071784246132736"

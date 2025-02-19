@@ -7,40 +7,55 @@ title = "BEARPOCALYPSE"
 type = "tumblr-text"
 
 [tumblr]
-summary = "BEARPOCALYPSE"
-note_count = 0.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-display_avatar = true
-type = "text"
+body = "<p><img src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\" alt=\"bearpocalypse.gif\"/></p>"
 blog_name = "indirect"
-id_string = "52893361822"
-is_blazed = false
-is_blaze_pending = false
+post_url = "https://indirect.io/post/52893361822/bearpocalypse"
 title = "BEARPOCALYPSE"
+id_string = "52893361822"
 can_reblog = false
-can_send_in_message = true
+type = "text"
+short_url = "https://tmblr.co/ZY3jbynGiAQU"
+interactability_reblog = "everyone"
+can_reply = false
 id = 52893361822.0
-can_blaze = false
-slug = "bearpocalypse"
 date = "2013-06-13 20:59:00 GMT"
 timestamp = 1371157140.0
-can_reply = false
-is_blocks_post_format = false
-should_open_in_legacy = false
-can_like = false
-post_url = "https://indirect.tumblr.com/post/52893361822/bearpocalypse"
-state = "published"
 format = "markdown"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_like = false
+is_blaze_pending = false
+state = "published"
+note_count = 0.0
+slug = "bearpocalypse"
+summary = "BEARPOCALYPSE"
+display_avatar = true
+is_blocks_post_format = false
+can_blaze = false
 reblog_key = "1suvCJqs"
-body = "<p><img src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\" alt=\"bearpocalypse.gif\"/></p>"
-short_url = "https://tmblr.co/ZY3jbynGiAQU"
+is_blazed = false
+should_open_in_legacy = false
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><img src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\" alt=\"bearpocalypse.gif\"></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content = "<p><div class=\"external-image-wrapper\" data-loading-text=\"Loading...\" data-src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\">External image</div></p>"
-is_current_item = true
 is_root_item = true
 content_raw = "<p><img src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\" alt=\"bearpocalypse.gif\"></p>"
+content = "<p><div class=\"external-image-wrapper\" data-loading-text=\"Loading...\" data-src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\">External image</div></p>"
+is_current_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -50,39 +65,26 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font_weight = "bold"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_poster = ""
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+avatar_shape = "square"
 header_stretch = true
 link_color = "#529ECC"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-title_font = "Gibson"
-show_header_image = false
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_color = "#444444"
-title_font_weight = "bold"
 show_title = true
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
 
 [tumblr.trail.post]
 id = "52893361822"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><img src=\"http://f.cl.ly/items/2Q0L153s160t1M2D2345/BEARPOCALYPSE.gif\" alt=\"bearpocalypse.gif\"></p>"
-tree_html = ""
 +++

@@ -6,93 +6,43 @@ slug = "it-doesnt-count-as-racism-when-the-bad-guy-is"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-link_url = "http://twitter.com/typicalfeminist/status/568445785391669248"
-image_permalink = "https://indirect.tumblr.com/image/111598257408"
-id = 111598257408.0
-reblog_key = "0bM6XROl"
-summary = "It doesn't count as racism when the bad guy is darker if they're lions! — @typicalfeminist"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
-id_string = "111598257408"
-is_blaze_pending = false
-slug = "it-doesnt-count-as-racism-when-the-bad-guy-is"
 timestamp = 1424471077.0
 state = "published"
-can_like = false
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/111598257408/it-doesnt-count-as-racism-when-the-bad-guy-is"
-interactability_blaze = "everyone"
-is_blazed = false
-caption = "<p>It doesn&rsquo;t count as racism when the bad guy is darker if they&rsquo;re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
-date = "2015-02-20 22:24:37 GMT"
+reblog_key = "0bM6XROl"
 short_url = "https://tmblr.co/ZY3jby1dxnaK0"
+can_like = false
+image_permalink = "https://indirect.io/image/111598257408"
+interactability_blaze = "everyone"
 can_reblog = false
-can_reply = false
+display_avatar = true
+id_string = "111598257408"
+post_url = "https://indirect.io/post/111598257408/it-doesnt-count-as-racism-when-the-bad-guy-is"
+interactability_reblog = "everyone"
+slug = "it-doesnt-count-as-racism-when-the-bad-guy-is"
+caption = "<p>It doesn&rsquo;t count as racism when the bad guy is darker if they&rsquo;re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
+summary = "It doesn't count as racism when the bad guy is darker if they're lions! — @typicalfeminist"
 type = "photo"
+is_blocks_post_format = false
 blog_name = "indirect"
-can_blaze = false
+is_blazed = false
+can_reply = false
+id = 111598257408.0
+is_blaze_pending = false
 format = "html"
-
-[[tumblr.trail]]
-content = "<p>It doesn&rsquo;t count as racism when the bad guy is darker if they&rsquo;re lions! &mdash; <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>It doesn’t count as racism when the bad guy is darker if they’re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-show_header_image = false
-show_title = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_description = true
-show_avatar = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "111598257408"
-
-[tumblr.reblog]
-comment = "<p>It doesn’t count as racism when the bad guy is darker if they’re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+date = "2015-02-20 22:24:37 GMT"
+link_url = "http://twitter.com/typicalfeminist/status/568445785391669248"
+can_send_in_message = true
+can_blaze = false
+should_open_in_legacy = true
+note_count = 0.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/86/3e/4ddfd9ea20726c3afcf70e128cc2.jpg"
 width = 600.0
 height = 600.0
+url = "/images/86/3e/4ddfd9ea20726c3afcf70e128cc2.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/86/3e/4ddfd9ea20726c3afcf70e128cc2.jpg"
@@ -100,14 +50,14 @@ width = 600.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d3/8f/6bb24c2c0c68fbaeb634dd192feb.jpg"
 width = 540.0
 height = 540.0
+url = "/images/d3/8f/6bb24c2c0c68fbaeb634dd192feb.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 500.0
 url = "/images/b0/cf/7e633bc25aebc75c0e3716f0542d.jpg"
 width = 500.0
-height = 500.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/74/00/cba3c0b78336f1d0aab0eb15aa1b.jpg"
@@ -128,4 +78,56 @@ height = 100.0
 url = "/images/e9/c2/4cf5698a182e2ec28642f32b3bbd.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.reblog]
+comment = "<p>It doesn’t count as racism when the bad guy is darker if they’re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>It doesn’t count as racism when the bad guy is darker if they’re lions! — <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
+content = "<p>It doesn&rsquo;t count as racism when the bad guy is darker if they&rsquo;re lions! &mdash; <a href=\"http://twitter.com/typicalfeminist/status/568445785391669248\">@typicalfeminist</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "111598257408"
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_poster = ""
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+body_font = "Helvetica Neue"
+header_stretch = true
+link_color = "#529ECC"
+show_description = true
+avatar_shape = "square"
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

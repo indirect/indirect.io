@@ -6,47 +6,47 @@ slug = "terraforming-mars-i-think-you-mean"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-short_url = "https://tmblr.co/ZY3jbydjjlcI4a00"
-source = "<a href=\"https://tech.lgbt/@Kye/110248365030349110\">@Kye</a>"
-id = 7.154290988355584e+17
-note_count = 0.0
-can_reply = false
-blog_name = "indirect"
-slug = "terraforming-mars-i-think-you-mean"
-text = "<p>&ldquo;terraforming Mars&rdquo;</p>\n\n<p>I think you mean oxygentrificaton</p>"
-is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.io/post/715429098835558400/terraforming-mars-i-think-you-mean"
 timestamp = 1682286356.0
+should_open_in_legacy = true
+source = "<a href=\"https://tech.lgbt/@Kye/110248365030349110\">@Kye</a>"
+can_reblog = false
+blog_name = "indirect"
+date = "2023-04-23 21:45:56 GMT"
+note_count = 0.0
+is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbydjjlcI4a00"
+text = "<p>&ldquo;terraforming Mars&rdquo;</p>\n\n<p>I think you mean oxygentrificaton</p>"
+can_like = false
+can_send_in_message = true
+id = 7.154290988355584e+17
 format = "markdown"
 reblog_key = "pz8Z7TN1"
-summary = "“terraforming Mars”\n\n I think you mean oxygentrificaton"
-post_url = "https://indirect.tumblr.com/post/715429098835558400/terraforming-mars-i-think-you-mean"
-can_send_in_message = true
-type = "quote"
-should_open_in_legacy = true
-can_reblog = false
-is_blocks_post_format = false
-interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 display_avatar = true
-can_like = false
-can_blaze = false
+is_blocks_post_format = false
+type = "quote"
 id_string = "715429098835558400"
-is_blazed = false
-date = "2023-04-23 21:45:56 GMT"
+summary = "“terraforming Mars”\n\n I think you mean oxygentrificaton"
+interactability_reblog = "everyone"
+can_reply = false
+slug = "terraforming-mars-i-think-you-mean"
+state = "published"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://tech.lgbt/@Kye/110248365030349110\">@Kye</a></p>"
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://tech.lgbt/@Kye/110248365030349110\">@Kye</a></p>"
-tree_html = ""
 +++

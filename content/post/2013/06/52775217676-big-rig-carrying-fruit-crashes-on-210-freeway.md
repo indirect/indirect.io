@@ -6,50 +6,50 @@ slug = "big-rig-carrying-fruit-crashes-on-210-freeway"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-can_blaze = false
-slug = "big-rig-carrying-fruit-crashes-on-210-freeway"
-source_url = "http://www.latimes.com/local/lanow/la-me-ln-big-rig-crash-20130520,0,2642136.story"
-display_avatar = true
-blog_name = "indirect"
-id = 52775217676.0
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyn9fUeC"
-should_open_in_legacy = true
-is_blazed = false
-reblog_key = "KrHBhtM1"
-bookmarklet = true
-source_title = "Los Angeles Times"
-text = "Big rig carrying fruit crashes on 210 Freeway, creates jam"
-source = "<a href=\"http://www.latimes.com/local/lanow/la-me-ln-big-rig-crash-20130520,0,2642136.story\">LA Times</a>"
-can_like = false
 id_string = "52775217676"
-summary = "Big rig carrying fruit crashes on 210 Freeway, creates jam"
-can_send_in_message = true
-state = "published"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/52775217676/big-rig-carrying-fruit-crashes-on-210-freeway"
 date = "2013-06-12 07:07:36 GMT"
-timestamp = 1371020856.0
-can_reblog = false
+slug = "big-rig-carrying-fruit-crashes-on-210-freeway"
+short_url = "https://tmblr.co/ZY3jbyn9fUeC"
 is_blaze_pending = false
+state = "published"
+source_url = "http://www.latimes.com/local/lanow/la-me-ln-big-rig-crash-20130520,0,2642136.story"
 type = "quote"
-is_blocks_post_format = false
+post_url = "https://indirect.io/post/52775217676/big-rig-carrying-fruit-crashes-on-210-freeway"
+can_reblog = false
 note_count = 0.0
+source = "<a href=\"http://www.latimes.com/local/lanow/la-me-ln-big-rig-crash-20130520,0,2642136.story\">LA Times</a>"
+blog_name = "indirect"
+timestamp = 1371020856.0
+format = "markdown"
+reblog_key = "KrHBhtM1"
+summary = "Big rig carrying fruit crashes on 210 Freeway, creates jam"
+should_open_in_legacy = true
+is_blocks_post_format = false
+id = 52775217676.0
+is_blazed = false
+can_like = false
+interactability_blaze = "everyone"
+display_avatar = true
+can_blaze = false
+bookmarklet = true
+text = "Big rig carrying fruit crashes on 210 Freeway, creates jam"
+can_reply = false
+source_title = "Los Angeles Times"
 interactability_reblog = "everyone"
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+can_send_in_message = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.latimes.com/local/lanow/la-me-ln-big-rig-crash-20130520,0,2642136.story\">LA Times</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

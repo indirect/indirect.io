@@ -6,84 +6,43 @@ slug = "this-is-spot-on-rt-theonilx-what-gamergate"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-link_url = "http://twitter.com/TheTattooedProf/status/529010163462569985"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-format = "html"
-summary = "This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere —..."
-image_permalink = "https://indirect.tumblr.com/image/101651469583"
-display_avatar = true
 id = 101651469583.0
-is_blazed = false
-timestamp = 1414989849.0
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/101651469583/this-is-spot-on-rt-theonilx-what-gamergate"
-id_string = "101651469583"
-caption = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere — <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
-can_like = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1UgvbKF"
-should_open_in_legacy = true
-is_blocks_post_format = false
-date = "2014-11-03 04:44:09 GMT"
-can_reply = false
 can_blaze = false
-slug = "this-is-spot-on-rt-theonilx-what-gamergate"
+post_url = "https://indirect.io/post/101651469583/this-is-spot-on-rt-theonilx-what-gamergate"
+state = "published"
+can_send_in_message = true
+is_blocks_post_format = false
+timestamp = 1414989849.0
+can_reply = false
+blog_name = "indirect"
+note_count = 0.0
+caption = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere — <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
+date = "2014-11-03 04:44:09 GMT"
+short_url = "https://tmblr.co/ZY3jby1UgvbKF"
+link_url = "http://twitter.com/TheTattooedProf/status/529010163462569985"
+can_like = false
+interactability_reblog = "everyone"
+id_string = "101651469583"
+is_blazed = false
+is_blaze_pending = false
+can_reblog = false
 reblog_key = "TMQXfh4d"
-
-[[tumblr.trail]]
-content_raw = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere — <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
-content = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere &mdash; <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-show_avatar = true
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_title = true
-title_color = "#444444"
-show_description = true
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "101651469583"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+type = "photo"
+format = "html"
+slug = "this-is-spot-on-rt-theonilx-what-gamergate"
+summary = "This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere —..."
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/101651469583"
+interactability_blaze = "everyone"
+display_avatar = true
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/03/56/be718feabe848ec4554bf1a87e90.jpg"
+width = 600.0
+height = 279.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/03/56/be718feabe848ec4554bf1a87e90.jpg"
@@ -116,16 +75,59 @@ width = 100.0
 height = 47.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/49/31/04e59d03016d99f16584db6816e9.jpg"
 width = 75.0
-height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/03/56/be718feabe848ec4554bf1a87e90.jpg"
-width = 600.0
-height = 279.0
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere — <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere — <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
+content = "<p>This is spot-on.  RT @TheONiLX: What #GamerGate tends to look like to pretty much everyone Via: @CamilleDeMere &mdash; <a href=\"http://twitter.com/TheTattooedProf/status/529010163462569985\">@TheTattooedProf</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+background_color = "#FAFAFA"
+header_stretch = true
+show_header_image = false
+link_color = "#529ECC"
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_description = true
+title_font = "Gibson"
+title_font_weight = "bold"
+show_avatar = true
+header_full_width = 3000.0
+
+[tumblr.trail.post]
+id = "101651469583"
 +++

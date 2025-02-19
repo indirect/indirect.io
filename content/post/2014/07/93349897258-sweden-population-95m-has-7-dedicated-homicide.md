@@ -6,43 +6,43 @@ slug = "sweden-population-95m-has-7-dedicated-homicide"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1My5cGg"
+can_reblog = false
 display_avatar = true
 blog_name = "indirect"
-id = 93349897258.0
-can_blaze = false
-can_reblog = false
-type = "quote"
+is_blazed = false
+timestamp = 1406762502.0
 is_blocks_post_format = false
-id_string = "93349897258"
-format = "html"
-reblog_key = "hP91TbMO"
-can_like = false
-can_send_in_message = true
-can_reply = false
-date = "2014-07-30 23:21:42 GMT"
-state = "published"
-should_open_in_legacy = true
+id = 93349897258.0
+slug = "sweden-population-95m-has-7-dedicated-homicide"
+short_url = "https://tmblr.co/ZY3jby1My5cGg"
 text = "Sweden (population 9.5M) has 7 dedicated homicide detectives (2009). In 2013, Chicago (pop. 2.7M) added 72 new homicide detectives."
 source = "<a href=\"http://twitter.com/marick/status/494171900902264832\">@marick</a>"
-interactability_blaze = "everyone"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/93349897258/sweden-population-95m-has-7-dedicated-homicide"
-slug = "sweden-population-95m-has-7-dedicated-homicide"
+state = "published"
 note_count = 0.0
-interactability_reblog = "everyone"
-timestamp = 1406762502.0
+interactability_blaze = "everyone"
+can_reply = false
+id_string = "93349897258"
+date = "2014-07-30 23:21:42 GMT"
+should_open_in_legacy = true
+can_like = false
+type = "quote"
+can_blaze = false
+post_url = "https://indirect.io/post/93349897258/sweden-population-95m-has-7-dedicated-homicide"
+format = "html"
+is_blaze_pending = false
+reblog_key = "hP91TbMO"
 summary = "Sweden (population 9.5M) has 7 dedicated homicide detectives (2009). In 2013, Chicago (pop. 2.7M) added 72 new homicide..."
+interactability_reblog = "everyone"
+can_send_in_message = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

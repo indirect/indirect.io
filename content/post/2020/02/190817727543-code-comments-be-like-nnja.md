@@ -6,58 +6,43 @@ slug = "code-comments-be-like-nnja"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-is_blaze_pending = false
-should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/190817727543"
+can_reblog = false
 display_avatar = true
-id = 190817727543.0
+can_blaze = false
+type = "photo"
 date = "2020-02-14 04:19:54 GMT"
-state = "published"
+should_open_in_legacy = true
+can_like = false
 format = "html"
-summary = "code comments be like — @nnja"
+caption = "<p>code comments be like — <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
+interactability_reblog = "everyone"
+id = 190817727543.0
+post_url = "https://indirect.io/post/190817727543/code-comments-be-like-nnja"
+state = "published"
+link_url = "http://twitter.com/nnja/status/1227820521363886081"
+blog_name = "indirect"
 can_reply = false
-post_url = "https://indirect.tumblr.com/post/190817727543/code-comments-be-like-nnja"
-reblog_key = "15ENk5Qm"
-note_count = 0.0
-interactability_blaze = "everyone"
+is_blazed = false
 slug = "code-comments-be-like-nnja"
+summary = "code comments be like — @nnja"
+note_count = 0.0
+can_send_in_message = true
+id_string = "190817727543"
 timestamp = 1581653994.0
 short_url = "https://tmblr.co/ZY3jby2njdtGt"
-link_url = "http://twitter.com/nnja/status/1227820521363886081"
-can_reblog = false
-id_string = "190817727543"
-is_blazed = false
-can_like = false
-can_send_in_message = true
-blog_name = "indirect"
-caption = "<p>code comments be like — <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/190817727543"
+interactability_blaze = "everyone"
 is_blocks_post_format = false
-can_blaze = false
-interactability_reblog = "everyone"
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>code comments be like — <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
-tree_html = ""
+is_blaze_pending = false
+reblog_key = "15ENk5Qm"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/59/0c/a8aeef8455e9d099cfe7611444eb.jpg"
 width = 605.0
 height = 605.0
+url = "/images/59/0c/a8aeef8455e9d099cfe7611444eb.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/59/0c/a8aeef8455e9d099cfe7611444eb.jpg"
@@ -80,9 +65,9 @@ width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/28/1a/d5b500969f172293e59fd04687ec.jpg"
 width = 250.0
 height = 250.0
-url = "/images/28/1a/d5b500969f172293e59fd04687ec.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/30/4c/592425dc6c1eb6060215c838b067.jpg"
@@ -90,41 +75,58 @@ width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/fe/ab/39438e485f580606f95fe2fedf16.jpg"
 width = 75.0
+height = 75.0
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>code comments be like — <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
+is_current_item = true
 is_root_item = true
 content_raw = "<p>code comments be like — <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
 content = "<p>code comments be like &mdash; <a href=\"http://twitter.com/nnja/status/1227820521363886081\">@nnja</a></p>"
-is_current_item = true
 
 [tumblr.trail.blog]
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_title = true
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
+title_font_weight = "bold"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
 show_avatar = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_image_poster = ""
 header_stretch = true
 show_description = true
+show_title = true
 title_color = "#444444"
-title_font_weight = "bold"
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "190817727543"

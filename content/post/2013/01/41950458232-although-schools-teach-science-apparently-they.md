@@ -6,47 +6,47 @@ slug = "although-schools-teach-science-apparently-they"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
+can_blaze = false
 timestamp = 1359650043.0
-interactability_reblog = "everyone"
-can_send_in_message = true
-slug = "although-schools-teach-science-apparently-they"
 reblog_key = "RkkVxGre"
-can_like = false
-id_string = "41950458232"
-source = "<a href=\"http://dilbert.com/blog/entry/the_unhappiness_motivator/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2FihdT+%28Dilbert+Blog%29\">The Unhappiness Motivator</a>"
-blog_name = "indirect"
-is_blaze_pending = false
-state = "published"
-summary = "although schools teach science, apparently they don’t believe in it"
-text = "although schools teach science, apparently they don’t believe in it"
-display_avatar = true
-is_blocks_post_format = false
-date = "2013-01-31 16:34:03 GMT"
-interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 can_reply = false
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/41950458232/although-schools-teach-science-apparently-they"
+is_blazed = false
+can_like = false
+blog_name = "indirect"
+format = "markdown"
+is_blaze_pending = false
+summary = "although schools teach science, apparently they don’t believe in it"
+source = "<a href=\"http://dilbert.com/blog/entry/the_unhappiness_motivator/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2FihdT+%28Dilbert+Blog%29\">The Unhappiness Motivator</a>"
 short_url = "https://tmblr.co/ZY3jbyd4SJ5u"
 should_open_in_legacy = true
 can_reblog = false
-id = 41950458232.0
-can_blaze = false
-format = "markdown"
+display_avatar = true
+type = "quote"
+date = "2013-01-31 16:34:03 GMT"
+state = "published"
+id_string = "41950458232"
+post_url = "https://indirect.io/post/41950458232/although-schools-teach-science-apparently-they"
+slug = "although-schools-teach-science-apparently-they"
 note_count = 0.0
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+can_send_in_message = true
+is_blocks_post_format = false
+id = 41950458232.0
+text = "although schools teach science, apparently they don’t believe in it"
+interactability_blaze = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://dilbert.com/blog/entry/the_unhappiness_motivator/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FihdT+%28Dilbert+Blog%29\">The Unhappiness Motivator</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

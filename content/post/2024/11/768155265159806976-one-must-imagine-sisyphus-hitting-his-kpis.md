@@ -6,47 +6,47 @@ slug = "one-must-imagine-sisyphus-hitting-his-kpis"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-can_reply = false
-id = 7.68155265159807e+17
-is_blaze_pending = false
+blog_name = "indirect"
+date = "2024-11-25 21:25:47 GMT"
+format = "markdown"
 can_blaze = false
-state = "published"
-text = "“One must imagine Sisyphus hitting his KPIs.” - someone on LinkedIn"
-type = "quote"
-is_blocks_post_format = false
-slug = "one-must-imagine-sisyphus-hitting-his-kpis"
-timestamp = 1732569947.0
-short_url = "https://tmblr.co/ZY3jbygf2IJGCa00"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-is_blazed = false
-source = "<a href=\"https://mastodon.social/@mhoye/113541149259768915\">@mhoye</a>"
+reblog_key = "8ZQuIgst"
+note_count = 0.0
 can_like = false
 can_reblog = false
-blog_name = "indirect"
-reblog_key = "8ZQuIgst"
+is_blocks_post_format = false
+is_blazed = false
+slug = "one-must-imagine-sisyphus-hitting-his-kpis"
 can_send_in_message = true
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/768155265159806976/one-must-imagine-sisyphus-hitting-his-kpis"
-format = "markdown"
+can_reply = false
+type = "quote"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/768155265159806976/one-must-imagine-sisyphus-hitting-his-kpis"
+source = "<a href=\"https://mastodon.social/@mhoye/113541149259768915\">@mhoye</a>"
+interactability_reblog = "everyone"
+id = 7.68155265159807e+17
+state = "published"
+short_url = "https://tmblr.co/ZY3jbygf2IJGCa00"
+should_open_in_legacy = true
 summary = "“One must imagine Sisyphus hitting his KPIs.” - someone on LinkedIn"
+display_avatar = true
 id_string = "768155265159806976"
-date = "2024-11-25 21:25:47 GMT"
-note_count = 0.0
+timestamp = 1732569947.0
+text = "“One must imagine Sisyphus hitting his KPIs.” - someone on LinkedIn"
+interactability_blaze = "everyone"
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://mastodon.social/@mhoye/113541149259768915\">@mhoye</a></p>"
+tree_html = ""
 
 [tumblr.blog]
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://mastodon.social/@mhoye/113541149259768915\">@mhoye</a></p>"
-tree_html = ""
 +++

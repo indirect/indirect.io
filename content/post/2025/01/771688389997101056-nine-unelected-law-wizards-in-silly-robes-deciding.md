@@ -6,47 +6,47 @@ slug = "nine-unelected-law-wizards-in-silly-robes-deciding"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
+state = "published"
+can_send_in_message = true
+id = 7.71688389997101e+17
+date = "2025-01-03 21:23:17 GMT"
 reblog_key = "5VrB6PUX"
-should_open_in_legacy = true
 interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/771688389997101056/nine-unelected-law-wizards-in-silly-robes-deciding"
 slug = "nine-unelected-law-wizards-in-silly-robes-deciding"
-timestamp = 1735939397.0
+short_url = "https://tmblr.co/ZY3jbygrbe2B4W00"
+note_count = 0.0
+id_string = "771688389997101056"
+display_avatar = true
+type = "quote"
+is_blaze_pending = false
 source = "<a href=\"https://bsky.app/profile/chadloder.bsky.social/post/3let5fgjuz22f\">Chad Loder (@chadloder.bsky.social)</a>"
-can_like = false
-can_reblog = false
-id = 7.71688389997101e+17
+timestamp = 1735939397.0
+format = "markdown"
+summary = "nine unelected Law Wizards in silly robes deciding the fate of hundreds of millions of people, and the Wizards can’t be fired,..."
+text = "nine unelected Law Wizards in silly robes deciding the fate of hundreds of millions of people, and the Wizards can&rsquo;t be fired, you just gotta wait for them to die. seems fake to me"
+can_reply = false
+blog_name = "indirect"
 is_blazed = false
 can_blaze = false
-date = "2025-01-03 21:23:17 GMT"
-text = "nine unelected Law Wizards in silly robes deciding the fate of hundreds of millions of people, and the Wizards can&rsquo;t be fired, you just gotta wait for them to die. seems fake to me"
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-state = "published"
-type = "quote"
-id_string = "771688389997101056"
-summary = "nine unelected Law Wizards in silly robes deciding the fate of hundreds of millions of people, and the Wizards can’t be fired,..."
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/771688389997101056/nine-unelected-law-wizards-in-silly-robes-deciding"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbygrbe2B4W00"
-is_blocks_post_format = false
-note_count = 0.0
+should_open_in_legacy = true
+can_like = false
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/chadloder.bsky.social/post/3let5fgjuz22f\">Chad Loder (@chadloder.bsky.social)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

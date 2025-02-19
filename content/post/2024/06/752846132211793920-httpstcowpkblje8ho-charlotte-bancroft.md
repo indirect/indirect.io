@@ -6,39 +6,35 @@ slug = "httpstcowpkblje8ho-charlotte-bancroft"
 type = "tumblr-photo"
 
 [tumblr]
-date = "2024-06-09 21:53:40 GMT"
-type = "photo"
-id = 7.528461322117939e+17
-format = "html"
-can_send_in_message = true
-display_avatar = true
-reblog_key = "7bElTiLJ"
-link_url = "https://twitter.com/wifekisser303/status/1799857856487034972"
-is_blocks_post_format = false
 id_string = "752846132211793920"
-is_blaze_pending = false
-summary = "https://t.co/wpKBlje8hO — charlotte bancroft a.k.a. austerity measures (@wifekisser303)"
-caption = "<p><a href=\"https://t.co/wpKBlje8hO\">https://t.co/wpKBlje8hO</a> — <a href=\"https://twitter.com/wifekisser303/status/1799857856487034972\">charlotte bancroft a.k.a. austerity measures (@wifekisser303)</a></p>"
-post_url = "https://indirect.tumblr.com/post/752846132211793920/httpstcowpkblje8ho-charlotte-bancroft"
-should_open_in_legacy = true
-note_count = 0.0
-can_like = false
-interactability_blaze = "everyone"
-can_blaze = false
-slug = "httpstcowpkblje8ho-charlotte-bancroft"
+image_permalink = "https://indirect.io/image/752846132211793920"
+display_avatar = true
+state = "published"
 timestamp = 1717970020.0
-image_permalink = "https://indirect.tumblr.com/image/752846132211793920"
-interactability_reblog = "everyone"
+can_like = false
+is_blaze_pending = false
+link_url = "https://twitter.com/wifekisser303/status/1799857856487034972"
 can_reblog = false
+id = 7.528461322117939e+17
+slug = "httpstcowpkblje8ho-charlotte-bancroft"
+date = "2024-06-09 21:53:40 GMT"
+caption = "<p><a href=\"https://t.co/wpKBlje8hO\">https://t.co/wpKBlje8hO</a> — <a href=\"https://twitter.com/wifekisser303/status/1799857856487034972\">charlotte bancroft a.k.a. austerity measures (@wifekisser303)</a></p>"
+can_reply = false
+post_url = "https://indirect.io/post/752846132211793920/httpstcowpkblje8ho-charlotte-bancroft"
+summary = "https://t.co/wpKBlje8hO — charlotte bancroft a.k.a. austerity measures (@wifekisser303)"
+note_count = 0.0
+interactability_reblog = "everyone"
+is_blocks_post_format = false
 blog_name = "indirect"
+can_blaze = false
+format = "html"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+type = "photo"
+reblog_key = "7bElTiLJ"
+can_send_in_message = true
 is_blazed = false
 short_url = "https://tmblr.co/ZY3jbyfofP690i00"
-can_reply = false
-state = "published"
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/wpKBlje8hO\">https://t.co/wpKBlje8hO</a> — <a href=\"https://twitter.com/wifekisser303/status/1799857856487034972\">charlotte bancroft a.k.a. austerity measures (@wifekisser303)</a></p>"
-tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p><a href=\"https://t.co/wpKBlje8hO\">https://t.co/wpKBlje8hO</a> — <a href=\"https://twitter.com/wifekisser303/status/1799857856487034972\">charlotte bancroft a.k.a. austerity measures (@wifekisser303)</a></p>"
@@ -54,45 +50,51 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_description = true
-show_avatar = true
-show_title = true
 avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-title_color = "#444444"
-title_font_weight = "bold"
+show_description = true
+header_full_width = 3000.0
 body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_font = "Gibson"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_bounds = ""
 header_image_poster = ""
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "752846132211793920"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/wpKBlje8hO\">https://t.co/wpKBlje8hO</a> — <a href=\"https://twitter.com/wifekisser303/status/1799857856487034972\">charlotte bancroft a.k.a. austerity measures (@wifekisser303)</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 959.0
 url = "/images/66/cb/af528c49701569f92f18efbc032f.jpg"
 width = 1179.0
+height = 959.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/66/cb/af528c49701569f92f18efbc032f.jpg"
@@ -110,9 +112,9 @@ width = 540.0
 height = 439.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/71/e7/b3d176ebb4dd5dd43a03a1cf2c9f.jpg"
 width = 500.0
 height = 407.0
+url = "/images/71/e7/b3d176ebb4dd5dd43a03a1cf2c9f.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/53/34/96f989307121b7435415973d6e5c.jpg"

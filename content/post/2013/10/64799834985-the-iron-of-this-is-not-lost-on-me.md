@@ -6,45 +6,98 @@ slug = "the-iron-of-this-is-not-lost-on-me"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-bookmarklet = true
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/64799834985/the-iron-of-this-is-not-lost-on-me"
-summary = "The irony of this is not lost on me"
-link_url = "https://twitter.com/JivaDeVoe/status/392719125547466752/photo/1"
-type = "photo"
-is_blocks_post_format = false
-blog_name = "indirect"
-date = "2013-10-22 20:34:03 GMT"
 should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/64799834985"
-source_url = "https://twitter.com/JivaDeVoe/status/392719125547466752/photo/1"
-interactability_reblog = "everyone"
-display_avatar = true
-timestamp = 1382474043.0
-caption = "<p>The irony of this is not lost on me </p>"
-id = 64799834985.0
+image_permalink = "https://indirect.io/image/64799834985"
 id_string = "64799834985"
-slug = "the-iron-of-this-is-not-lost-on-me"
-format = "markdown"
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
 is_blazed = false
+link_url = "https://twitter.com/JivaDeVoe/status/392719125547466752/photo/1"
+interactability_reblog = "everyone"
+can_reply = false
+display_avatar = true
 can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyyMNmDf"
-source_title = "twitter.com"
-can_like = false
-interactability_blaze = "everyone"
-is_blaze_pending = false
+date = "2013-10-22 20:34:03 GMT"
 reblog_key = "nTPe3Vcg"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/64799834985/the-iron-of-this-is-not-lost-on-me"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyyMNmDf"
+interactability_blaze = "everyone"
+can_send_in_message = true
+id = 64799834985.0
+caption = "<p>The irony of this is not lost on me </p>"
+can_reblog = false
+type = "photo"
+format = "markdown"
+summary = "The irony of this is not lost on me"
+source_title = "twitter.com"
+is_blaze_pending = false
+slug = "the-iron-of-this-is-not-lost-on-me"
+timestamp = 1382474043.0
+bookmarklet = true
+note_count = 0.0
+source_url = "https://twitter.com/JivaDeVoe/status/392719125547466752/photo/1"
+can_like = false
+is_blocks_post_format = false
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>The irony of this is not lost on me </p>"
+tree_html = ""
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>The irony of this is not lost on me </p>"
+content = "<p>The irony of this is not lost on me </p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_stretch = true
+show_header_image = false
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_title = true
+title_color = "#444444"
+header_full_width = 3000.0
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "64799834985"
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+url = "/images/41/ac/e58baac02e0d0d29bade10738428.png"
+width = 599.0
+height = 115.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/41/ac/e58baac02e0d0d29bade10738428.png"
@@ -57,9 +110,9 @@ width = 540.0
 height = 104.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4f/f6/efc844bbb94cc06d92adc088e507.png"
 width = 500.0
 height = 96.0
+url = "/images/4f/f6/efc844bbb94cc06d92adc088e507.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a1/f8/3f09fc5fc2ad2895db27c8d26294.png"
@@ -77,58 +130,7 @@ width = 100.0
 height = 19.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/55/e1/600f72c06d7a5eefdc38880ed4bd.png"
 width = 75.0
-height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/41/ac/e58baac02e0d0d29bade10738428.png"
-width = 599.0
-height = 115.0
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>The irony of this is not lost on me </p>"
-content = "<p>The irony of this is not lost on me </p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-show_avatar = true
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "64799834985"
 +++

@@ -6,37 +6,33 @@ slug = "that-cannot-be-fully-modelled-not-reliably-not"
 type = "tumblr-text"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "38563909234"
-can_like = false
 is_blazed = false
-is_blaze_pending = false
 slug = "that-cannot-be-fully-modelled-not-reliably-not"
-format = "markdown"
-summary = "“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed..."
-note_count = 0.0
-blog_name = "indirect"
-display_avatar = true
-id = 38563909234.0
-timestamp = 1356205982.0
-state = "published"
 body = "<blockquote>\n“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed simulation you have available, which is effectively the same thing.”\n\n\nHolse smiled sadly. “Matter, eh, sir?”\n\n\n“Matter.” Hyrlis nodded.”\n</blockquote>\n\n<p><em>Matter</em>, Iain M. Banks</p>"
-post_url = "https://indirect.tumblr.com/post/38563909234/that-cannot-be-fully-modelled-not-reliably-not"
-reblog_key = "KwMntFce"
-short_url = "https://tmblr.co/ZY3jbyZwbevo"
+can_send_in_message = true
+can_reply = false
+can_blaze = false
+note_count = 0.0
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 can_reblog = false
-can_blaze = false
-can_send_in_message = true
-date = "2012-12-22 19:53:02 GMT"
-type = "text"
+blog_name = "indirect"
+is_blaze_pending = false
+timestamp = 1356205982.0
+post_url = "https://indirect.io/post/38563909234/that-cannot-be-fully-modelled-not-reliably-not"
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyZwbevo"
+summary = "“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed..."
 should_open_in_legacy = false
-interactability_reblog = "everyone"
-can_reply = false
-
-[tumblr.reblog]
-comment = "<p><blockquote>\n“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed simulation you have available, which is effectively the same thing.”\n\n\nHolse smiled sadly. “Matter, eh, sir?”\n\n\n“Matter.” Hyrlis nodded.”\n</blockquote>\n\n<p><em>Matter</em>, Iain M. Banks</p></p>"
-tree_html = ""
+id = 38563909234.0
+id_string = "38563909234"
+reblog_key = "KwMntFce"
+can_like = false
+is_blocks_post_format = false
+date = "2012-12-22 19:53:02 GMT"
+display_avatar = true
+type = "text"
+format = "markdown"
 
 [[tumblr.trail]]
 content = "<p><blockquote><p>\n&ldquo;That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed simulation you have available, which is effectively the same thing.&rdquo;\n\n\nHolse smiled sadly. &ldquo;Matter, eh, sir?&rdquo;\n\n\n&ldquo;Matter.&rdquo; Hyrlis nodded.&rdquo;\n</p></blockquote>\n\n<p><em>Matter</em>, Iain M. Banks</p></p>"
@@ -45,42 +41,48 @@ is_root_item = true
 content_raw = "<p><blockquote>\n“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed simulation you have available, which is effectively the same thing.”\n\n\nHolse smiled sadly. “Matter, eh, sir?”\n\n\n“Matter.” Hyrlis nodded.”\n</blockquote>\n\n<p><em>Matter</em>, Iain M. Banks</p></p>"
 
 [tumblr.trail.blog]
-share_following = false
-can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
+can_be_followed = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_stretch = true
+title_color = "#444444"
+title_font_weight = "bold"
 header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 link_color = "#529ECC"
 show_description = true
 show_header_image = false
-show_title = true
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_avatar = true
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-title_color = "#444444"
+show_title = true
 title_font = "Gibson"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
+header_full_width = 3000.0
+header_full_height = 1055.0
 
 [tumblr.trail.post]
 id = "38563909234"
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><blockquote>\n“That cannot be fully modelled, not reliably, not consistently. That you need to play out in reality, or the most detailed simulation you have available, which is effectively the same thing.”\n\n\nHolse smiled sadly. “Matter, eh, sir?”\n\n\n“Matter.” Hyrlis nodded.”\n</blockquote>\n\n<p><em>Matter</em>, Iain M. Banks</p></p>"
+tree_html = ""
 +++

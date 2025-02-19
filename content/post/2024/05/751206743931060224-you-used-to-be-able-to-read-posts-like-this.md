@@ -6,34 +6,34 @@ slug = "you-used-to-be-able-to-read-posts-like-this"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "751206743931060224"
-post_url = "https://indirect.tumblr.com/post/751206743931060224/you-used-to-be-able-to-read-posts-like-this"
+slug = "you-used-to-be-able-to-read-posts-like-this"
+note_count = 0.0
+can_send_in_message = true
+can_blaze = false
+summary = "you used to be able to read posts like this without knowing what the last word would rhyme with. but you can’t now. because of..."
+can_like = false
+state = "published"
 reblog_key = "fImFzm0R"
-text = "you used to be able to read posts like this without knowing what the last word would rhyme with. but you can&rsquo;t now. because of joke"
 type = "quote"
+id = 7.512067439310602e+17
+post_url = "https://indirect.io/post/751206743931060224/you-used-to-be-able-to-read-posts-like-this"
+date = "2024-05-22 19:36:17 GMT"
+format = "markdown"
+text = "you used to be able to read posts like this without knowing what the last word would rhyme with. but you can&rsquo;t now. because of joke"
+interactability_blaze = "everyone"
+can_reblog = false
+is_blocks_post_format = false
+id_string = "751206743931060224"
 should_open_in_legacy = true
 can_reply = false
-is_blazed = false
-timestamp = 1716406577.0
-summary = "you used to be able to read posts like this without knowing what the last word would rhyme with. but you can’t now. because of..."
-source = "<a href=\"https://twitter.com/innesmck/status/1793259315450515681\">i n n e s (@innesmck)</a>"
-can_like = false
-date = "2024-05-22 19:36:17 GMT"
-state = "published"
-format = "markdown"
-note_count = 0.0
-can_reblog = false
-can_blaze = false
-display_avatar = true
 blog_name = "indirect"
 is_blaze_pending = false
-can_send_in_message = true
-is_blocks_post_format = false
-slug = "you-used-to-be-able-to-read-posts-like-this"
-short_url = "https://tmblr.co/ZY3jbyfiqesquu00"
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id = 7.512067439310602e+17
+display_avatar = true
+is_blazed = false
+timestamp = 1716406577.0
+short_url = "https://tmblr.co/ZY3jbyfiqesquu00"
+source = "<a href=\"https://twitter.com/innesmck/status/1793259315450515681\">i n n e s (@innesmck)</a>"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/innesmck/status/1793259315450515681\">i n n e s (@innesmck)</a></p>"
@@ -41,10 +41,10 @@ tree_html = ""
 
 [tumblr.blog]
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 

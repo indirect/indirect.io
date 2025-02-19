@@ -6,50 +6,39 @@ slug = "its-friday-i-have-a-gift-what-do-you-do-when"
 type = "tumblr-photo"
 
 [tumblr]
-slug = "its-friday-i-have-a-gift-what-do-you-do-when"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1pGBQD0"
 caption = "<p>it&rsquo;s friday, I have a gift</p>\n\n<p>what do you do when dudes are in your mentions who GOTTA WEIGH IN?</p>\n\n<p>Better call Clippy! — <a href=\"http://twitter.com/_danilo/status/619600677526900740\">@_danilo</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/123751736128"
-can_like = false
-post_url = "https://indirect.tumblr.com/post/123751736128/its-friday-i-have-a-gift-what-do-you-do-when"
 can_reblog = false
-is_blazed = false
-date = "2015-07-10 20:56:43 GMT"
-note_count = 1.0
-can_send_in_message = true
-interactability_reblog = "everyone"
-link_url = "http://twitter.com/_danilo/status/619600677526900740"
-id_string = "123751736128"
-timestamp = 1436561803.0
-format = "html"
-reblog_key = "BO2UEStK"
-should_open_in_legacy = true
-display_avatar = true
-blog_name = "indirect"
-is_blaze_pending = false
-summary = "it's friday, I have a gift\n\nwhat do you do when dudes are in your mentions who GOTTA WEIGH IN?\n\nBetter call Clippy! — @_danilo"
-type = "photo"
-is_blocks_post_format = false
-id = 123751736128.0
-interactability_blaze = "everyone"
 can_reply = false
+timestamp = 1436561803.0
+state = "published"
+interactability_blaze = "everyone"
+blog_name = "indirect"
 can_blaze = false
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+format = "html"
+can_send_in_message = true
+can_like = false
+interactability_reblog = "everyone"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/123751736128"
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jby1pGBQD0"
+summary = "it's friday, I have a gift\n\nwhat do you do when dudes are in your mentions who GOTTA WEIGH IN?\n\nBetter call Clippy! — @_danilo"
+note_count = 1.0
+post_url = "https://indirect.io/post/123751736128/its-friday-i-have-a-gift-what-do-you-do-when"
+date = "2015-07-10 20:56:43 GMT"
+link_url = "http://twitter.com/_danilo/status/619600677526900740"
+id = 123751736128.0
+id_string = "123751736128"
+is_blazed = false
+slug = "its-friday-i-have-a-gift-what-do-you-do-when"
+display_avatar = true
+type = "photo"
+is_blaze_pending = false
+reblog_key = "BO2UEStK"
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>it’s friday, I have a gift</p>\n\n<p>what do you do when dudes are in your mentions who GOTTA WEIGH IN?</p>\n\n<p>Better call Clippy! — <a href=\"http://twitter.com/_danilo/status/619600677526900740\">@_danilo</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p>it’s friday, I have a gift</p>\n\n<p>what do you do when dudes are in your mentions who GOTTA WEIGH IN?</p>\n\n<p>Better call Clippy! — <a href=\"http://twitter.com/_danilo/status/619600677526900740\">@_danilo</a></p>"
@@ -58,30 +47,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+share_likes = false
+share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
-share_likes = false
-share_following = false
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
+header_full_height = 1055.0
+header_full_width = 3000.0
 avatar_shape = "square"
-title_font = "Gibson"
 background_color = "#FAFAFA"
-header_bounds = ""
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_stretch = true
 link_color = "#529ECC"
+title_font_weight = "bold"
+header_bounds = ""
+header_image_poster = ""
 show_avatar = true
 show_description = true
-show_title = true
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
 show_header_image = false
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "123751736128"
@@ -90,9 +81,9 @@ id = "123751736128"
 caption = ""
 
 [tumblr.photos.original_size]
+height = 667.0
 url = "/images/4c/81/e1c244b4726a93ae5fa8ffe8ba44.png"
 width = 375.0
-height = 667.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4c/81/e1c244b4726a93ae5fa8ffe8ba44.png"
@@ -105,9 +96,9 @@ width = 337.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
+height = 400.0
 url = "/images/c6/7a/b0f4a51c4523dbe3f0a2c897a5e7.png"
 width = 225.0
-height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/16/e1/ad3f5bd408c2e2482c648dfca2fc.png"
@@ -115,7 +106,18 @@ width = 100.0
 height = 178.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/3a/8ff6ee76676d7f40925750b6d426.png"
 width = 75.0
 height = 75.0
+url = "/images/f1/3a/8ff6ee76676d7f40925750b6d426.png"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

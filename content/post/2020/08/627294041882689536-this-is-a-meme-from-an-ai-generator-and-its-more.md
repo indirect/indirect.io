@@ -6,43 +6,43 @@ slug = "this-is-a-meme-from-an-ai-generator-and-its-more"
 type = "tumblr-photo"
 
 [tumblr]
-timestamp = 1598234216.0
-should_open_in_legacy = true
+is_blaze_pending = false
+slug = "this-is-a-meme-from-an-ai-generator-and-its-more"
 note_count = 0.0
-link_url = "http://twitter.com/JimothyBurg1ary/status/1297594069351370752"
-format = "html"
+can_reblog = false
+id = 6.272940418826895e+17
+post_url = "https://indirect.io/post/627294041882689536/this-is-a-meme-from-an-ai-generator-and-its-more"
 caption = "<p>this is a meme from an AI generator and it&rsquo;s more clever than anything ive ever wrote — <a href=\"http://twitter.com/JimothyBurg1ary/status/1297594069351370752\">@JimothyBurg1ary</a></p>"
-blog_name = "indirect"
+link_url = "http://twitter.com/JimothyBurg1ary/status/1297594069351370752"
+can_like = false
+can_send_in_message = true
+summary = "this is a meme from an AI generator and it's more clever than anything ive ever wrote — @JimothyBurg1ary"
 interactability_reblog = "everyone"
 display_avatar = true
-image_permalink = "https://indirect.tumblr.com/image/627294041882689536"
-id_string = "627294041882689536"
-date = "2020-08-24 01:56:56 GMT"
-short_url = "https://tmblr.co/ZY3jbyYqc9k88m00"
-can_send_in_message = true
-type = "photo"
-id = 6.272940418826895e+17
+is_blocks_post_format = false
+blog_name = "indirect"
+timestamp = 1598234216.0
 reblog_key = "tzmQ56DV"
-summary = "this is a meme from an AI generator and it's more clever than anything ive ever wrote — @JimothyBurg1ary"
+should_open_in_legacy = true
 interactability_blaze = "everyone"
+id_string = "627294041882689536"
+short_url = "https://tmblr.co/ZY3jbyYqc9k88m00"
 can_reply = false
+format = "html"
+image_permalink = "https://indirect.io/image/627294041882689536"
+type = "photo"
 is_blazed = false
 can_blaze = false
-slug = "this-is-a-meme-from-an-ai-generator-and-its-more"
-can_like = false
-can_reblog = false
-is_blocks_post_format = false
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/627294041882689536/this-is-a-meme-from-an-ai-generator-and-its-more"
+date = "2020-08-24 01:56:56 GMT"
 state = "published"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/f9/fa/1655e0426a4b9206313c6c13bfd4.jpg"
 width = 618.0
 height = 499.0
+url = "/images/f9/fa/1655e0426a4b9206313c6c13bfd4.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f9/fa/1655e0426a4b9206313c6c13bfd4.jpg"
@@ -65,9 +65,9 @@ width = 400.0
 height = 323.0
 
 [[tumblr.photos.alt_sizes]]
+height = 202.0
 url = "/images/bc/b1/6bbcb72a1d19193ddd519b1004ca.jpg"
 width = 250.0
-height = 202.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
@@ -80,52 +80,54 @@ width = 75.0
 height = 75.0
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>this is a meme from an AI generator and it’s more clever than anything ive ever wrote — <a href=\"http://twitter.com/JimothyBurg1ary/status/1297594069351370752\">@JimothyBurg1ary</a></p>"
 content = "<p>this is a meme from an AI generator and it&rsquo;s more clever than anything ive ever wrote &mdash; <a href=\"http://twitter.com/JimothyBurg1ary/status/1297594069351370752\">@JimothyBurg1ary</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-title_font = "Gibson"
+show_title = true
+title_color = "#444444"
 title_font_weight = "bold"
 avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
 show_header_image = false
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_poster = ""
+title_font = "Gibson"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "627294041882689536"
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
 [tumblr.reblog]
 comment = "<p>this is a meme from an AI generator and it’s more clever than anything ive ever wrote — <a href=\"http://twitter.com/JimothyBurg1ary/status/1297594069351370752\">@JimothyBurg1ary</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

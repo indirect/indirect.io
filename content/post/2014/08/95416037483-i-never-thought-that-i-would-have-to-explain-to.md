@@ -6,47 +6,47 @@ slug = "i-never-thought-that-i-would-have-to-explain-to"
 type = "tumblr-quote"
 
 [tumblr]
-can_send_in_message = true
-should_open_in_legacy = true
-text = "I never thought that I would have to explain to him that despite my years in law enforcement, I’m still a second class citizen in the eyes of the law."
 blog_name = "indirect"
-is_blaze_pending = false
-interactability_blaze = "everyone"
-id = 95416037483.0
-can_reply = false
-can_like = false
 is_blazed = false
-can_blaze = false
-summary = "I never thought that I would have to explain to him that despite my years in law enforcement, I’m still a second class citizen..."
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/95416037483/i-never-thought-that-i-would-have-to-explain-to"
-format = "markdown"
-note_count = 0.0
-source = "<a href=\"http://www.dailykos.com/story/2014/08/18/1315081/-A-Cops-take-on-Ferguson##I+never+thought+that+I+would+have+to+explain+to+him+that+despite+my+years+in+law+enforcement%2C+I%E2%80%99m+still+a+second+class+citizen+in+the+eyes+of+the+law.\">A Cops take on Ferguson</a>"
 slug = "i-never-thought-that-i-would-have-to-explain-to"
-short_url = "https://tmblr.co/ZY3jby1OtFJ1h"
-interactability_reblog = "everyone"
-id_string = "95416037483"
+note_count = 0.0
+id = 95416037483.0
 date = "2014-08-22 00:45:18 GMT"
-display_avatar = true
 state = "published"
-type = "quote"
-is_blocks_post_format = false
-timestamp = 1408668318.0
 reblog_key = "vyaV3bHM"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+is_blaze_pending = false
+timestamp = 1408668318.0
+source = "<a href=\"http://www.dailykos.com/story/2014/08/18/1315081/-A-Cops-take-on-Ferguson##I+never+thought+that+I+would+have+to+explain+to+him+that+despite+my+years+in+law+enforcement%2C+I%E2%80%99m+still+a+second+class+citizen+in+the+eyes+of+the+law.\">A Cops take on Ferguson</a>"
+can_reblog = false
+id_string = "95416037483"
+can_blaze = false
+text = "I never thought that I would have to explain to him that despite my years in law enforcement, I’m still a second class citizen in the eyes of the law."
+can_like = false
+can_reply = false
+is_blocks_post_format = false
+should_open_in_legacy = true
+can_send_in_message = true
+post_url = "https://indirect.io/post/95416037483/i-never-thought-that-i-would-have-to-explain-to"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1OtFJ1h"
+interactability_blaze = "everyone"
+display_avatar = true
+type = "quote"
+summary = "I never thought that I would have to explain to him that despite my years in law enforcement, I’m still a second class citizen..."
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.dailykos.com/story/2014/08/18/1315081/-A-Cops-take-on-Ferguson##I+never+thought+that+I+would+have+to+explain+to+him+that+despite+my+years+in+law+enforcement%2C+I%E2%80%99m+still+a+second+class+citizen+in+the+eyes+of+the+law.\">A Cops take on Ferguson</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,52 +6,59 @@ slug = "i-thought-this-bumper-sticker-really-captured-the"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-timestamp = 1639891530.0
-can_like = false
-can_reply = false
-blog_name = "indirect"
-id_string = "670974902357180416"
-reblog_key = "G7birEpr"
-interactability_blaze = "everyone"
-can_reblog = false
 type = "photo"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/670974902357180416/i-thought-this-bumper-sticker-really-captured-the"
-caption = "<p>I thought this bumper sticker really captured the experience of spending time on Twitter — <a href=\"http://twitter.com/atrembath/status/1472376455073914887\">@atrembath</a></p>"
 interactability_reblog = "everyone"
-format = "html"
-note_count = 0.0
-is_blocks_post_format = false
-date = "2021-12-19 05:25:30 GMT"
-summary = "I thought this bumper sticker really captured the experience of spending time on Twitter — @atrembath"
-can_send_in_message = true
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbybFo1vaCy00"
-state = "published"
-link_url = "http://twitter.com/atrembath/status/1472376455073914887"
-image_permalink = "https://indirect.tumblr.com/image/670974902357180416"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/670974902357180416/i-thought-this-bumper-sticker-really-captured-the"
 slug = "i-thought-this-bumper-sticker-really-captured-the"
-should_open_in_legacy = true
-display_avatar = true
+state = "published"
+note_count = 0.0
+caption = "<p>I thought this bumper sticker really captured the experience of spending time on Twitter — <a href=\"http://twitter.com/atrembath/status/1472376455073914887\">@atrembath</a></p>"
+can_send_in_message = true
+is_blaze_pending = false
+summary = "I thought this bumper sticker really captured the experience of spending time on Twitter — @atrembath"
+interactability_blaze = "everyone"
 id = 6.709749023571804e+17
+should_open_in_legacy = true
+link_url = "http://twitter.com/atrembath/status/1472376455073914887"
+display_avatar = true
+is_blazed = false
+format = "html"
+can_reblog = false
+can_reply = false
+can_blaze = false
+date = "2021-12-19 05:25:30 GMT"
+short_url = "https://tmblr.co/ZY3jbybFo1vaCy00"
+image_permalink = "https://indirect.io/image/670974902357180416"
+can_like = false
+is_blocks_post_format = false
+id_string = "670974902357180416"
+timestamp = 1639891530.0
+reblog_key = "G7birEpr"
 
-[tumblr.reblog]
-comment = "<p>I thought this bumper sticker really captured the experience of spending time on Twitter — <a href=\"http://twitter.com/atrembath/status/1472376455073914887\">@atrembath</a></p>"
-tree_html = ""
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/48/90/022a98688c6546ca30f19c9408e1.jpg"
 width = 1200.0
 height = 686.0
+url = "/images/48/90/022a98688c6546ca30f19c9408e1.jpg"
 
 [[tumblr.photos.alt_sizes]]
+width = 1200.0
 height = 686.0
 url = "/images/48/90/022a98688c6546ca30f19c9408e1.jpg"
-width = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f8/a9/b6e82576650bdeec334c898645bc.jpg"
@@ -64,14 +71,14 @@ width = 540.0
 height = 309.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/0c/03/8f71237fbd6135cdd68b64b6ef1c.jpg"
 width = 500.0
 height = 286.0
-url = "/images/0c/03/8f71237fbd6135cdd68b64b6ef1c.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/e4/fe/cf717f6ed17b672cad4365e67863.jpg"
 width = 400.0
 height = 229.0
-url = "/images/e4/fe/cf717f6ed17b672cad4365e67863.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f4/67/f4846052fd1314660c064ed3171d.jpg"
@@ -79,25 +86,14 @@ width = 250.0
 height = 143.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/92/ba/eabed61c13475f31dcf338572cb7.jpg"
 width = 100.0
 height = 57.0
+url = "/images/92/ba/eabed61c13475f31dcf338572cb7.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/39/04/208ba2736651e8d19a01226449e6.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+url = "/images/39/04/208ba2736651e8d19a01226449e6.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>I thought this bumper sticker really captured the experience of spending time on Twitter — <a href=\"http://twitter.com/atrembath/status/1472376455073914887\">@atrembath</a></p>"
@@ -106,31 +102,37 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+share_following = false
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
-share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 show_description = true
-show_title = true
+title_color = "#444444"
+title_font = "Gibson"
 body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font_weight = "bold"
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+header_full_height = 1055.0
 header_image_poster = ""
 header_stretch = true
 link_color = "#529ECC"
+header_full_width = 3000.0
 avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-show_avatar = true
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "670974902357180416"
+
+[tumblr.reblog]
+comment = "<p>I thought this bumper sticker really captured the experience of spending time on Twitter — <a href=\"http://twitter.com/atrembath/status/1472376455073914887\">@atrembath</a></p>"
+tree_html = ""
 +++

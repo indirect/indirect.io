@@ -6,35 +6,35 @@ slug = "inspired-by-conversations-with-coworkers-i"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-summary = "Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n \n O Shit, a..."
-can_send_in_message = true
-can_blaze = false
-reblog_key = "JlYFx7nE"
-short_url = "https://tmblr.co/ZY3jbycU1P7xya00"
-date = "2022-08-19 07:25:33 GMT"
-format = "html"
-blog_name = "indirect"
-slug = "inspired-by-conversations-with-coworkers-i"
 timestamp = 1660893933.0
-id = 6.929975172169892e+17
-is_blaze_pending = false
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-type = "photo"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/692997517216989184/inspired-by-conversations-with-coworkers-i"
-note_count = 0.0
-link_url = "http://twitter.com/0xdade/status/1560385408168366080"
-image_permalink = "https://indirect.tumblr.com/image/692997517216989184"
 state = "published"
+should_open_in_legacy = true
+is_blazed = false
+post_url = "https://indirect.io/post/692997517216989184/inspired-by-conversations-with-coworkers-i"
+short_url = "https://tmblr.co/ZY3jbycU1P7xya00"
+summary = "Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n \n O Shit, a..."
+note_count = 0.0
+blog_name = "indirect"
+is_blaze_pending = false
 caption = "<p>Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n<br/>\n<br/>O Shit, a Wasp! Top 10 Security Risks — <a href=\"http://twitter.com/0xdade/status/1560385408168366080\">@0xdade</a></p>"
 can_like = false
 interactability_reblog = "everyone"
 can_reblog = false
 can_reply = false
-display_avatar = true
+is_blocks_post_format = false
 id_string = "692997517216989184"
+format = "html"
+reblog_key = "JlYFx7nE"
+image_permalink = "https://indirect.io/image/692997517216989184"
+slug = "inspired-by-conversations-with-coworkers-i"
+type = "photo"
+can_blaze = false
+display_avatar = true
+link_url = "http://twitter.com/0xdade/status/1560385408168366080"
+interactability_blaze = "everyone"
+can_send_in_message = true
+id = 6.929975172169892e+17
+date = "2022-08-19 07:25:33 GMT"
 
 [[tumblr.photos]]
 caption = ""
@@ -45,9 +45,9 @@ width = 1024.0
 height = 891.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5e/a6/dff6b6c99e9a830ee3a5cf16dabd.jpg"
 width = 1024.0
 height = 891.0
+url = "/images/5e/a6/dff6b6c99e9a830ee3a5cf16dabd.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b0/77/1ca79142e519733d99573731f89b.jpg"
@@ -55,9 +55,9 @@ width = 640.0
 height = 557.0
 
 [[tumblr.photos.alt_sizes]]
+height = 470.0
 url = "/images/a0/68/88dc650c878a5154f9fbc8369697.jpg"
 width = 540.0
-height = 470.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/ea/a9/4c9bd6677fbed94cd171ab53e542.jpg"
@@ -65,9 +65,9 @@ width = 500.0
 height = 435.0
 
 [[tumblr.photos.alt_sizes]]
+height = 348.0
 url = "/images/b2/ff/6af2b4e00d4c7d8189a273f791b3.jpg"
 width = 400.0
-height = 348.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/62/de/a3bd15dabc51eadc7fae8e281c34.jpg"
@@ -84,53 +84,55 @@ url = "/images/2c/e2/d5f756332a023e13f3978b5f4247.jpg"
 width = 75.0
 height = 75.0
 
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
+
 [tumblr.reblog]
 comment = "<p>Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n<br>\n<br>O Shit, a Wasp! Top 10 Security Risks — <a href=\"http://twitter.com/0xdade/status/1560385408168366080\">@0xdade</a></p>"
 tree_html = ""
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n<br>\n<br>O Shit, a Wasp! Top 10 Security Risks — <a href=\"http://twitter.com/0xdade/status/1560385408168366080\">@0xdade</a></p>"
 content = "<p>Inspired by conversations with coworkers, I present this alternative take on a top ten security risk infographic.\n<br />\n<br />O Shit, a Wasp! Top 10 Security Risks &mdash; <a href=\"http://twitter.com/0xdade/status/1560385408168366080\">@0xdade</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
-active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
+active = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_width = 3000.0
+header_full_height = 1055.0
 header_stretch = true
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
+show_avatar = true
 show_description = true
+title_color = "#444444"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_font_weight = "bold"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_title = true
 title_font = "Gibson"
-header_bounds = ""
-show_avatar = true
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
 show_header_image = false
 
 [tumblr.trail.post]
 id = "692997517216989184"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

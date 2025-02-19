@@ -6,43 +6,43 @@ slug = "i-dont-see-things-as-good-or-evil-i-just-see"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-date = "2008-04-07 17:10:01 GMT"
-timestamp = 1207588201.0
-reblog_key = "mqHSQuVd"
-should_open_in_legacy = true
-note_count = 0.0
-type = "quote"
-is_blaze_pending = false
+interactability_blaze = "everyone"
+is_blazed = false
 can_blaze = false
-slug = "i-dont-see-things-as-good-or-evil-i-just-see"
+type = "quote"
+date = "2008-04-07 17:10:01 GMT"
 state = "published"
 format = "html"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-id_string = "31052176"
-can_like = false
-interactability_reblog = "everyone"
-can_reblog = false
+should_open_in_legacy = true
 display_avatar = true
-summary = "I don’t see things as good or evil, I just see them as witty or boring."
-can_send_in_message = true
-can_reply = false
+can_like = false
 id = 31052176.0
+slug = "i-dont-see-things-as-good-or-evil-i-just-see"
+short_url = "https://tmblr.co/ZY3jby1sT6G"
+note_count = 0.0
+post_url = "https://indirect.io/post/31052176/i-dont-see-things-as-good-or-evil-i-just-see"
+can_reblog = false
+can_reply = false
+summary = "I don’t see things as good or evil, I just see them as witty or boring."
+blog_name = "indirect"
+id_string = "31052176"
+is_blaze_pending = false
+can_send_in_message = true
+is_blocks_post_format = false
+timestamp = 1207588201.0
+reblog_key = "mqHSQuVd"
 text = "I don’t see things as good or evil, I just see them as witty or boring."
 source = "Sebastian Horsley"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/31052176/i-dont-see-things-as-good-or-evil-i-just-see"
-short_url = "https://tmblr.co/ZY3jby1sT6G"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

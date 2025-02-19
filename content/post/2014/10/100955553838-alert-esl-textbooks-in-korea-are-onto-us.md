@@ -6,43 +6,75 @@ slug = "alert-esl-textbooks-in-korea-are-onto-us"
 type = "tumblr-photo"
 
 [tumblr]
-caption = "<p>Alert: ESL textbooks in Korea are onto us. — <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
+short_url = "https://tmblr.co/ZY3jby1U1Qu0k"
 interactability_blaze = "everyone"
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/100955553838"
-id = 100955553838.0
-interactability_reblog = "everyone"
-state = "published"
-should_open_in_legacy = true
-can_send_in_message = true
+image_permalink = "https://indirect.io/image/100955553838"
 display_avatar = true
-blog_name = "indirect"
-id_string = "100955553838"
-post_url = "https://indirect.tumblr.com/post/100955553838/alert-esl-textbooks-in-korea-are-onto-us"
-can_reply = false
+slug = "alert-esl-textbooks-in-korea-are-onto-us"
 timestamp = 1414286992.0
-is_blazed = false
-can_blaze = false
 format = "html"
+interactability_reblog = "everyone"
+can_reblog = false
+state = "published"
+blog_name = "indirect"
+is_blaze_pending = false
+should_open_in_legacy = true
+can_like = false
+can_send_in_message = true
+type = "photo"
+reblog_key = "Clq7GllC"
 summary = "Alert: ESL textbooks in Korea are onto us. — @Hunckler"
 link_url = "http://twitter.com/Hunckler/status/526048065124200448"
-is_blocks_post_format = false
-can_like = false
-can_reblog = false
+id_string = "100955553838"
+can_blaze = false
+caption = "<p>Alert: ESL textbooks in Korea are onto us. — <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
+id = 100955553838.0
+note_count = 0.0
+can_reply = false
 date = "2014-10-26 01:29:52 GMT"
-type = "photo"
-is_blaze_pending = false
-slug = "alert-esl-textbooks-in-korea-are-onto-us"
-reblog_key = "Clq7GllC"
-short_url = "https://tmblr.co/ZY3jby1U1Qu0k"
+is_blocks_post_format = false
+is_blazed = false
+post_url = "https://indirect.io/post/100955553838/alert-esl-textbooks-in-korea-are-onto-us"
+
+[[tumblr.trail]]
+content_raw = "<p>Alert: ESL textbooks in Korea are onto us. — <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
+content = "<p>Alert: ESL textbooks in Korea are onto us. &mdash; <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "100955553838"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_stretch = true
+show_header_image = false
+title_font = "Gibson"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+title_font_weight = "bold"
+avatar_shape = "square"
+header_bounds = ""
+link_color = "#529ECC"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+title_color = "#444444"
 
 [[tumblr.photos]]
 caption = ""
-
-[tumblr.photos.original_size]
-url = "/images/17/9b/f771dcaef43a9ed0d4430a4a47e2.jpg"
-width = 500.0
-height = 703.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/17/9b/f771dcaef43a9ed0d4430a4a47e2.jpg"
@@ -55,63 +87,33 @@ width = 400.0
 height = 562.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/ad/c1/ac4a43c9da5c79050d640a3e46cb.jpg"
 width = 250.0
 height = 352.0
-url = "/images/ad/c1/ac4a43c9da5c79050d640a3e46cb.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 141.0
 url = "/images/d3/ff/999e17d1ed975b8e79a77746e8e9.jpg"
 width = 100.0
-height = 141.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/60/12/d59f8a149814af3669f46a943f4a.jpg"
 width = 75.0
 height = 75.0
-url = "/images/60/12/d59f8a149814af3669f46a943f4a.jpg"
 
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Alert: ESL textbooks in Korea are onto us. — <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
-content = "<p>Alert: ESL textbooks in Korea are onto us. &mdash; <a href=\"http://twitter.com/Hunckler/status/526048065124200448\">@Hunckler</a></p>"
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_poster = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-body_font = "Helvetica Neue"
-show_description = true
-title_font = "Gibson"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "100955553838"
+[tumblr.photos.original_size]
+url = "/images/17/9b/f771dcaef43a9ed0d4430a4a47e2.jpg"
+width = 500.0
+height = 703.0
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

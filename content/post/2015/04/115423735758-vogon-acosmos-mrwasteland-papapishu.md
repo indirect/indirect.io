@@ -6,79 +6,85 @@ slug = "vogon-acosmos-mrwasteland-papapishu"
 type = "tumblr-photo"
 
 [tumblr]
-slug = "vogon-acosmos-mrwasteland-papapishu"
-reblog_key = "fpWITvzQ"
-id_string = "115423735758"
-caption = "<p>.@vogon @acosmos @mrwasteland — <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
-can_send_in_message = true
-can_reply = false
-can_blaze = false
-summary = ".@vogon @acosmos @mrwasteland — @Papapishu"
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-type = "photo"
-state = "published"
 link_url = "http://twitter.com/Papapishu/status/584031749073727489"
-image_permalink = "https://indirect.tumblr.com/image/115423735758"
-is_blocks_post_format = false
+is_blazed = false
+can_reblog = false
 blog_name = "indirect"
 timestamp = 1428098691.0
-short_url = "https://tmblr.co/ZY3jby1hVoc-E"
-can_reblog = false
+caption = "<p>.@vogon @acosmos @mrwasteland — <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
+can_reply = false
+image_permalink = "https://indirect.io/image/115423735758"
 id = 115423735758.0
-is_blazed = false
-is_blaze_pending = false
+id_string = "115423735758"
 date = "2015-04-03 22:04:51 GMT"
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/115423735758/vogon-acosmos-mrwasteland-papapishu"
+short_url = "https://tmblr.co/ZY3jby1hVoc-E"
+type = "photo"
+post_url = "https://indirect.io/post/115423735758/vogon-acosmos-mrwasteland-papapishu"
 format = "html"
+reblog_key = "fpWITvzQ"
+summary = ".@vogon @acosmos @mrwasteland — @Papapishu"
+can_send_in_message = true
+can_blaze = false
+state = "published"
+note_count = 0.0
+is_blocks_post_format = false
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blaze_pending = false
+slug = "vogon-acosmos-mrwasteland-papapishu"
 can_like = false
+interactability_reblog = "everyone"
+display_avatar = true
 
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>.@vogon @acosmos @mrwasteland — <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
 content = "<p>.@vogon @acosmos @mrwasteland &mdash; <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-title_font_weight = "bold"
-header_bounds = ""
 header_stretch = true
-link_color = "#529ECC"
 show_header_image = false
-show_title = true
+title_color = "#444444"
 title_font = "Gibson"
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
-show_description = true
+title_font_weight = "bold"
 body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_bounds = ""
+link_color = "#529ECC"
+show_description = true
 
 [tumblr.trail.post]
 id = "115423735758"
 
+[tumblr.reblog]
+comment = "<p>.@vogon @acosmos @mrwasteland — <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
+tree_html = ""
+
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -111,21 +117,17 @@ width = 400.0
 height = 195.0
 
 [[tumblr.photos.alt_sizes]]
+height = 122.0
 url = "/images/05/3c/df6606313dc78eef798b1c3368f4.jpg"
 width = 250.0
-height = 122.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/af/47/0bf6e194f025564f795ce83ac81e.jpg"
 width = 100.0
 height = 49.0
-url = "/images/af/47/0bf6e194f025564f795ce83ac81e.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/9f/74/cd685a51267b7d753a1d212297c8.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.reblog]
-comment = "<p>.@vogon @acosmos @mrwasteland — <a href=\"http://twitter.com/Papapishu/status/584031749073727489\">@Papapishu</a></p>"
-tree_html = ""
 +++

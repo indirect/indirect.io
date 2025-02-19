@@ -6,41 +6,78 @@ slug = "of-verona-castles"
 type = "tumblr-video"
 
 [tumblr]
-caption = "<p>of Verona - Castles</p>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-state = "published"
-slug = "of-verona-castles"
-html5_capable = false
-video_type = "unknown"
-can_send_in_message = true
-date = "2012-08-21 05:17:00 GMT"
-source_title = "youtube.com"
-thumbnail_height = 0.0
-can_reply = false
-is_blocks_post_format = false
-can_blaze = false
-timestamp = 1345526220.0
-summary = "of Verona - Castles"
-id_string = "29881316381"
-is_blaze_pending = false
-reblog_key = "lX8mDJSh"
-should_open_in_legacy = true
-blog_name = "indirect"
-is_blazed = false
-note_count = 0.0
-thumbnail_url = ""
-thumbnail_width = 0.0
-can_reblog = false
-id = 29881316381.0
-can_like = false
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/29881316381/of-verona-castles"
-format = "markdown"
-source_url = "http://www.youtube.com/watch?v=wykmrS_ZUi0"
 type = "video"
+source_title = "youtube.com"
+thumbnail_width = 0.0
+timestamp = 1345526220.0
+format = "markdown"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+state = "published"
+reblog_key = "lX8mDJSh"
+summary = "of Verona - Castles"
+video_type = "unknown"
+display_avatar = true
+is_blazed = false
+can_reblog = false
+can_send_in_message = true
+can_reply = false
+id = 29881316381.0
+id_string = "29881316381"
+slug = "of-verona-castles"
 short_url = "https://tmblr.co/ZY3jbyRr4BGT"
+source_url = "http://www.youtube.com/watch?v=wykmrS_ZUi0"
+html5_capable = false
+thumbnail_height = 0.0
+date = "2012-08-21 05:17:00 GMT"
 bookmarklet = true
+can_like = false
+is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.io/post/29881316381/of-verona-castles"
+note_count = 0.0
+caption = "<p>of Verona - Castles</p>"
+thumbnail_url = ""
+interactability_reblog = "everyone"
+
+[[tumblr.trail]]
+content = "<p>of Verona - Castles</p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>of Verona - Castles</p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_stretch = true
+link_color = "#529ECC"
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_description = true
+show_title = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_bounds = ""
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+
+[tumblr.trail.post]
+id = "29881316381"
 
 [[tumblr.player]]
 width = 250.0
@@ -51,56 +88,21 @@ width = 400.0
 embed_code = "<iframe width=\"400\" height=\"225\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 
 [[tumblr.player]]
-width = 500.0
 embed_code = "<iframe width=\"500\" height=\"281\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+width = 500.0
 
 [tumblr.reblog]
 comment = "<p>of Verona - Castles</p>"
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_current_item = true
-is_root_item = true
-content_raw = "<p>of Verona - Castles</p>"
-content = "<p>of Verona - Castles</p>"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_description = true
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-avatar_shape = "square"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-body_font = "Helvetica Neue"
-link_color = "#529ECC"
-show_header_image = false
-title_color = "#444444"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "29881316381"
 +++

@@ -6,47 +6,47 @@ slug = "flirting-with-the-judge-so-is-there-a-mr"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-id_string = "750957927707377664"
-format = "markdown"
-text = "[flirting with the judge] so, is there a mr. demeanor"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/750957927707377664/flirting-with-the-judge-so-is-there-a-mr"
-note_count = 0.0
-interactability_reblog = "everyone"
-display_avatar = true
-id = 7.509579277073777e+17
 state = "published"
-short_url = "https://tmblr.co/ZY3jbyfhy46gGm00"
-can_like = false
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-timestamp = 1716169288.0
-can_blaze = false
-date = "2024-05-20 01:41:28 GMT"
-should_open_in_legacy = true
 can_reblog = false
+date = "2024-05-20 01:41:28 GMT"
+type = "quote"
+blog_name = "indirect"
+summary = "[flirting with the judge] so, is there a mr. demeanor"
+can_reply = false
 slug = "flirting-with-the-judge-so-is-there-a-mr"
 reblog_key = "6V6dQyQ4"
 source = "<a href=\"https://twitter.com/PleaseBeGneiss/status/1792299307376497071\">slate (@PleaseBeGneiss)</a>"
-blog_name = "indirect"
-summary = "[flirting with the judge] so, is there a mr. demeanor"
-is_blazed = false
+display_avatar = true
+can_blaze = false
+timestamp = 1716169288.0
+should_open_in_legacy = true
 can_send_in_message = true
-type = "quote"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/750957927707377664/flirting-with-the-judge-so-is-there-a-mr"
+short_url = "https://tmblr.co/ZY3jbyfhy46gGm00"
+is_blazed = false
+note_count = 0.0
+text = "[flirting with the judge] so, is there a mr. demeanor"
+can_like = false
 is_blocks_post_format = false
+id = 7.509579277073777e+17
+id_string = "750957927707377664"
+format = "markdown"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"https://twitter.com/PleaseBeGneiss/status/1792299307376497071\">slate (@PleaseBeGneiss)</a></p>"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://twitter.com/PleaseBeGneiss/status/1792299307376497071\">slate (@PleaseBeGneiss)</a></p>"
-tree_html = ""
 +++

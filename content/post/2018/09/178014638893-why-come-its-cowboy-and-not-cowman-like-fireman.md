@@ -7,46 +7,46 @@ type = "tumblr-quote"
 
 [tumblr]
 id = 178014638893.0
-is_blazed = false
-date = "2018-09-12 18:10:38 GMT"
-display_avatar = true
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/178014638893/why-come-its-cowboy-and-not-cowman-like-fireman"
-timestamp = 1536775838.0
-note_count = 0.0
-type = "quote"
-can_blaze = false
-format = "html"
+state = "published"
 reblog_key = "L8pZWawe"
-text = "<p>Why come it’s cowboy and not cowman like fireman and mailman.</p>\n\n<p>What if all the man suffixes were boy suffixes.</p>\n\n<p>Fireboy<br/>\nGunboy<br/>\nSeaboy<br/>\nGentleboy<br/>\nAlderboy<br/>\nCameraboy<br/>\nFisherboy<br/>\nBusinessboy<br/>\nChairboy<br/>\nCongressboy<br/>\nBildungsroboy<br/>\nGerboy</p>"
-summary = "Why come it’s cowboy and not cowman like fireman and mailman.\n\n What if all the man suffixes were boy suffixes.\n\n Fireboy..."
-source = "<a href=\"http://twitter.com/hermit_hwarang/status/1039588865005113345\">@hermit_hwarang</a>"
+should_open_in_legacy = true
+note_count = 0.0
+post_url = "https://indirect.io/post/178014638893/why-come-its-cowboy-and-not-cowman-like-fireman"
+short_url = "https://tmblr.co/ZY3jby2boVzCj"
 can_reblog = false
 id_string = "178014638893"
-short_url = "https://tmblr.co/ZY3jby2boVzCj"
-can_like = false
-can_reply = false
 slug = "why-come-its-cowboy-and-not-cowman-like-fireman"
-state = "published"
-should_open_in_legacy = true
+date = "2018-09-12 18:10:38 GMT"
+summary = "Why come it’s cowboy and not cowman like fireman and mailman.\n\n What if all the man suffixes were boy suffixes.\n\n Fireboy..."
+type = "quote"
+can_blaze = false
+text = "<p>Why come it’s cowboy and not cowman like fireman and mailman.</p>\n\n<p>What if all the man suffixes were boy suffixes.</p>\n\n<p>Fireboy<br/>\nGunboy<br/>\nSeaboy<br/>\nGentleboy<br/>\nAlderboy<br/>\nCameraboy<br/>\nFisherboy<br/>\nBusinessboy<br/>\nChairboy<br/>\nCongressboy<br/>\nBildungsroboy<br/>\nGerboy</p>"
+source = "<a href=\"http://twitter.com/hermit_hwarang/status/1039588865005113345\">@hermit_hwarang</a>"
 interactability_reblog = "everyone"
-can_send_in_message = true
+can_reply = false
 is_blocks_post_format = false
-is_blaze_pending = false
+timestamp = 1536775838.0
+format = "html"
 interactability_blaze = "everyone"
+can_send_in_message = true
+blog_name = "indirect"
+is_blazed = false
+is_blaze_pending = false
+can_like = false
+display_avatar = true
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/hermit_hwarang/status/1039588865005113345\">@hermit_hwarang</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/hermit_hwarang/status/1039588865005113345\">@hermit_hwarang</a></p>"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

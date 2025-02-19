@@ -6,45 +6,82 @@ slug = "via-wondermark"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-should_open_in_legacy = true
-display_avatar = true
-blog_name = "indirect"
-interactability_blaze = "everyone"
 id = 122552427203.0
-id_string = "122552427203"
-can_blaze = false
-timestamp = 1435369499.0
-can_like = false
+short_url = "https://tmblr.co/ZY3jby1o8iQB3"
 is_blazed = false
-post_url = "https://indirect.tumblr.com/post/122552427203/via-wondermark"
-can_reply = false
+can_blaze = false
+post_url = "https://indirect.io/post/122552427203/via-wondermark"
+image_permalink = "https://indirect.io/image/122552427203"
+can_reblog = false
 is_blocks_post_format = false
-slug = "via-wondermark"
-interactability_reblog = "everyone"
-is_blaze_pending = false
+blog_name = "indirect"
+id_string = "122552427203"
 caption = "<p>via <a href=\"ttp://wondermark.com/c1135/\">Wondermark</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/122552427203"
+interactability_blaze = "everyone"
+can_send_in_message = true
+display_avatar = true
+is_blaze_pending = false
+interactability_reblog = "everyone"
+slug = "via-wondermark"
+format = "markdown"
+should_open_in_legacy = true
+can_like = false
+type = "photo"
+timestamp = 1435369499.0
+summary = "via [Wondermark](ttp://wondermark.com/c1135/)"
 date = "2015-06-27 01:44:59 GMT"
 state = "published"
-format = "markdown"
-summary = "via [Wondermark](ttp://wondermark.com/c1135/)"
-note_count = 0.0
-can_send_in_message = true
 reblog_key = "1szJtb4f"
-short_url = "https://tmblr.co/ZY3jby1o8iQB3"
-can_reblog = false
+note_count = 0.0
+can_reply = false
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>via <a href=\"ttp://wondermark.com/c1135/\">Wondermark</a></p>"
+content = "<p>via <a href=\"denied:ttp://wondermark.com/c1135/\">Wondermark</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_description = true
+show_header_image = false
+title_font = "Gibson"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+
+[tumblr.trail.post]
+id = "122552427203"
 
 [tumblr.reblog]
 comment = "<p>via <a href=\"ttp://wondermark.com/c1135/\">Wondermark</a></p>"
@@ -54,9 +91,9 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/77/ec/b0626c1233f831a9e968737d5825.jpg"
 width = 720.0
 height = 563.0
-url = "/images/77/ec/b0626c1233f831a9e968737d5825.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/77/ec/b0626c1233f831a9e968737d5825.jpg"
@@ -79,9 +116,9 @@ width = 500.0
 height = 391.0
 
 [[tumblr.photos.alt_sizes]]
-height = 313.0
 url = "/images/b9/7b/473e8501c483033597b4512f20e8.jpg"
 width = 400.0
+height = 313.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/29/d8/c394beaae4f7dcdd971e606a37e0.jpg"
@@ -97,39 +134,4 @@ height = 78.0
 url = "/images/b5/85/db1ea22e9caf6b194e85bdaf44bc.jpg"
 width = 75.0
 height = 75.0
-
-[[tumblr.trail]]
-content = "<p>via <a href=\"denied:ttp://wondermark.com/c1135/\">Wondermark</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>via <a href=\"ttp://wondermark.com/c1135/\">Wondermark</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-show_description = true
-show_header_image = false
-title_font = "Gibson"
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "122552427203"
 +++

@@ -6,47 +6,47 @@ slug = "may-you-be-a-founding-member-of-an-open-source"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
 note_count = 0.0
-text = "May you be a founding member of an open source foundation. — Ancient developer curse."
+can_reblog = false
+display_avatar = true
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+source = "<a href=\"http://twitter.com/janl/status/1408470038634450950\">@janl</a>"
+type = "quote"
+date = "2022-11-11 20:42:59 GMT"
+reblog_key = "Vsz6VaoN"
+summary = "May you be a founding member of an open source foundation. — Ancient developer curse."
 blog_name = "indirect"
 can_blaze = false
-date = "2022-11-11 20:42:59 GMT"
-timestamp = 1668199379.0
-state = "published"
-reblog_key = "Vsz6VaoN"
-short_url = "https://tmblr.co/ZY3jbycvF9OPym00"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-id_string = "700657832410939392"
-is_blaze_pending = false
-type = "quote"
-id = 7.006578324109394e+17
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/700657832410939392/may-you-be-a-founding-member-of-an-open-source"
-can_reblog = false
-can_send_in_message = true
-slug = "may-you-be-a-founding-member-of-an-open-source"
-summary = "May you be a founding member of an open source foundation. — Ancient developer curse."
-source = "<a href=\"http://twitter.com/janl/status/1408470038634450950\">@janl</a>"
-interactability_reblog = "everyone"
-display_avatar = true
-format = "html"
-can_like = false
 can_reply = false
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+state = "published"
+is_blocks_post_format = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jbycvF9OPym00"
+interactability_blaze = "everyone"
+can_like = false
+id_string = "700657832410939392"
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1668199379.0
+can_send_in_message = true
+id = 7.006578324109394e+17
+post_url = "https://indirect.io/post/700657832410939392/may-you-be-a-founding-member-of-an-open-source"
+text = "May you be a founding member of an open source foundation. — Ancient developer curse."
+slug = "may-you-be-a-founding-member-of-an-open-source"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/janl/status/1408470038634450950\">@janl</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

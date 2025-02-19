@@ -7,50 +7,50 @@ title = "There really isn't much of a \"tablet\" market"
 type = "tumblr-link"
 
 [tumblr]
-id_string = "2559573140"
-is_blaze_pending = false
-timestamp = 1293927420.0
-should_open_in_legacy = true
-publisher = "marco.org"
+state = "published"
 is_blazed = false
 slug = "there-really-isnt-much-of-a-tablet-market"
-format = "markdown"
-note_count = 0.0
-display_avatar = true
-can_blaze = false
 date = "2011-01-02 00:17:00 GMT"
+short_url = "https://tmblr.co/ZY3jby2OZ-oK"
+note_count = 0.0
+can_reply = false
 type = "link"
-id = 2559573140.0
-state = "published"
-reblog_key = "A2bJooER"
-description = ""
-is_blocks_post_format = false
-summary = "There really isn't much of a \"tablet\" market"
-bookmarklet = true
-interactability_reblog = "everyone"
-can_reblog = false
+is_blaze_pending = false
 url = "http://www.marco.org/2546655554"
+description = ""
 blog_name = "indirect"
+id = 2559573140.0
+format = "markdown"
+bookmarklet = true
+can_reblog = false
+display_avatar = true
+reblog_key = "A2bJooER"
 interactability_blaze = "everyone"
 can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/2559573140/there-really-isnt-much-of-a-tablet-market"
-short_url = "https://tmblr.co/ZY3jby2OZ-oK"
-title = "There really isn't much of a \"tablet\" market"
+is_blocks_post_format = false
+should_open_in_legacy = true
 can_like = false
-can_reply = false
+id_string = "2559573140"
+timestamp = 1293927420.0
+title = "There really isn't much of a \"tablet\" market"
+can_blaze = false
+post_url = "https://indirect.io/post/2559573140/there-really-isnt-much-of-a-tablet-market"
+publisher = "marco.org"
+summary = "There really isn't much of a \"tablet\" market"
+interactability_reblog = "everyone"
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

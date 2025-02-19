@@ -7,46 +7,46 @@ type = "tumblr-quote"
 
 [tumblr]
 note_count = 0.0
-slug = "i-look-at-all-the-people-in-tech-who-are-convinced"
-text = "I look at all the people in tech who are convinced they are saving the world, that what they do matters. When the money goes, and it will, that feeling will go with it."
-id_string = "178642485593"
-can_like = false
-is_blaze_pending = false
-source = "<a href=\"https://popula.com/2018/09/30/sarahs-magnum-opus/##I+look+at+all+the+people+in+tech+who+are+convinced+they+are+saving+the+world%2C+that+what+they+do+matters.+When+the+money+goes%2C+and+it+will%2C+that+feeling+will+go+with+it.\">The Movie Assassin</a>"
-is_blazed = false
-interactability_reblog = "everyone"
-date = "2018-10-01 19:11:49 GMT"
-format = "markdown"
-reblog_key = "Xjk5jui3"
 interactability_blaze = "everyone"
 can_send_in_message = true
-display_avatar = true
 blog_name = "indirect"
-timestamp = 1538421109.0
-state = "published"
 short_url = "https://tmblr.co/ZY3jby2cNx05P"
-should_open_in_legacy = true
-can_reblog = false
 can_reply = false
-type = "quote"
+interactability_reblog = "everyone"
+can_reblog = false
+post_url = "https://indirect.io/post/178642485593/i-look-at-all-the-people-in-tech-who-are-convinced"
+format = "markdown"
+text = "I look at all the people in tech who are convinced they are saving the world, that what they do matters. When the money goes, and it will, that feeling will go with it."
+source = "<a href=\"https://popula.com/2018/09/30/sarahs-magnum-opus/##I+look+at+all+the+people+in+tech+who+are+convinced+they+are+saving+the+world%2C+that+what+they+do+matters.+When+the+money+goes%2C+and+it+will%2C+that+feeling+will+go+with+it.\">The Movie Assassin</a>"
 is_blocks_post_format = false
-id = 178642485593.0
+id_string = "178642485593"
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/178642485593/i-look-at-all-the-people-in-tech-who-are-convinced"
+slug = "i-look-at-all-the-people-in-tech-who-are-convinced"
+date = "2018-10-01 19:11:49 GMT"
+state = "published"
+display_avatar = true
+id = 178642485593.0
+is_blaze_pending = false
+timestamp = 1538421109.0
 summary = "I look at all the people in tech who are convinced they are saving the world, that what they do matters. When the money goes,..."
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"https://popula.com/2018/09/30/sarahs-magnum-opus/##I+look+at+all+the+people+in+tech+who+are+convinced+they+are+saving+the+world%2C+that+what+they+do+matters.+When+the+money+goes%2C+and+it+will%2C+that+feeling+will+go+with+it.\">The Movie Assassin</a></p>"
+can_like = false
+type = "quote"
+reblog_key = "Xjk5jui3"
+is_blazed = false
+should_open_in_legacy = true
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://popula.com/2018/09/30/sarahs-magnum-opus/##I+look+at+all+the+people+in+tech+who+are+convinced+they+are+saving+the+world%2C+that+what+they+do+matters.+When+the+money+goes%2C+and+it+will%2C+that+feeling+will+go+with+it.\">The Movie Assassin</a></p>"
+tree_html = ""
 +++

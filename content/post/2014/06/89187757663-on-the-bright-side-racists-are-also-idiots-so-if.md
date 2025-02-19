@@ -6,47 +6,47 @@ slug = "on-the-bright-side-racists-are-also-idiots-so-if"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-interactability_blaze = "everyone"
-is_blazed = false
-date = "2014-06-18 20:25:06 GMT"
-can_like = false
-can_send_in_message = true
-id_string = "89187757663"
-timestamp = 1403123106.0
-state = "published"
-format = "html"
-reblog_key = "hFE2KNqq"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/cheyennenmh/status/479077511368679424\">@cheyennenmh</a>"
-blog_name = "indirect"
-id = 89187757663.0
-slug = "on-the-bright-side-racists-are-also-idiots-so-if"
-note_count = 0.0
-can_reply = false
-type = "quote"
-display_avatar = true
 is_blocks_post_format = false
-summary = "On the bright side, racists are also idiots so if your life is not in immediate danger, anger them with confusing things, like..."
-text = "On the bright side, racists are also idiots so if your life is not in immediate danger, anger them with confusing things, like facts"
-post_url = "https://indirect.tumblr.com/post/89187757663/on-the-bright-side-racists-are-also-idiots-so-if"
-short_url = "https://tmblr.co/ZY3jby1J40IvV"
+display_avatar = true
+id = 89187757663.0
+can_blaze = false
+state = "published"
+note_count = 0.0
+can_send_in_message = true
 interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/89187757663/on-the-bright-side-racists-are-also-idiots-so-if"
+summary = "On the bright side, racists are also idiots so if your life is not in immediate danger, anger them with confusing things, like..."
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1403123106.0
+reblog_key = "hFE2KNqq"
+can_like = false
+id_string = "89187757663"
+date = "2014-06-18 20:25:06 GMT"
+format = "html"
+should_open_in_legacy = true
+text = "On the bright side, racists are also idiots so if your life is not in immediate danger, anger them with confusing things, like facts"
+source = "<a href=\"http://twitter.com/cheyennenmh/status/479077511368679424\">@cheyennenmh</a>"
+type = "quote"
+slug = "on-the-bright-side-racists-are-also-idiots-so-if"
+short_url = "https://tmblr.co/ZY3jby1J40IvV"
 can_reblog = false
+can_reply = false
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/cheyennenmh/status/479077511368679424\">@cheyennenmh</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

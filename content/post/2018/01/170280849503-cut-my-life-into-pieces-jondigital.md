@@ -6,43 +6,84 @@ slug = "cut-my-life-into-pieces-jondigital"
 type = "tumblr-photo"
 
 [tumblr]
-state = "published"
-summary = "Cut my life into pieces — @Jon_Digital"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby2UbXv1V"
-link_url = "http://twitter.com/Jon_Digital/status/956437942494552064"
-can_reply = false
-id_string = "170280849503"
 is_blaze_pending = false
-timestamp = 1517264963.0
-should_open_in_legacy = true
-display_avatar = true
-caption = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
-note_count = 0.0
+summary = "Cut my life into pieces — @Jon_Digital"
 can_send_in_message = true
-id = 170280849503.0
-slug = "cut-my-life-into-pieces-jondigital"
-reblog_key = "6kSEKuGq"
-can_like = false
-can_reblog = false
 is_blocks_post_format = false
 is_blazed = false
-format = "html"
-image_permalink = "https://indirect.tumblr.com/image/170280849503"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 type = "photo"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/170280849503/cut-my-life-into-pieces-jondigital"
+can_blaze = false
 date = "2018-01-29 22:29:23 GMT"
+short_url = "https://tmblr.co/ZY3jby2UbXv1V"
+note_count = 0.0
+can_reply = false
+state = "published"
+display_avatar = true
+link_url = "http://twitter.com/Jon_Digital/status/956437942494552064"
+interactability_reblog = "everyone"
+slug = "cut-my-life-into-pieces-jondigital"
+should_open_in_legacy = true
+timestamp = 1517264963.0
+caption = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
+image_permalink = "https://indirect.io/image/170280849503"
+can_like = false
+interactability_blaze = "everyone"
+id_string = "170280849503"
+post_url = "https://indirect.io/post/170280849503/cut-my-life-into-pieces-jondigital"
+format = "html"
+reblog_key = "6kSEKuGq"
+can_reblog = false
+blog_name = "indirect"
+id = 170280849503.0
+
+[tumblr.reblog]
+comment = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content_raw = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
+content = "<p>Cut my life into pieces &mdash; <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+header_bounds = ""
+header_stretch = true
+show_avatar = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "170280849503"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/0b/54/573dca0af84b6effe78801efc9af.jpg"
 width = 640.0
 height = 427.0
+url = "/images/0b/54/573dca0af84b6effe78801efc9af.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0b/54/573dca0af84b6effe78801efc9af.jpg"
@@ -79,53 +120,14 @@ url = "/images/4e/77/5c9468c48753a3bee245a25b7ad9.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
-content = "<p>Cut my life into pieces &mdash; <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-
-[tumblr.trail.blog.theme]
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_header_image = false
-show_title = true
-title_font = "Gibson"
-header_stretch = true
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-
-[tumblr.trail.post]
-id = "170280849503"
-
 [tumblr.blog]
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>Cut my life into pieces — <a href=\"http://twitter.com/Jon_Digital/status/956437942494552064\">@Jon_Digital</a></p>"
-tree_html = ""
 +++

@@ -6,43 +6,43 @@ slug = "algorithms-are-peoples-opinions-mathematically"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://medium.com/@perryhewitt/check-your-normative-defaults-e5b97e39fab8##algorithms+are+people%E2%80%99s+opinions%2C+mathematically+expressed\">Check Your Normative Defaults</a>"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-id = 104726591933.0
-format = "markdown"
-reblog_key = "hHYAp380"
-short_url = "https://tmblr.co/ZY3jby1XYCFcz"
-type = "quote"
-timestamp = 1418094488.0
-should_open_in_legacy = true
-note_count = 0.0
-is_blocks_post_format = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/104726591933/algorithms-are-peoples-opinions-mathematically"
-date = "2014-12-09 03:08:08 GMT"
-summary = "algorithms are people’s opinions, mathematically expressed"
-id_string = "104726591933"
-text = "algorithms are people’s opinions, mathematically expressed"
 is_blaze_pending = false
-interactability_reblog = "everyone"
+reblog_key = "hHYAp380"
+note_count = 0.0
+type = "quote"
+id = 104726591933.0
+short_url = "https://tmblr.co/ZY3jby1XYCFcz"
 can_like = false
+is_blocks_post_format = false
 blog_name = "indirect"
+format = "markdown"
+can_send_in_message = true
 slug = "algorithms-are-peoples-opinions-mathematically"
-state = "published"
-can_reblog = false
+date = "2014-12-09 03:08:08 GMT"
+can_reply = false
+post_url = "https://indirect.io/post/104726591933/algorithms-are-peoples-opinions-mathematically"
+should_open_in_legacy = true
+source = "<a href=\"https://medium.com/@perryhewitt/check-your-normative-defaults-e5b97e39fab8##algorithms+are+people%E2%80%99s+opinions%2C+mathematically+expressed\">Check Your Normative Defaults</a>"
+display_avatar = true
+id_string = "104726591933"
 is_blazed = false
+timestamp = 1418094488.0
+summary = "algorithms are people’s opinions, mathematically expressed"
+interactability_blaze = "everyone"
+can_reblog = false
+can_blaze = false
+state = "published"
+text = "algorithms are people’s opinions, mathematically expressed"
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

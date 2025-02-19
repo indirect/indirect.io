@@ -7,48 +7,48 @@ title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
 type = "tumblr-link"
 
 [tumblr]
-id_string = "80659965288"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1B7jMLe"
-can_blaze = false
-publisher = "medium.com"
-description = ""
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/80659965288/coming-soon-to-hacker-news-pending-comments"
-date = "2014-03-25 07:10:00 GMT"
-state = "published"
-can_like = false
-can_reblog = false
-can_reply = false
 type = "link"
-timestamp = 1395731400.0
 is_blazed = false
 format = "markdown"
-can_send_in_message = true
-id = 80659965288.0
-slug = "coming-soon-to-hacker-news-pending-comments"
-reblog_key = "nbj9O2Dn"
 should_open_in_legacy = true
-url = "https://medium.com/p/8a36de59cf10"
+note_count = 0.0
 interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+can_blaze = false
+title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
+description = ""
+can_reblog = false
+can_send_in_message = true
+can_reply = false
+display_avatar = true
+id_string = "80659965288"
+post_url = "https://indirect.io/post/80659965288/coming-soon-to-hacker-news-pending-comments"
+timestamp = 1395731400.0
 is_blocks_post_format = false
 blog_name = "indirect"
+slug = "coming-soon-to-hacker-news-pending-comments"
+id = 80659965288.0
+short_url = "https://tmblr.co/ZY3jby1B7jMLe"
+url = "https://medium.com/p/8a36de59cf10"
+can_like = false
+state = "published"
 summary = "“Coming Soon to Hacker News: Pending Comments” — Medium"
-note_count = 0.0
-title = "“Coming Soon to Hacker News: Pending Comments” — Medium"
+interactability_blaze = "everyone"
+date = "2014-03-25 07:10:00 GMT"
+publisher = "medium.com"
+is_blaze_pending = false
+reblog_key = "nbj9O2Dn"
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]

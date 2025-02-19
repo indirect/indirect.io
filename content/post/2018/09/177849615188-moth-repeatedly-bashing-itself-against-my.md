@@ -6,43 +6,43 @@ slug = "moth-repeatedly-bashing-itself-against-my"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blazed = false
-can_blaze = false
-format = "html"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/177849615188/moth-repeatedly-bashing-itself-against-my"
-date = "2018-09-07 23:26:07 GMT"
-interactability_reblog = "everyone"
-slug = "moth-repeatedly-bashing-itself-against-my"
-summary = "moth *repeatedly bashing itself against my computer monitor*\n\n me: it’s not a touchscreen you have to use the mouse"
 id = 177849615188.0
-is_blaze_pending = false
-reblog_key = "dZ9qtFrz"
-can_reply = false
-is_blocks_post_format = false
-blog_name = "indirect"
+type = "quote"
+state = "published"
 short_url = "https://tmblr.co/ZY3jby2begSDK"
 should_open_in_legacy = true
 text = "<p>moth *repeatedly bashing itself against my computer monitor*</p>\n\n<p>me: it&rsquo;s not a touchscreen you have to use the mouse</p>"
-can_reblog = false
-can_send_in_message = true
-timestamp = 1536362767.0
-source = "<a href=\"http://twitter.com/roboticcrab/status/1037901149892952065\">@roboticcrab</a>"
-display_avatar = true
-note_count = 0.0
-can_like = false
+reblog_key = "dZ9qtFrz"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
 id_string = "177849615188"
-state = "published"
+is_blazed = false
+can_blaze = false
+can_like = false
+can_reply = false
+display_avatar = true
+slug = "moth-repeatedly-bashing-itself-against-my"
+summary = "moth *repeatedly bashing itself against my computer monitor*\n\n me: it’s not a touchscreen you have to use the mouse"
+source = "<a href=\"http://twitter.com/roboticcrab/status/1037901149892952065\">@roboticcrab</a>"
+can_reblog = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/177849615188/moth-repeatedly-bashing-itself-against-my"
+date = "2018-09-07 23:26:07 GMT"
+blog_name = "indirect"
+timestamp = 1536362767.0
+format = "html"
+note_count = 0.0
+interactability_blaze = "everyone"
+can_send_in_message = true
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

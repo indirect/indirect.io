@@ -6,35 +6,35 @@ slug = "if-anyones-thinking-of-opening-a-car-repair"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-blog_name = "indirect"
-date = "2015-05-11 19:49:56 GMT"
-can_reblog = false
-can_reply = false
-display_avatar = true
 is_blaze_pending = false
-caption = "<p>if anyone&rsquo;s thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here — <a href=\"http://twitter.com/dandouglas/status/597127305555800064\">@dandouglas</a></p>"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/118717160798/if-anyones-thinking-of-opening-a-car-repair"
-slug = "if-anyones-thinking-of-opening-a-car-repair"
-should_open_in_legacy = true
 note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/118717160798"
 can_like = false
-interactability_blaze = "everyone"
-id = 118717160798.0
+blog_name = "indirect"
+can_send_in_message = true
+can_reply = false
+is_blazed = false
+timestamp = 1431373796.0
 state = "published"
 summary = "if anyone's thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here —..."
+can_reblog = false
+type = "photo"
 id_string = "118717160798"
-can_blaze = false
-timestamp = 1431373796.0
-format = "html"
+caption = "<p>if anyone&rsquo;s thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here — <a href=\"http://twitter.com/dandouglas/status/597127305555800064\">@dandouglas</a></p>"
+slug = "if-anyones-thinking-of-opening-a-car-repair"
 reblog_key = "61qwapfY"
-link_url = "http://twitter.com/dandouglas/status/597127305555800064"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/118717160798"
+id = 118717160798.0
+date = "2015-05-11 19:49:56 GMT"
+interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/118717160798/if-anyones-thinking-of-opening-a-car-repair"
+format = "html"
 short_url = "https://tmblr.co/ZY3jby1ka61rU"
-can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
+can_blaze = false
+link_url = "http://twitter.com/dandouglas/status/597127305555800064"
+interactability_reblog = "everyone"
 
 [[tumblr.trail]]
 content_raw = "<p>if anyone’s thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here — <a href=\"http://twitter.com/dandouglas/status/597127305555800064\">@dandouglas</a></p>"
@@ -42,42 +42,44 @@ content = "<p>if anyone&rsquo;s thinking of opening a car repair garage appealin
 is_current_item = true
 is_root_item = true
 
-[tumblr.trail.post]
-id = "118717160798"
-
 [tumblr.trail.blog]
-share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
+share_following = false
 
 [tumblr.trail.blog.theme]
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_description = true
-show_title = true
-title_color = "#444444"
-avatar_shape = "square"
+header_full_width = 3000.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_header_image = false
+show_title = true
+title_font = "Gibson"
+header_stretch = true
 show_avatar = true
 title_font_weight = "bold"
-background_color = "#FAFAFA"
-show_header_image = false
-title_font = "Gibson"
+header_bounds = ""
+header_image_poster = ""
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "118717160798"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/cf/c3/5da4e2adeafc4e1569d5a822f8bc.jpg"
 width = 267.0
 height = 127.0
+url = "/images/cf/c3/5da4e2adeafc4e1569d5a822f8bc.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cf/c3/5da4e2adeafc4e1569d5a822f8bc.jpg"
@@ -99,18 +101,18 @@ url = "/images/fc/1e/c9ab54d0bbdb12f55bde6d9bdc14.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>if anyone’s thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here — <a href=\"http://twitter.com/dandouglas/status/597127305555800064\">@dandouglas</a></p>"
-tree_html = ""
-
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>if anyone’s thinking of opening a car repair garage appealing to millennials I got yer brand name and logo right here — <a href=\"http://twitter.com/dandouglas/status/597127305555800064\">@dandouglas</a></p>"
 +++

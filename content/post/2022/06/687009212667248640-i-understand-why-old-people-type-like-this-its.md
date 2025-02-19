@@ -6,47 +6,47 @@ slug = "i-understand-why-old-people-type-like-this-its"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-blog_name = "indirect"
-can_blaze = false
 slug = "i-understand-why-old-people-type-like-this-its"
-summary = "i understand why old people type like this…… it’s so addicting…… like a bitch just be trailing off…… ominously…. who knows.."
-note_count = 1.0
-can_reblog = false
-can_send_in_message = true
-is_blazed = false
-timestamp = 1655183041.0
-reblog_key = "VcAku1rs"
-can_like = false
-interactability_blaze = "everyone"
-id_string = "687009212667248640"
-is_blaze_pending = false
 date = "2022-06-14 05:04:01 GMT"
-should_open_in_legacy = true
-text = "i understand why old people type like this&hellip;&hellip; it&rsquo;s so addicting&hellip;&hellip; like a bitch just be trailing off&hellip;&hellip; ominously&hellip;. who knows.."
-display_avatar = true
-is_blocks_post_format = false
-interactability_reblog = "everyone"
-state = "published"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/687009212667248640/i-understand-why-old-people-type-like-this-its"
-format = "html"
-id = 6.870092126672486e+17
+reblog_key = "VcAku1rs"
 short_url = "https://tmblr.co/ZY3jbyc8lpqkSy00"
 source = "<a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a>"
+can_reblog = false
+is_blazed = false
+summary = "i understand why old people type like this…… it’s so addicting…… like a bitch just be trailing off…… ominously…. who knows.."
+blog_name = "indirect"
+id = 6.870092126672486e+17
+note_count = 1.0
+text = "i understand why old people type like this&hellip;&hellip; it&rsquo;s so addicting&hellip;&hellip; like a bitch just be trailing off&hellip;&hellip; ominously&hellip;. who knows.."
+interactability_reblog = "everyone"
+can_reply = false
+display_avatar = true
+id_string = "687009212667248640"
+is_blaze_pending = false
+format = "html"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+type = "quote"
+can_blaze = false
+should_open_in_legacy = true
+can_like = false
+post_url = "https://indirect.io/post/687009212667248640/i-understand-why-old-people-type-like-this-its"
+timestamp = 1655183041.0
+state = "published"
+can_send_in_message = true
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/gothcowboys/status/1533259248049672192\">@gothcowboys</a></p>"
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

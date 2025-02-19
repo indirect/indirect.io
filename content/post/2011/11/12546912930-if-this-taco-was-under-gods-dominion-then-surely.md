@@ -6,47 +6,47 @@ slug = "if-this-taco-was-under-gods-dominion-then-surely"
 type = "tumblr-quote"
 
 [tumblr]
+is_blazed = false
+interactability_reblog = "everyone"
+can_reply = false
+date = "2011-11-09 05:09:50 GMT"
+text = "if this taco was under God’s dominion then surely all other great evils must be as well"
+type = "quote"
+id = 12546912930.0
+timestamp = 1320815390.0
 state = "published"
+format = "markdown"
+can_reblog = false
+can_like = false
+slug = "if-this-taco-was-under-gods-dominion-then-surely"
+can_send_in_message = true
+id_string = "12546912930"
+can_blaze = false
+post_url = "https://indirect.io/post/12546912930/if-this-taco-was-under-gods-dominion-then-surely"
+should_open_in_legacy = true
+display_avatar = true
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyBhshAY"
+summary = "if this taco was under God’s dominion then surely all other great evils must be as well"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+reblog_key = "sF3J8QNT"
 note_count = 0.0
 source = "<a href=\"http://yelpingwithcormac.tumblr.com/post/11950502897/taco-bell\">Yelping With Cormac | Taco Bell</a>"
-timestamp = 1320815390.0
-summary = "if this taco was under God’s dominion then surely all other great evils must be as well"
-blog_name = "indirect"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/12546912930/if-this-taco-was-under-gods-dominion-then-surely"
-slug = "if-this-taco-was-under-gods-dominion-then-surely"
-short_url = "https://tmblr.co/ZY3jbyBhshAY"
-can_send_in_message = true
-is_blocks_post_format = false
-id = 12546912930.0
-format = "markdown"
-should_open_in_legacy = true
-text = "if this taco was under God’s dominion then surely all other great evils must be as well"
-interactability_reblog = "everyone"
-is_blaze_pending = false
-date = "2011-11-09 05:09:50 GMT"
-interactability_blaze = "everyone"
-is_blazed = false
-reblog_key = "sF3J8QNT"
-can_reblog = false
-type = "quote"
-can_blaze = false
-display_avatar = true
-can_like = false
-id_string = "12546912930"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://yelpingwithcormac.tumblr.com/post/11950502897/taco-bell\">Yelping With Cormac | Taco Bell</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 id_string = "184000994523"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/184000994523/if-a-bunch-of-cooks-all-follow-one-cooks-method"
-state = "published"
-can_like = false
-type = "quote"
-format = "html"
-can_reblog = false
-timestamp = 1554606175.0
+is_blazed = false
 reblog_key = "YCa1sNEF"
 source = "<a href=\"http://twitter.com/caraesten/status/1114603949120577536\">@caraesten</a>"
-id = 184000994523.0
-should_open_in_legacy = true
-note_count = 0.0
+interactability_blaze = "everyone"
+can_reblog = false
+state = "published"
+format = "html"
+summary = "if a bunch of cooks all follow one cook’s method for preparing snails is that…\n\n escargot culting?"
 text = "<p>if a bunch of cooks all follow one cook&rsquo;s method for preparing snails is that&hellip;</p>\n\n<p>escargot culting?</p>"
+interactability_reblog = "everyone"
+id = 184000994523.0
+slug = "if-a-bunch-of-cooks-all-follow-one-cooks-method"
+timestamp = 1554606175.0
+can_like = false
+date = "2019-04-07 03:02:55 GMT"
+short_url = "https://tmblr.co/ZY3jby2hNK5pR"
+should_open_in_legacy = true
 can_reply = false
 display_avatar = true
-date = "2019-04-07 03:02:55 GMT"
+type = "quote"
 is_blocks_post_format = false
 is_blaze_pending = false
 can_blaze = false
-slug = "if-a-bunch-of-cooks-all-follow-one-cooks-method"
-summary = "if a bunch of cooks all follow one cook’s method for preparing snails is that…\n\n escargot culting?"
+post_url = "https://indirect.io/post/184000994523/if-a-bunch-of-cooks-all-follow-one-cooks-method"
 can_send_in_message = true
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby2hNK5pR"
-interactability_reblog = "everyone"
+blog_name = "indirect"
+note_count = 0.0
 
 [tumblr.blog]
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
 
 [tumblr.blog.tumblrmart_accessories]
 

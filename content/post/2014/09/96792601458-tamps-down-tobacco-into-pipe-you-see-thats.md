@@ -6,47 +6,47 @@ slug = "tamps-down-tobacco-into-pipe-you-see-thats"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-state = "published"
-source = "<a href=\"http://twitter.com/DadBeard/status/508028256046432256\">@DadBeard</a>"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/96792601458/tamps-down-tobacco-into-pipe-you-see-thats"
-date = "2014-09-06 15:44:10 GMT"
-can_reblog = false
-can_send_in_message = true
-can_blaze = false
-should_open_in_legacy = true
-can_like = false
 interactability_reblog = "everyone"
-is_blazed = false
-slug = "tamps-down-tobacco-into-pipe-you-see-thats"
+can_reblog = false
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 display_avatar = true
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1Q9IUDo"
-note_count = 0.0
-is_blocks_post_format = false
+date = "2014-09-06 15:44:10 GMT"
 id = 96792601458.0
-summary = "*tamps down tobacco into pipe* You see, that’s where you’re wrong *clears throat* Flubber was the doctors name."
-can_reply = false
 id_string = "96792601458"
+short_url = "https://tmblr.co/ZY3jby1Q9IUDo"
+summary = "*tamps down tobacco into pipe* You see, that’s where you’re wrong *clears throat* Flubber was the doctors name."
+source = "<a href=\"http://twitter.com/DadBeard/status/508028256046432256\">@DadBeard</a>"
 type = "quote"
-timestamp = 1410018250.0
+blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reply = false
+post_url = "https://indirect.io/post/96792601458/tamps-down-tobacco-into-pipe-you-see-thats"
+format = "html"
+can_send_in_message = true
+is_blaze_pending = false
+slug = "tamps-down-tobacco-into-pipe-you-see-thats"
 reblog_key = "RkCUCuSm"
+is_blocks_post_format = false
+state = "published"
 text = "*tamps down tobacco into pipe* You see, that’s where you’re wrong *clears throat* Flubber was the doctors name."
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
+timestamp = 1410018250.0
+is_blazed = false
+note_count = 0.0
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/DadBeard/status/508028256046432256\">@DadBeard</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

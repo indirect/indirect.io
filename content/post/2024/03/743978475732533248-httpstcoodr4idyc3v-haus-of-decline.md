@@ -6,81 +6,35 @@ slug = "httpstcoodr4idyc3v-haus-of-decline"
 type = "tumblr-photo"
 
 [tumblr]
-blog_name = "indirect"
-reblog_key = "08KuYqtR"
-short_url = "https://tmblr.co/ZY3jbyfJ97jUam00"
-caption = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> — <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
-date = "2024-03-04 00:46:03 GMT"
-state = "published"
-type = "photo"
-id = 7.439784757325332e+17
+is_blazed = false
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/743978475732533248/httpstcoodr4idyc3v-haus-of-decline"
-timestamp = 1709513163.0
+reblog_key = "08KuYqtR"
 format = "html"
-interactability_blaze = "everyone"
-display_avatar = true
-id_string = "743978475732533248"
+summary = "https://t.co/odR4IDYc3V — Haus of Decline (@hausofdecline)"
 can_like = false
 is_blocks_post_format = false
-summary = "https://t.co/odR4IDYc3V — Haus of Decline (@hausofdecline)"
-link_url = "https://twitter.com/hausofdecline/status/1764293872841101586"
-can_reblog = false
-should_open_in_legacy = true
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/743978475732533248"
-can_blaze = false
-interactability_reblog = "everyone"
-is_blazed = false
-can_send_in_message = true
-can_reply = false
+blog_name = "indirect"
 slug = "httpstcoodr4idyc3v-haus-of-decline"
-
-[[tumblr.trail]]
-content_raw = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> — <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
-content = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> &mdash; <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "743978475732533248"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-show_description = true
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+timestamp = 1709513163.0
+type = "photo"
+post_url = "https://indirect.io/post/743978475732533248/httpstcoodr4idyc3v-haus-of-decline"
+state = "published"
+can_reply = false
+id_string = "743978475732533248"
+interactability_reblog = "everyone"
+id = 7.439784757325332e+17
+caption = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> — <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
+image_permalink = "https://indirect.io/image/743978475732533248"
+interactability_blaze = "everyone"
+should_open_in_legacy = true
+link_url = "https://twitter.com/hausofdecline/status/1764293872841101586"
+can_send_in_message = true
+can_blaze = false
+date = "2024-03-04 00:46:03 GMT"
+short_url = "https://tmblr.co/ZY3jbyfJ97jUam00"
+note_count = 0.0
+can_reblog = false
+display_avatar = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> — <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
@@ -90,14 +44,14 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
+url = "/images/5d/47/e055386154c632357119f55a5b27.jpg"
 width = 1200.0
 height = 1008.0
-url = "/images/5d/47/e055386154c632357119f55a5b27.jpg"
 
 [[tumblr.photos.alt_sizes]]
-width = 1200.0
 height = 1008.0
 url = "/images/5d/47/e055386154c632357119f55a5b27.jpg"
+width = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 height = 538.0
@@ -105,9 +59,9 @@ url = "/images/4f/ac/a54479e3576c99735ef5920acbe7.jpg"
 width = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/68/79/89962747686704363fea7b73f9df.jpg"
 width = 540.0
 height = 454.0
+url = "/images/68/79/89962747686704363fea7b73f9df.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bb/cb/21109cbb471e9e910af197671ea4.jpg"
@@ -125,12 +79,60 @@ width = 250.0
 height = 210.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/ab/00/9fcebb52649f7e416e03dfa34079.jpg"
 width = 100.0
 height = 84.0
-url = "/images/ab/00/9fcebb52649f7e416e03dfa34079.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/ba/94/fcf19a2d84e7966433f27dc71c4d.jpg"
 width = 75.0
+height = 75.0
+
+[[tumblr.trail]]
+is_root_item = true
+content_raw = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> — <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
+content = "<p><a href=\"https://t.co/odR4IDYc3V\">https://t.co/odR4IDYc3V</a> &mdash; <a href=\"https://twitter.com/hausofdecline/status/1764293872841101586\">Haus of Decline (@hausofdecline)</a></p>"
+is_current_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_title = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+header_stretch = true
+title_color = "#444444"
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+
+[tumblr.trail.post]
+id = "743978475732533248"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

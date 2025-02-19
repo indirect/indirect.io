@@ -7,46 +7,46 @@ title = "Rape prevention tips"
 type = "tumblr-link"
 
 [tumblr]
-should_open_in_legacy = true
-note_count = 0.0
-is_blocks_post_format = false
-format = "markdown"
-title = "Rape prevention tips"
-can_like = false
-interactability_reblog = "everyone"
-blog_name = "indirect"
-reblog_key = "I7csilPa"
-summary = "Rape prevention tips"
-type = "link"
-id = 40119043325.0
 can_blaze = false
-slug = "rape-prevention-tips"
-date = "2013-01-09 21:47:33 GMT"
-publisher = "canyourelate.org"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbybNI0Jz"
+note_count = 0.0
+can_reblog = false
 display_avatar = true
-id_string = "40119043325"
-is_blazed = false
+blog_name = "indirect"
+url = "http://canyourelate.org/2011/05/24/rape-prevention-tips/"
+date = "2013-01-09 21:47:33 GMT"
+summary = "Rape prevention tips"
+should_open_in_legacy = true
+publisher = "canyourelate.org"
+interactability_reblog = "everyone"
+slug = "rape-prevention-tips"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbybNI0Jz"
+title = "Rape prevention tips"
+can_send_in_message = true
 state = "published"
-post_url = "https://indirect.tumblr.com/post/40119043325/rape-prevention-tips"
+type = "link"
+is_blocks_post_format = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/40119043325/rape-prevention-tips"
 bookmarklet = true
 description = ""
 interactability_blaze = "everyone"
-can_send_in_message = true
+is_blazed = false
 timestamp = 1357768053.0
-url = "http://canyourelate.org/2011/05/24/rape-prevention-tips/"
-can_reblog = false
+reblog_key = "I7csilPa"
+id = 40119043325.0
+id_string = "40119043325"
+can_like = false
 can_reply = false
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

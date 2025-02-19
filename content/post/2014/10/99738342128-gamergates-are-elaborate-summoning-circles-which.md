@@ -6,47 +6,47 @@ slug = "gamergates-are-elaborate-summoning-circles-which"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/ActualPerson084/status/520764755255242752\">@ActualPerson084</a>"
-can_send_in_message = true
-can_reply = false
-id_string = "99738342128"
-format = "html"
+type = "quote"
+is_blazed = false
 can_blaze = false
+should_open_in_legacy = true
+short_url = "https://tmblr.co/ZY3jby1SutbBm"
+can_send_in_message = true
+note_count = 0.0
+text = "GAMERGATES ARE ELABORATE SUMMONING CIRCLES WHICH CALL FORTH STREAMS OF WET AND TREMBLING DEVILS SCREAMING AT A WORLD THEY DON&rsquo;T COMPREHEND."
+can_like = false
+source = "<a href=\"http://twitter.com/ActualPerson084/status/520764755255242752\">@ActualPerson084</a>"
+blog_name = "indirect"
+id_string = "99738342128"
+post_url = "https://indirect.io/post/99738342128/gamergates-are-elaborate-summoning-circles-which"
 slug = "gamergates-are-elaborate-summoning-circles-which"
 summary = "GAMERGATES ARE ELABORATE SUMMONING CIRCLES WHICH CALL FORTH STREAMS OF WET AND TREMBLING DEVILS SCREAMING AT A WORLD THEY DON’T..."
-post_url = "https://indirect.tumblr.com/post/99738342128/gamergates-are-elaborate-summoning-circles-which"
-state = "published"
-text = "GAMERGATES ARE ELABORATE SUMMONING CIRCLES WHICH CALL FORTH STREAMS OF WET AND TREMBLING DEVILS SCREAMING AT A WORLD THEY DON&rsquo;T COMPREHEND."
-date = "2014-10-11 17:00:36 GMT"
-timestamp = 1413046836.0
-note_count = 0.0
-can_like = false
+can_reblog = false
 interactability_reblog = "everyone"
+is_blaze_pending = false
+timestamp = 1413046836.0
+state = "published"
 interactability_blaze = "everyone"
-blog_name = "indirect"
-display_avatar = true
-type = "quote"
+can_reply = false
+date = "2014-10-11 17:00:36 GMT"
+format = "html"
+reblog_key = "qSimAX2I"
 is_blocks_post_format = false
 id = 99738342128.0
-is_blazed = false
-is_blaze_pending = false
-reblog_key = "qSimAX2I"
-short_url = "https://tmblr.co/ZY3jby1SutbBm"
-can_reblog = false
+display_avatar = true
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ActualPerson084/status/520764755255242752\">@ActualPerson084</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

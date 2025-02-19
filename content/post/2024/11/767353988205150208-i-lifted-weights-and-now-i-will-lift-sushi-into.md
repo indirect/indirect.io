@@ -6,47 +6,47 @@ slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbygcC6Bxye00"
-text = "i lifted weights and now i will lift sushi. into my mouth"
-can_like = false
-id_string = "767353988205150208"
+slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
+date = "2024-11-17 01:09:50 GMT"
+format = "markdown"
 display_avatar = true
 is_blocks_post_format = false
-id = 7.673539882051502e+17
-date = "2024-11-17 01:09:50 GMT"
-source = "<a href=\"https://bsky.app/profile/bbghost.bsky.social/post/3lb473xkuw22u\">emily 🩷 (@bbghost.bsky.social)</a>"
-can_reblog = false
+post_url = "https://indirect.io/post/767353988205150208/i-lifted-weights-and-now-i-will-lift-sushi-into"
+reblog_key = "s1xiHfjt"
+summary = "i lifted weights and now i will lift sushi. into my mouth"
+note_count = 0.0
+blog_name = "indirect"
 is_blaze_pending = false
-format = "markdown"
 should_open_in_legacy = true
+interactability_blaze = "everyone"
+type = "quote"
+id = 7.673539882051502e+17
+state = "published"
+is_blazed = false
+timestamp = 1731805790.0
+short_url = "https://tmblr.co/ZY3jbygcC6Bxye00"
+text = "i lifted weights and now i will lift sushi. into my mouth"
+source = "<a href=\"https://bsky.app/profile/bbghost.bsky.social/post/3lb473xkuw22u\">emily 🩷 (@bbghost.bsky.social)</a>"
 can_send_in_message = true
 can_reply = false
-state = "published"
-summary = "i lifted weights and now i will lift sushi. into my mouth"
+can_blaze = false
+can_like = false
+can_reblog = false
+id_string = "767353988205150208"
 interactability_reblog = "everyone"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/767353988205150208/i-lifted-weights-and-now-i-will-lift-sushi-into"
-reblog_key = "s1xiHfjt"
-note_count = 0.0
-type = "quote"
-interactability_blaze = "everyone"
-is_blazed = false
-slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
-timestamp = 1731805790.0
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/bbghost.bsky.social/post/3lb473xkuw22u\">emily 🩷 (@bbghost.bsky.social)</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

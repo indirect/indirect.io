@@ -6,81 +6,83 @@ slug = "how-to-pick-a-fight-with-steveklabnik"
 type = "tumblr-photo"
 
 [tumblr]
-link_url = "http://twitter.com/gilesgoatboy/status/579659899602223104"
-interactability_blaze = "everyone"
-can_reblog = false
+format = "html"
+can_send_in_message = true
 display_avatar = true
 type = "photo"
 slug = "how-to-pick-a-fight-with-steveklabnik"
-reblog_key = "04tB0b8L"
-image_permalink = "https://indirect.tumblr.com/image/114335981093"
 note_count = 0.0
 interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blaze_pending = false
-date = "2015-03-22 19:28:04 GMT"
-should_open_in_legacy = true
-can_like = false
-is_blazed = false
-can_send_in_message = true
+can_reblog = false
 can_reply = false
-is_blocks_post_format = false
+should_open_in_legacy = true
+blog_name = "indirect"
+date = "2015-03-22 19:28:04 GMT"
+timestamp = 1427052484.0
+caption = "<p>how to pick a fight with @steveklabnik — <a href=\"http://twitter.com/gilesgoatboy/status/579659899602223104\">@gilesgoatboy</a></p>"
+is_blazed = false
+is_blaze_pending = false
 id_string = "114335981093"
-format = "html"
+post_url = "https://indirect.io/post/114335981093/how-to-pick-a-fight-with-steveklabnik"
+state = "published"
+reblog_key = "04tB0b8L"
+link_url = "http://twitter.com/gilesgoatboy/status/579659899602223104"
+image_permalink = "https://indirect.io/image/114335981093"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
 id = 114335981093.0
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/114335981093/how-to-pick-a-fight-with-steveklabnik"
-state = "published"
-summary = "how to pick a fight with @steveklabnik — @gilesgoatboy"
-timestamp = 1427052484.0
 short_url = "https://tmblr.co/ZY3jby1gUz9ub"
-caption = "<p>how to pick a fight with @steveklabnik — <a href=\"http://twitter.com/gilesgoatboy/status/579659899602223104\">@gilesgoatboy</a></p>"
+summary = "how to pick a fight with @steveklabnik — @gilesgoatboy"
+can_like = false
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>how to pick a fight with @steveklabnik — <a href=\"http://twitter.com/gilesgoatboy/status/579659899602223104\">@gilesgoatboy</a></p>"
 content = "<p>how to pick a fight with @steveklabnik &mdash; <a href=\"http://twitter.com/gilesgoatboy/status/579659899602223104\">@gilesgoatboy</a></p>"
 is_current_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-show_description = true
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-show_title = true
-title_font = "Gibson"
-link_color = "#529ECC"
-show_header_image = false
-title_font_weight = "bold"
+is_root_item = true
 
 [tumblr.trail.post]
 id = "114335981093"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+title_color = "#444444"
+header_full_width = 3000.0
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_title = true
+avatar_shape = "square"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_font = "Gibson"
+title_font_weight = "bold"
 
 [[tumblr.photos]]
 caption = ""

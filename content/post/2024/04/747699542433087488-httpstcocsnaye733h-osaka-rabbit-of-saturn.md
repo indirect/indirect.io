@@ -6,50 +6,35 @@ slug = "httpstcocsnaye733h-osaka-rabbit-of-saturn"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/747699542433087488/httpstcocsnaye733h-osaka-rabbit-of-saturn"
-reblog_key = "hl4Td7om"
-can_reblog = false
-can_reply = false
-format = "html"
-display_avatar = true
+is_blocks_post_format = false
+is_blazed = false
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 type = "photo"
-date = "2024-04-14 02:30:49 GMT"
-caption = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> — <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
-interactability_reblog = "everyone"
-slug = "httpstcocsnaye733h-osaka-rabbit-of-saturn"
+id_string = "747699542433087488"
 summary = "https://t.co/CsNAYe733h — Osaka, Rabbit of Saturn (@OsakanOne)"
-note_count = 0.0
-link_url = "https://twitter.com/OsakanOne/status/1779099802367557944"
-image_permalink = "https://indirect.tumblr.com/image/747699542433087488"
+can_send_in_message = true
+id = 7.476995424330875e+17
+interactability_reblog = "everyone"
+is_blaze_pending = false
+date = "2024-04-14 02:30:49 GMT"
+format = "html"
 can_like = false
 timestamp = 1713061849.0
-state = "published"
-id = 7.476995424330875e+17
-is_blaze_pending = false
+caption = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> — <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
+link_url = "https://twitter.com/OsakanOne/status/1779099802367557944"
+image_permalink = "https://indirect.io/image/747699542433087488"
 can_blaze = false
-can_send_in_message = true
-id_string = "747699542433087488"
-is_blocks_post_format = false
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blazed = false
+post_url = "https://indirect.io/post/747699542433087488/httpstcocsnaye733h-osaka-rabbit-of-saturn"
+reblog_key = "hl4Td7om"
 short_url = "https://tmblr.co/ZY3jbyfWNCMvSa00"
-should_open_in_legacy = true
-
-[tumblr.reblog]
-comment = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> — <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+blog_name = "indirect"
+slug = "httpstcocsnaye733h-osaka-rabbit-of-saturn"
+note_count = 0.0
+state = "published"
+can_reblog = false
+can_reply = false
+display_avatar = true
 
 [[tumblr.photos]]
 caption = ""
@@ -75,37 +60,54 @@ width = 75.0
 height = 75.0
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> — <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
 content = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> &mdash; <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
-active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
+active = true
 
 [tumblr.trail.blog.theme]
-header_image_poster = ""
-header_stretch = true
-show_description = true
-show_title = true
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_avatar = true
-title_font_weight = "bold"
-link_color = "#529ECC"
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_header_image = false
 title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_full_height = 1055.0
+avatar_shape = "square"
+header_stretch = true
+show_title = true
+header_full_width = 3000.0
+header_image_poster = ""
+link_color = "#529ECC"
+title_font_weight = "bold"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+title_color = "#444444"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "747699542433087488"
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://t.co/CsNAYe733h\">https://t.co/CsNAYe733h</a> — <a href=\"https://twitter.com/OsakanOne/status/1779099802367557944\">Osaka, Rabbit of Saturn (@OsakanOne)</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

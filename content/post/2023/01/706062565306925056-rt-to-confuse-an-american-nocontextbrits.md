@@ -6,54 +6,80 @@ slug = "rt-to-confuse-an-american-nocontextbrits"
 type = "tumblr-photo"
 
 [tumblr]
-display_avatar = true
-blog_name = "indirect"
-should_open_in_legacy = true
-can_send_in_message = true
+note_count = 0.0
+post_url = "https://indirect.io/post/706062565306925056/rt-to-confuse-an-american-nocontextbrits"
 reblog_key = "2baCklaC"
-summary = "RT to confuse an American. — @NoContextBrits"
-interactability_reblog = "everyone"
-can_reblog = false
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/706062565306925056/rt-to-confuse-an-american-nocontextbrits"
-slug = "rt-to-confuse-an-american-nocontextbrits"
 short_url = "https://tmblr.co/ZY3jbydCS2cAKW00"
-image_permalink = "https://indirect.tumblr.com/image/706062565306925056"
+can_send_in_message = true
+summary = "RT to confuse an American. — @NoContextBrits"
+image_permalink = "https://indirect.io/image/706062565306925056"
+is_blocks_post_format = false
+id = 7.06062565306925e+17
+is_blaze_pending = false
+type = "photo"
+interactability_blaze = "everyone"
+display_avatar = true
+date = "2023-01-10 12:28:53 GMT"
+link_url = "http://twitter.com/NoContextBrits/status/1612590357920759810"
 can_like = false
 id_string = "706062565306925056"
-is_blazed = false
-can_blaze = false
-caption = "<p>RT to confuse an American. — <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
-interactability_blaze = "everyone"
-date = "2023-01-10 12:28:53 GMT"
-timestamp = 1673353733.0
-note_count = 0.0
-can_reply = false
-is_blaze_pending = false
+slug = "rt-to-confuse-an-american-nocontextbrits"
 state = "published"
-type = "photo"
-id = 7.06062565306925e+17
 format = "html"
-link_url = "http://twitter.com/NoContextBrits/status/1612590357920759810"
+interactability_reblog = "everyone"
+can_reblog = false
+can_blaze = false
+timestamp = 1673353733.0
+should_open_in_legacy = true
+caption = "<p>RT to confuse an American. — <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
+can_reply = false
+blog_name = "indirect"
+is_blazed = false
 
-[tumblr.blog]
-can_show_badges = true
+[[tumblr.trail]]
+content_raw = "<p>RT to confuse an American. — <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
+content = "<p>RT to confuse an American. &mdash; <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+show_avatar = true
+show_title = true
+title_font_weight = "bold"
+header_bounds = ""
+header_stretch = true
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+show_header_image = false
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "706062565306925056"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/4b/d3/9ebf0c30217c1c4f58c440bbf1ae.jpg"
 width = 723.0
 height = 663.0
+url = "/images/4b/d3/9ebf0c30217c1c4f58c440bbf1ae.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4b/d3/9ebf0c30217c1c4f58c440bbf1ae.jpg"
@@ -86,9 +112,9 @@ width = 250.0
 height = 229.0
 
 [[tumblr.photos.alt_sizes]]
+height = 92.0
 url = "/images/df/2c/34ae5362e9d672800d0633288a8b.jpg"
 width = 100.0
-height = 92.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b5/c5/bc4242febae5198557794ed740be.jpg"
@@ -99,38 +125,14 @@ height = 75.0
 comment = "<p>RT to confuse an American. — <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
 tree_html = ""
 
-[[tumblr.trail]]
-content_raw = "<p>RT to confuse an American. — <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
-content = "<p>RT to confuse an American. &mdash; <a href=\"http://twitter.com/NoContextBrits/status/1612590357920759810\">@NoContextBrits</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
-[tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-show_description = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_title = true
-avatar_shape = "square"
-show_header_image = false
-title_font = "Gibson"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "706062565306925056"
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -7,50 +7,50 @@ title = "How a Widely Beloved Tax Deduction Really Just Benefits the Well-Off an
 type = "tumblr-link"
 
 [tumblr]
-summary = "How a Widely Beloved Tax Deduction Really Just Benefits the Well-Off and Exacerbates Inequality"
-can_reply = false
-display_avatar = true
-is_blocks_post_format = false
-id_string = "95330541088"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-id = 95330541088.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1Oo99uW"
-url = "http://prospect.org/article/how-widely-beloved-tax-deduction-really-just-benefits-well-and-exacerbates-inequality"
-can_blaze = false
-timestamp = 1408585001.0
-note_count = 0.0
-publisher = "prospect.org"
-interactability_reblog = "everyone"
+description = ""
 can_send_in_message = true
-format = "markdown"
-description = ""
-can_like = false
-can_reblog = false
-slug = "how-a-widely-beloved-tax-deduction-really-just"
-date = "2014-08-21 01:36:41 GMT"
-bookmarklet = true
+state = "published"
 title = "How a Widely Beloved Tax Deduction Really Just Benefits the Well-Off and Exacerbates Inequality"
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-type = "link"
-post_url = "https://indirect.tumblr.com/post/95330541088/how-a-widely-beloved-tax-deduction-really-just"
+display_avatar = true
 reblog_key = "WkCnj5ei"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+summary = "How a Widely Beloved Tax Deduction Really Just Benefits the Well-Off and Exacerbates Inequality"
+url = "http://prospect.org/article/how-widely-beloved-tax-deduction-really-just-benefits-well-and-exacerbates-inequality"
+can_reply = false
+is_blocks_post_format = false
+slug = "how-a-widely-beloved-tax-deduction-really-just"
+timestamp = 1408585001.0
+should_open_in_legacy = true
+can_reblog = false
+blog_name = "indirect"
+id = 95330541088.0
+id_string = "95330541088"
+can_blaze = false
+note_count = 0.0
+can_like = false
+interactability_reblog = "everyone"
+type = "link"
+is_blazed = false
+post_url = "https://indirect.io/post/95330541088/how-a-widely-beloved-tax-deduction-really-just"
+short_url = "https://tmblr.co/ZY3jby1Oo99uW"
+publisher = "prospect.org"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+date = "2014-08-21 01:36:41 GMT"
+format = "markdown"
+bookmarklet = true
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

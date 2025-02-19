@@ -6,35 +6,35 @@ slug = "fucking-incredible-samthielman"
 type = "tumblr-photo"
 
 [tumblr]
-type = "photo"
-id_string = "691439191017570304"
-is_blazed = false
-state = "published"
-summary = "fucking incredible — @samthielman"
-link_url = "http://twitter.com/samthielman/status/1554242280914952192"
-photoset_layout = "13"
-post_url = "https://indirect.tumblr.com/post/691439191017570304/fucking-incredible-samthielman"
-short_url = "https://tmblr.co/ZY3jbycOV4VaOi00"
+timestamp = 1659407795.0
 should_open_in_legacy = true
-can_like = false
-interactability_blaze = "everyone"
+link_url = "http://twitter.com/samthielman/status/1554242280914952192"
+type = "photo"
+id = 6.914391910175703e+17
+format = "html"
+summary = "fucking incredible — @samthielman"
+can_reblog = false
 can_send_in_message = true
+post_url = "https://indirect.io/post/691439191017570304/fucking-incredible-samthielman"
+slug = "fucking-incredible-samthielman"
+date = "2022-08-02 02:36:35 GMT"
+blog_name = "indirect"
+id_string = "691439191017570304"
+short_url = "https://tmblr.co/ZY3jbycOV4VaOi00"
+interactability_reblog = "everyone"
 can_reply = false
+is_blaze_pending = false
+can_blaze = false
+caption = "<p>fucking incredible — <a href=\"http://twitter.com/samthielman/status/1554242280914952192\">@samthielman</a></p>"
 display_avatar = true
 is_blocks_post_format = false
-id = 6.914391910175703e+17
-is_blaze_pending = false
 reblog_key = "l4JwQXcB"
-date = "2022-08-02 02:36:35 GMT"
-caption = "<p>fucking incredible — <a href=\"http://twitter.com/samthielman/status/1554242280914952192\">@samthielman</a></p>"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-format = "html"
-can_reblog = false
-can_blaze = false
+photoset_layout = "13"
+state = "published"
 note_count = 0.0
-slug = "fucking-incredible-samthielman"
-timestamp = 1659407795.0
+can_like = false
+interactability_blaze = "everyone"
+is_blazed = false
 
 [tumblr.reblog]
 comment = "<p>fucking incredible — <a href=\"http://twitter.com/samthielman/status/1554242280914952192\">@samthielman</a></p>"
@@ -49,9 +49,9 @@ width = 1072.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/50/64/61995667a23ef1648058a4dc8809.jpg"
 width = 1072.0
 height = 1200.0
+url = "/images/50/64/61995667a23ef1648058a4dc8809.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5e/06/5dd2e8e2f209c48b44d3a1261a38.jpg"
@@ -64,24 +64,24 @@ width = 540.0
 height = 604.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9f/1e/59eff8403e1fcc82f89794df8e0b.jpg"
 width = 500.0
 height = 560.0
+url = "/images/9f/1e/59eff8403e1fcc82f89794df8e0b.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 448.0
 url = "/images/9a/ea/993d26c30e2ad5b0c0c5f1b6d759.jpg"
 width = 400.0
-height = 448.0
 
 [[tumblr.photos.alt_sizes]]
+height = 280.0
 url = "/images/5d/29/a94f672acb8d64386a5f9ef95d78.jpg"
 width = 250.0
-height = 280.0
 
 [[tumblr.photos.alt_sizes]]
+height = 112.0
 url = "/images/d6/4b/f28b02eb5669de6d941494f7307f.jpg"
 width = 100.0
-height = 112.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
@@ -97,9 +97,9 @@ width = 1039.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/99/1d/53c0841b5d5317233bab08e5bc70.jpg"
 width = 1039.0
 height = 1200.0
-url = "/images/99/1d/53c0841b5d5317233bab08e5bc70.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/2a/79/6d5c92e5ee21407a586ef165b05e.jpg"
@@ -112,9 +112,9 @@ width = 540.0
 height = 624.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/70/de/19f90d96be2c067ac828deb08118.jpg"
 width = 500.0
 height = 577.0
-url = "/images/70/de/19f90d96be2c067ac828deb08118.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/28/0b/1c447bcaab0f6c1292f08bd8ad32.jpg"
@@ -132,17 +132,17 @@ height = 115.0
 url = "/images/e0/91/931d7489bbd26e8cd3c27d723dbd.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/d1/4e/3b816d6d964395d66cc931e2f230.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/bb/c4/aa08e8a2d1966b3479746cfd1169.jpg"
 width = 1125.0
 height = 1164.0
+url = "/images/bb/c4/aa08e8a2d1966b3479746cfd1169.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bb/c4/aa08e8a2d1966b3479746cfd1169.jpg"
@@ -180,32 +180,32 @@ width = 100.0
 height = 103.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2f/54/b3c4ff69bad33d0427943286faac.jpg"
 width = 75.0
 height = 75.0
+url = "/images/2f/54/b3c4ff69bad33d0427943286faac.jpg"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-width = 1119.0
-height = 1200.0
-url = "/images/bb/26/7aca4ff3b9f22376c8e94e050634.jpg"
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/bb/26/7aca4ff3b9f22376c8e94e050634.jpg"
 width = 1119.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4a/b8/79357cb9264c8bc570931cfa53bf.jpg"
+url = "/images/bb/26/7aca4ff3b9f22376c8e94e050634.jpg"
+width = 1119.0
+height = 1200.0
+
+[[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 686.0
+url = "/images/4a/b8/79357cb9264c8bc570931cfa53bf.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a7/d2/24299f5d9ac14ce318b5fd631dd7.jpg"
 width = 540.0
 height = 579.0
+url = "/images/a7/d2/24299f5d9ac14ce318b5fd631dd7.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4d/33/35df344959c49446fba76a175ebd.jpg"
@@ -218,9 +218,9 @@ width = 400.0
 height = 429.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8a/74/1aa612c25fbf627274b524b37ce3.jpg"
 width = 250.0
 height = 268.0
+url = "/images/8a/74/1aa612c25fbf627274b524b37ce3.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0e/c8/1ce215e63baac8ba53c873d0ec30.jpg"
@@ -232,49 +232,51 @@ url = "/images/f9/54/0ff114a43fe1454dac7024fb91e3.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p>fucking incredible — <a href=\"http://twitter.com/samthielman/status/1554242280914952192\">@samthielman</a></p>"
 content = "<p>fucking incredible &mdash; <a href=\"http://twitter.com/samthielman/status/1554242280914952192\">@samthielman</a></p>"
+is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
+share_following = false
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
-share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_title = true
-show_avatar = true
-show_header_image = false
 title_color = "#444444"
-title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
 body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+title_font_weight = "bold"
 header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
 avatar_shape = "square"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
 background_color = "#FAFAFA"
+header_stretch = true
 link_color = "#529ECC"
+show_description = true
+show_header_image = false
 
 [tumblr.trail.post]
 id = "691439191017570304"
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

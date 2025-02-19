@@ -6,81 +6,35 @@ slug = "oh-no-i-found-an-edwardian-era-article-about"
 type = "tumblr-photo"
 
 [tumblr]
-is_blazed = false
-is_blaze_pending = false
-can_like = false
-can_reblog = false
+display_avatar = true
 type = "photo"
-state = "published"
-note_count = 0.0
-timestamp = 1633856953.0
-can_blaze = false
-reblog_key = "dky73dNk"
-blog_name = "indirect"
-id = 6.646471892320256e+17
-format = "html"
-link_url = "http://twitter.com/drskyskull/status/1444013759538909187"
 is_blocks_post_format = false
 id_string = "664647189232025600"
-slug = "oh-no-i-found-an-edwardian-era-article-about"
-summary = "Oh no I found an Edwardian era article about animal masquerade balls — @drskyskull"
+format = "html"
+interactability_reblog = "everyone"
+id = 6.646471892320256e+17
 should_open_in_legacy = true
-post_url = "https://indirect.tumblr.com/post/664647189232025600/oh-no-i-found-an-edwardian-era-article-about"
-can_reply = false
+can_send_in_message = true
+can_blaze = false
+can_like = false
+is_blazed = false
 date = "2021-10-10 09:09:13 GMT"
 short_url = "https://tmblr.co/ZY3jbyavJHZV8m00"
+summary = "Oh no I found an Edwardian era article about animal masquerade balls — @drskyskull"
+can_reply = false
+state = "published"
+slug = "oh-no-i-found-an-edwardian-era-article-about"
+note_count = 0.0
+post_url = "https://indirect.io/post/664647189232025600/oh-no-i-found-an-edwardian-era-article-about"
 caption = "<p>Oh no I found an Edwardian era article about animal masquerade balls — <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
+link_url = "http://twitter.com/drskyskull/status/1444013759538909187"
 photoset_layout = "13"
-interactability_reblog = "everyone"
 interactability_blaze = "everyone"
-can_send_in_message = true
-display_avatar = true
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>Oh no I found an Edwardian era article about animal masquerade balls — <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
-content = "<p>Oh no I found an Edwardian era article about animal masquerade balls &mdash; <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-show_title = true
-avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-title_font = "Gibson"
-show_description = true
-show_header_image = false
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-show_avatar = true
-title_color = "#444444"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "664647189232025600"
+timestamp = 1633856953.0
+blog_name = "indirect"
+is_blaze_pending = false
+reblog_key = "dky73dNk"
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p>Oh no I found an Edwardian era article about animal masquerade balls — <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
@@ -95,19 +49,19 @@ width = 355.0
 height = 726.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/27/ce/6fa7808a527fcb3d56e2fdf27d78.png"
 width = 355.0
 height = 726.0
+url = "/images/27/ce/6fa7808a527fcb3d56e2fdf27d78.png"
 
 [[tumblr.photos.alt_sizes]]
+height = 600.0
 url = "/images/b6/57/e7fd2ab3e622afc62eca7d08a300.png"
 width = 293.0
-height = 600.0
 
 [[tumblr.photos.alt_sizes]]
+height = 400.0
 url = "/images/f8/68/b7e79112dd3463460d1bc6bb73ff.png"
 width = 196.0
-height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7a/8f/ef96af29d3ccb6783070f76648aa.png"
@@ -122,15 +76,10 @@ height = 75.0
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/c0/20/3742ba614388f4a8def90d1fbf4a.png"
-width = 370.0
-height = 743.0
-
 [[tumblr.photos.alt_sizes]]
-width = 370.0
 height = 743.0
 url = "/images/c0/20/3742ba614388f4a8def90d1fbf4a.png"
+width = 370.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/04/24/d980fff2a87bb28710ba63570f8a.png"
@@ -138,32 +87,42 @@ width = 299.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-width = 199.0
 height = 400.0
 url = "/images/6f/cc/8d7572ae4b63d4cf80991c5df61a.png"
+width = 199.0
 
 [[tumblr.photos.alt_sizes]]
-height = 200.0
 url = "/images/7f/70/efe64248d00d6b4c017028683808.png"
 width = 100.0
+height = 200.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/3d/82/045122d6ed28b0a4ae332d129911.png"
 width = 75.0
 height = 75.0
 
+[tumblr.photos.original_size]
+width = 370.0
+height = 743.0
+url = "/images/c0/20/3742ba614388f4a8def90d1fbf4a.png"
+
 [[tumblr.photos]]
 caption = ""
 
-[[tumblr.photos.alt_sizes]]
+[tumblr.photos.original_size]
+url = "/images/13/da/404b94ad07dc636617f181c6a9d9.png"
 width = 335.0
 height = 559.0
-url = "/images/13/da/404b94ad07dc636617f181c6a9d9.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/69/78/6495858ec4c3ceffd639a737b7be.png"
+height = 559.0
+url = "/images/13/da/404b94ad07dc636617f181c6a9d9.png"
+width = 335.0
+
+[[tumblr.photos.alt_sizes]]
 width = 240.0
 height = 400.0
+url = "/images/69/78/6495858ec4c3ceffd639a737b7be.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/90/a3/5860afca545fa72b1c33f46664d2.png"
@@ -171,14 +130,9 @@ width = 100.0
 height = 167.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/45/e9/5a555552422448c482fcebaa944e.png"
 width = 75.0
 height = 75.0
-
-[tumblr.photos.original_size]
-url = "/images/13/da/404b94ad07dc636617f181c6a9d9.png"
-width = 335.0
-height = 559.0
+url = "/images/45/e9/5a555552422448c482fcebaa944e.png"
 
 [[tumblr.photos]]
 caption = ""
@@ -222,4 +176,52 @@ height = 117.0
 url = "/images/23/02/dd2445ded3b5e17a6d59cdd2028f.png"
 width = 75.0
 height = 75.0
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Oh no I found an Edwardian era article about animal masquerade balls — <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
+content = "<p>Oh no I found an Edwardian era article about animal masquerade balls &mdash; <a href=\"http://twitter.com/drskyskull/status/1444013759538909187\">@drskyskull</a></p>"
+
+[tumblr.trail.blog]
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+
+[tumblr.trail.blog.theme]
+background_color = "#FAFAFA"
+header_stretch = true
+show_header_image = false
+title_font = "Gibson"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+header_full_width = 3000.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+show_description = true
+title_font_weight = "bold"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+show_title = true
+
+[tumblr.trail.post]
+id = "664647189232025600"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "have-you-tried-turning-it-off-and-then-turning"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/98379139388/have-you-tried-turning-it-off-and-then-turning"
-type = "quote"
 text = "have you tried turning it off, and then turning<br/>\ninto a wolf, escaping the city, running wild &amp; free under <br/>\na cold, starry sky"
-can_reblog = false
-interactability_reblog = "everyone"
-timestamp = 1411641044.0
-id_string = "98379139388"
-reblog_key = "NCG773sO"
-can_send_in_message = true
-format = "html"
-can_like = false
-state = "published"
+is_blocks_post_format = false
 can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1Rdseay"
 summary = "have you tried turning it off, and then turning \ninto a wolf, escaping the city, running wild & free under \na cold, starry sky"
+timestamp = 1411641044.0
 note_count = 0.0
+is_blaze_pending = false
+reblog_key = "NCG773sO"
+source = "<a href=\"http://twitter.com/Choplogik/status/315696199493619712\">@Choplogik</a>"
+blog_name = "indirect"
+date = "2014-09-25 10:30:44 GMT"
+interactability_reblog = "everyone"
+id = 98379139388.0
+should_open_in_legacy = true
+can_reblog = false
+can_send_in_message = true
+id_string = "98379139388"
+is_blazed = false
+slug = "have-you-tried-turning-it-off-and-then-turning"
+can_like = false
+display_avatar = true
+state = "published"
+format = "html"
 interactability_blaze = "everyone"
 can_reply = false
-is_blocks_post_format = false
-id = 98379139388.0
-is_blaze_pending = false
-slug = "have-you-tried-turning-it-off-and-then-turning"
-date = "2014-09-25 10:30:44 GMT"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/Choplogik/status/315696199493619712\">@Choplogik</a>"
-display_avatar = true
-blog_name = "indirect"
+type = "quote"
+post_url = "https://indirect.io/post/98379139388/have-you-tried-turning-it-off-and-then-turning"
+short_url = "https://tmblr.co/ZY3jby1Rdseay"
 
 [tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/Choplogik/status/315696199493619712\">@Choplogik</a></p>"
 tree_html = ""
+comment = "<p><a href=\"http://twitter.com/Choplogik/status/315696199493619712\">@Choplogik</a></p>"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "sisyphus-was-the-first-guy-to-be-running-up-that"
 type = "tumblr-quote"
 
 [tumblr]
+can_reblog = false
+id = 6.910941759119688e+17
+is_blaze_pending = false
+can_blaze = false
+post_url = "https://indirect.io/post/691094175911968768/sisyphus-was-the-first-guy-to-be-running-up-that"
+state = "published"
+note_count = 0.0
+text = "Sisyphus was the first guy to be running up that hill and making a deal with god."
 date = "2022-07-29 07:12:45 GMT"
 format = "html"
-id = 6.910941759119688e+17
-post_url = "https://indirect.tumblr.com/post/691094175911968768/sisyphus-was-the-first-guy-to-be-running-up-that"
 reblog_key = "OvIttZnz"
-short_url = "https://tmblr.co/ZY3jbycNGdtDam00"
-summary = "Sisyphus was the first guy to be running up that hill and making a deal with god."
-can_reply = false
-timestamp = 1659078765.0
-is_blocks_post_format = false
-should_open_in_legacy = true
 source = "<a href=\"http://twitter.com/skatie420/status/1552404467991003136\">@skatie420</a>"
-is_blazed = false
-state = "published"
-slug = "sisyphus-was-the-first-guy-to-be-running-up-that"
-note_count = 0.0
-interactability_reblog = "everyone"
-display_avatar = true
 can_like = false
-can_reblog = false
+type = "quote"
+slug = "sisyphus-was-the-first-guy-to-be-running-up-that"
+summary = "Sisyphus was the first guy to be running up that hill and making a deal with god."
+interactability_reblog = "everyone"
+can_reply = false
+is_blocks_post_format = false
+timestamp = 1659078765.0
+display_avatar = true
 blog_name = "indirect"
 id_string = "691094175911968768"
-is_blaze_pending = false
-text = "Sisyphus was the first guy to be running up that hill and making a deal with god."
 interactability_blaze = "everyone"
+is_blazed = false
 can_send_in_message = true
-type = "quote"
-can_blaze = false
+short_url = "https://tmblr.co/ZY3jbycNGdtDam00"
+should_open_in_legacy = true
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/skatie420/status/1552404467991003136\">@skatie420</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

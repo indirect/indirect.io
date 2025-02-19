@@ -6,83 +6,48 @@ slug = "stunning-linux-performance-tools-map-by"
 type = "tumblr-photo"
 
 [tumblr]
-can_blaze = false
-interactability_blaze = "everyone"
-slug = "stunning-linux-performance-tools-map-by"
-can_reply = false
-is_blaze_pending = false
-timestamp = 1400913320.0
-can_like = false
+can_reblog = false
 display_avatar = true
-image_permalink = "https://indirect.tumblr.com/image/86669654483"
+is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/86669654483/stunning-linux-performance-tools-map-by"
+slug = "stunning-linux-performance-tools-map-by"
+id = 86669654483.0
+timestamp = 1400913320.0
+format = "html"
+link_url = "http://twitter.com/shelajev/status/469735994464690177"
+can_reply = false
 type = "photo"
-state = "published"
-should_open_in_legacy = true
+is_blaze_pending = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
 can_send_in_message = true
 id_string = "86669654483"
-is_blazed = false
+summary = "Stunning Linux performance tools map by @brendangregg. More info and links are here — @shelajev"
+is_blocks_post_format = false
 reblog_key = "MGLcjV5D"
-can_reblog = false
+should_open_in_legacy = true
 blog_name = "indirect"
 date = "2014-05-24 06:35:20 GMT"
+can_like = false
+state = "published"
 short_url = "https://tmblr.co/ZY3jby1GjwVdJ"
-summary = "Stunning Linux performance tools map by @brendangregg. More info and links are here — @shelajev"
-caption = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here — <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/86669654483/stunning-linux-performance-tools-map-by"
-format = "html"
 note_count = 2.0
-link_url = "http://twitter.com/shelajev/status/469735994464690177"
-is_blocks_post_format = false
-id = 86669654483.0
+caption = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here — <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
+image_permalink = "https://indirect.io/image/86669654483"
 
 [tumblr.reblog]
 comment = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here — <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
 tree_html = ""
 
-[[tumblr.trail]]
-content = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here &mdash; <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here — <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-show_description = true
-show_header_image = false
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_stretch = true
-link_color = "#529ECC"
-title_font = "Gibson"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_color = "#444444"
-background_color = "#FAFAFA"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "86669654483"
-
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -128,4 +93,41 @@ height = 58.0
 url = "/images/42/f7/96500f1fc658573e8dd71263520a.png"
 width = 75.0
 height = 75.0
+
+[[tumblr.trail]]
+content_raw = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here — <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
+content = "<p>Stunning Linux performance tools map by @brendangregg. More info and links are here &mdash; <a href=\"http://twitter.com/shelajev/status/469735994464690177\">@shelajev</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+header_bounds = ""
+link_color = "#529ECC"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_header_image = false
+title_font_weight = "bold"
+header_full_width = 3000.0
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+show_description = true
+show_title = true
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "86669654483"
 +++

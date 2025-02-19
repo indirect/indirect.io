@@ -6,45 +6,45 @@ slug = "til-you-can-do-mdns-with-a-regular-resolver-dig"
 type = "tumblr-quote"
 
 [tumblr]
-bookmarklet = true
-can_reblog = false
-blog_name = "indirect"
-slug = "til-you-can-do-mdns-with-a-regular-resolver-dig"
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/45533392674/til-you-can-do-mdns-with-a-regular-resolver-dig"
-short_url = "https://tmblr.co/ZY3jbygQ06yY"
-source_title = "twitter.com"
-state = "published"
-is_blocks_post_format = false
-can_blaze = false
-reblog_key = "I8glF9UB"
-note_count = 0.0
-text = "TIL you can do mDNS with a regular resolver: dig @224.0.0.251 -p 5353 <mdns name>.local.</mdns>"
-interactability_blaze = "everyone"
-timestamp = 1363473494.0
-type = "quote"
 id_string = "45533392674"
-date = "2013-03-16 22:38:14 GMT"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-is_blazed = false
+bookmarklet = true
+text = "TIL you can do mDNS with a regular resolver: dig @224.0.0.251 -p 5353 <mdns name>.local.</mdns>"
+note_count = 0.0
+id = 45533392674.0
+is_blaze_pending = false
 format = "markdown"
-summary = "TIL you can do mDNS with a regular resolver: dig @224.0.0.251 -p 5353 .local."
-source = "<a href=\"https://twitter.com/drbrain/status/311688320713383936\"> @drbrain</a>"
 can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
+reblog_key = "I8glF9UB"
+short_url = "https://tmblr.co/ZY3jbygQ06yY"
+source = "<a href=\"https://twitter.com/drbrain/status/311688320713383936\"> @drbrain</a>"
 can_reply = false
 display_avatar = true
-id = 45533392674.0
+post_url = "https://indirect.io/post/45533392674/til-you-can-do-mdns-with-a-regular-resolver-dig"
 source_url = "https://twitter.com/drbrain/status/311688320713383936"
-is_blaze_pending = false
+is_blocks_post_format = false
+is_blazed = false
+can_blaze = false
+source_title = "twitter.com"
+can_send_in_message = true
+type = "quote"
+date = "2013-03-16 22:38:14 GMT"
+timestamp = 1363473494.0
+summary = "TIL you can do mDNS with a regular resolver: dig @224.0.0.251 -p 5353 .local."
+should_open_in_legacy = true
+blog_name = "indirect"
+slug = "til-you-can-do-mdns-with-a-regular-resolver-dig"
+state = "published"
+interactability_blaze = "everyone"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]

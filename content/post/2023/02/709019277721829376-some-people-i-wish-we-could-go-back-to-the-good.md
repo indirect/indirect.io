@@ -6,64 +6,52 @@ slug = "some-people-i-wish-we-could-go-back-to-the-good"
 type = "tumblr-photo"
 
 [tumblr]
-id = 7.090192777218294e+17
-id_string = "709019277721829376"
-slug = "some-people-i-wish-we-could-go-back-to-the-good"
-summary = "Some people: I wish we could go back to the good old days when people had real family values The good old days: — @paulisci"
-is_blaze_pending = false
-can_reblog = false
-blog_name = "indirect"
-can_reply = false
-should_open_in_legacy = true
-display_avatar = true
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+state = "published"
 is_blazed = false
-format = "html"
-reblog_key = "pcD1xy3H"
-note_count = 0.0
 caption = "<p>Some people: I wish we could go back to the good old days when people had real family values</p><p>The good old days:</p> — <a href=\"https://mstdn.ca/@paulisci/109842607324268246\">@paulisci</a>"
 can_like = false
-interactability_reblog = "everyone"
-image_permalink = "https://indirect.tumblr.com/image/709019277721829376"
-type = "photo"
-date = "2023-02-12 03:44:34 GMT"
-timestamp = 1676173474.0
-state = "published"
+blog_name = "indirect"
+summary = "Some people: I wish we could go back to the good old days when people had real family values The good old days: — @paulisci"
+image_permalink = "https://indirect.io/image/709019277721829376"
+can_reblog = false
 can_send_in_message = true
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbydMyKRBWu00"
-link_url = "https://mstdn.ca/@paulisci/109842607324268246"
+display_avatar = true
 is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/709019277721829376/some-people-i-wish-we-could-go-back-to-the-good"
-interactability_blaze = "everyone"
+can_blaze = false
+post_url = "https://indirect.io/post/709019277721829376/some-people-i-wish-we-could-go-back-to-the-good"
+timestamp = 1676173474.0
+format = "html"
+type = "photo"
+id_string = "709019277721829376"
+slug = "some-people-i-wish-we-could-go-back-to-the-good"
+short_url = "https://tmblr.co/ZY3jbydMyKRBWu00"
+id = 7.090192777218294e+17
+reblog_key = "pcD1xy3H"
+should_open_in_legacy = true
+note_count = 0.0
+link_url = "https://mstdn.ca/@paulisci/109842607324268246"
+can_reply = false
+is_blaze_pending = false
+date = "2023-02-12 03:44:34 GMT"
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><p>Some people: I wish we could go back to the good old days when people had real family values</p><p>The good old days:</p> — <a href=\"https://mstdn.ca/@paulisci/109842607324268246\">@paulisci</a></p>"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
+[[tumblr.photos.alt_sizes]]
 url = "/images/43/c1/fc7b86add969fe6da88045905cdb.png"
 width = 1049.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-height = 1200.0
-url = "/images/43/c1/fc7b86add969fe6da88045905cdb.png"
-width = 1049.0
-
-[[tumblr.photos.alt_sizes]]
-url = "/images/f9/0c/c86395fe5d9712636a6e96678647.png"
 width = 640.0
 height = 732.0
+url = "/images/f9/0c/c86395fe5d9712636a6e96678647.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/55/e4/a0c612bfffe26457c0d7cdd85ae5.png"
@@ -86,20 +74,36 @@ width = 250.0
 height = 286.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e0/a6/78a14dc84e9fbb316fc3de73d228.png"
 width = 100.0
 height = 114.0
+url = "/images/e0/a6/78a14dc84e9fbb316fc3de73d228.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/18/94/539259a0f9a4be0e5a897258f6e4.png"
 width = 75.0
 height = 75.0
+url = "/images/18/94/539259a0f9a4be0e5a897258f6e4.png"
+
+[tumblr.photos.original_size]
+url = "/images/43/c1/fc7b86add969fe6da88045905cdb.png"
+width = 1049.0
+height = 1200.0
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p><p>Some people: I wish we could go back to the good old days when people had real family values</p><p>The good old days:</p> — <a href=\"https://mstdn.ca/@paulisci/109842607324268246\">@paulisci</a></p>"
 content = "<p><p>Some people: I wish we could go back to the good old days when people had real family values</p><p>The good old days:</p> &mdash; <a href=\"https://mstdn.ca/@paulisci/109842607324268246\">@paulisci</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -109,28 +113,26 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_avatar = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
-show_header_image = false
-title_font_weight = "bold"
-show_title = true
-background_color = "#FAFAFA"
 link_color = "#529ECC"
-show_description = true
-title_color = "#444444"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_font = "Gibson"
+show_avatar = true
+show_title = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
 avatar_shape = "square"
-body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+title_color = "#444444"
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_description = true
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 
 [tumblr.trail.post]
 id = "709019277721829376"
-
-[tumblr.reblog]
-comment = "<p><p>Some people: I wish we could go back to the good old days when people had real family values</p><p>The good old days:</p> — <a href=\"https://mstdn.ca/@paulisci/109842607324268246\">@paulisci</a></p>"
-tree_html = ""
 +++

@@ -7,49 +7,49 @@ title = "I, Too, Left the Tech Industry"
 type = "tumblr-link"
 
 [tumblr]
-summary = "I, Too, Left the Tech Industry"
-description = ""
-url = "https://evgeniagotfi.wordpress.com/2015/06/13/i-too-left-the-tech-industry/"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/121613196073/i-too-left-the-tech-industry"
-timestamp = 1434399393.0
-format = "markdown"
-interactability_reblog = "everyone"
-can_reblog = false
-type = "link"
 id = 121613196073.0
+format = "markdown"
+display_avatar = true
+is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/121613196073/i-too-left-the-tech-industry"
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jby1nGjXif"
+description = ""
+can_like = false
+can_reply = false
+timestamp = 1434399393.0
+id_string = "121613196073"
+should_open_in_legacy = true
+note_count = 0.0
+publisher = "evgeniagotfi.wordpress.com"
+can_reblog = false
+can_send_in_message = true
+is_blocks_post_format = false
+title = "I, Too, Left the Tech Industry"
+interactability_reblog = "everyone"
+reblog_key = "69EdFtYQ"
+summary = "I, Too, Left the Tech Industry"
+url = "https://evgeniagotfi.wordpress.com/2015/06/13/i-too-left-the-tech-industry/"
+interactability_blaze = "everyone"
+slug = "i-too-left-the-tech-industry"
 date = "2015-06-15 20:16:33 GMT"
 state = "published"
-publisher = "evgeniagotfi.wordpress.com"
-can_reply = false
-can_blaze = false
-should_open_in_legacy = true
-title = "I, Too, Left the Tech Industry"
-can_like = false
-display_avatar = true
-can_send_in_message = true
-id_string = "121613196073"
-short_url = "https://tmblr.co/ZY3jby1nGjXif"
-note_count = 0.0
-interactability_blaze = "everyone"
-blog_name = "indirect"
-is_blazed = false
-is_blocks_post_format = false
-slug = "i-too-left-the-tech-industry"
-reblog_key = "69EdFtYQ"
+type = "link"
+is_blaze_pending = false
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

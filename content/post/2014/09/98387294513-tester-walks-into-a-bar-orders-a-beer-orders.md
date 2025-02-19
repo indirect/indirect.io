@@ -6,43 +6,43 @@ slug = "tester-walks-into-a-bar-orders-a-beer-orders"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-slug = "tester-walks-into-a-bar-orders-a-beer-orders"
-format = "html"
-source = "<a href=\"http://twitter.com/abt_programming/status/514859861814046720\">@abt_programming</a>"
-can_reply = false
-display_avatar = true
-type = "quote"
-date = "2014-09-25 13:55:59 GMT"
-is_blocks_post_format = false
-blog_name = "indirect"
-id_string = "98387294513"
-post_url = "https://indirect.tumblr.com/post/98387294513/tester-walks-into-a-bar-orders-a-beer-orders"
-reblog_key = "8aIrKhy5"
-summary = "“tester walks into a bar. Orders a beer. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.” \n-..."
-can_send_in_message = true
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1ReLlan"
-should_open_in_legacy = true
-text = "&ldquo;tester walks into a bar. Orders a beer. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.&rdquo;<br/>\n- @lisacrispin"
-state = "published"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-id = 98387294513.0
-timestamp = 1411653359.0
 note_count = 1.0
 can_like = false
+blog_name = "indirect"
+state = "published"
+source = "<a href=\"http://twitter.com/abt_programming/status/514859861814046720\">@abt_programming</a>"
+is_blocks_post_format = false
+slug = "tester-walks-into-a-bar-orders-a-beer-orders"
+short_url = "https://tmblr.co/ZY3jby1ReLlan"
+interactability_reblog = "everyone"
+can_send_in_message = true
+can_reply = false
+post_url = "https://indirect.io/post/98387294513/tester-walks-into-a-bar-orders-a-beer-orders"
+timestamp = 1411653359.0
+text = "&ldquo;tester walks into a bar. Orders a beer. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.&rdquo;<br/>\n- @lisacrispin"
 can_reblog = false
+type = "quote"
+id_string = "98387294513"
+date = "2014-09-25 13:55:59 GMT"
+display_avatar = true
+id = 98387294513.0
+can_blaze = false
+reblog_key = "8aIrKhy5"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blazed = false
+format = "html"
+is_blaze_pending = false
+summary = "“tester walks into a bar. Orders a beer. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.” \n-..."
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

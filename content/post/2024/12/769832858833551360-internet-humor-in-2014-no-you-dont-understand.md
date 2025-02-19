@@ -6,43 +6,43 @@ slug = "internet-humor-in-2014-no-you-dont-understand"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/769832858833551360/internet-humor-in-2014-no-you-dont-understand"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbygk-kW7Ce00"
-note_count = 0.0
-text = "<p>internet humor in 2014: No you don&rsquo;t understand, those are my emotional support 400 open tabs!\n<br/></p>\n\n<p><br/>\ninternet humor in 2024: i am going to carpet bomb the ceo of kaiser permanente</p>"
-interactability_reblog = "everyone"
-type = "quote"
-id = 7.698328588335514e+17
-date = "2024-12-14 09:50:25 GMT"
-format = "markdown"
-can_like = false
-can_send_in_message = true
-display_avatar = true
-reblog_key = "V3UWRy4i"
-can_reply = false
-is_blazed = false
-timestamp = 1734169825.0
-should_open_in_legacy = true
-blog_name = "indirect"
-id_string = "769832858833551360"
 is_blaze_pending = false
-state = "published"
-can_reblog = false
-is_blocks_post_format = false
+can_blaze = false
 slug = "internet-humor-in-2014-no-you-dont-understand"
-summary = "internet humor in 2014: No you don’t understand, those are my emotional support 400 open tabs!\n \n\n \ninternet humor in 2024: i am..."
+state = "published"
+type = "quote"
+is_blocks_post_format = false
+date = "2024-12-14 09:50:25 GMT"
+reblog_key = "V3UWRy4i"
+text = "<p>internet humor in 2014: No you don&rsquo;t understand, those are my emotional support 400 open tabs!\n<br/></p>\n\n<p><br/>\ninternet humor in 2024: i am going to carpet bomb the ceo of kaiser permanente</p>"
+id_string = "769832858833551360"
+timestamp = 1734169825.0
+can_like = false
+display_avatar = true
+format = "markdown"
+can_reply = false
+blog_name = "indirect"
+should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+can_reblog = false
+can_send_in_message = true
+post_url = "https://indirect.io/post/769832858833551360/internet-humor-in-2014-no-you-dont-understand"
 source = "<a href=\"https://bsky.app/profile/zachsilberberg.bsky.social/post/3ld6yqo6eqk26\">zach silberberg (@zachsilberberg.bsky.social)</a>"
+short_url = "https://tmblr.co/ZY3jbygk-kW7Ce00"
+summary = "internet humor in 2014: No you don’t understand, those are my emotional support 400 open tabs!\n \n\n \ninternet humor in 2024: i am..."
+interactability_reblog = "everyone"
+id = 7.698328588335514e+17
+is_blazed = false
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

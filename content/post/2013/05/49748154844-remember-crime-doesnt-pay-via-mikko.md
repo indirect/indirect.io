@@ -6,84 +6,45 @@ slug = "remember-crime-doesnt-pay-via-mikko"
 type = "tumblr-photo"
 
 [tumblr]
-slug = "remember-crime-doesnt-pay-via-mikko"
-timestamp = 1367811125.0
 display_avatar = true
-state = "published"
+slug = "remember-crime-doesnt-pay-via-mikko"
 reblog_key = "AdT8Prmx"
 summary = "Remember, crime doesn’t pay. (via @mikko)"
-note_count = 0.0
-caption = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
+blog_name = "indirect"
+is_blazed = false
+timestamp = 1367811125.0
+is_blocks_post_format = false
+id_string = "49748154844"
 interactability_blaze = "everyone"
+date = "2013-05-06 03:32:05 GMT"
+state = "published"
 can_reblog = false
-can_reply = false
-is_blaze_pending = false
+can_blaze = false
 format = "markdown"
+note_count = 0.0
+post_url = "https://indirect.io/post/49748154844/remember-crime-doesnt-pay-via-mikko"
+short_url = "https://tmblr.co/ZY3jbykLE9dS"
+can_reply = false
+type = "photo"
+id = 49748154844.0
+is_blaze_pending = false
 should_open_in_legacy = true
+caption = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
+image_permalink = "https://indirect.io/image/49748154844"
 can_like = false
 interactability_reblog = "everyone"
-type = "photo"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbykLE9dS"
-image_permalink = "https://indirect.tumblr.com/image/49748154844"
 can_send_in_message = true
-is_blocks_post_format = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/49748154844/remember-crime-doesnt-pay-via-mikko"
-date = "2013-05-06 03:32:05 GMT"
-id = 49748154844.0
-id_string = "49748154844"
-can_blaze = false
-
-[[tumblr.trail]]
-content = "<p>Remember, crime doesn&rsquo;t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_header_image = false
-header_image_poster = ""
-show_avatar = true
-title_color = "#444444"
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-show_title = true
-
-[tumblr.trail.post]
-id = "49748154844"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -94,9 +55,9 @@ width = 590.0
 height = 393.0
 
 [[tumblr.photos.alt_sizes]]
+width = 590.0
 height = 393.0
 url = "/images/ee/68/538a49fc74f5f9730921300f6fce.jpg"
-width = 590.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/99/8f/64eaf5b42f1100320505800ebd68.jpg"
@@ -104,9 +65,9 @@ width = 540.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
+height = 333.0
 url = "/images/c9/af/3792a927713971fc9f5dea357d99.jpg"
 width = 500.0
-height = 333.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a3/46/50591eb5a7f5a18231623fd80425.jpg"
@@ -127,4 +88,45 @@ height = 67.0
 url = "/images/31/75/084a338589569bab1ed53aa073bb.jpg"
 width = 75.0
 height = 75.0
+
+[[tumblr.trail]]
+content_raw = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
+content = "<p>Remember, crime doesn&rsquo;t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "49748154844"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_font_weight = "bold"
+header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_description = true
+title_color = "#444444"
+header_bounds = ""
+header_stretch = true
+show_avatar = true
+show_title = true
+title_font = "Gibson"
+
+[tumblr.reblog]
+comment = "<p>Remember, crime doesn’t pay. (via <a href=\"https://twitter.com/mikko/status/331147793836158976\">@mikko</a>)</p>"
+tree_html = ""
 +++

@@ -6,57 +6,53 @@ slug = "shiba-stuck-in-bush-whilst-maintaining-posi-attitud"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
-blog_name = "indirect"
-id = 127502637358.0
-can_blaze = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-date = "2015-08-24 21:04:19 GMT"
-can_reblog = false
-display_avatar = true
-is_blocks_post_format = false
 id_string = "127502637358"
-is_blaze_pending = false
-state = "published"
-reblog_key = "5aPOTdvD"
+image_permalink = "https://indirect.io/image/127502637358"
+interactability_blaze = "everyone"
 note_count = 0.0
-can_send_in_message = true
-type = "photo"
-is_blazed = false
-can_like = false
-slug = "shiba-stuck-in-bush-whilst-maintaining-posi-attitud"
 timestamp = 1440450259.0
+id = 127502637358.0
+format = "html"
+can_reply = false
+reblog_key = "5aPOTdvD"
 short_url = "https://tmblr.co/ZY3jby1sllzak"
 summary = "Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — @vivianwmlee"
-format = "html"
-image_permalink = "https://indirect.tumblr.com/image/127502637358"
-can_reply = false
-link_url = "http://twitter.com/vivianwmlee/status/635843597879873536"
-post_url = "https://indirect.tumblr.com/post/127502637358/shiba-stuck-in-bush-whilst-maintaining-posi-attitud"
+interactability_reblog = "everyone"
+can_send_in_message = true
+type = "photo"
+is_blocks_post_format = false
+is_blazed = false
+post_url = "https://indirect.io/post/127502637358/shiba-stuck-in-bush-whilst-maintaining-posi-attitud"
+blog_name = "indirect"
+slug = "shiba-stuck-in-bush-whilst-maintaining-posi-attitud"
+state = "published"
+can_reblog = false
+display_avatar = true
 caption = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
-
-[tumblr.reblog]
-comment = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
-tree_html = ""
+is_blaze_pending = false
+date = "2015-08-24 21:04:19 GMT"
+should_open_in_legacy = true
+link_url = "http://twitter.com/vivianwmlee/status/635843597879873536"
+can_like = false
+can_blaze = false
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 303.0
 url = "/images/4e/00/44ae8cc442d39e9b94f1515ac3df.jpg"
 width = 600.0
-height = 303.0
 
 [[tumblr.photos.alt_sizes]]
+height = 303.0
 url = "/images/4e/00/44ae8cc442d39e9b94f1515ac3df.jpg"
 width = 600.0
-height = 303.0
 
 [[tumblr.photos.alt_sizes]]
-width = 540.0
 height = 273.0
 url = "/images/b9/ad/f457094b6109075e9f7a59a8349f.jpg"
+width = 540.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
@@ -79,15 +75,15 @@ width = 100.0
 height = 51.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/b7/11/7f251bbccfd00610dd8e241fe53d.jpg"
 width = 75.0
+height = 75.0
 
 [[tumblr.trail]]
-content_raw = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
-content = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg &mdash; <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
+content = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg &mdash; <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -97,35 +93,41 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_avatar = true
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_header_image = false
+title_font = "Gibson"
 link_color = "#529ECC"
 show_description = true
-background_color = "#FAFAFA"
-show_header_image = false
 show_title = true
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_color = "#444444"
-title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
+header_full_height = 1055.0
 avatar_shape = "square"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+body_font = "Helvetica Neue"
 
 [tumblr.trail.post]
 id = "127502637358"
 
 [tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Shiba-stuck-in-bush-whilst-maintaining-posi-attitude-give-me-strength.jpg — <a href=\"http://twitter.com/vivianwmlee/status/635843597879873536\">@vivianwmlee</a></p>"
+tree_html = ""
 +++

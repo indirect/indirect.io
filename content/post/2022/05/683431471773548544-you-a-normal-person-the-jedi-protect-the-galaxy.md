@@ -6,47 +6,47 @@ slug = "you-a-normal-person-the-jedi-protect-the-galaxy"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-can_reply = false
-is_blocks_post_format = false
-can_send_in_message = true
-id_string = "683431471773548544"
-format = "html"
-reblog_key = "iCPsvT4X"
-interactability_blaze = "everyone"
-is_blazed = false
-slug = "you-a-normal-person-the-jedi-protect-the-galaxy"
-timestamp = 1651771041.0
-summary = "you, a normal person: the Jedi protect the galaxy from the Sith \n \n me, deranged: the Jedi were a military-clerical caste that..."
-should_open_in_legacy = true
-text = "you, a normal person: the Jedi protect the galaxy from the Sith \n<br/>\n<br/>me, deranged: the Jedi were a military-clerical caste that impeded state modernization. In this regard, Palpatine’s suppression of the order is akin to Mahmud II disbanding the janissaries in 1826 (1/244)"
-can_like = false
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/683431471773548544/you-a-normal-person-the-jedi-protect-the-galaxy"
-date = "2022-05-05 17:17:21 GMT"
 source = "<a href=\"http://twitter.com/EFMememacher/status/1522016426487394304\">@EFMememacher</a>"
-interactability_reblog = "everyone"
-type = "quote"
-short_url = "https://tmblr.co/ZY3jbyby2KrtOe00"
-note_count = 0.0
+can_send_in_message = true
+can_reply = false
 id = 6.834314717735485e+17
-state = "published"
+is_blazed = false
+should_open_in_legacy = true
+can_blaze = false
+post_url = "https://indirect.io/post/683431471773548544/you-a-normal-person-the-jedi-protect-the-galaxy"
+format = "html"
+note_count = 0.0
+can_like = false
+type = "quote"
+is_blaze_pending = false
+summary = "you, a normal person: the Jedi protect the galaxy from the Sith \n \n me, deranged: the Jedi were a military-clerical caste that..."
+text = "you, a normal person: the Jedi protect the galaxy from the Sith \n<br/>\n<br/>me, deranged: the Jedi were a military-clerical caste that impeded state modernization. In this regard, Palpatine’s suppression of the order is akin to Mahmud II disbanding the janissaries in 1826 (1/244)"
+blog_name = "indirect"
+date = "2022-05-05 17:17:21 GMT"
+is_blocks_post_format = false
+id_string = "683431471773548544"
+reblog_key = "iCPsvT4X"
+timestamp = 1651771041.0
+interactability_reblog = "everyone"
 can_reblog = false
+slug = "you-a-normal-person-the-jedi-protect-the-galaxy"
+short_url = "https://tmblr.co/ZY3jbyby2KrtOe00"
+interactability_blaze = "everyone"
 display_avatar = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/EFMememacher/status/1522016426487394304\">@EFMememacher</a></p>"
+state = "published"
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/EFMememacher/status/1522016426487394304\">@EFMememacher</a></p>"
+tree_html = ""
 +++

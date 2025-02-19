@@ -6,35 +6,76 @@ slug = "its-fun-to-stay-at-the-phoenixtheblade"
 type = "tumblr-photo"
 
 [tumblr]
-id = 6.574448700168765e+17
-is_blaze_pending = false
-timestamp = 1626988286.0
-state = "published"
-should_open_in_legacy = true
-link_url = "http://twitter.com/phoenixtheblade/status/1417917560771780609"
-can_reply = false
-type = "photo"
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
-format = "html"
-interactability_blaze = "everyone"
-id_string = "657444870016876544"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/657444870016876544/its-fun-to-stay-at-the-phoenixtheblade"
-can_like = false
-image_permalink = "https://indirect.tumblr.com/image/657444870016876544"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyaVjg10ma00"
-note_count = 1.0
 blog_name = "indirect"
-date = "2021-07-22 21:11:26 GMT"
-summary = "Its fun to stay at the — @phoenixtheblade"
-slug = "its-fun-to-stay-at-the-phoenixtheblade"
+id = 6.574448700168765e+17
+post_url = "https://indirect.io/post/657444870016876544/its-fun-to-stay-at-the-phoenixtheblade"
+link_url = "http://twitter.com/phoenixtheblade/status/1417917560771780609"
+interactability_reblog = "everyone"
+image_permalink = "https://indirect.io/image/657444870016876544"
+id_string = "657444870016876544"
+is_blazed = false
+should_open_in_legacy = true
+note_count = 1.0
+can_like = false
+can_send_in_message = true
+type = "photo"
+can_blaze = false
+timestamp = 1626988286.0
 reblog_key = "IAjkm0jp"
-caption = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
-is_blocks_post_format = false
+slug = "its-fun-to-stay-at-the-phoenixtheblade"
+date = "2021-07-22 21:11:26 GMT"
 can_reblog = false
+can_reply = false
+is_blocks_post_format = false
+interactability_blaze = "everyone"
+display_avatar = true
+is_blaze_pending = false
+state = "published"
+summary = "Its fun to stay at the — @phoenixtheblade"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyaVjg10ma00"
+caption = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
+content = "<p>Its fun to stay at the &mdash; <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+show_title = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+link_color = "#529ECC"
+show_description = true
+title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+title_color = "#444444"
+
+[tumblr.trail.post]
+id = "657444870016876544"
+
+[tumblr.reblog]
+comment = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
+tree_html = ""
 
 [[tumblr.photos]]
 caption = ""
@@ -45,9 +86,9 @@ width = 1200.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/19/bf/c24a539621739955437a89624928.jpg"
 width = 1200.0
 height = 600.0
+url = "/images/19/bf/c24a539621739955437a89624928.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b6/4f/0d907aafc309c200f69e4b66a98b.jpg"
@@ -70,67 +111,28 @@ width = 400.0
 height = 200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/38/b1/94f504bc2889a33f589c84a74613.jpg"
 width = 250.0
 height = 125.0
+url = "/images/38/b1/94f504bc2889a33f589c84a74613.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 50.0
 url = "/images/47/fe/181950bdaafeb98686e25b1bed96.jpg"
 width = 100.0
+height = 50.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/6b/61/6225848b3a71230d7e2e92efa4ac.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-content_raw = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
-content = "<p>Its fun to stay at the &mdash; <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image_poster = ""
-link_color = "#529ECC"
-show_description = true
-avatar_shape = "square"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_header_image = false
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "657444870016876544"
-
-[tumblr.reblog]
-comment = "<p>Its fun to stay at the — <a href=\"http://twitter.com/phoenixtheblade/status/1417917560771780609\">@phoenixtheblade</a></p>"
-tree_html = ""
-
 [tumblr.blog]
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

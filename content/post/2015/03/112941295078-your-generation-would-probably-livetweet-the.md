@@ -6,52 +6,100 @@ slug = "your-generation-would-probably-livetweet-the"
 type = "tumblr-photo"
 
 [tumblr]
+can_reblog = false
+id_string = "112941295078"
+should_open_in_legacy = true
 slug = "your-generation-would-probably-livetweet-the"
-state = "published"
-reblog_key = "a3mDcfZa"
-can_reply = false
+note_count = 0.0
+link_url = "http://twitter.com/toriKh/status/573729382738452480"
+image_permalink = "https://indirect.io/image/112941295078"
 is_blocks_post_format = false
 can_blaze = false
-date = "2015-03-07 04:27:09 GMT"
-should_open_in_legacy = true
-is_blaze_pending = false
-caption = "<p>&ldquo;Your generation would probably ‘livetweet’ the apocalypse&rdquo; you say, and you laugh&quot;. — <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/112941295078"
-short_url = "https://tmblr.co/ZY3jby1fBqsNc"
-summary = "\"Your generation would probably ‘livetweet’ the apocalypse\" you say, and you laugh\". — @toriKh"
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/112941295078/your-generation-would-probably-livetweet-the"
-link_url = "http://twitter.com/toriKh/status/573729382738452480"
+post_url = "https://indirect.io/post/112941295078/your-generation-would-probably-livetweet-the"
 can_like = false
-blog_name = "indirect"
+interactability_blaze = "everyone"
+type = "photo"
 is_blazed = false
-format = "html"
+timestamp = 1425702429.0
+state = "published"
+can_reply = false
+display_avatar = true
+date = "2015-03-07 04:27:09 GMT"
+reblog_key = "a3mDcfZa"
 interactability_reblog = "everyone"
 can_send_in_message = true
-display_avatar = true
-note_count = 0.0
-timestamp = 1425702429.0
-type = "photo"
 id = 112941295078.0
-id_string = "112941295078"
-can_reblog = false
+is_blaze_pending = false
+format = "html"
+short_url = "https://tmblr.co/ZY3jby1fBqsNc"
+summary = "\"Your generation would probably ‘livetweet’ the apocalypse\" you say, and you laugh\". — @toriKh"
+caption = "<p>&ldquo;Your generation would probably ‘livetweet’ the apocalypse&rdquo; you say, and you laugh&quot;. — <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
+blog_name = "indirect"
 
 [tumblr.reblog]
 comment = "<p>“Your generation would probably ‘livetweet’ the apocalypse” you say, and you laugh\". — <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
 tree_html = ""
 
+[[tumblr.trail]]
+content_raw = "<p>“Your generation would probably ‘livetweet’ the apocalypse” you say, and you laugh\". — <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
+content = "<p>&ldquo;Your generation would probably &lsquo;livetweet&rsquo; the apocalypse&rdquo; you say, and you laugh\". &mdash; <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "112941295078"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_header_image = false
+show_title = true
+title_font = "Gibson"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_avatar = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+link_color = "#529ECC"
+show_description = true
+title_color = "#444444"
+title_font_weight = "bold"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/50/49/fbec97b7c1dcb40aba784274e03b.png"
 width = 600.0
 height = 782.0
+url = "/images/50/49/fbec97b7c1dcb40aba784274e03b.png"
 
 [[tumblr.photos.alt_sizes]]
-height = 782.0
 url = "/images/50/49/fbec97b7c1dcb40aba784274e03b.png"
 width = 600.0
+height = 782.0
 
 [[tumblr.photos.alt_sizes]]
 height = 704.0
@@ -82,50 +130,4 @@ height = 130.0
 url = "/images/90/05/481d4ae370a43992320798f0bf62.png"
 width = 75.0
 height = 75.0
-
-[[tumblr.trail]]
-content = "<p>&ldquo;Your generation would probably &lsquo;livetweet&rsquo; the apocalypse&rdquo; you say, and you laugh\". &mdash; <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>“Your generation would probably ‘livetweet’ the apocalypse” you say, and you laugh\". — <a href=\"http://twitter.com/toriKh/status/573729382738452480\">@toriKh</a></p>"
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-link_color = "#529ECC"
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-show_avatar = true
-show_description = true
-title_font = "Gibson"
-header_image_poster = ""
-show_header_image = false
-title_color = "#444444"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "112941295078"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

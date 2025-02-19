@@ -6,47 +6,47 @@ slug = "men-confidence-is-sexy-me-oh-my-god-wait-til"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"http://twitter.com/1followernodad/status/637147549548187648\">@1followernodad</a>"
-can_reblog = false
-can_reply = false
-is_blaze_pending = false
-slug = "men-confidence-is-sexy-me-oh-my-god-wait-til"
-date = "2015-10-08 03:49:16 GMT"
-should_open_in_legacy = true
 text = "Men: confidence is sexy<br/>\nMe: oh my god wait til you find out about feminism you&rsquo;re gonna love it"
-can_send_in_message = true
-interactability_reblog = "everyone"
-short_url = "https://tmblr.co/ZY3jby1vl_uuJ"
+can_reply = false
 id = 130727775763.0
-id_string = "130727775763"
 state = "published"
-reblog_key = "XDQm2EVO"
-note_count = 0.0
-display_avatar = true
-is_blocks_post_format = false
-interactability_blaze = "everyone"
-type = "quote"
 blog_name = "indirect"
 can_blaze = false
-format = "html"
-can_like = false
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/130727775763/men-confidence-is-sexy-me-oh-my-god-wait-til"
+reblog_key = "XDQm2EVO"
+can_send_in_message = true
+date = "2015-10-08 03:49:16 GMT"
+short_url = "https://tmblr.co/ZY3jby1vl_uuJ"
+source = "<a href=\"http://twitter.com/1followernodad/status/637147549548187648\">@1followernodad</a>"
 timestamp = 1444276156.0
+format = "html"
+interactability_blaze = "everyone"
+display_avatar = true
+is_blocks_post_format = false
 summary = "Men: confidence is sexy \nMe: oh my god wait til you find out about feminism you’re gonna love it"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
+can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
+id_string = "130727775763"
+is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/130727775763/men-confidence-is-sexy-me-oh-my-god-wait-til"
+slug = "men-confidence-is-sexy-me-oh-my-god-wait-til"
+note_count = 0.0
+type = "quote"
+should_open_in_legacy = true
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/1followernodad/status/637147549548187648\">@1followernodad</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

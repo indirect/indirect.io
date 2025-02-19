@@ -6,47 +6,47 @@ slug = "everybody-wants-to-go-to-funkytown-but-nobody"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/753296081896570880/everybody-wants-to-go-to-funkytown-but-nobody"
-source = "<a href=\"https://mastodon.social/@JonBaker/112593116147974069\">@JonBaker</a>"
 can_like = false
-can_reply = false
-slug = "everybody-wants-to-go-to-funkytown-but-nobody"
-state = "published"
-summary = "Everybody wants to go to Funkytown, but nobody wants to pay Funkytaxes"
-blog_name = "indirect"
-id = 7.532960818965709e+17
-display_avatar = true
-type = "quote"
-reblog_key = "xxov0b2d"
-short_url = "https://tmblr.co/ZY3jbyfqFikS8u00"
-interactability_blaze = "everyone"
-id_string = "753296081896570880"
-is_blaze_pending = false
+can_reblog = false
+format = "markdown"
+is_blazed = false
 can_blaze = false
 date = "2024-06-14 21:05:25 GMT"
 timestamp = 1718399125.0
-text = "Everybody wants to go to Funkytown, but nobody wants to pay Funkytaxes"
+reblog_key = "xxov0b2d"
+interactability_reblog = "everyone"
 can_send_in_message = true
+blog_name = "indirect"
+id = 7.532960818965709e+17
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+type = "quote"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/753296081896570880/everybody-wants-to-go-to-funkytown-but-nobody"
+text = "Everybody wants to go to Funkytown, but nobody wants to pay Funkytaxes"
+source = "<a href=\"https://mastodon.social/@JonBaker/112593116147974069\">@JonBaker</a>"
+can_reply = false
+display_avatar = true
+slug = "everybody-wants-to-go-to-funkytown-but-nobody"
+short_url = "https://tmblr.co/ZY3jbyfqFikS8u00"
+summary = "Everybody wants to go to Funkytown, but nobody wants to pay Funkytaxes"
+note_count = 0.0
+id_string = "753296081896570880"
+state = "published"
 is_blocks_post_format = false
-format = "markdown"
-can_reblog = false
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"https://mastodon.social/@JonBaker/112593116147974069\">@JonBaker</a></p>"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://mastodon.social/@JonBaker/112593116147974069\">@JonBaker</a></p>"
+tree_html = ""
 +++

@@ -6,35 +6,35 @@ slug = "be-not-afwaid-verodoodles"
 type = "tumblr-photo"
 
 [tumblr]
-is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-slug = "be-not-afwaid-verodoodles"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-summary = "✨be not afwaid✨ — @verodoodles"
-link_url = "http://twitter.com/verodoodles/status/1537188439694532609"
-can_like = false
-caption = "<p>✨be not afwaid✨ — <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
 is_blaze_pending = false
-timestamp = 1655362541.0
-format = "html"
-reblog_key = "fILbqZjs"
-should_open_in_legacy = true
-display_avatar = true
-id = 6.8719743249118e+17
-date = "2022-06-16 06:55:41 GMT"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
-can_reply = false
-image_permalink = "https://indirect.tumblr.com/image/687197432491180033"
-can_send_in_message = true
-post_url = "https://indirect.tumblr.com/post/687197432491180033/be-not-afwaid-verodoodles"
-type = "photo"
-id_string = "687197432491180033"
 state = "published"
+link_url = "http://twitter.com/verodoodles/status/1537188439694532609"
+image_permalink = "https://indirect.io/image/687197432491180033"
+id_string = "687197432491180033"
+can_blaze = false
+post_url = "https://indirect.io/post/687197432491180033/be-not-afwaid-verodoodles"
+date = "2022-06-16 06:55:41 GMT"
+timestamp = 1655362541.0
+reblog_key = "fILbqZjs"
 short_url = "https://tmblr.co/ZY3jbyc9Qco6Ce01"
+summary = "✨be not afwaid✨ — @verodoodles"
+interactability_reblog = "everyone"
+format = "html"
+can_reply = false
+display_avatar = true
+interactability_blaze = "everyone"
+can_send_in_message = true
+id = 6.8719743249118e+17
+is_blazed = false
+slug = "be-not-afwaid-verodoodles"
+caption = "<p>✨be not afwaid✨ — <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
+is_blocks_post_format = false
+blog_name = "indirect"
+should_open_in_legacy = true
+can_like = false
+type = "photo"
+note_count = 0.0
+can_reblog = false
 
 [[tumblr.photos]]
 caption = ""
@@ -55,9 +55,9 @@ width = 640.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f2/92/811267c66946c0feb82b8808237d.jpg"
 width = 540.0
 height = 540.0
-url = "/images/f2/92/811267c66946c0feb82b8808237d.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e8/20/3a9a2baa7aa84d4fc3d8c7e44abf.jpg"
@@ -80,57 +80,59 @@ width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/ba/84/0379ace0325e56c77d4d666b8d7a.jpg"
 width = 75.0
+height = 75.0
 
-[[tumblr.trail]]
-content_raw = "<p>✨be not afwaid✨ — <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
-content = "<p>&#10024;be not afwaid&#10024; &mdash; <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
+title = "indirect"
 
-[tumblr.trail.blog.theme]
-header_bounds = ""
-show_title = true
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_stretch = true
-title_color = "#444444"
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "687197432491180033"
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>✨be not afwaid✨ — <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
 tree_html = ""
 
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
+[[tumblr.trail]]
+content = "<p>&#10024;be not afwaid&#10024; &mdash; <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>✨be not afwaid✨ — <a href=\"http://twitter.com/verodoodles/status/1537188439694532609\">@verodoodles</a></p>"
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog]
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+
+[tumblr.trail.blog.theme]
+header_full_width = 3000.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_description = true
+show_header_image = false
+link_color = "#529ECC"
+show_avatar = true
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "687197432491180033"
 +++

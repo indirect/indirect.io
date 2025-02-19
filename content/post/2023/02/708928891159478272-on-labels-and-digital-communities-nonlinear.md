@@ -6,59 +6,80 @@ slug = "on-labels-and-digital-communities-nonlinear"
 type = "tumblr-photo"
 
 [tumblr]
-id = 7.089288911594783e+17
-note_count = 0.0
-caption = "<p>On labels and digital communities</p> — <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a>"
-date = "2023-02-11 03:47:54 GMT"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-timestamp = 1676087274.0
+blog_name = "indirect"
+link_url = "https://mastodon.com.br/@nonlinear/109841054137034382"
+can_reply = false
 short_url = "https://tmblr.co/ZY3jbydMdn88ae00"
 summary = "On labels and digital communities — @nonlinear"
-can_send_in_message = true
-blog_name = "indirect"
-state = "published"
+id = 7.089288911594783e+17
+can_reblog = false
+id_string = "708928891159478272"
+reblog_key = "yaB0VxBg"
 should_open_in_legacy = true
+interactability_blaze = "everyone"
+display_avatar = true
 type = "photo"
+can_blaze = false
+date = "2023-02-11 03:47:54 GMT"
+format = "html"
+note_count = 0.0
+is_blocks_post_format = false
 is_blazed = false
 is_blaze_pending = false
-reblog_key = "yaB0VxBg"
-link_url = "https://mastodon.com.br/@nonlinear/109841054137034382"
-image_permalink = "https://indirect.tumblr.com/image/708928891159478272"
-id_string = "708928891159478272"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/708928891159478272/on-labels-and-digital-communities-nonlinear"
-slug = "on-labels-and-digital-communities-nonlinear"
-format = "html"
+post_url = "https://indirect.io/post/708928891159478272/on-labels-and-digital-communities-nonlinear"
+timestamp = 1676087274.0
+caption = "<p>On labels and digital communities</p> — <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a>"
 can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-can_reply = false
-display_avatar = true
+slug = "on-labels-and-digital-communities-nonlinear"
+state = "published"
+interactability_reblog = "everyone"
+can_send_in_message = true
+image_permalink = "https://indirect.io/image/708928891159478272"
 
-[tumblr.blog]
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p><p>On labels and digital communities</p> — <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a></p>"
+content = "<p><p>On labels and digital communities</p> &mdash; <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a></p>"
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+active = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_avatar = true
+show_description = true
+title_color = "#444444"
+title_font = "Gibson"
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+show_header_image = false
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "708928891159478272"
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "/images/0a/4d/2ab2302396eacb61cc1761692e7c.jpg"
-width = 1280.0
-height = 894.0
-
 [[tumblr.photos.alt_sizes]]
+url = "/images/c1/8c/87f03e0a9b00cb081988d87a7a9c.jpg"
 width = 1608.0
 height = 1123.0
-url = "/images/c1/8c/87f03e0a9b00cb081988d87a7a9c.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/0a/4d/2ab2302396eacb61cc1761692e7c.jpg"
@@ -66,14 +87,14 @@ width = 1280.0
 height = 894.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/af/57/7a805b65e79a0413e2b4f323d5c8.jpg"
 width = 640.0
 height = 447.0
-url = "/images/af/57/7a805b65e79a0413e2b4f323d5c8.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 377.0
 url = "/images/2c/26/ba2d95b2d0863c17d999bf47a432.jpg"
 width = 540.0
-height = 377.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/00/bc/209b7aea0354026a55e3ee179e7d.jpg"
@@ -100,40 +121,21 @@ url = "/images/6c/fe/e3bdf4fae796f67e6c9eaac3966a.jpg"
 width = 75.0
 height = 75.0
 
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p><p>On labels and digital communities</p> — <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a></p>"
-content = "<p><p>On labels and digital communities</p> &mdash; <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a></p>"
-is_current_item = true
+[tumblr.photos.original_size]
+url = "/images/0a/4d/2ab2302396eacb61cc1761692e7c.jpg"
+width = 1280.0
+height = 894.0
 
-[tumblr.trail.blog]
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
+title = "indirect"
 
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-title_color = "#444444"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_description = true
-title_font = "Gibson"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_bounds = ""
-show_title = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "708928891159478272"
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><p>On labels and digital communities</p> — <a href=\"https://mastodon.com.br/@nonlinear/109841054137034382\">@nonlinear</a></p>"

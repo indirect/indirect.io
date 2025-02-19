@@ -6,41 +6,41 @@ slug = "update-i-used-the-kim-k-selfie-app-on-my-cat"
 type = "tumblr-photo"
 
 [tumblr]
-link_url = "http://twitter.com/kendrawcandraw/status/574054434155556866"
-timestamp = 1425711969.0
-can_reply = false
-is_blocks_post_format = false
+id_string = "112951713703"
 format = "html"
 reblog_key = "TmJWiR5D"
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/112951713703/update-i-used-the-kim-k-selfie-app-on-my-cat"
-summary = "Update: I used the Kim K selfie app on my cat — @kendrawcandraw"
-id = 112951713703.0
-is_blaze_pending = false
 should_open_in_legacy = true
+blog_name = "indirect"
 note_count = 0.0
+can_reblog = false
+timestamp = 1425711969.0
+id = 112951713703.0
+can_blaze = false
+post_url = "https://indirect.io/post/112951713703/update-i-used-the-kim-k-selfie-app-on-my-cat"
+link_url = "http://twitter.com/kendrawcandraw/status/574054434155556866"
+interactability_blaze = "everyone"
+date = "2015-03-07 07:06:09 GMT"
+short_url = "https://tmblr.co/ZY3jby1fCSb_d"
 caption = "<p>Update: I used the Kim K selfie app on my cat — <a href=\"http://twitter.com/kendrawcandraw/status/574054434155556866\">@kendrawcandraw</a></p>"
+image_permalink = "https://indirect.io/image/112951713703"
+is_blocks_post_format = false
+interactability_reblog = "everyone"
 can_send_in_message = true
 display_avatar = true
 type = "photo"
-can_blaze = false
+is_blazed = false
+is_blaze_pending = false
 slug = "update-i-used-the-kim-k-selfie-app-on-my-cat"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1fCSb_d"
-image_permalink = "https://indirect.tumblr.com/image/112951713703"
-id_string = "112951713703"
-date = "2015-03-07 07:06:09 GMT"
+summary = "Update: I used the Kim K selfie app on my cat — @kendrawcandraw"
 can_like = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reblog = false
+state = "published"
+can_reply = false
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>Update: I used the Kim K selfie app on my cat — <a href=\"http://twitter.com/kendrawcandraw/status/574054434155556866\">@kendrawcandraw</a></p>"
 content = "<p>Update: I used the Kim K selfie app on my cat &mdash; <a href=\"http://twitter.com/kendrawcandraw/status/574054434155556866\">@kendrawcandraw</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 share_following = false
@@ -50,23 +50,25 @@ active = true
 share_likes = false
 
 [tumblr.trail.blog.theme]
-title_font = "Gibson"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_poster = ""
+show_title = true
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_avatar = true
+title_color = "#444444"
 title_font_weight = "bold"
 avatar_shape = "square"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-title_color = "#444444"
-background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_description = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 show_header_image = false
-show_title = true
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "112951713703"
@@ -100,9 +102,9 @@ width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/62/ec/18f5c15b75e7e28be1d905ab2098.jpg"
 width = 250.0
 height = 250.0
+url = "/images/62/ec/18f5c15b75e7e28be1d905ab2098.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/20/9e/f866303469e6ec0645b5ffc25cda.jpg"
@@ -119,13 +121,13 @@ comment = "<p>Update: I used the Kim K selfie app on my cat — <a href=\"http:/
 tree_html = ""
 
 [tumblr.blog]
-title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

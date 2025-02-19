@@ -6,47 +6,47 @@ slug = "i-made-a-graph-of-all-my-past-relationships-it"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
+type = "quote"
+is_blaze_pending = false
+can_blaze = false
+interactability_reblog = "everyone"
+state = "published"
+format = "markdown"
+short_url = "https://tmblr.co/ZY3jbydEaRC_ua00"
 text = "<p>I made a graph of all my past relationships.</p>\n\n<p>It has an ex axis and a why axis.</p>"
+source = "<a href=\"https://mastodon.social/@cmconseils/109700440431691907\">@cmconseils</a>"
+blog_name = "indirect"
+id = 7.06662390583935e+17
+timestamp = 1673925772.0
+summary = "I made a graph of all my past relationships.\n\n It has an ex axis and a why axis."
+interactability_blaze = "everyone"
+note_count = 0.0
 can_reblog = false
 reblog_key = "QJ4Y1Aaz"
-short_url = "https://tmblr.co/ZY3jbydEaRC_ua00"
-note_count = 0.0
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/706662390583934976/i-made-a-graph-of-all-my-past-relationships-it"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-format = "markdown"
-summary = "I made a graph of all my past relationships.\n\n It has an ex axis and a why axis."
-should_open_in_legacy = true
-source = "<a href=\"https://mastodon.social/@cmconseils/109700440431691907\">@cmconseils</a>"
-type = "quote"
-id = 7.06662390583935e+17
-id_string = "706662390583934976"
-date = "2023-01-17 03:22:52 GMT"
-display_avatar = true
 slug = "i-made-a-graph-of-all-my-past-relationships-it"
-timestamp = 1673925772.0
-state = "published"
-interactability_reblog = "everyone"
+date = "2023-01-17 03:22:52 GMT"
 can_send_in_message = true
-can_reply = false
-is_blazed = false
 can_like = false
-can_blaze = false
+is_blocks_post_format = false
+should_open_in_legacy = true
+can_reply = false
+display_avatar = true
+id_string = "706662390583934976"
+is_blazed = false
+post_url = "https://indirect.io/post/706662390583934976/i-made-a-graph-of-all-my-past-relationships-it"
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://mastodon.social/@cmconseils/109700440431691907\">@cmconseils</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"https://mastodon.social/@cmconseils/109700440431691907\">@cmconseils</a></p>"
 +++

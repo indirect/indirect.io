@@ -7,49 +7,49 @@ title = "The Campaign to Stop Killer Robots"
 type = "tumblr-link"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-date = "2013-04-23 04:59:41 GMT"
-interactability_reblog = "everyone"
+can_like = false
 can_reply = false
-title = "The Campaign to Stop Killer Robots"
-post_url = "https://indirect.tumblr.com/post/48674754126/the-campaign-to-stop-killer-robots"
-format = "markdown"
-reblog_key = "P27emgph"
+short_url = "https://tmblr.co/ZY3jbyjLFSvE"
+publisher = "stopkillerrobots.org"
 interactability_blaze = "everyone"
 can_reblog = false
-is_blazed = false
-timestamp = 1366693181.0
-can_send_in_message = true
-should_open_in_legacy = true
 is_blocks_post_format = false
-note_count = 0.0
-publisher = "stopkillerrobots.org"
-type = "link"
-id = 48674754126.0
+id_string = "48674754126"
+can_blaze = false
+format = "markdown"
+is_blaze_pending = false
 slug = "the-campaign-to-stop-killer-robots"
-state = "published"
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+id = 48674754126.0
+date = "2013-04-23 04:59:41 GMT"
 summary = "The Campaign to Stop Killer Robots"
-url = "http://www.stopkillerrobots.org/"
+title = "The Campaign to Stop Killer Robots"
+type = "link"
+post_url = "https://indirect.io/post/48674754126/the-campaign-to-stop-killer-robots"
+note_count = 0.0
 display_avatar = true
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyjLFSvE"
+is_blazed = false
+state = "published"
 description = ""
-can_like = false
-id_string = "48674754126"
+can_send_in_message = true
+timestamp = 1366693181.0
+reblog_key = "P27emgph"
+url = "http://www.stopkillerrobots.org/"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

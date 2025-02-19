@@ -6,40 +6,40 @@ slug = "if-coding-doesnt-feel-like-a-faustian-bargain"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-is_blazed = false
-date = "2018-10-19 02:18:26 GMT"
-state = "published"
-note_count = 0.0
-source = "<a href=\"http://twitter.com/izs/status/1051935345036521472\">@izs</a>"
-slug = "if-coding-doesnt-feel-like-a-faustian-bargain"
-summary = "If coding doesn’t feel like a Faustian bargain with a vindictive cenobite demon of infinite complexity that you know will haunt..."
-can_like = false
-interactability_reblog = "everyone"
-id_string = "179197922858"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby2cv1qug"
-can_send_in_message = true
 type = "quote"
+id_string = "179197922858"
+summary = "If coding doesn’t feel like a Faustian bargain with a vindictive cenobite demon of infinite complexity that you know will haunt..."
 is_blocks_post_format = false
 is_blaze_pending = false
-timestamp = 1539915506.0
-reblog_key = "5mA6BZa5"
-id = 179197922858.0
-interactability_blaze = "everyone"
-can_reblog = false
-display_avatar = true
-format = "html"
-text = "If coding doesn’t feel like a Faustian bargain with a vindictive cenobite demon of infinite complexity that you know will haunt you for the rest of your days and never be satisfied, a necessary evil to attain great ends, you have at least another level to master before calling yo"
+date = "2018-10-19 02:18:26 GMT"
+source = "<a href=\"http://twitter.com/izs/status/1051935345036521472\">@izs</a>"
+interactability_reblog = "everyone"
 can_reply = false
-post_url = "https://indirect.tumblr.com/post/179197922858/if-coding-doesnt-feel-like-a-faustian-bargain"
+id = 179197922858.0
+format = "html"
 should_open_in_legacy = true
+slug = "if-coding-doesnt-feel-like-a-faustian-bargain"
+reblog_key = "5mA6BZa5"
+short_url = "https://tmblr.co/ZY3jby2cv1qug"
+display_avatar = true
+can_like = false
+is_blazed = false
+text = "If coding doesn’t feel like a Faustian bargain with a vindictive cenobite demon of infinite complexity that you know will haunt you for the rest of your days and never be satisfied, a necessary evil to attain great ends, you have at least another level to master before calling yo"
+can_reblog = false
+can_blaze = false
+timestamp = 1539915506.0
+state = "published"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/179197922858/if-coding-doesnt-feel-like-a-faustian-bargain"
+note_count = 0.0
+can_send_in_message = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
@@ -47,6 +47,6 @@ description = ""
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/izs/status/1051935345036521472\">@izs</a></p>"
+tree_html = ""
 +++

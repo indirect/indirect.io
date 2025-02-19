@@ -6,43 +6,43 @@ slug = "who-called-it-a-shebang-line-instead-of-a"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-can_blaze = false
-format = "html"
-can_send_in_message = true
+can_reply = false
 type = "quote"
 id = 94497330348.0
-date = "2014-08-12 03:20:36 GMT"
-source = "<a href=\"http://twitter.com/pete_higgins/status/498977541240025088\">@pete_higgins</a>"
-interactability_blaze = "everyone"
-blog_name = "indirect"
-timestamp = 1407813636.0
-short_url = "https://tmblr.co/ZY3jby1O0UjIi"
-id_string = "94497330348"
+can_blaze = false
 is_blazed = false
-should_open_in_legacy = true
+date = "2014-08-12 03:20:36 GMT"
+reblog_key = "eAj8HarL"
+note_count = 0.0
+source = "<a href=\"http://twitter.com/pete_higgins/status/498977541240025088\">@pete_higgins</a>"
+can_reblog = false
+short_url = "https://tmblr.co/ZY3jby1O0UjIi"
+display_avatar = true
+is_blocks_post_format = false
 can_like = false
+blog_name = "indirect"
+is_blaze_pending = false
 slug = "who-called-it-a-shebang-line-instead-of-a"
 state = "published"
-reblog_key = "eAj8HarL"
-text = "Who called it a &ldquo;shebang line&rdquo; instead of a &ldquo;bashtag&rdquo;."
-can_reblog = false
-post_url = "https://indirect.tumblr.com/post/94497330348/who-called-it-a-shebang-line-instead-of-a"
 summary = "Who called it a “shebang line” instead of a “bashtag”."
-note_count = 0.0
 interactability_reblog = "everyone"
-can_reply = false
-is_blaze_pending = false
-display_avatar = true
+id_string = "94497330348"
+should_open_in_legacy = true
+can_send_in_message = true
+post_url = "https://indirect.io/post/94497330348/who-called-it-a-shebang-line-instead-of-a"
+timestamp = 1407813636.0
+format = "html"
+text = "Who called it a &ldquo;shebang line&rdquo; instead of a &ldquo;bashtag&rdquo;."
+interactability_blaze = "everyone"
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -7,49 +7,49 @@ title = "Shut Up & Sit Down | Life Hacks: A Netrunner Story"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-is_blaze_pending = false
-description = ""
-can_reblog = false
-can_reply = false
-is_blazed = false
-slug = "shut-up-sit-down-life-hacks-a-netrunner-story"
-reblog_key = "RpCadxSa"
-title = "Shut Up & Sit Down | Life Hacks: A Netrunner Story"
-url = "http://www.shutupandsitdown.com/blog/post/test/"
-display_avatar = true
-type = "link"
-state = "published"
-format = "markdown"
 can_like = false
 id = 78071949999.0
-id_string = "78071949999"
-date = "2014-02-28 03:19:57 GMT"
-note_count = 0.0
-publisher = "shutupandsitdown.com"
-interactability_reblog = "everyone"
-can_send_in_message = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/78071949999/shut-up-sit-down-life-hacks-a-netrunner-story"
-short_url = "https://tmblr.co/ZY3jby18jSsgl"
+is_blaze_pending = false
+timestamp = 1393557597.0
 summary = "Shut Up & Sit Down | Life Hacks: A Netrunner Story"
 should_open_in_legacy = true
+state = "published"
+is_blocks_post_format = false
+short_url = "https://tmblr.co/ZY3jby18jSsgl"
+note_count = 0.0
+description = ""
+post_url = "https://indirect.io/post/78071949999/shut-up-sit-down-life-hacks-a-netrunner-story"
+date = "2014-02-28 03:19:57 GMT"
+reblog_key = "RpCadxSa"
+url = "http://www.shutupandsitdown.com/blog/post/test/"
+interactability_reblog = "everyone"
+can_send_in_message = true
+display_avatar = true
 blog_name = "indirect"
-timestamp = 1393557597.0
+slug = "shut-up-sit-down-life-hacks-a-netrunner-story"
+publisher = "shutupandsitdown.com"
+can_reblog = false
+type = "link"
+format = "markdown"
+title = "Shut Up & Sit Down | Life Hacks: A Netrunner Story"
 interactability_blaze = "everyone"
+can_reply = false
+id_string = "78071949999"
+is_blazed = false
+can_blaze = false
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = ""
 +++

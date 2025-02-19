@@ -6,47 +6,47 @@ slug = "just-occurred-to-me-that-the-magnificence-of-the"
 type = "tumblr-quote"
 
 [tumblr]
-id = 7.002459403076403e+17
-short_url = "https://tmblr.co/ZY3jbyctnVZ-Sa00"
-text = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life crisis ever, but narrated from the point of view of the sports car itself"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/700245940307640320/just-occurred-to-me-that-the-magnificence-of-the"
 date = "2022-11-07 07:36:08 GMT"
-source = "<a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a>"
-can_reblog = false
-blog_name = "indirect"
-id_string = "700245940307640320"
 timestamp = 1667806568.0
-can_blaze = false
-slug = "just-occurred-to-me-that-the-magnificence-of-the"
-interactability_reblog = "everyone"
-reblog_key = "8aIW1z0S"
-should_open_in_legacy = true
-can_like = false
-display_avatar = true
-is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jbyctnVZ-Sa00"
 note_count = 0.0
 can_send_in_message = true
-type = "quote"
-state = "published"
+is_blaze_pending = false
+slug = "just-occurred-to-me-that-the-magnificence-of-the"
+id_string = "700245940307640320"
+can_blaze = false
+post_url = "https://indirect.io/post/700245940307640320/just-occurred-to-me-that-the-magnificence-of-the"
 format = "html"
-summary = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life..."
-can_reply = false
-is_blocks_post_format = false
+reblog_key = "8aIW1z0S"
 interactability_blaze = "everyone"
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+source = "<a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a>"
+summary = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life..."
+is_blocks_post_format = false
+text = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life crisis ever, but narrated from the point of view of the sports car itself"
+display_avatar = true
+state = "published"
+should_open_in_legacy = true
+can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
+can_reply = false
+type = "quote"
+blog_name = "indirect"
+id = 7.002459403076403e+17
+is_blazed = false
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

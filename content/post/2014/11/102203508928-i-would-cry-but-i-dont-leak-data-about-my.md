@@ -6,47 +6,47 @@ slug = "i-would-cry-but-i-dont-leak-data-about-my"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-state = "published"
-summary = "I would cry, but I don’t leak data about my internal state."
-can_reblog = false
-can_blaze = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1VBpSZ0"
-note_count = 0.0
-can_send_in_message = true
-slug = "i-would-cry-but-i-dont-leak-data-about-my"
-reblog_key = "Jws4uT0u"
-text = "I would cry, but I don&rsquo;t leak data about my internal state."
-interactability_reblog = "everyone"
-type = "quote"
+source = "<a href=\"http://twitter.com/SwiftOnSecurity/status/531513451798339584\">@SwiftOnSecurity</a>"
 id = 102203508928.0
-display_avatar = true
+id_string = "102203508928"
+can_blaze = false
+post_url = "https://indirect.io/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my"
+slug = "i-would-cry-but-i-dont-leak-data-about-my"
+short_url = "https://tmblr.co/ZY3jby1VBpSZ0"
 is_blocks_post_format = false
 date = "2014-11-09 19:13:49 GMT"
+type = "quote"
+reblog_key = "Jws4uT0u"
 can_like = false
-id_string = "102203508928"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/102203508928/i-would-cry-but-i-dont-leak-data-about-my"
-timestamp = 1415560429.0
-interactability_blaze = "everyone"
+can_reblog = false
+interactability_reblog = "everyone"
 is_blazed = false
+timestamp = 1415560429.0
+state = "published"
+format = "html"
 should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/SwiftOnSecurity/status/531513451798339584\">@SwiftOnSecurity</a>"
+is_blaze_pending = false
+summary = "I would cry, but I don’t leak data about my internal state."
+note_count = 0.0
+can_send_in_message = true
+text = "I would cry, but I don&rsquo;t leak data about my internal state."
 can_reply = false
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+display_avatar = true
+blog_name = "indirect"
+interactability_blaze = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/SwiftOnSecurity/status/531513451798339584\">@SwiftOnSecurity</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

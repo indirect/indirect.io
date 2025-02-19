@@ -6,44 +6,44 @@ slug = "from-money-stuff-robinhood-will-stay-open-late"
 type = "tumblr-text"
 
 [tumblr]
-body = "<p>From <a href=\"https://feedyour.email/posts/ubufoyx943l8tkfzv42ny9ad\">Money Stuff: Robinhood Will Stay Open Late</a></p>\n\n<p>Axie Infinity is an online world where people <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly9lei5zdWJzdGFjay5jb20vcC90aGUtaW5maW5pdGUtZXhwbG9pdGF0aW9uLW9mLWNyeXB0b2N1cnJlbmN5P3M9cg/61dd51d2c9e68a7e69607853Be6343d1f\">toil in indentured servitude</a> to earn cryptocurrency for “sponsors” who take as much as 90% of their earnings, but on the blockchain. Also I guess it is a video game. I <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9vcGluaW9uL2FydGljbGVzLzIwMjEtMDgtMjYvYWNjdXNlZC1wb256aS1zY2hlbWVyLWtlcHQtYnVzeT9jbXBpZD1CQkQwMzMwMjJfTU9ORVlTVFVGRiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fdGVybT0yMjAzMzAmdXRtX2NhbXBhaWduPW1vbmV5c3R1ZmY/61dd51d2c9e68a7e69607853B71840b17\">once wrote about it</a>:</p>\n\n<blockquote>\n  <p>Doesn’t it feel like the dystopian future we deserve? Like in a decade everyone will make their living by steering colorful blob-like creatures around to acquire coins in a virtual world, but ownership of the colorful blob-like virtual creatures will be concentrated among a hereditary elite of people who, like, bought Dogecoin in 2014, and in order to scrape together enough to live on you will need to indenture yourself to a member of that elite, steering their blob-like virtual creatures around to earn coins for them and getting a few crumbs for yourself. And you’ll work 16-hour days in the Smooth Love Potions mines just to feed your children, but every once in a while in a rare free moment you will stop and ask yourself “wait why do our overlords want all these Smooth Love Potions anyway?”</p>\n  \n  <p>Meanwhile the overlords will form a leisure class and devote themselves to philosophy and philanthropy. They’ll keep busy collecting non-fungible-token art and putting their names on virtual library buildings in the metaverse and writing manifestos about how cryptocurrency enhances human freedom and levels the playing field for everyone.</p>\n</blockquote>\n\n<p>Anyway, good news, <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDMtMjkvaGFja2Vycy1zdGVhbC01OTAtbWlsbGlvbi1mcm9tLXJvbmluLWluLWxhdGVzdC1icmlkZ2UtYXR0YWNrP2NtcGlkPUJCRDAzMzAyMl9NT05FWVNUVUZGJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV90ZXJtPTIyMDMzMCZ1dG1fY2FtcGFpZ249bW9uZXlzdHVmZg/61dd51d2c9e68a7e69607853Bb05b9944\">hackers stole its cryptocurrency</a>:</p>\n\n<blockquote>\n  <p>Hackers stole about $600 million from a blockchain network connected to the popular Axie Infinity online game in one of the biggest crypto attacks to date.</p>\n  \n  <p>Computers known as nodes operated by Axie Infinity maker Sky Mavis and the Axie DAO that support a so-called bridge &ndash; software that lets people convert tokens into ones that can be used on another network &ndash; were attacked, with the hacker draining what’s known as the Ronin Bridge of 173,600 Ether and 25.5 million USDC tokens in two transactions. The breach happened on March 23, but was only discovered Tuesday, according to <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly90d2l0dGVyLmNvbS9Sb25pbl9OZXR3b3JrL3N0YXR1cy8xNTA4ODI4NzE5NzExODc5MTY4/61dd51d2c9e68a7e69607853B39cd64ce\">Ronin</a>, the blockchain that supports Axie Infinity.</p>\n</blockquote>\n\n<p>Here is <a href=\"https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w\">Ronin’s explanation</a> of the hack, which is basically “we had secure validation procedures, but they took too long, so we built a shortcut when things got busy, and then we forgot to turn off the shortcut.” Nobody cares less about information security than the builders of cryptocurrency projects.</p>"
-can_reblog = false
-interactability_reblog = "everyone"
-blog_name = "indirect"
-reblog_key = "MikW5tx5"
-note_count = 0.0
-interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/680217026452668416/from-money-stuff-robinhood-will-stay-open-late"
+summary = "From Money Stuff: Robinhood Will Stay Open Late\n\nAxie Infinity is an online world where people [toil in indentured..."
+is_blocks_post_format = false
 id_string = "680217026452668416"
-slug = "from-money-stuff-robinhood-will-stay-open-late"
-date = "2022-03-31 05:45:07 GMT"
+can_blaze = false
 timestamp = 1648705507.0
+reblog_key = "MikW5tx5"
+type = "text"
+note_count = 0.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_send_in_message = true
+date = "2022-03-31 05:45:07 GMT"
+format = "markdown"
+body = "<p>From <a href=\"https://feedyour.email/posts/ubufoyx943l8tkfzv42ny9ad\">Money Stuff: Robinhood Will Stay Open Late</a></p>\n\n<p>Axie Infinity is an online world where people <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly9lei5zdWJzdGFjay5jb20vcC90aGUtaW5maW5pdGUtZXhwbG9pdGF0aW9uLW9mLWNyeXB0b2N1cnJlbmN5P3M9cg/61dd51d2c9e68a7e69607853Be6343d1f\">toil in indentured servitude</a> to earn cryptocurrency for “sponsors” who take as much as 90% of their earnings, but on the blockchain. Also I guess it is a video game. I <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9vcGluaW9uL2FydGljbGVzLzIwMjEtMDgtMjYvYWNjdXNlZC1wb256aS1zY2hlbWVyLWtlcHQtYnVzeT9jbXBpZD1CQkQwMzMwMjJfTU9ORVlTVFVGRiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fdGVybT0yMjAzMzAmdXRtX2NhbXBhaWduPW1vbmV5c3R1ZmY/61dd51d2c9e68a7e69607853B71840b17\">once wrote about it</a>:</p>\n\n<blockquote>\n  <p>Doesn’t it feel like the dystopian future we deserve? Like in a decade everyone will make their living by steering colorful blob-like creatures around to acquire coins in a virtual world, but ownership of the colorful blob-like virtual creatures will be concentrated among a hereditary elite of people who, like, bought Dogecoin in 2014, and in order to scrape together enough to live on you will need to indenture yourself to a member of that elite, steering their blob-like virtual creatures around to earn coins for them and getting a few crumbs for yourself. And you’ll work 16-hour days in the Smooth Love Potions mines just to feed your children, but every once in a while in a rare free moment you will stop and ask yourself “wait why do our overlords want all these Smooth Love Potions anyway?”</p>\n  \n  <p>Meanwhile the overlords will form a leisure class and devote themselves to philosophy and philanthropy. They’ll keep busy collecting non-fungible-token art and putting their names on virtual library buildings in the metaverse and writing manifestos about how cryptocurrency enhances human freedom and levels the playing field for everyone.</p>\n</blockquote>\n\n<p>Anyway, good news, <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDMtMjkvaGFja2Vycy1zdGVhbC01OTAtbWlsbGlvbi1mcm9tLXJvbmluLWluLWxhdGVzdC1icmlkZ2UtYXR0YWNrP2NtcGlkPUJCRDAzMzAyMl9NT05FWVNUVUZGJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV90ZXJtPTIyMDMzMCZ1dG1fY2FtcGFpZ249bW9uZXlzdHVmZg/61dd51d2c9e68a7e69607853Bb05b9944\">hackers stole its cryptocurrency</a>:</p>\n\n<blockquote>\n  <p>Hackers stole about $600 million from a blockchain network connected to the popular Axie Infinity online game in one of the biggest crypto attacks to date.</p>\n  \n  <p>Computers known as nodes operated by Axie Infinity maker Sky Mavis and the Axie DAO that support a so-called bridge &ndash; software that lets people convert tokens into ones that can be used on another network &ndash; were attacked, with the hacker draining what’s known as the Ronin Bridge of 173,600 Ether and 25.5 million USDC tokens in two transactions. The breach happened on March 23, but was only discovered Tuesday, according to <a href=\"https://link.mail.bloombergbusiness.com/click/27201820.335242/aHR0cHM6Ly90d2l0dGVyLmNvbS9Sb25pbl9OZXR3b3JrL3N0YXR1cy8xNTA4ODI4NzE5NzExODc5MTY4/61dd51d2c9e68a7e69607853B39cd64ce\">Ronin</a>, the blockchain that supports Axie Infinity.</p>\n</blockquote>\n\n<p>Here is <a href=\"https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w\">Ronin’s explanation</a> of the hack, which is basically “we had secure validation procedures, but they took too long, so we built a shortcut when things got busy, and then we forgot to turn off the shortcut.” Nobody cares less about information security than the builders of cryptocurrency projects.</p>"
+is_blazed = false
+short_url = "https://tmblr.co/ZY3jbybmdSWNua00"
+should_open_in_legacy = false
+can_reblog = false
 display_avatar = true
+id = 6.802170264526684e+17
+is_blaze_pending = false
+slug = "from-money-stuff-robinhood-will-stay-open-late"
 state = "published"
 source_url = "https://feedyour.email/posts/ubufoyx943l8tkfzv42ny9ad"
 source_title = "feedyour.email"
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/680217026452668416/from-money-stuff-robinhood-will-stay-open-late"
 can_like = false
-is_blocks_post_format = false
-id = 6.802170264526684e+17
-can_send_in_message = true
-is_blaze_pending = false
-can_blaze = false
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbybmdSWNua00"
-summary = "From Money Stuff: Robinhood Will Stay Open Late\n\nAxie Infinity is an online world where people [toil in indentured..."
-should_open_in_legacy = false
-type = "text"
-is_blazed = false
+can_reply = false
+blog_name = "indirect"
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -65,23 +65,25 @@ can_be_followed = true
 name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_poster = ""
-header_stretch = true
-show_description = true
-show_header_image = false
-show_title = true
-title_color = "#444444"
-background_color = "#FAFAFA"
+header_full_width = 3000.0
 body_font = "Helvetica Neue"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
 link_color = "#529ECC"
+show_description = true
+title_color = "#444444"
 title_font = "Gibson"
+header_full_height = 1055.0
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
 title_font_weight = "bold"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+header_bounds = ""
 
 [tumblr.trail.post]
 id = "680217026452668416"

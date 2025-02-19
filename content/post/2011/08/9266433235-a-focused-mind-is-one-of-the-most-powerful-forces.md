@@ -6,47 +6,47 @@ slug = "a-focused-mind-is-one-of-the-most-powerful-forces"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blazed = false
-slug = "a-focused-mind-is-one-of-the-most-powerful-forces"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
 can_blaze = false
-timestamp = 1314051407.0
-note_count = 0.0
-text = "A focused mind is one of the most powerful forces in the universe."
-id = 9266433235.0
-short_url = "https://tmblr.co/ZY3jby8eKepJ"
-source = "my fortune cookie"
-post_url = "https://indirect.tumblr.com/post/9266433235/a-focused-mind-is-one-of-the-most-powerful-forces"
-reblog_key = "RAVE0NFU"
-can_reblog = false
-can_reply = false
-is_blocks_post_format = false
-is_blaze_pending = false
-state = "published"
-display_avatar = true
-id_string = "9266433235"
-date = "2011-08-22 22:16:47 GMT"
+slug = "a-focused-mind-is-one-of-the-most-powerful-forces"
 format = "markdown"
-should_open_in_legacy = true
-can_send_in_message = true
+note_count = 0.0
+can_reply = false
+state = "published"
+is_blocks_post_format = false
+date = "2011-08-22 22:16:47 GMT"
 blog_name = "indirect"
-summary = "A focused mind is one of the most powerful forces in the universe."
+timestamp = 1314051407.0
+id_string = "9266433235"
+display_avatar = true
+text = "A focused mind is one of the most powerful forces in the universe."
+source = "my fortune cookie"
+interactability_blaze = "everyone"
+can_reblog = false
+can_send_in_message = true
+interactability_reblog = "everyone"
+id = 9266433235.0
+is_blaze_pending = false
+reblog_key = "RAVE0NFU"
+short_url = "https://tmblr.co/ZY3jby8eKepJ"
+type = "quote"
 can_like = false
+is_blazed = false
+post_url = "https://indirect.io/post/9266433235/a-focused-mind-is-one-of-the-most-powerful-forces"
+summary = "A focused mind is one of the most powerful forces in the universe."
+should_open_in_legacy = true
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p>my fortune cookie</p>"
+tree_html = ""
 +++

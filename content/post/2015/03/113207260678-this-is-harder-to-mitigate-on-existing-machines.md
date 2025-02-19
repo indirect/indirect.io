@@ -6,50 +6,50 @@ slug = "this-is-harder-to-mitigate-on-existing-machines"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-date = "2015-03-09 23:58:40 GMT"
-reblog_key = "DS2xmqV4"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-display_avatar = true
 id_string = "113207260678"
-is_blaze_pending = false
-should_open_in_legacy = true
-can_reblog = false
-id = 113207260678.0
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/113207260678/this-is-harder-to-mitigate-on-existing-machines"
-slug = "this-is-harder-to-mitigate-on-existing-machines"
-bookmarklet = true
-source_title = "googleprojectzero.blogspot.com"
-can_like = false
-blog_name = "indirect"
-timestamp = 1425945520.0
-source = "<a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a>"
-type = "quote"
-can_blaze = false
-format = "markdown"
-source_url = "http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
-summary = "This is harder to mitigate on existing machines"
 can_send_in_message = true
+type = "quote"
+post_url = "https://indirect.io/post/113207260678/this-is-harder-to-mitigate-on-existing-machines"
+source_title = "googleprojectzero.blogspot.com"
+blog_name = "indirect"
+is_blazed = false
+timestamp = 1425945520.0
 short_url = "https://tmblr.co/ZY3jby1fRhRO6"
-note_count = 0.0
+summary = "This is harder to mitigate on existing machines"
+id = 113207260678.0
+reblog_key = "DS2xmqV4"
 text = "This is harder to mitigate on existing machines"
+can_reblog = false
+can_blaze = false
+date = "2015-03-09 23:58:40 GMT"
+note_count = 0.0
+interactability_reblog = "everyone"
+is_blaze_pending = false
 state = "published"
+can_like = false
 can_reply = false
+bookmarklet = true
+source_url = "http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
+source = "<a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a>"
+slug = "this-is-harder-to-mitigate-on-existing-machines"
+should_open_in_legacy = true
+display_avatar = true
+is_blocks_post_format = false
+format = "markdown"
+interactability_blaze = "everyone"
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a></p>"
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html\">Project Zero: Exploiting the DRAM rowhammer bug to gain kernel privileges</a></p>"
-tree_html = ""
 +++

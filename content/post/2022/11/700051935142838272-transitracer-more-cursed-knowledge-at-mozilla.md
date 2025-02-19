@@ -6,47 +6,47 @@ slug = "transitracer-more-cursed-knowledge-at-mozilla"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/adambroach/status/1588550243196755970\">@adambroach</a>"
-can_like = false
-is_blaze_pending = false
 timestamp = 1667621550.0
 format = "html"
-can_reblog = false
-type = "quote"
-blog_name = "indirect"
+text = "@transitracer More cursed knowledge: at Mozilla, the perf team discovered that it is, in double-digit percentage of cases, faster to re-fetch data over the network from the original web server than to retrieve it from local disk cache."
+can_send_in_message = true
+is_blazed = false
+can_blaze = false
+slug = "transitracer-more-cursed-knowledge-at-mozilla"
 state = "published"
-reblog_key = "WrB5usxe"
+date = "2022-11-05 04:12:30 GMT"
+short_url = "https://tmblr.co/ZY3jbyct5OQcWu00"
+id = 7.000519351428383e+17
+should_open_in_legacy = true
+can_reblog = false
 can_reply = false
-summary = "@transitracer More cursed knowledge: at Mozilla, the perf team discovered that it is, in double-digit percentage of cases,..."
+type = "quote"
+source = "<a href=\"http://twitter.com/adambroach/status/1588550243196755970\">@adambroach</a>"
+display_avatar = true
+blog_name = "indirect"
+id_string = "700051935142838272"
+interactability_blaze = "everyone"
+is_blaze_pending = false
+reblog_key = "WrB5usxe"
+can_like = false
 interactability_reblog = "everyone"
 is_blocks_post_format = false
-slug = "transitracer-more-cursed-knowledge-at-mozilla"
+post_url = "https://indirect.io/post/700051935142838272/transitracer-more-cursed-knowledge-at-mozilla"
+summary = "@transitracer More cursed knowledge: at Mozilla, the perf team discovered that it is, in double-digit percentage of cases,..."
 note_count = 0.0
-date = "2022-11-05 04:12:30 GMT"
-text = "@transitracer More cursed knowledge: at Mozilla, the perf team discovered that it is, in double-digit percentage of cases, faster to re-fetch data over the network from the original web server than to retrieve it from local disk cache."
-interactability_blaze = "everyone"
-display_avatar = true
-id_string = "700051935142838272"
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyct5OQcWu00"
-can_send_in_message = true
-id = 7.000519351428383e+17
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/700051935142838272/transitracer-more-cursed-knowledge-at-mozilla"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/adambroach/status/1588550243196755970\">@adambroach</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

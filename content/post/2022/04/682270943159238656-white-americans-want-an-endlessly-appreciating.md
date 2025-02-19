@@ -6,43 +6,43 @@ slug = "white-americans-want-an-endlessly-appreciating"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2022-04-22 21:51:15 GMT"
-summary = "White Americans want an endlessly appreciating asset and the ability to police who their neighbors are and what they do. Housing..."
+text = "White Americans want an endlessly appreciating asset and the ability to police who their neighbors are and what they do. Housing segregation, suburban sprawl, and planned communities are how they won those things, and how they protect them. Automobile dependence is mainly a necessary side effect."
+is_blazed = false
+should_open_in_legacy = true
+can_reply = false
 display_avatar = true
-id = 6.822709431592387e+17
-is_blaze_pending = false
-can_like = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+id_string = "682270943159238656"
+slug = "white-americans-want-an-endlessly-appreciating"
+note_count = 0.0
 can_reblog = false
 can_send_in_message = true
-is_blocks_post_format = false
-timestamp = 1650664275.0
-short_url = "https://tmblr.co/ZY3jbybtwSxNay00"
-should_open_in_legacy = true
-note_count = 0.0
-can_reply = false
-blog_name = "indirect"
 state = "published"
-slug = "white-americans-want-an-endlessly-appreciating"
 reblog_key = "EbxJWpOw"
-type = "quote"
-text = "White Americans want an endlessly appreciating asset and the ability to police who their neighbors are and what they do. Housing segregation, suburban sprawl, and planned communities are how they won those things, and how they protect them. Automobile dependence is mainly a necessary side effect."
-source = "<a href=\"https://theap.substack.com/p/americans-dont-really-hate-density##White+Americans+want+an+endlessly+appreciating+asset+and+the+ability+to+police+who+their+neighbors+are+and+what+they+do.+Housing+segregation%2C+suburban+sprawl%2C+and+planned+communities+are+how+they+won+those+things%2C+and+how+they+protect+them.+Automobile+dependence+is+mainly+a+necessary+side+effect.\">Americans Don&rsquo;t Really Hate Density</a>"
-id_string = "682270943159238656"
+is_blocks_post_format = false
+id = 6.822709431592387e+17
+timestamp = 1650664275.0
 format = "markdown"
-is_blazed = false
+source = "<a href=\"https://theap.substack.com/p/americans-dont-really-hate-density##White+Americans+want+an+endlessly+appreciating+asset+and+the+ability+to+police+who+their+neighbors+are+and+what+they+do.+Housing+segregation%2C+suburban+sprawl%2C+and+planned+communities+are+how+they+won+those+things%2C+and+how+they+protect+them.+Automobile+dependence+is+mainly+a+necessary+side+effect.\">Americans Don&rsquo;t Really Hate Density</a>"
+interactability_reblog = "everyone"
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/682270943159238656/white-americans-want-an-endlessly-appreciating"
+short_url = "https://tmblr.co/ZY3jbybtwSxNay00"
+summary = "White Americans want an endlessly appreciating asset and the ability to police who their neighbors are and what they do. Housing..."
+interactability_blaze = "everyone"
+type = "quote"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/682270943159238656/white-americans-want-an-endlessly-appreciating"
+can_like = false
+is_blaze_pending = false
+date = "2022-04-22 21:51:15 GMT"
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

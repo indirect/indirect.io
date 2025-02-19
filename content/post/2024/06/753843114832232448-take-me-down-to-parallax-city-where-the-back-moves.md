@@ -6,43 +6,43 @@ slug = "take-me-down-to-parallax-city-where-the-back-moves"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "753843114832232448"
-is_blazed = false
-can_like = false
-can_send_in_message = true
-id = 7.538431148322324e+17
-can_blaze = false
-date = "2024-06-20 22:00:17 GMT"
-summary = "take me down to parallax city where the back moves slow and the front moves quickly"
-text = "take me down to parallax city where the back moves slow and the front moves quickly"
-can_reblog = false
-display_avatar = true
-format = "markdown"
-note_count = 0.0
-slug = "take-me-down-to-parallax-city-where-the-back-moves"
-reblog_key = "HDqdkyXi"
-short_url = "https://tmblr.co/ZY3jbyfsC56Zym00"
-can_reply = false
-type = "quote"
 timestamp = 1718920817.0
-source = "<a href=\"https://octodon.social/@fraggle/100849901499052069\">@fraggle</a>"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-blog_name = "indirect"
+type = "quote"
+short_url = "https://tmblr.co/ZY3jbyfsC56Zym00"
+summary = "take me down to parallax city where the back moves slow and the front moves quickly"
+id = 7.538431148322324e+17
+format = "markdown"
+display_avatar = true
 is_blaze_pending = false
-state = "published"
+reblog_key = "HDqdkyXi"
 should_open_in_legacy = true
-post_url = "https://indirect.tumblr.com/post/753843114832232448/take-me-down-to-parallax-city-where-the-back-moves"
+is_blocks_post_format = false
+is_blazed = false
+source = "<a href=\"https://octodon.social/@fraggle/100849901499052069\">@fraggle</a>"
+can_reblog = false
+can_blaze = false
+post_url = "https://indirect.io/post/753843114832232448/take-me-down-to-parallax-city-where-the-back-moves"
+note_count = 0.0
+text = "take me down to parallax city where the back moves slow and the front moves quickly"
+interactability_blaze = "everyone"
+can_send_in_message = true
+can_reply = false
+id_string = "753843114832232448"
+date = "2024-06-20 22:00:17 GMT"
+can_like = false
+interactability_reblog = "everyone"
+blog_name = "indirect"
+slug = "take-me-down-to-parallax-city-where-the-back-moves"
+state = "published"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

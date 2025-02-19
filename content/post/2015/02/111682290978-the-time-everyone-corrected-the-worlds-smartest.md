@@ -7,50 +7,50 @@ title = "The Time Everyone “Corrected” the World’s Smartest Woman"
 type = "tumblr-link"
 
 [tumblr]
-blog_name = "indirect"
-date = "2015-02-21 19:48:52 GMT"
-should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jby1e0o8KY"
+summary = "The Time Everyone “Corrected” the World’s Smartest Woman"
 bookmarklet = true
-id = 111682290978.0
-is_blaze_pending = false
-reblog_key = "QVqRSVgp"
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-is_blocks_post_format = false
 publisher = "priceonomics.com"
-id_string = "111682290978"
+post_url = "https://indirect.io/post/111682290978/the-time-everyone-corrected-the-worlds-smartest"
+type = "link"
+blog_name = "indirect"
+reblog_key = "QVqRSVgp"
+can_reblog = false
+display_avatar = true
+date = "2015-02-21 19:48:52 GMT"
 timestamp = 1424548132.0
 state = "published"
-note_count = 0.0
-interactability_blaze = "everyone"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/111682290978/the-time-everyone-corrected-the-worlds-smartest"
-short_url = "https://tmblr.co/ZY3jby1e0o8KY"
-can_blaze = false
-slug = "the-time-everyone-corrected-the-worlds-smartest"
-summary = "The Time Everyone “Corrected” the World’s Smartest Woman"
-title = "The Time Everyone “Corrected” the World’s Smartest Woman"
-url = "http://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/"
-description = ""
-can_reblog = false
 format = "markdown"
+should_open_in_legacy = true
+description = ""
+can_send_in_message = true
+is_blocks_post_format = false
+is_blazed = false
+is_blaze_pending = false
+interactability_blaze = "everyone"
+note_count = 0.0
+title = "The Time Everyone “Corrected” the World’s Smartest Woman"
 can_like = false
-interactability_reblog = "everyone"
-type = "link"
+can_reply = false
+slug = "the-time-everyone-corrected-the-worlds-smartest"
+url = "http://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/"
+id = 111682290978.0
+id_string = "111682290978"
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = ""
+tree_html = ""
 +++

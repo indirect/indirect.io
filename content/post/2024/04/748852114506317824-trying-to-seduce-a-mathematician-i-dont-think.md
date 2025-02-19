@@ -6,43 +6,43 @@ slug = "trying-to-seduce-a-mathematician-i-dont-think"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2024-04-26 19:50:28 GMT"
-summary = "(trying to seduce a mathematician) “i don’t think this problem has a clothed-form solution”"
-timestamp = 1714161028.0
-type = "quote"
+text = "(trying to seduce a mathematician) “i don’t think this problem has a clothed-form solution”"
 can_blaze = false
-source = "<a href=\"https://twitter.com/the_aiju/status/1783815628203131348\">Emily (@the_aiju)</a>"
-interactability_reblog = "everyone"
-can_reblog = false
-slug = "trying-to-seduce-a-mathematician-i-dont-think"
-state = "published"
-format = "markdown"
-can_reply = false
-is_blocks_post_format = false
-id = 7.488521145063178e+17
-post_url = "https://indirect.tumblr.com/post/748852114506317824/trying-to-seduce-a-mathematician-i-dont-think"
+post_url = "https://indirect.io/post/748852114506317824/trying-to-seduce-a-mathematician-i-dont-think"
 reblog_key = "VoEqz69K"
 short_url = "https://tmblr.co/ZY3jbyfaTGVISm00"
-should_open_in_legacy = true
 can_send_in_message = true
-id_string = "748852114506317824"
-is_blaze_pending = false
-interactability_blaze = "everyone"
+can_reply = false
+format = "markdown"
+summary = "(trying to seduce a mathematician) “i don’t think this problem has a clothed-form solution”"
+source = "<a href=\"https://twitter.com/the_aiju/status/1783815628203131348\">Emily (@the_aiju)</a>"
 display_avatar = true
-blog_name = "indirect"
-is_blazed = false
+interactability_reblog = "everyone"
+type = "quote"
+is_blaze_pending = false
 note_count = 2.0
-text = "(trying to seduce a mathematician) “i don’t think this problem has a clothed-form solution”"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+id = 7.488521145063178e+17
+is_blazed = false
+should_open_in_legacy = true
+is_blocks_post_format = false
 can_like = false
+slug = "trying-to-seduce-a-mathematician-i-dont-think"
+timestamp = 1714161028.0
+state = "published"
+id_string = "748852114506317824"
+date = "2024-04-26 19:50:28 GMT"
+can_reblog = false
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 

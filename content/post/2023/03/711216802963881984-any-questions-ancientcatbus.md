@@ -6,71 +6,84 @@ slug = "any-questions-ancientcatbus"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbydUl_e2yu00"
-type = "photo"
-slug = "any-questions-ancientcatbus"
-reblog_key = "PB6bgsRd"
-note_count = 0.0
-image_permalink = "https://indirect.tumblr.com/image/711216802963881984"
-is_blocks_post_format = false
-can_reblog = false
-blog_name = "indirect"
-date = "2023-03-08 09:53:18 GMT"
 state = "published"
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
-post_url = "https://indirect.tumblr.com/post/711216802963881984/any-questions-ancientcatbus"
-timestamp = 1678269198.0
-format = "html"
 should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/711216802963881984"
 can_like = false
-id_string = "711216802963881984"
-is_blazed = false
-is_blaze_pending = false
-link_url = "https://jorts.horse/@ancient_catbus/109978243113678378"
-can_reply = false
-id = 7.11216802963882e+17
+timestamp = 1678269198.0
 summary = "any questions — @ancient_catbus"
-caption = "<p>any questions</p> — <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a>"
 interactability_blaze = "everyone"
+can_reblog = false
+is_blocks_post_format = false
+id = 7.11216802963882e+17
+date = "2023-03-08 09:53:18 GMT"
+reblog_key = "PB6bgsRd"
+short_url = "https://tmblr.co/ZY3jbydUl_e2yu00"
+is_blaze_pending = false
+format = "html"
+is_blazed = false
+post_url = "https://indirect.io/post/711216802963881984/any-questions-ancientcatbus"
+note_count = 0.0
+caption = "<p>any questions</p> — <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a>"
+can_reply = false
+id_string = "711216802963881984"
+link_url = "https://jorts.horse/@ancient_catbus/109978243113678378"
+can_send_in_message = true
+type = "photo"
 can_blaze = false
+slug = "any-questions-ancientcatbus"
+interactability_reblog = "everyone"
+display_avatar = true
+blog_name = "indirect"
 
 [tumblr.reblog]
 comment = "<p><p>any questions</p> — <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a></p>"
 tree_html = ""
 
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
 [[tumblr.trail]]
+content_raw = "<p><p>any questions</p> — <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a></p>"
 content = "<p><p>any questions</p> &mdash; <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p><p>any questions</p> — <a href=\"https://jorts.horse/@ancient_catbus/109978243113678378\">@ancient_catbus</a></p>"
 
 [tumblr.trail.blog]
-share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
 
 [tumblr.trail.blog.theme]
+show_avatar = true
+header_full_width = 3000.0
+header_full_height = 1055.0
 header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
+show_title = true
 title_font_weight = "bold"
-avatar_shape = "square"
+background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_image_poster = ""
-link_color = "#529ECC"
 show_header_image = false
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
+avatar_shape = "square"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_description = true
-show_title = true
 title_color = "#444444"
-background_color = "#FAFAFA"
+title_font = "Gibson"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "711216802963881984"
@@ -99,9 +112,9 @@ width = 500.0
 height = 413.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ce/90/42fb15fa5226180dacf89a2b6910.png"
 width = 400.0
 height = 330.0
+url = "/images/ce/90/42fb15fa5226180dacf89a2b6910.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/43/ce/5bceaa16ec1b095043e0893ca6fc.png"
@@ -117,15 +130,4 @@ height = 83.0
 url = "/images/76/a7/d92cce43e06955b29741b61ff977.png"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

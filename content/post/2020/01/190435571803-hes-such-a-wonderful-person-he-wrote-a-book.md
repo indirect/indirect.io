@@ -6,35 +6,72 @@ slug = "hes-such-a-wonderful-person-he-wrote-a-book"
 type = "tumblr-photo"
 
 [tumblr]
-id_string = "190435571803"
-can_blaze = false
-format = "html"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-date = "2020-01-24 06:35:45 GMT"
-image_permalink = "https://indirect.tumblr.com/image/190435571803"
-slug = "hes-such-a-wonderful-person-he-wrote-a-book"
-timestamp = 1579847745.0
-state = "published"
-interactability_reblog = "everyone"
-type = "photo"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby2nMs3XR"
-note_count = 0.0
-caption = "<p>he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>“i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour” — <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
+can_reblog = false
+post_url = "https://indirect.io/post/190435571803/hes-such-a-wonderful-person-he-wrote-a-book"
+should_open_in_legacy = true
 link_url = "http://twitter.com/isislovecruft/status/1220555576356167682"
 is_blocks_post_format = false
 blog_name = "indirect"
-can_like = false
-can_reblog = false
-can_reply = false
 id = 190435571803.0
-post_url = "https://indirect.tumblr.com/post/190435571803/hes-such-a-wonderful-person-he-wrote-a-book"
+is_blazed = false
+slug = "hes-such-a-wonderful-person-he-wrote-a-book"
 reblog_key = "YoKnyX1a"
-summary = "he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists..."
+caption = "<p>he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>“i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour” — <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
+is_blaze_pending = false
+can_blaze = false
 display_avatar = true
-should_open_in_legacy = true
+format = "html"
+type = "photo"
+id_string = "190435571803"
+short_url = "https://tmblr.co/ZY3jby2nMs3XR"
+summary = "he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists..."
+image_permalink = "https://indirect.io/image/190435571803"
+can_like = false
+note_count = 0.0
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+can_reply = false
+date = "2020-01-24 06:35:45 GMT"
 can_send_in_message = true
+timestamp = 1579847745.0
+state = "published"
+
+[[tumblr.trail]]
+content_raw = "<p>he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>“i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour” — <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
+content = "<p>he&rsquo;s such a wonderful person &#128420; he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>&ldquo;i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour&rdquo; &mdash; <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_title = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_description = true
+background_color = "#FAFAFA"
+title_color = "#444444"
+avatar_shape = "square"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+show_avatar = true
+
+[tumblr.trail.post]
+id = "190435571803"
 
 [tumblr.reblog]
 comment = "<p>he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>“i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour” — <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
@@ -89,48 +126,13 @@ width = 75.0
 height = 75.0
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>he’s such a wonderful person 🖤 he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>“i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour” — <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
-content = "<p>he&rsquo;s such a wonderful person &#128420; he wrote a book where two women of colour, one a near-omnipotent AI, are the main protagonists </p>\n\n<p>&ldquo;i just really wanted to piss off anyone who would be mad that the first hyperintelligent supercomputer would identify as a woman of colour&rdquo; &mdash; <a href=\"http://twitter.com/isislovecruft/status/1220555576356167682\">@isislovecruft</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_bounds = ""
-show_avatar = true
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-
-[tumblr.trail.post]
-id = "190435571803"
 +++

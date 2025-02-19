@@ -6,43 +6,43 @@ slug = "mentally-thinking-about-different-business-ideas"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
 blog_name = "indirect"
-can_reblog = false
-interactability_reblog = "everyone"
 id = 85808049213.0
-timestamp = 1400150615.0
-short_url = "https://tmblr.co/ZY3jby1FwZkmz"
-text = "mentally thinking about different business ideas &amp; stuff thought &ldquo;what if there was a food truck that just served ice cream&rdquo; &amp; got excited"
-can_send_in_message = true
-state = "published"
-source = "<a href=\"https://twitter.com/DinkMagic/status/466572046948782080\">@DinkMagic</a>"
-id_string = "85808049213"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/85808049213/mentally-thinking-about-different-business-ideas"
-slug = "mentally-thinking-about-different-business-ideas"
-interactability_blaze = "everyone"
-can_like = false
-can_blaze = false
-format = "markdown"
-note_count = 0.0
-is_blocks_post_format = false
 is_blaze_pending = false
-date = "2014-05-15 10:43:35 GMT"
+slug = "mentally-thinking-about-different-business-ideas"
+short_url = "https://tmblr.co/ZY3jby1FwZkmz"
+can_reblog = false
+timestamp = 1400150615.0
+post_url = "https://indirect.io/post/85808049213/mentally-thinking-about-different-business-ideas"
+state = "published"
 reblog_key = "orBQgU8t"
+note_count = 0.0
+type = "quote"
+is_blocks_post_format = false
+date = "2014-05-15 10:43:35 GMT"
 summary = "mentally thinking about different business ideas & stuff thought “what if there was a food truck that just served ice cream” &..."
-should_open_in_legacy = true
+can_like = false
 can_reply = false
 display_avatar = true
+source = "<a href=\"https://twitter.com/DinkMagic/status/466572046948782080\">@DinkMagic</a>"
+interactability_blaze = "everyone"
+can_send_in_message = true
+should_open_in_legacy = true
+interactability_reblog = "everyone"
+can_blaze = false
+id_string = "85808049213"
+is_blazed = false
+format = "markdown"
+text = "mentally thinking about different business ideas &amp; stuff thought &ldquo;what if there was a food truck that just served ice cream&rdquo; &amp; got excited"
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

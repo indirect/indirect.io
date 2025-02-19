@@ -6,43 +6,43 @@ slug = "ive-never-been-right-before"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-note_count = 0.0
-is_blazed = false
-can_reblog = false
-type = "quote"
-post_url = "https://indirect.tumblr.com/post/33041223/ive-never-been-right-before"
-should_open_in_legacy = true
-text = "I&rsquo;ve never been right before&hellip;"
 is_blocks_post_format = false
-can_blaze = false
-format = "html"
-reblog_key = "wG8LTtUD"
-summary = "I’ve never been right before…"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-slug = "ive-never-been-right-before"
-timestamp = 1209331182.0
+should_open_in_legacy = true
+can_reply = false
+display_avatar = true
 can_send_in_message = true
+can_reblog = false
+date = "2008-04-27 21:19:42 GMT"
 blog_name = "indirect"
 id = 33041223.0
-can_like = false
-can_reply = false
-date = "2008-04-27 21:19:42 GMT"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1_2j7"
-source = "rachel"
-display_avatar = true
 id_string = "33041223"
+is_blazed = false
+can_blaze = false
+note_count = 0.0
+is_blaze_pending = false
+reblog_key = "wG8LTtUD"
+can_like = false
+interactability_reblog = "everyone"
+type = "quote"
+post_url = "https://indirect.io/post/33041223/ive-never-been-right-before"
+format = "html"
+short_url = "https://tmblr.co/ZY3jby1_2j7"
+interactability_blaze = "everyone"
+timestamp = 1209331182.0
+summary = "I’ve never been right before…"
+text = "I&rsquo;ve never been right before&hellip;"
+source = "rachel"
+slug = "ive-never-been-right-before"
+state = "published"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

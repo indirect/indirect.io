@@ -6,47 +6,47 @@ slug = "anyone-can-increase-their-cognitive-ability"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-blog_name = "indirect"
-timestamp = 1308868206.0
-note_count = 0.0
 id_string = "6841981556"
-type = "quote"
-id = 6841981556.0
-display_avatar = true
-slug = "anyone-can-increase-their-cognitive-ability"
-can_send_in_message = true
-can_blaze = false
-text = "Anyone can increase their cognitive ability"
-can_like = false
-can_reblog = false
-is_blocks_post_format = false
-date = "2011-06-23 22:30:06 GMT"
-reblog_key = "Chm11GUz"
-summary = "Anyone can increase their cognitive ability"
 interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+display_avatar = true
+summary = "Anyone can increase their cognitive ability"
+text = "Anyone can increase their cognitive ability"
+timestamp = 1308868206.0
+is_blazed = false
+slug = "anyone-can-increase-their-cognitive-ability"
+format = "markdown"
+can_send_in_message = true
+id = 6841981556.0
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/6841981556/anyone-can-increase-their-cognitive-ability"
+can_reblog = false
+blog_name = "indirect"
+state = "published"
+reblog_key = "Chm11GUz"
 short_url = "https://tmblr.co/ZY3jby6Nq5fq"
 should_open_in_legacy = true
-interactability_blaze = "everyone"
-is_blazed = false
-format = "markdown"
-source = "<a href=\"http://www.scientificamerican.com/blog/post.cfm?id=you-can-increase-your-intelligence-2011-03-07\">You can increase your intelligence</a>"
+note_count = 0.0
+date = "2011-06-23 22:30:06 GMT"
+is_blocks_post_format = false
+can_blaze = false
+post_url = "https://indirect.io/post/6841981556/anyone-can-increase-their-cognitive-ability"
 can_reply = false
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+type = "quote"
+source = "<a href=\"http://www.scientificamerican.com/blog/post.cfm?id=you-can-increase-your-intelligence-2011-03-07\">You can increase your intelligence</a>"
+can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.scientificamerican.com/blog/post.cfm?id=you-can-increase-your-intelligence-2011-03-07\">You can increase your intelligence</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

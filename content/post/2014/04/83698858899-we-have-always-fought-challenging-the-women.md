@@ -7,46 +7,42 @@ title = "\"'We Have Always Fought': Challenging the 'Women, Cattle and Slaves' N
 type = "tumblr-link"
 
 [tumblr]
+reblog_key = "20k3XGJW"
+can_like = false
+display_avatar = true
+timestamp = 1398321803.0
+note_count = 0.0
 id = 83698858899.0
 id_string = "83698858899"
-post_url = "https://indirect.tumblr.com/post/83698858899/we-have-always-fought-challenging-the-women"
-timestamp = 1398321803.0
-summary = "\"'We Have Always Fought': Challenging the 'Women, Cattle and Slaves' Narrative\" by Kameron Hurley - A Dribble of Ink"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-is_blaze_pending = false
-can_blaze = false
-date = "2014-04-24 06:43:23 GMT"
 short_url = "https://tmblr.co/ZY3jby1DyrpkJ"
-should_open_in_legacy = true
-description = "<p>The Hugo-nominated &ldquo;We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative&rdquo; by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
-blog_name = "indirect"
-slug = "we-have-always-fought-challenging-the-women"
-format = "markdown"
+title = "\"'We Have Always Fought': Challenging the 'Women, Cattle and Slaves' Narrative\" by Kameron Hurley - A Dribble of Ink"
+interactability_blaze = "everyone"
 can_reblog = false
 is_blazed = false
-state = "published"
-reblog_key = "20k3XGJW"
-title = "\"'We Have Always Fought': Challenging the 'Women, Cattle and Slaves' Narrative\" by Kameron Hurley - A Dribble of Ink"
-can_reply = false
-display_avatar = true
-type = "link"
+summary = "\"'We Have Always Fought': Challenging the 'Women, Cattle and Slaves' Narrative\" by Kameron Hurley - A Dribble of Ink"
 publisher = "aidanmoher.com"
 interactability_reblog = "everyone"
+can_reply = false
+description = "<p>The Hugo-nominated &ldquo;We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative&rdquo; by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
 can_send_in_message = true
-can_like = false
-note_count = 0.0
+state = "published"
+format = "markdown"
+should_open_in_legacy = true
+is_blocks_post_format = false
+blog_name = "indirect"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/83698858899/we-have-always-fought-challenging-the-women"
+slug = "we-have-always-fought-challenging-the-women"
+date = "2014-04-24 06:43:23 GMT"
+type = "link"
+can_blaze = false
 url = "http://aidanmoher.com/blog/featured-article/2013/05/we-have-always-fought-challenging-the-women-cattle-and-slaves-narrative-by-kameron-hurley/"
 
-[tumblr.reblog]
-comment = "<p>The Hugo-nominated “We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative” by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
-tree_html = ""
-
 [[tumblr.trail]]
-content_raw = "<p>The Hugo-nominated “We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative” by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
 content = "<p>The Hugo-nominated &ldquo;We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative&rdquo; by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>The Hugo-nominated “We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative” by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
 
 [tumblr.trail.blog]
 can_be_followed = true
@@ -56,35 +52,41 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
+header_full_height = 1055.0
 avatar_shape = "square"
-show_description = true
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
 show_header_image = false
+title_font = "Gibson"
+header_full_width = 3000.0
 background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
+header_bounds = ""
 header_image_poster = ""
-link_color = "#529ECC"
 show_avatar = true
+show_title = true
+body_font = "Helvetica Neue"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_color = "#444444"
+show_description = true
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "83698858899"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>The Hugo-nominated “We Have Always Fought: Challenging the Women, Cattle and Slaves Narrative” by @KameronHurley: <a href=\"http://t.co/0jk5sXyBFA\">http://t.co/0jk5sXyBFA</a></p>"
+tree_html = ""
 +++

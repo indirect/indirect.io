@@ -6,47 +6,47 @@ slug = "you-i-love-mean-girls-me-i-think-median-girls"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-interactability_reblog = "everyone"
-display_avatar = true
-type = "quote"
+can_reply = false
+can_like = false
 is_blazed = false
-reblog_key = "NxMrEjGP"
-source = "<a href=\"http://twitter.com/killakow/status/1047515199337586689\">@killakow</a>"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/178720465033/you-i-love-mean-girls-me-i-think-median-girls"
-id = 178720465033.0
 can_blaze = false
+short_url = "https://tmblr.co/ZY3jby2cSaU29"
+can_send_in_message = true
+is_blaze_pending = false
+state = "published"
+note_count = 0.0
+display_avatar = true
+text = "<p>you: I love mean girls</p>\n\n<p>me: I think median girls gives you a better representation of the data</p>"
+interactability_reblog = "everyone"
+id = 178720465033.0
+id_string = "178720465033"
+format = "html"
+reblog_key = "NxMrEjGP"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+type = "quote"
+post_url = "https://indirect.io/post/178720465033/you-i-love-mean-girls-me-i-think-median-girls"
+timestamp = 1538632360.0
 summary = "you: I love mean girls\n\n me: I think median girls gives you a better representation of the data"
 can_reblog = false
-can_send_in_message = true
 is_blocks_post_format = false
-slug = "you-i-love-mean-girls-me-i-think-median-girls"
-should_open_in_legacy = true
-note_count = 0.0
-short_url = "https://tmblr.co/ZY3jby2cSaU29"
-interactability_blaze = "everyone"
-can_reply = false
-blog_name = "indirect"
-can_like = false
 date = "2018-10-04 05:52:40 GMT"
-timestamp = 1538632360.0
-format = "html"
-text = "<p>you: I love mean girls</p>\n\n<p>me: I think median girls gives you a better representation of the data</p>"
-id_string = "178720465033"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/killakow/status/1047515199337586689\">@killakow</a></p>"
-tree_html = ""
+source = "<a href=\"http://twitter.com/killakow/status/1047515199337586689\">@killakow</a>"
+blog_name = "indirect"
+slug = "you-i-love-mean-girls-me-i-think-median-girls"
 
 [tumblr.blog]
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p><a href=\"http://twitter.com/killakow/status/1047515199337586689\">@killakow</a></p>"
 +++

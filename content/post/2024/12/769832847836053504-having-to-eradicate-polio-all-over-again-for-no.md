@@ -6,47 +6,47 @@ slug = "having-to-eradicate-polio-all-over-again-for-no"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"https://bsky.app/profile/alexblechman.bsky.social/post/3lda2av4yo22i\">Alex Blechman (@alexblechman.bsky.social)</a>"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-text = "Having to eradicate polio all over again for no reason is like when a game brings back an old enemy but makes them 10% bigger and purple"
-can_reblog = false
-can_send_in_message = true
-can_blaze = false
-timestamp = 1734169814.0
+id_string = "769832847836053504"
 summary = "Having to eradicate polio all over again for no reason is like when a game brings back an old enemy but makes them 10% bigger..."
-slug = "having-to-eradicate-polio-all-over-again-for-no"
-reblog_key = "RV9CVSNl"
-should_open_in_legacy = true
-id = 7.698328478360535e+17
-post_url = "https://indirect.tumblr.com/post/769832847836053504/having-to-eradicate-polio-all-over-again-for-no"
-format = "markdown"
-interactability_reblog = "everyone"
-can_reply = false
 display_avatar = true
-note_count = 0.0
+blog_name = "indirect"
+can_reblog = false
+type = "quote"
+can_blaze = false
+post_url = "https://indirect.io/post/769832847836053504/having-to-eradicate-polio-all-over-again-for-no"
+date = "2024-12-14 09:50:14 GMT"
+is_blocks_post_format = false
+slug = "having-to-eradicate-polio-all-over-again-for-no"
+timestamp = 1734169814.0
 is_blazed = false
 is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jbygk-kLtiW00"
+note_count = 0.0
+interactability_blaze = "everyone"
+reblog_key = "RV9CVSNl"
+text = "Having to eradicate polio all over again for no reason is like when a game brings back an old enemy but makes them 10% bigger and purple"
+source = "<a href=\"https://bsky.app/profile/alexblechman.bsky.social/post/3lda2av4yo22i\">Alex Blechman (@alexblechman.bsky.social)</a>"
 can_like = false
-type = "quote"
-blog_name = "indirect"
-date = "2024-12-14 09:50:14 GMT"
+interactability_reblog = "everyone"
+format = "markdown"
+should_open_in_legacy = true
+can_send_in_message = true
+id = 7.698328478360535e+17
 state = "published"
-id_string = "769832847836053504"
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
+can_reply = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/alexblechman.bsky.social/post/3lda2av4yo22i\">Alex Blechman (@alexblechman.bsky.social)</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

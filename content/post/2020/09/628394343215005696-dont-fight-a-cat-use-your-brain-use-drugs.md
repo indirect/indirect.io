@@ -6,43 +6,80 @@ slug = "dont-fight-a-cat-use-your-brain-use-drugs"
 type = "tumblr-photo"
 
 [tumblr]
+post_url = "https://indirect.io/post/628394343215005696/dont-fight-a-cat-use-your-brain-use-drugs"
+note_count = 0.0
+display_avatar = true
 blog_name = "indirect"
-id = 6.283943432150057e+17
-caption = "<p>Don&rsquo;t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
+is_blaze_pending = false
+summary = "Don't fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — @marginoferror"
+can_like = false
+can_reblog = false
 can_send_in_message = true
 type = "photo"
-post_url = "https://indirect.tumblr.com/post/628394343215005696/dont-fight-a-cat-use-your-brain-use-drugs"
 date = "2020-09-05 05:25:45 GMT"
-reblog_key = "qQJO71UA"
-note_count = 0.0
-link_url = "http://twitter.com/marginoferror/status/935937659888836609"
-display_avatar = true
-is_blazed = false
-interactability_blaze = "everyone"
-id_string = "628394343215005696"
-format = "html"
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/628394343215005696"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-state = "published"
-can_like = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyYuWLDcCW00"
-is_blaze_pending = false
-can_reply = false
-slug = "dont-fight-a-cat-use-your-brain-use-drugs"
 timestamp = 1599283545.0
-summary = "Don't fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — @marginoferror"
-can_reblog = false
+reblog_key = "qQJO71UA"
+should_open_in_legacy = true
+caption = "<p>Don&rsquo;t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
+link_url = "http://twitter.com/marginoferror/status/935937659888836609"
+short_url = "https://tmblr.co/ZY3jbyYuWLDcCW00"
+can_reply = false
+id_string = "628394343215005696"
+can_blaze = false
+slug = "dont-fight-a-cat-use-your-brain-use-drugs"
+state = "published"
+image_permalink = "https://indirect.io/image/628394343215005696"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+is_blazed = false
+format = "html"
+interactability_reblog = "everyone"
+id = 6.283943432150057e+17
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>Don’t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
+content = "<p>Don&rsquo;t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) &mdash; <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_stretch = true
+show_avatar = true
+show_description = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_bounds = ""
+link_color = "#529ECC"
+show_header_image = false
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "628394343215005696"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 1200.0
 url = "/images/3b/a1/815e13242504db7cfbf1c7696b56.jpg"
 width = 676.0
-height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
 width = 676.0
@@ -55,14 +92,14 @@ width = 541.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
+height = 810.0
 url = "/images/50/ad/ce8dc9860bf5f6cfe3979380ede3.jpg"
 width = 456.0
-height = 810.0
 
 [[tumblr.photos.alt_sizes]]
+height = 750.0
 url = "/images/50/43/6cead4f1cc5957343b2998693c54.jpg"
 width = 423.0
-height = 750.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/fa/d1/a7fa3cce87c16aebb6a594376e1b.jpg"
@@ -80,57 +117,22 @@ width = 100.0
 height = 178.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/f2/d3/6ab45af769f5e91ddd2659a3d3ea.jpg"
 width = 75.0
 height = 75.0
-url = "/images/f2/d3/6ab45af769f5e91ddd2659a3d3ea.jpg"
+
+[tumblr.reblog]
+comment = "<p>Don’t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
+tree_html = ""
 
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>Don’t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
-
-[[tumblr.trail]]
-content_raw = "<p>Don’t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) — <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
-content = "<p>Don&rsquo;t fight a cat. Use your brain. Use drugs. (From a veterinary textbook) &mdash; <a href=\"http://twitter.com/marginoferror/status/935937659888836609\">@marginoferror</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-title_font_weight = "bold"
-avatar_shape = "square"
-show_description = true
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "628394343215005696"
 +++

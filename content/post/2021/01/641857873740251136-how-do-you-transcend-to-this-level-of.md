@@ -6,74 +6,46 @@ slug = "how-do-you-transcend-to-this-level-of"
 type = "tumblr-photo"
 
 [tumblr]
-can_reply = false
-id = 6.418578737402511e+17
-post_url = "https://indirect.tumblr.com/post/641857873740251136/how-do-you-transcend-to-this-level-of"
-date = "2021-01-31 20:02:48 GMT"
-timestamp = 1612123368.0
-can_send_in_message = true
-photoset_layout = "11"
-is_blocks_post_format = false
-interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 display_avatar = true
+note_count = 0.0
+photoset_layout = "11"
+type = "photo"
+blog_name = "indirect"
+is_blazed = false
+is_blaze_pending = false
+timestamp = 1612123368.0
+should_open_in_legacy = true
+is_blocks_post_format = false
+can_blaze = false
+slug = "how-do-you-transcend-to-this-level-of"
+can_like = false
+post_url = "https://indirect.io/post/641857873740251136/how-do-you-transcend-to-this-level-of"
+caption = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
+can_reblog = false
+id = 6.418578737402511e+17
 id_string = "641857873740251136"
+state = "published"
 short_url = "https://tmblr.co/ZY3jbyZeLbNWaq00"
 summary = "How do you transcend to this level of consciousness? Asking for me. — @phranqueigh"
-note_count = 0.0
-caption = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
-link_url = "http://twitter.com/phranqueigh/status/1355672914620780546"
-can_reblog = false
-blog_name = "indirect"
-is_blaze_pending = false
-format = "html"
+interactability_blaze = "everyone"
+can_reply = false
+date = "2021-01-31 20:02:48 GMT"
 reblog_key = "KyPleLC0"
-can_like = false
-can_blaze = false
-interactability_reblog = "everyone"
-is_blazed = false
-slug = "how-do-you-transcend-to-this-level-of"
-state = "published"
-should_open_in_legacy = true
-type = "photo"
+link_url = "http://twitter.com/phranqueigh/status/1355672914620780546"
+can_send_in_message = true
+format = "html"
 
-[tumblr.reblog]
-comment = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content = "<p>How do you transcend to this level of consciousness? Asking for me. &mdash; <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
 name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-show_title = true
-title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-link_color = "#529ECC"
-title_font = "Gibson"
-header_bounds = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_color = "#444444"
-avatar_shape = "square"
-background_color = "#FAFAFA"
-show_avatar = true
-
-[tumblr.trail.post]
-id = "641857873740251136"
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
@@ -84,14 +56,14 @@ width = 772.0
 height = 546.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/fc/81/b6742ffb7ef46ff398b67906ee67.jpg"
 width = 772.0
 height = 546.0
-url = "/images/fc/81/b6742ffb7ef46ff398b67906ee67.jpg"
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/c1/bd/82d0d3f94469e2de143076fc1e4d.jpg"
 width = 640.0
 height = 453.0
-url = "/images/c1/bd/82d0d3f94469e2de143076fc1e4d.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5c/e4/d6f249a7908b1b7eed3b4093ee81.jpg"
@@ -99,9 +71,9 @@ width = 540.0
 height = 382.0
 
 [[tumblr.photos.alt_sizes]]
-height = 354.0
 url = "/images/4d/fa/2e662c79a3bf5178079b4bec7512.jpg"
 width = 500.0
+height = 354.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a7/b1/1eb5ab8767b7d9703ba68b213bfe.jpg"
@@ -137,9 +109,9 @@ width = 640.0
 height = 453.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/17/0e/91d1bec9b881a036be318944f6cf.jpg"
 width = 540.0
 height = 382.0
+url = "/images/17/0e/91d1bec9b881a036be318944f6cf.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d2/28/caff4630a17fc08f85d24a8bb770.jpg"
@@ -157,9 +129,9 @@ width = 250.0
 height = 177.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/72/85/bc7092ad7b792267730501220b88.jpg"
 width = 100.0
 height = 71.0
+url = "/images/72/85/bc7092ad7b792267730501220b88.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bf/db/7de9b24cbca32cd9ff84ac95f8a3.jpg"
@@ -171,14 +143,44 @@ url = "/images/ae/92/0c4f68ccc22c213b960ebefbe6ac.jpg"
 width = 772.0
 height = 546.0
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
 
-[tumblr.blog.tumblrmart_accessories]
+[[tumblr.trail]]
+content = "<p>How do you transcend to this level of consciousness? Asking for me. &mdash; <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
+is_current_item = true
+is_root_item = true
+content_raw = "<p>How do you transcend to this level of consciousness? Asking for me. — <a href=\"http://twitter.com/phranqueigh/status/1355672914620780546\">@phranqueigh</a></p>"
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+title_font = "Gibson"
+header_full_width = 3000.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_color = "#444444"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+
+[tumblr.trail.post]
+id = "641857873740251136"
 +++

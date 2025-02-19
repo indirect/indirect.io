@@ -6,47 +6,47 @@ slug = "guy-with-incredibly-unclear-politics-its"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "gtCe0TQc"
-source = "<a href=\"https://twitter.com/BenedictTown/status/1738953399641514124\">Benedict Townsend 🐀 (@BenedictTown)</a>"
-interactability_reblog = "everyone"
-can_send_in_message = true
-id = 7.376223845137777e+17
 id_string = "737622384513777664"
-is_blaze_pending = false
-timestamp = 1703451523.0
-can_reply = false
 slug = "guy-with-incredibly-unclear-politics-its"
-state = "published"
-format = "markdown"
-post_url = "https://indirect.tumblr.com/post/737622384513777664/guy-with-incredibly-unclear-politics-its"
-short_url = "https://tmblr.co/ZY3jbyeyZwQFKW00"
-can_like = false
-display_avatar = true
-date = "2023-12-24 20:58:43 GMT"
-note_count = 0.0
-can_reblog = false
-text = "[guy with incredibly unclear politics]\n<br/>It’s Christmas EVE not Christmas STEVE"
-type = "quote"
-summary = "[guy with incredibly unclear politics]\n It’s Christmas EVE not Christmas STEVE"
-should_open_in_legacy = true
+timestamp = 1703451523.0
 interactability_blaze = "everyone"
+type = "quote"
+id = 7.376223845137777e+17
+is_blazed = false
+state = "published"
+summary = "[guy with incredibly unclear politics]\n It’s Christmas EVE not Christmas STEVE"
+post_url = "https://indirect.io/post/737622384513777664/guy-with-incredibly-unclear-politics-its"
+date = "2023-12-24 20:58:43 GMT"
+format = "markdown"
+note_count = 0.0
+text = "[guy with incredibly unclear politics]\n<br/>It’s Christmas EVE not Christmas STEVE"
+is_blaze_pending = false
+source = "<a href=\"https://twitter.com/BenedictTown/status/1738953399641514124\">Benedict Townsend 🐀 (@BenedictTown)</a>"
+can_send_in_message = true
+can_blaze = false
+reblog_key = "gtCe0TQc"
+can_reblog = false
+can_reply = false
+can_like = false
+interactability_reblog = "everyone"
+short_url = "https://tmblr.co/ZY3jbyeyZwQFKW00"
+should_open_in_legacy = true
+display_avatar = true
 is_blocks_post_format = false
 blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/BenedictTown/status/1738953399641514124\">Benedict Townsend 🐀 (@BenedictTown)</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+
+[tumblr.blog.tumblrmart_accessories]
 +++

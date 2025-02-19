@@ -6,42 +6,46 @@ slug = "moreover-as-individual-targets-were-perceived-to"
 type = "tumblr-text"
 
 [tumblr]
-is_blazed = false
-slug = "moreover-as-individual-targets-were-perceived-to"
-bookmarklet = true
-body = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
-display_avatar = true
-type = "text"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/389375988/moreover-as-individual-targets-were-perceived-to"
-timestamp = 1266175514.0
-format = "html"
-can_like = false
-id_string = "389375988"
-interactability_blaze = "everyone"
-date = "2010-02-14 19:25:14 GMT"
-source_url = "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733"
-can_send_in_message = true
-can_reply = false
+note_count = 0.0
 source_title = "plosone.org"
-is_blocks_post_format = false
+can_reblog = false
+can_send_in_message = true
+body = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
+type = "text"
+slug = "moreover-as-individual-targets-were-perceived-to"
+format = "html"
 reblog_key = "R1DgcmyC"
 summary = "Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by..."
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyNDMVq"
-should_open_in_legacy = false
-note_count = 0.0
+can_reply = false
+display_avatar = true
+is_blocks_post_format = false
+timestamp = 1266175514.0
+bookmarklet = true
+source_url = "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733"
+can_like = false
 state = "published"
+interactability_blaze = "everyone"
+is_blazed = false
+post_url = "https://indirect.io/post/389375988/moreover-as-individual-targets-were-perceived-to"
+short_url = "https://tmblr.co/ZY3jbyNDMVq"
+date = "2010-02-14 19:25:14 GMT"
+should_open_in_legacy = false
 interactability_reblog = "everyone"
-can_reblog = false
+id_string = "389375988"
+is_blaze_pending = false
+blog_name = "indirect"
 id = 389375988.0
+can_blaze = false
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
 
 [[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
 content = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>&mdash;&nbsp;<a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
 is_current_item = true
+is_root_item = true
+content_raw = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
 
 [tumblr.trail.blog]
 share_likes = false
@@ -51,39 +55,37 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font_weight = "bold"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_avatar = true
 show_header_image = false
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_stretch = true
-title_color = "#444444"
-title_font = "Gibson"
 show_title = true
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_image_poster = ""
+title_color = "#444444"
+title_font_weight = "bold"
 background_color = "#FAFAFA"
+header_bounds = ""
+link_color = "#529ECC"
+title_font = "Gibson"
+avatar_shape = "square"
+header_stretch = true
+show_description = true
 
 [tumblr.trail.post]
 id = "389375988"
 
-[tumblr.reblog]
-comment = "<p>Moreover, as individual targets were perceived to be more powerful, they were more likely to be perceived as Republicans by others. Similarly, as individual targets were perceived to be warmer, they were more likely to be perceived as Democrats.</p>\n<p>— <a href=\"http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008733\">PLoS ONE: Democrats and Republicans Can Be Differentiated from Their Faces</a></p>"
-tree_html = ""
-
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 +++

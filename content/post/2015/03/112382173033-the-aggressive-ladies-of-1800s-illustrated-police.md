@@ -6,35 +6,35 @@ slug = "the-aggressive-ladies-of-1800s-illustrated-police"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-image_permalink = "https://indirect.tumblr.com/image/112382173033"
-can_like = false
-display_avatar = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/112382173033/the-aggressive-ladies-of-1800s-illustrated-police"
-timestamp = 1425186068.0
-caption = "<p>The aggressive ladies of 1800&rsquo;s illustrated police news — <a href=\"http://twitter.com/pourmecoffee/status/571856166138998784\">@pourmecoffee</a></p>"
-note_count = 0.0
-blog_name = "indirect"
-date = "2015-03-01 05:01:08 GMT"
-reblog_key = "RQ4vQDCJ"
-interactability_blaze = "everyone"
-can_blaze = false
-summary = "The aggressive ladies of 1800's illustrated police news — @pourmecoffee"
-link_url = "http://twitter.com/pourmecoffee/status/571856166138998784"
-interactability_reblog = "everyone"
-id_string = "112382173033"
-format = "html"
-can_send_in_message = true
 can_reply = false
-id = 112382173033.0
-is_blaze_pending = false
-type = "photo"
-is_blazed = false
-slug = "the-aggressive-ladies-of-1800s-illustrated-police"
-state = "published"
+is_blocks_post_format = false
 short_url = "https://tmblr.co/ZY3jby1egVzzf"
+state = "published"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/112382173033/the-aggressive-ladies-of-1800s-illustrated-police"
+date = "2015-03-01 05:01:08 GMT"
+format = "html"
+reblog_key = "RQ4vQDCJ"
+summary = "The aggressive ladies of 1800's illustrated police news — @pourmecoffee"
+id_string = "112382173033"
+can_blaze = false
+caption = "<p>The aggressive ladies of 1800&rsquo;s illustrated police news — <a href=\"http://twitter.com/pourmecoffee/status/571856166138998784\">@pourmecoffee</a></p>"
+display_avatar = true
+timestamp = 1425186068.0
+can_send_in_message = true
+type = "photo"
 can_reblog = false
+blog_name = "indirect"
+slug = "the-aggressive-ladies-of-1800s-illustrated-police"
+link_url = "http://twitter.com/pourmecoffee/status/571856166138998784"
+can_like = false
+note_count = 0.0
+interactability_reblog = "everyone"
+id = 112382173033.0
+is_blazed = false
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/112382173033"
+interactability_blaze = "everyone"
 
 [[tumblr.trail]]
 content_raw = "<p>The aggressive ladies of 1800’s illustrated police news — <a href=\"http://twitter.com/pourmecoffee/status/571856166138998784\">@pourmecoffee</a></p>"
@@ -43,48 +43,39 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-share_likes = false
 share_following = false
 can_be_followed = true
 name = "indirect"
 active = true
+share_likes = false
 
 [tumblr.trail.blog.theme]
-link_color = "#529ECC"
 title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_poster = ""
-show_title = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-show_description = true
 title_font = "Gibson"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_description = true
+header_bounds = ""
+link_color = "#529ECC"
+show_avatar = true
+show_header_image = false
+show_title = true
 
 [tumblr.trail.post]
 id = "112382173033"
 
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
-
 [tumblr.reblog]
-comment = "<p>The aggressive ladies of 1800’s illustrated police news — <a href=\"http://twitter.com/pourmecoffee/status/571856166138998784\">@pourmecoffee</a></p>"
 tree_html = ""
+comment = "<p>The aggressive ladies of 1800’s illustrated police news — <a href=\"http://twitter.com/pourmecoffee/status/571856166138998784\">@pourmecoffee</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -120,12 +111,23 @@ width = 250.0
 height = 124.0
 
 [[tumblr.photos.alt_sizes]]
+height = 50.0
 url = "/images/1a/8c/2dc6a8158eba19eff5a269e4494a.jpg"
 width = 100.0
-height = 50.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/ad/72/2a1106239d968955c795fb6d2942.jpg"
 width = 75.0
 height = 75.0
-url = "/images/ad/72/2a1106239d968955c795fb6d2942.jpg"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

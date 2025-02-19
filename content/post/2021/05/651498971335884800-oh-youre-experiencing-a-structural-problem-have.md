@@ -6,47 +6,47 @@ slug = "oh-youre-experiencing-a-structural-problem-have"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyaAbjpM0W00"
-summary = "Oh, you’re experiencing a structural problem? Have you ever considered trying different personal choices instead?"
-note_count = 0.0
-can_blaze = false
-can_send_in_message = true
-can_reply = false
-blog_name = "indirect"
-date = "2021-05-18 06:03:56 GMT"
-state = "published"
-reblog_key = "QfLKd0fI"
-post_url = "https://indirect.tumblr.com/post/651498971335884800/oh-youre-experiencing-a-structural-problem-have"
-text = "Oh, you&rsquo;re experiencing a structural problem? Have you ever considered trying different personal choices instead?"
-can_like = false
-source = "<a href=\"http://twitter.com/AthertonKD/status/1120376944061583360\">@AthertonKD</a>"
-display_avatar = true
-slug = "oh-youre-experiencing-a-structural-problem-have"
-is_blocks_post_format = false
-id_string = "651498971335884800"
-is_blaze_pending = false
-format = "html"
 interactability_blaze = "everyone"
+can_reply = false
 timestamp = 1621317836.0
 should_open_in_legacy = true
-interactability_reblog = "everyone"
+reblog_key = "QfLKd0fI"
 can_reblog = false
-type = "quote"
+is_blocks_post_format = false
 id = 6.514989713358848e+17
+note_count = 0.0
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jbyaAbjpM0W00"
+summary = "Oh, you’re experiencing a structural problem? Have you ever considered trying different personal choices instead?"
+type = "quote"
+interactability_reblog = "everyone"
+display_avatar = true
+is_blaze_pending = false
+post_url = "https://indirect.io/post/651498971335884800/oh-youre-experiencing-a-structural-problem-have"
+text = "Oh, you&rsquo;re experiencing a structural problem? Have you ever considered trying different personal choices instead?"
+can_send_in_message = true
+id_string = "651498971335884800"
+is_blazed = false
+can_blaze = false
+date = "2021-05-18 06:03:56 GMT"
+state = "published"
+source = "<a href=\"http://twitter.com/AthertonKD/status/1120376944061583360\">@AthertonKD</a>"
+slug = "oh-youre-experiencing-a-structural-problem-have"
+format = "html"
+can_like = false
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/AthertonKD/status/1120376944061583360\">@AthertonKD</a></p>"
+tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

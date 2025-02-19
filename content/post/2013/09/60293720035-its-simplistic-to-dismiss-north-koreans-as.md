@@ -6,50 +6,50 @@ slug = "its-simplistic-to-dismiss-north-koreans-as"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "its-simplistic-to-dismiss-north-koreans-as"
-summary = "It’s simplistic to dismiss North Koreans as brainwashed masses; in fact, we have more in common than we think."
-id = 60293720035.0
-is_blazed = false
-timestamp = 1378327032.0
-source_url = "http://www.theatlantic.com/international/archive/2013/09/getting-drunk-in-north-korea/279310/"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/60293720035/its-simplistic-to-dismiss-north-koreans-as"
-should_open_in_legacy = true
-display_avatar = true
-note_count = 0.0
-type = "quote"
-blog_name = "indirect"
-state = "published"
-format = "markdown"
 interactability_reblog = "everyone"
-can_send_in_message = true
-id_string = "60293720035"
-date = "2013-09-04 20:37:12 GMT"
 reblog_key = "PUWG9WQe"
-source_title = "The Atlantic"
+summary = "It’s simplistic to dismiss North Koreans as brainwashed masses; in fact, we have more in common than we think."
 can_like = false
 interactability_blaze = "everyone"
-can_reply = false
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jbyu9oIVZ"
+can_reblog = false
+date = "2013-09-04 20:37:12 GMT"
+timestamp = 1378327032.0
+id_string = "60293720035"
+is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/60293720035/its-simplistic-to-dismiss-north-koreans-as"
+slug = "its-simplistic-to-dismiss-north-koreans-as"
+state = "published"
 text = "It’s simplistic to dismiss North Koreans as brainwashed masses; in fact, we have more in common than we think."
 source = "<a href=\"http://www.theatlantic.com/international/archive/2013/09/getting-drunk-in-north-korea/279310/\">Getting Drunk in North Korea</a>"
-can_reblog = false
-bookmarklet = true
+display_avatar = true
+short_url = "https://tmblr.co/ZY3jbyu9oIVZ"
+source_title = "The Atlantic"
+should_open_in_legacy = true
+note_count = 0.0
+source_url = "http://www.theatlantic.com/international/archive/2013/09/getting-drunk-in-north-korea/279310/"
+type = "quote"
+is_blocks_post_format = false
+blog_name = "indirect"
+can_send_in_message = true
+can_reply = false
+id = 60293720035.0
 is_blaze_pending = false
+format = "markdown"
+bookmarklet = true
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.theatlantic.com/international/archive/2013/09/getting-drunk-in-north-korea/279310/\">Getting Drunk in North Korea</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

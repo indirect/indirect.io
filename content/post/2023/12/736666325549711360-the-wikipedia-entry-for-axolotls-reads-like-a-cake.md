@@ -6,39 +6,87 @@ slug = "the-wikipedia-entry-for-axolotls-reads-like-a-cake"
 type = "tumblr-photo"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/736666325549711360/the-wikipedia-entry-for-axolotls-reads-like-a-cake"
-note_count = 1.0
-image_permalink = "https://indirect.tumblr.com/image/736666325549711360"
-type = "photo"
-id = 7.366663255497114e+17
-id_string = "736666325549711360"
-can_blaze = false
-summary = "the Wikipedia entry for axolotls reads like a Cake song — Turnip Puff (@misterfungi.bsky.social)"
-can_reblog = false
-display_avatar = true
+post_url = "https://indirect.io/post/736666325549711360/the-wikipedia-entry-for-axolotls-reads-like-a-cake"
 timestamp = 1702539754.0
-format = "html"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-is_blaze_pending = false
-interactability_blaze = "everyone"
-slug = "the-wikipedia-entry-for-axolotls-reads-like-a-cake"
-date = "2023-12-14 07:42:34 GMT"
-should_open_in_legacy = true
-can_like = false
-can_send_in_message = true
-blog_name = "indirect"
-reblog_key = "wth7PX0t"
-caption = "<p>the Wikipedia entry for axolotls reads like a Cake song — <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
+can_reblog = false
 can_reply = false
-state = "published"
+display_avatar = true
+is_blocks_post_format = false
+date = "2023-12-14 07:42:34 GMT"
 short_url = "https://tmblr.co/ZY3jbyevAXwyOW00"
-link_url = "https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d"
+note_count = 1.0
+can_send_in_message = true
+id_string = "736666325549711360"
 is_blazed = false
+link_url = "https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d"
+blog_name = "indirect"
+state = "published"
+should_open_in_legacy = true
+image_permalink = "https://indirect.io/image/736666325549711360"
+can_like = false
+slug = "the-wikipedia-entry-for-axolotls-reads-like-a-cake"
+summary = "the Wikipedia entry for axolotls reads like a Cake song — Turnip Puff (@misterfungi.bsky.social)"
+interactability_reblog = "everyone"
+id = 7.366663255497114e+17
+can_blaze = false
+format = "html"
+reblog_key = "wth7PX0t"
+type = "photo"
+is_blaze_pending = false
+caption = "<p>the Wikipedia entry for axolotls reads like a Cake song — <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
+interactability_blaze = "everyone"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>the Wikipedia entry for axolotls reads like a Cake song — <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+is_current_item = true
+is_root_item = true
+content_raw = "<p>the Wikipedia entry for axolotls reads like a Cake song — <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
+content = "<p>the Wikipedia entry for axolotls reads like a Cake song &mdash; <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
+
+[tumblr.trail.blog]
+can_be_followed = true
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+
+[tumblr.trail.blog.theme]
+show_description = true
+show_title = true
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+title_font_weight = "bold"
+header_bounds = ""
+header_stretch = true
+link_color = "#529ECC"
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+title_font = "Gibson"
+
+[tumblr.trail.post]
+id = "736666325549711360"
 
 [[tumblr.photos]]
 caption = ""
@@ -79,58 +127,12 @@ width = 250.0
 height = 36.0
 
 [[tumblr.photos.alt_sizes]]
-height = 15.0
 url = "/images/95/d9/241343c0572147dff97dd1d831fd.jpg"
 width = 100.0
+height = 15.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/96/f0/0906a5305c4d4ec1315d4dcf4893.jpg"
 width = 75.0
 height = 75.0
-
-[[tumblr.trail]]
-content_raw = "<p>the Wikipedia entry for axolotls reads like a Cake song — <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
-content = "<p>the Wikipedia entry for axolotls reads like a Cake song &mdash; <a href=\"https://bsky.app/profile/misterfungi.bsky.social/post/3kgcj63zvq52d\">Turnip Puff (@misterfungi.bsky.social)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-show_header_image = false
-title_color = "#444444"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_bounds = ""
-show_avatar = true
-show_title = true
-
-[tumblr.trail.post]
-id = "736666325549711360"
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

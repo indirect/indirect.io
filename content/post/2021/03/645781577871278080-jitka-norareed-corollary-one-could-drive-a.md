@@ -6,47 +6,47 @@ slug = "jitka-norareed-corollary-one-could-drive-a"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/645781577871278080/jitka-norareed-corollary-one-could-drive-a"
-date = "2021-03-16 03:28:24 GMT"
+text = "@jitka @NoraReed Corollary: One could drive a 1400s peasant insane simply through the extreme nacho flavor of a single Dorito"
+post_url = "https://indirect.io/post/645781577871278080/jitka-norareed-corollary-one-could-drive-a"
+timestamp = 1615865304.0
 reblog_key = "PxB1p1ks"
-source = "<a href=\"http://twitter.com/AdamRRowe/status/1371192924659138562\">@AdamRRowe</a>"
-format = "html"
-interactability_reblog = "everyone"
-is_blocks_post_format = false
+can_send_in_message = true
 id = 6.457815778712781e+17
-is_blazed = false
+state = "published"
+note_count = 0.0
+can_reblog = false
+format = "html"
+is_blocks_post_format = false
+blog_name = "indirect"
+date = "2021-03-16 03:28:24 GMT"
 short_url = "https://tmblr.co/ZY3jbyZsHknlWa00"
 summary = "@jitka @NoraReed Corollary: One could drive a 1400s peasant insane simply through the extreme nacho flavor of a single Dorito"
-can_blaze = false
-timestamp = 1615865304.0
-state = "published"
 interactability_blaze = "everyone"
-can_send_in_message = true
-type = "quote"
-should_open_in_legacy = true
-can_like = false
-can_reblog = false
-display_avatar = true
-can_reply = false
 id_string = "645781577871278080"
-note_count = 0.0
-blog_name = "indirect"
-is_blaze_pending = false
+can_like = false
+can_blaze = false
+can_reply = false
+type = "quote"
+is_blazed = false
 slug = "jitka-norareed-corollary-one-could-drive-a"
-text = "@jitka @NoraReed Corollary: One could drive a 1400s peasant insane simply through the extreme nacho flavor of a single Dorito"
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+should_open_in_legacy = true
+display_avatar = true
+source = "<a href=\"http://twitter.com/AdamRRowe/status/1371192924659138562\">@AdamRRowe</a>"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/AdamRRowe/status/1371192924659138562\">@AdamRRowe</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

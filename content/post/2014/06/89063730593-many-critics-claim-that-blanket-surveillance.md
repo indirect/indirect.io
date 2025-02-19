@@ -6,48 +6,48 @@ slug = "many-critics-claim-that-blanket-surveillance"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"http://www.rifters.com/real/shorts/TheScorchedEarthSociety-transcript.pdf\">Peter Watts, <i>A Suicide Bomber&rsquo;s Guide to Online Privacy</i></a>"
-can_send_in_message = true
+format = "markdown"
+note_count = 0.0
+display_avatar = true
+date = "2014-06-17 15:30:22 GMT"
+is_blazed = false
+can_blaze = false
+post_url = "https://indirect.io/post/89063730593/many-critics-claim-that-blanket-surveillance"
+state = "published"
 should_open_in_legacy = true
-reblog_key = "YA7O6BzY"
-summary = "Many critics claim that blanket surveillance amounts to treating everyone like a criminal, but I wonder if it goes deeper than..."
+is_blocks_post_format = false
+blog_name = "indirect"
+short_url = "https://tmblr.co/ZY3jby1IydAsX"
+source = "<a href=\"http://www.rifters.com/real/shorts/TheScorchedEarthSociety-transcript.pdf\">Peter Watts, <i>A Suicide Bomber&rsquo;s Guide to Online Privacy</i></a>"
 interactability_reblog = "everyone"
 interactability_blaze = "everyone"
+can_send_in_message = true
+id = 89063730593.0
+id_string = "89063730593"
+timestamp = 1403019022.0
+reblog_key = "YA7O6BzY"
+text = "Many critics claim that blanket surveillance amounts to treating everyone like a criminal, but I wonder if it goes deeper than that. I think maybe it makes us feel like prey"
+bookmarklet = true
+can_like = false
+summary = "Many critics claim that blanket surveillance amounts to treating everyone like a criminal, but I wonder if it goes deeper than..."
 can_reblog = false
 can_reply = false
-short_url = "https://tmblr.co/ZY3jby1IydAsX"
-display_avatar = true
-state = "published"
 type = "quote"
-blog_name = "indirect"
 is_blaze_pending = false
-can_blaze = false
-id_string = "89063730593"
-is_blazed = false
-timestamp = 1403019022.0
-format = "markdown"
-bookmarklet = true
-post_url = "https://indirect.tumblr.com/post/89063730593/many-critics-claim-that-blanket-surveillance"
-note_count = 0.0
-text = "Many critics claim that blanket surveillance amounts to treating everyone like a criminal, but I wonder if it goes deeper than that. I think maybe it makes us feel like prey"
-is_blocks_post_format = false
 slug = "many-critics-claim-that-blanket-surveillance"
-can_like = false
-id = 89063730593.0
-date = "2014-06-17 15:30:22 GMT"
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.rifters.com/real/shorts/TheScorchedEarthSociety-transcript.pdf\">Peter Watts, <i>A Suicide Bomber’s Guide to Online Privacy</i></a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

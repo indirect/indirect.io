@@ -6,50 +6,35 @@ slug = "someone-sent-me-ai-art-of-salmon-in-the-river-but"
 type = "tumblr-photo"
 
 [tumblr]
-blog_name = "indirect"
-timestamp = 1665942207.0
-format = "html"
-can_like = false
-id = 6.982910163331973e+17
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/698291016333197312/someone-sent-me-ai-art-of-salmon-in-the-river-but"
+photoset_layout = "12"
 slug = "someone-sent-me-ai-art-of-salmon-in-the-river-but"
-id_string = "698291016333197312"
-is_blazed = false
-summary = "Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — @DeltyThe73rd"
+can_reblog = false
+can_reply = false
+can_blaze = false
+short_url = "https://tmblr.co/ZY3jbycmq-hAOm00"
+can_send_in_message = true
+should_open_in_legacy = true
+can_like = false
+type = "photo"
+is_blocks_post_format = false
 note_count = 0.0
 link_url = "http://twitter.com/DeltyThe73rd/status/1581127306386427904"
-interactability_reblog = "everyone"
-can_reblog = false
-display_avatar = true
-is_blocks_post_format = false
-date = "2022-10-16 17:43:27 GMT"
-caption = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
-should_open_in_legacy = true
-photoset_layout = "12"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-is_blaze_pending = false
+blog_name = "indirect"
+is_blazed = false
+timestamp = 1665942207.0
 reblog_key = "AX7rfCwb"
-short_url = "https://tmblr.co/ZY3jbycmq-hAOm00"
-type = "photo"
+interactability_blaze = "everyone"
+id_string = "698291016333197312"
+is_blaze_pending = false
+date = "2022-10-16 17:43:27 GMT"
+format = "html"
+summary = "Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — @DeltyThe73rd"
+interactability_reblog = "everyone"
+display_avatar = true
+id = 6.982910163331973e+17
+post_url = "https://indirect.io/post/698291016333197312/someone-sent-me-ai-art-of-salmon-in-the-river-but"
 state = "published"
-
-[tumblr.reblog]
-comment = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+caption = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
 
 [[tumblr.photos]]
 caption = ""
@@ -60,14 +45,14 @@ width = 500.0
 height = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/78/89/cdf214ec0c88adcd972a3a379a49.jpg"
 width = 500.0
 height = 500.0
+url = "/images/78/89/cdf214ec0c88adcd972a3a379a49.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/67/04/31a1aab7b2875f3a22f87dfb63c7.jpg"
 width = 400.0
 height = 400.0
+url = "/images/67/04/31a1aab7b2875f3a22f87dfb63c7.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/80/bc/0d693d97e64f8c8b4f5da314f646.jpg"
@@ -80,9 +65,9 @@ width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
+height = 75.0
 url = "/images/8c/d3/928b2de028d4ddc2141a62a6b43a.jpg"
 width = 75.0
-height = 75.0
 
 [[tumblr.photos]]
 caption = ""
@@ -103,22 +88,27 @@ width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
+height = 250.0
 url = "/images/4d/a0/6fa1de9ec9f9bf4d10fff195dd9e.jpg"
 width = 250.0
-height = 250.0
 
 [[tumblr.photos.alt_sizes]]
+height = 100.0
 url = "/images/3e/b6/7485a48c210ec50985c108fca758.jpg"
 width = 100.0
-height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-height = 75.0
 url = "/images/b6/0e/dd5503316e821b2cee1898336f44.jpg"
 width = 75.0
+height = 75.0
 
 [[tumblr.photos]]
 caption = ""
+
+[tumblr.photos.original_size]
+height = 505.0
+url = "/images/7f/3b/50f429200288316abf564fbdb0cc.jpg"
+width = 500.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/7f/3b/50f429200288316abf564fbdb0cc.jpg"
@@ -145,16 +135,26 @@ url = "/images/35/ac/56e0e1bf138d9646c4a3937e8b89.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.photos.original_size]
-url = "/images/7f/3b/50f429200288316abf564fbdb0cc.jpg"
-width = 500.0
-height = 505.0
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
 
 [[tumblr.trail]]
-is_root_item = true
 content_raw = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH 💀💀💀 — <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
 content = "<p>Someone sent me AI art of Salmon in the river but HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAH &#128128;&#128128;&#128128; &mdash; <a href=\"http://twitter.com/DeltyThe73rd/status/1581127306386427904\">@DeltyThe73rd</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 share_likes = false
@@ -164,23 +164,25 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
+header_image_poster = ""
+header_stretch = true
+show_description = true
+header_full_height = 1055.0
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
 show_avatar = true
-show_description = true
 show_title = true
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 title_color = "#444444"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-header_image_poster = ""
-title_font = "Gibson"
 title_font_weight = "bold"
+header_full_width = 3000.0
+background_color = "#FAFAFA"
+show_header_image = false
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "698291016333197312"

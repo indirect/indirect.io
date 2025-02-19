@@ -6,50 +6,39 @@ slug = "this-is-so-fucking-funny-paul-tergeist"
 type = "tumblr-photo"
 
 [tumblr]
-timestamp = 1730061236.0
-image_permalink = "https://indirect.tumblr.com/image/765524691626622976"
-reblog_key = "EOG9tsDb"
-short_url = "https://tmblr.co/ZY3jbygViAQlCW00"
-interactability_reblog = "everyone"
-blog_name = "indirect"
-id = 7.65524691626623e+17
-caption = "<p>This is so fucking funny — <a href=\"https://twitter.com/nickhexum311/status/1850256639523475567\">paul tergeist (@nickhexum311)</a></p>"
-can_like = false
-can_reblog = false
-type = "photo"
-can_blaze = false
 slug = "this-is-so-fucking-funny-paul-tergeist"
-note_count = 0.0
-link_url = "https://twitter.com/nickhexum311/status/1850256639523475567"
-can_send_in_message = true
-is_blazed = false
-format = "html"
-should_open_in_legacy = true
-id_string = "765524691626622976"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/765524691626622976/this-is-so-fucking-funny-paul-tergeist"
-state = "published"
-summary = "This is so fucking funny — paul tergeist (@nickhexum311)"
-interactability_blaze = "everyone"
+caption = "<p>This is so fucking funny — <a href=\"https://twitter.com/nickhexum311/status/1850256639523475567\">paul tergeist (@nickhexum311)</a></p>"
+can_reblog = false
 can_reply = false
-is_blocks_post_format = false
-date = "2024-10-27 20:33:56 GMT"
+post_url = "https://indirect.io/post/765524691626622976/this-is-so-fucking-funny-paul-tergeist"
+reblog_key = "EOG9tsDb"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
 display_avatar = true
+id = 7.65524691626623e+17
+summary = "This is so fucking funny — paul tergeist (@nickhexum311)"
+image_permalink = "https://indirect.io/image/765524691626622976"
+can_like = false
+date = "2024-10-27 20:33:56 GMT"
+is_blaze_pending = false
+note_count = 0.0
+can_send_in_message = true
+blog_name = "indirect"
+format = "html"
+short_url = "https://tmblr.co/ZY3jbygViAQlCW00"
+timestamp = 1730061236.0
+state = "published"
+type = "photo"
+id_string = "765524691626622976"
+is_blazed = false
+can_blaze = false
+is_blocks_post_format = false
+link_url = "https://twitter.com/nickhexum311/status/1850256639523475567"
+interactability_reblog = "everyone"
 
 [tumblr.reblog]
 comment = "<p>This is so fucking funny — <a href=\"https://twitter.com/nickhexum311/status/1850256639523475567\">paul tergeist (@nickhexum311)</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
 content_raw = "<p>This is so fucking funny — <a href=\"https://twitter.com/nickhexum311/status/1850256639523475567\">paul tergeist (@nickhexum311)</a></p>"
@@ -58,30 +47,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
-name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
 
 [tumblr.trail.blog.theme]
-show_header_image = false
-title_color = "#444444"
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-body_font = "Helvetica Neue"
-header_stretch = true
-show_avatar = true
 title_font = "Gibson"
-title_font_weight = "bold"
+header_full_width = 3000.0
+header_full_height = 1055.0
+background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-avatar_shape = "square"
-header_image_poster = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
 show_description = true
+header_image_poster = ""
+show_title = true
+title_color = "#444444"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_font_weight = "bold"
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+show_avatar = true
 
 [tumblr.trail.post]
 id = "765524691626622976"
@@ -95,9 +86,9 @@ width = 1080.0
 height = 860.0
 
 [[tumblr.photos.alt_sizes]]
+height = 860.0
 url = "/images/e3/37/f7315a270c5357f2fb0c8bb1fcd2.jpg"
 width = 1080.0
-height = 860.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e1/8c/494b80cc08f261f2702f6284c911.jpg"
@@ -133,4 +124,15 @@ height = 80.0
 url = "/images/95/2d/cf69b902baacb7149d723d4fbf90.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

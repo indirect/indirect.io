@@ -6,44 +6,44 @@ slug = "i-love-a-good-counter-example-mathgrad"
 type = "tumblr-photo"
 
 [tumblr]
-can_reblog = false
-caption = "<p>I love a good counter example — <a href=\"http://twitter.com/math_grad/status/541690536235524096\">@math_grad</a></p>"
-date = "2015-01-31 23:26:03 GMT"
-blog_name = "indirect"
-is_blaze_pending = false
-summary = "I love a good counter example — @math_grad"
-interactability_reblog = "everyone"
-type = "photo"
-reblog_key = "jkA6oC1C"
-note_count = 0.0
-interactability_blaze = "everyone"
-can_send_in_message = true
-timestamp = 1422746763.0
-can_like = false
-display_avatar = true
-id = 109715481663.0
-can_blaze = false
-format = "html"
-link_url = "http://twitter.com/math_grad/status/541690536235524096"
-should_open_in_legacy = true
-state = "published"
 is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/109715481663/i-love-a-good-counter-example-mathgrad"
-short_url = "https://tmblr.co/ZY3jby1cBZMG-"
-can_reply = false
-id_string = "109715481663"
 is_blazed = false
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby1cBZMG-"
+caption = "<p>I love a good counter example — <a href=\"http://twitter.com/math_grad/status/541690536235524096\">@math_grad</a></p>"
+display_avatar = true
+timestamp = 1422746763.0
+id = 109715481663.0
+reblog_key = "jkA6oC1C"
+interactability_reblog = "everyone"
+id_string = "109715481663"
+summary = "I love a good counter example — @math_grad"
+link_url = "http://twitter.com/math_grad/status/541690536235524096"
+image_permalink = "https://indirect.io/image/109715481663"
+can_send_in_message = true
+can_reply = false
+post_url = "https://indirect.io/post/109715481663/i-love-a-good-counter-example-mathgrad"
+format = "html"
+can_like = false
+interactability_blaze = "everyone"
+can_reblog = false
+type = "photo"
+blog_name = "indirect"
+can_blaze = false
 slug = "i-love-a-good-counter-example-mathgrad"
-image_permalink = "https://indirect.tumblr.com/image/109715481663"
+state = "published"
+should_open_in_legacy = true
+date = "2015-01-31 23:26:03 GMT"
+note_count = 0.0
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -51,14 +51,14 @@ name = "indirect"
 caption = ""
 
 [tumblr.photos.original_size]
-height = 367.0
 url = "/images/d2/9f/0c9e55689f3c2fb799f165e01517.jpg"
 width = 490.0
+height = 367.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/d2/9f/0c9e55689f3c2fb799f165e01517.jpg"
 width = 490.0
 height = 367.0
-url = "/images/d2/9f/0c9e55689f3c2fb799f165e01517.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/1c/01/69fc1ab672c9cd9fae2b46500da2.jpg"
@@ -80,10 +80,6 @@ url = "/images/3a/86/e11d2e853537766a4e09c12162eb.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.reblog]
-comment = "<p>I love a good counter example — <a href=\"http://twitter.com/math_grad/status/541690536235524096\">@math_grad</a></p>"
-tree_html = ""
-
 [[tumblr.trail]]
 is_current_item = true
 is_root_item = true
@@ -91,31 +87,37 @@ content_raw = "<p>I love a good counter example — <a href=\"http://twitter.com
 content = "<p>I love a good counter example &mdash; <a href=\"http://twitter.com/math_grad/status/541690536235524096\">@math_grad</a></p>"
 
 [tumblr.trail.blog]
-name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
 
 [tumblr.trail.blog.theme]
-title_font = "Gibson"
-title_color = "#444444"
+header_full_width = 3000.0
 avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+body_font = "Helvetica Neue"
 header_stretch = true
 show_avatar = true
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
 show_description = true
+title_font = "Gibson"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_height = 1055.0
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_header_image = false
 show_title = true
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "109715481663"
+
+[tumblr.reblog]
+comment = "<p>I love a good counter example — <a href=\"http://twitter.com/math_grad/status/541690536235524096\">@math_grad</a></p>"
+tree_html = ""
 +++

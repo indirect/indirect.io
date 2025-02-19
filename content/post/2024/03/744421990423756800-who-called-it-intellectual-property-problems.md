@@ -6,47 +6,47 @@ slug = "who-called-it-intellectual-property-problems"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-id = 7.444219904237568e+17
 can_blaze = false
-slug = "who-called-it-intellectual-property-problems"
-timestamp = 1709936132.0
-reblog_key = "4GJJNRzb"
-can_send_in_message = true
-display_avatar = true
-blog_name = "indirect"
-date = "2024-03-08 22:15:32 GMT"
-should_open_in_legacy = true
-can_reply = false
-format = "markdown"
+short_url = "https://tmblr.co/ZY3jbyfKjzikCe00"
 can_like = false
-source = "<a href=\"https://mastodon.xyz/@johl/112059833912513751\">@johl</a>"
+display_avatar = true
+post_url = "https://indirect.io/post/744421990423756800/who-called-it-intellectual-property-problems"
+timestamp = 1709936132.0
+can_reblog = false
+can_send_in_message = true
+format = "markdown"
 text = "Who called it “intellectual property problems around the acquisition of training data for Large Language Models” and not Grand Theft Autocorrect?"
+slug = "who-called-it-intellectual-property-problems"
+date = "2024-03-08 22:15:32 GMT"
+reblog_key = "4GJJNRzb"
 summary = "Who called it “intellectual property problems around the acquisition of training data for Large Language Models” and not Grand..."
+blog_name = "indirect"
 is_blazed = false
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/744421990423756800/who-called-it-intellectual-property-problems"
-interactability_blaze = "everyone"
-id_string = "744421990423756800"
+can_reply = false
 state = "published"
-short_url = "https://tmblr.co/ZY3jbyfKjzikCe00"
-note_count = 0.0
-is_blocks_post_format = false
 interactability_reblog = "everyone"
-can_reblog = false
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+is_blocks_post_format = false
+id = 7.444219904237568e+17
+should_open_in_legacy = true
+note_count = 0.0
+interactability_blaze = "everyone"
+source = "<a href=\"https://mastodon.xyz/@johl/112059833912513751\">@johl</a>"
+type = "quote"
+id_string = "744421990423756800"
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://mastodon.xyz/@johl/112059833912513751\">@johl</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

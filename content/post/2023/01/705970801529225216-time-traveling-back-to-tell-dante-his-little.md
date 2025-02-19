@@ -6,43 +6,43 @@ slug = "time-traveling-back-to-tell-dante-his-little"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2023-01-09 12:10:21 GMT"
-short_url = "https://tmblr.co/ZY3jbydC7BGUye00"
-summary = "time traveling back to tell dante his little fanfics are twee cottagecore bullshit, then explaining the concept of health..."
+is_blazed = false
+is_blaze_pending = false
 can_like = false
+is_blocks_post_format = false
+id_string = "705970801529225216"
+post_url = "https://indirect.io/post/705970801529225216/time-traveling-back-to-tell-dante-his-little"
+id = 7.059708015292252e+17
+note_count = 0.0
+source = "<a href=\"https://starflower.space/@nova/109657032698695493\">@nova</a>"
+interactability_blaze = "everyone"
+can_reblog = false
+text = "time traveling back to tell dante his little fanfics are twee cottagecore bullshit, then explaining the concept of health insurance and destroying him instantly"
+type = "quote"
+state = "published"
+should_open_in_legacy = true
+display_avatar = true
+can_blaze = false
+date = "2023-01-09 12:10:21 GMT"
+timestamp = 1673266221.0
+can_reply = false
+blog_name = "indirect"
+slug = "time-traveling-back-to-tell-dante-his-little"
+short_url = "https://tmblr.co/ZY3jbydC7BGUye00"
+interactability_reblog = "everyone"
+can_send_in_message = true
 format = "markdown"
 reblog_key = "12LKes0P"
-should_open_in_legacy = true
-type = "quote"
-id = 7.059708015292252e+17
-slug = "time-traveling-back-to-tell-dante-his-little"
-timestamp = 1673266221.0
-interactability_blaze = "everyone"
-id_string = "705970801529225216"
-is_blaze_pending = false
-can_blaze = false
-display_avatar = true
-is_blocks_post_format = false
-note_count = 0.0
-interactability_reblog = "everyone"
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.tumblr.com/post/705970801529225216/time-traveling-back-to-tell-dante-his-little"
-can_reply = false
-source = "<a href=\"https://starflower.space/@nova/109657032698695493\">@nova</a>"
-state = "published"
-text = "time traveling back to tell dante his little fanfics are twee cottagecore bullshit, then explaining the concept of health insurance and destroying him instantly"
-can_reblog = false
-can_send_in_message = true
+summary = "time traveling back to tell dante his little fanfics are twee cottagecore bullshit, then explaining the concept of health..."
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

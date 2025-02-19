@@ -7,44 +7,55 @@ type = "tumblr-photo"
 
 [tumblr]
 id = 114859814323.0
-slug = "the-origin-of-loops-patches-and-libraries-in-the"
 state = "published"
 format = "html"
-reblog_key = "IpWwq2jx"
-type = "photo"
-interactability_reblog = "everyone"
-can_reply = false
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jby1g_BQsp"
-note_count = 0.0
-can_reblog = false
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/114859814323/the-origin-of-loops-patches-and-libraries-in-the"
-should_open_in_legacy = true
-caption = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/114859814323"
-can_like = false
-interactability_blaze = "everyone"
 timestamp = 1427566788.0
-id_string = "114859814323"
-can_blaze = false
-date = "2015-03-28 18:19:48 GMT"
-summary = "The origin of loops, patches and libraries in the Mark I computer — @migueldeicaza"
-link_url = "http://twitter.com/migueldeicaza/status/581846896404201472"
-display_avatar = true
 is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/114859814323/the-origin-of-loops-patches-and-libraries-in-the"
+can_reply = false
 blog_name = "indirect"
+summary = "The origin of loops, patches and libraries in the Mark I computer — @migueldeicaza"
+caption = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
+reblog_key = "IpWwq2jx"
+short_url = "https://tmblr.co/ZY3jby1g_BQsp"
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+interactability_reblog = "everyone"
+image_permalink = "https://indirect.io/image/114859814323"
+can_blaze = false
+slug = "the-origin-of-loops-patches-and-libraries-in-the"
+date = "2015-03-28 18:19:48 GMT"
+link_url = "http://twitter.com/migueldeicaza/status/581846896404201472"
+type = "photo"
+id_string = "114859814323"
+note_count = 0.0
+can_like = false
+can_reblog = false
 can_send_in_message = true
+display_avatar = true
+
+[tumblr.blog]
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-comment = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
 tree_html = ""
+comment = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
 
 [[tumblr.trail]]
+content_raw = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
 content = "<p>The origin of loops, patches and libraries in the Mark I computer &mdash; <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
 is_current_item = true
 is_root_item = true
-content_raw = "<p>The origin of loops, patches and libraries in the Mark I computer — <a href=\"http://twitter.com/migueldeicaza/status/581846896404201472\">@migueldeicaza</a></p>"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -54,23 +65,25 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_header_image = false
-background_color = "#FAFAFA"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-title_font = "Gibson"
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-show_avatar = true
-title_color = "#444444"
-show_description = true
-show_title = true
+header_full_width = 3000.0
+header_full_height = 1055.0
 avatar_shape = "square"
-header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
+title_color = "#444444"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+show_title = true
+title_font_weight = "bold"
+show_description = true
+show_avatar = true
+show_header_image = false
+title_font = "Gibson"
+body_font = "Helvetica Neue"
 
 [tumblr.trail.post]
 id = "114859814323"
@@ -79,9 +92,9 @@ id = "114859814323"
 caption = ""
 
 [tumblr.photos.original_size]
-height = 450.0
 url = "/images/78/16/92a03c86b99d3f13ce05e8ae78a2.jpg"
 width = 599.0
+height = 450.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/78/16/92a03c86b99d3f13ce05e8ae78a2.jpg"
@@ -117,15 +130,4 @@ url = "/images/f2/90/2711f82db00462c6a19a6eaf3b42.jpg"
 url = "/images/aa/4a/347588396949c28e03bf417639f4.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

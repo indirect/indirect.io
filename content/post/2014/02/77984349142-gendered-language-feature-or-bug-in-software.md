@@ -7,49 +7,49 @@ title = "Gendered Language: Feature or Bug in Software Documentation?, by Tim Ch
 type = "tumblr-link"
 
 [tumblr]
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-summary = "Gendered Language: Feature or Bug in Software Documentation?, by Tim Chevalier | Model View Culture"
-id_string = "77984349142"
-can_blaze = false
-description = ""
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/77984349142/gendered-language-feature-or-bug-in-software"
 date = "2014-02-27 05:39:59 GMT"
 reblog_key = "sIkV70oJ"
-short_url = "https://tmblr.co/ZY3jby18eEhlM"
-note_count = 0.0
-can_reply = false
+state = "published"
+publisher = "modelviewculture.com"
+interactability_reblog = "everyone"
+id = 77984349142.0
 is_blazed = false
+should_open_in_legacy = true
 can_send_in_message = true
+display_avatar = true
+is_blocks_post_format = false
+blog_name = "indirect"
+post_url = "https://indirect.io/post/77984349142/gendered-language-feature-or-bug-in-software"
+short_url = "https://tmblr.co/ZY3jby18eEhlM"
+title = "Gendered Language: Feature or Bug in Software Documentation?, by Tim Chevalier | Model View Culture"
+url = "http://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation"
+description = ""
+can_like = false
+id_string = "77984349142"
+interactability_blaze = "everyone"
 is_blaze_pending = false
 slug = "gendered-language-feature-or-bug-in-software"
-url = "http://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation"
-can_like = false
-blog_name = "indirect"
-title = "Gendered Language: Feature or Bug in Software Documentation?, by Tim Chevalier | Model View Culture"
-publisher = "modelviewculture.com"
-display_avatar = true
 timestamp = 1393479599.0
-can_reblog = false
+summary = "Gendered Language: Feature or Bug in Software Documentation?, by Tim Chevalier | Model View Culture"
+can_reply = false
+note_count = 0.0
 type = "link"
-id = 77984349142.0
-state = "published"
+can_blaze = false
 format = "markdown"
+can_reblog = false
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

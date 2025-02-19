@@ -6,41 +6,45 @@ slug = "here-we-go-again-z-doom-world0fecho"
 type = "tumblr-photo"
 
 [tumblr]
-id_string = "766176761798066176"
-reblog_key = "s27wAQTi"
-note_count = 0.0
-display_avatar = true
-is_blocks_post_format = false
-id = 7.661767617980662e+17
-is_blazed = false
-format = "html"
-summary = "here we go again — Z. Doom 🍒 (@World0fEcho)"
-interactability_reblog = "everyone"
-slug = "here-we-go-again-z-doom-world0fecho"
-timestamp = 1730683099.0
-caption = "<p>here we go again — <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom 🍒 (@World0fEcho)</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/766176761798066176"
-is_blaze_pending = false
-date = "2024-11-04 01:18:19 GMT"
-can_send_in_message = true
-can_reply = false
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/766176761798066176/here-we-go-again-z-doom-world0fecho"
-state = "published"
-can_like = false
-blog_name = "indirect"
 short_url = "https://tmblr.co/ZY3jbygY0RIQ8W00"
+can_send_in_message = true
 type = "photo"
-interactability_blaze = "everyone"
-can_reblog = false
+blog_name = "indirect"
+date = "2024-11-04 01:18:19 GMT"
 should_open_in_legacy = true
+interactability_blaze = "everyone"
+display_avatar = true
+id = 7.661767617980662e+17
+post_url = "https://indirect.io/post/766176761798066176/here-we-go-again-z-doom-world0fecho"
+state = "published"
+timestamp = 1730683099.0
 link_url = "https://twitter.com/World0fEcho/status/1853085725706883496"
+can_like = false
+id_string = "766176761798066176"
+caption = "<p>here we go again — <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom 🍒 (@World0fEcho)</a></p>"
+interactability_reblog = "everyone"
+note_count = 0.0
+is_blocks_post_format = false
+is_blazed = false
+is_blaze_pending = false
+slug = "here-we-go-again-z-doom-world0fecho"
+format = "html"
+reblog_key = "s27wAQTi"
+summary = "here we go again — Z. Doom 🍒 (@World0fEcho)"
+can_reblog = false
+image_permalink = "https://indirect.io/image/766176761798066176"
+can_reply = false
+
+[tumblr.reblog]
+comment = "<p>here we go again — <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom 🍒 (@World0fEcho)</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content = "<p>here we go again &mdash; <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom &#127826; (@World0fEcho)</a></p>"
 is_current_item = true
 is_root_item = true
 content_raw = "<p>here we go again — <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom 🍒 (@World0fEcho)</a></p>"
+content = "<p>here we go again &mdash; <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom &#127826; (@World0fEcho)</a></p>"
 
 [tumblr.trail.blog]
 share_likes = false
@@ -50,39 +54,37 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-show_description = true
-show_title = true
-avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_stretch = true
-link_color = "#529ECC"
-show_avatar = true
+show_header_image = false
 title_color = "#444444"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_image_poster = ""
+show_avatar = true
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+link_color = "#529ECC"
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
+show_description = true
+header_full_height = 1055.0
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 
 [tumblr.trail.post]
 id = "766176761798066176"
 
-[tumblr.reblog]
-comment = "<p>here we go again — <a href=\"https://twitter.com/World0fEcho/status/1853085725706883496\">Z. Doom 🍒 (@World0fEcho)</a></p>"
-tree_html = ""
-
 [tumblr.blog]
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -95,9 +97,9 @@ width = 1200.0
 height = 811.0
 
 [[tumblr.photos.alt_sizes]]
-height = 811.0
 url = "/images/b0/7b/b4d65cc872bc62da99fd91021302.jpg"
 width = 1200.0
+height = 811.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/88/3a/d25bf54a821929013801264fe1d7.jpg"
@@ -105,9 +107,9 @@ width = 640.0
 height = 433.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/7d/ca/dc281a381cc708bca45e1bc31fce.jpg"
 width = 540.0
 height = 365.0
-url = "/images/7d/ca/dc281a381cc708bca45e1bc31fce.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d4/15/cbd6b3db0e88c0346ccaa46c99dc.jpg"
@@ -125,9 +127,9 @@ width = 250.0
 height = 169.0
 
 [[tumblr.photos.alt_sizes]]
-height = 68.0
 url = "/images/55/4d/3fd8c89d426ea725957772209f57.jpg"
 width = 100.0
+height = 68.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/36/36/8d5abd7891acef67e8afbcf9c9c5.jpg"

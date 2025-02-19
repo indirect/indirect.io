@@ -6,78 +6,95 @@ slug = "richard-scarrys-busy-town-jobs-for-the-21st"
 type = "tumblr-photo"
 
 [tumblr]
+interactability_reblog = "everyone"
 is_blazed = false
-date = "2014-11-27 21:07:55 GMT"
-state = "published"
-reblog_key = "wFbzC0TW"
-type = "photo"
-blog_name = "indirect"
-timestamp = 1417122475.0
-is_blocks_post_format = false
-id = 103749934733.0
 summary = "Richard Scarry's Busy Town jobs for the 21st century: — @dgoldenberg"
+can_reply = false
+id_string = "103749934733"
+is_blaze_pending = false
+should_open_in_legacy = true
 interactability_blaze = "everyone"
 can_reblog = false
+slug = "richard-scarrys-busy-town-jobs-for-the-21st"
+reblog_key = "wFbzC0TW"
 note_count = 0.0
-short_url = "https://tmblr.co/ZY3jby1Wd_bwD"
+caption = "<p>Richard Scarry&rsquo;s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
+link_url = "http://twitter.com/dgoldenberg/status/537738540545613824"
+image_permalink = "https://indirect.io/image/103749934733"
+state = "published"
+type = "photo"
 can_send_in_message = true
 display_avatar = true
-id_string = "103749934733"
-slug = "richard-scarrys-busy-town-jobs-for-the-21st"
+post_url = "https://indirect.io/post/103749934733/richard-scarrys-busy-town-jobs-for-the-21st"
+date = "2014-11-27 21:07:55 GMT"
 format = "html"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/103749934733/richard-scarrys-busy-town-jobs-for-the-21st"
-should_open_in_legacy = true
-caption = "<p>Richard Scarry&rsquo;s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/103749934733"
-interactability_reblog = "everyone"
+blog_name = "indirect"
+id = 103749934733.0
 can_blaze = false
-link_url = "http://twitter.com/dgoldenberg/status/537738540545613824"
+timestamp = 1417122475.0
+short_url = "https://tmblr.co/ZY3jby1Wd_bwD"
+is_blocks_post_format = false
 can_like = false
-can_reply = false
+
+[tumblr.reblog]
+comment = "<p>Richard Scarry’s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p>Richard Scarry’s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
 content = "<p>Richard Scarry&rsquo;s Busy Town jobs for the 21st century: &mdash; <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p>Richard Scarry’s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
 
 [tumblr.trail.blog]
+can_be_followed = true
 name = "indirect"
 active = true
 share_likes = false
 share_following = false
-can_be_followed = true
 
 [tumblr.trail.blog.theme]
+header_full_height = 1055.0
 avatar_shape = "square"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
 show_description = true
+background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
 show_header_image = false
+header_stretch = true
+link_color = "#529ECC"
+show_title = true
 title_color = "#444444"
 title_font = "Gibson"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-body_font = "Helvetica Neue"
-link_color = "#529ECC"
-background_color = "#FAFAFA"
-header_bounds = ""
-header_image_poster = ""
 title_font_weight = "bold"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
 
 [tumblr.trail.post]
 id = "103749934733"
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 758.0
 url = "/images/84/01/c1445b0bf6f8fae6abd487551660.png"
 width = 600.0
+height = 758.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/84/01/c1445b0bf6f8fae6abd487551660.png"
@@ -95,14 +112,14 @@ width = 500.0
 height = 632.0
 
 [[tumblr.photos.alt_sizes]]
+height = 505.0
 url = "/images/1c/7c/5fe641909730a2e0ec9b6590c410.png"
 width = 400.0
-height = 505.0
 
 [[tumblr.photos.alt_sizes]]
-height = 316.0
 url = "/images/73/ad/7553c91b4664068e796156458a3f.png"
 width = 250.0
+height = 316.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/36/97/2f84d0a6379c8cb8484a3d5a4d3b.png"
@@ -110,22 +127,7 @@ width = 100.0
 height = 126.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/20/60/129b206bb6c327c15f1a9167ee05.png"
 width = 75.0
 height = 75.0
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p>Richard Scarry’s Busy Town jobs for the 21st century: — <a href=\"http://twitter.com/dgoldenberg/status/537738540545613824\">@dgoldenberg</a></p>"
-tree_html = ""
+url = "/images/20/60/129b206bb6c327c15f1a9167ee05.png"
 +++

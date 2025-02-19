@@ -6,43 +6,43 @@ slug = "wow-ok-unfollowing-now-was-a-big-fan-of-her"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
+id_string = "661813777259462656"
+timestamp = 1631154801.0
+state = "published"
+summary = "wow, ok, unfollowing now. was a big fan of her house made of sweets, was not aware she used it to lure children into her oven to..."
+should_open_in_legacy = true
 can_like = false
 can_reply = false
-is_blocks_post_format = false
-is_blaze_pending = false
-summary = "wow, ok, unfollowing now. was a big fan of her house made of sweets, was not aware she used it to lure children into her oven to..."
-interactability_blaze = "everyone"
-text = "wow, ok, unfollowing now. was a big fan of her house made of sweets, was not aware she used it to lure children into her oven to cook &amp; eat them"
-interactability_reblog = "everyone"
-can_send_in_message = true
-is_blazed = false
-timestamp = 1631154801.0
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-display_avatar = true
 id = 6.618137772594627e+17
-id_string = "661813777259462656"
-short_url = "https://tmblr.co/ZY3jbyalF1_z0e00"
-blog_name = "indirect"
-post_url = "https://indirect.tumblr.com/post/661813777259462656/wow-ok-unfollowing-now-was-a-big-fan-of-her"
-date = "2021-09-09 02:33:21 GMT"
-state = "published"
-format = "html"
-type = "quote"
-reblog_key = "VWVVqzZU"
 slug = "wow-ok-unfollowing-now-was-a-big-fan-of-her"
 source = "<a href=\"http://twitter.com/bronactitley/status/1435521631049367558\">@bronactitley</a>"
+interactability_reblog = "everyone"
+reblog_key = "VWVVqzZU"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+is_blazed = false
+can_reblog = false
+can_send_in_message = true
+display_avatar = true
+can_blaze = false
+date = "2021-09-09 02:33:21 GMT"
+note_count = 0.0
+is_blocks_post_format = false
+format = "html"
+type = "quote"
+short_url = "https://tmblr.co/ZY3jbyalF1_z0e00"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/661813777259462656/wow-ok-unfollowing-now-was-a-big-fan-of-her"
+text = "wow, ok, unfollowing now. was a big fan of her house made of sweets, was not aware she used it to lure children into her oven to cook &amp; eat them"
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

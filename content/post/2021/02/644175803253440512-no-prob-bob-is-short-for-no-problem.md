@@ -6,43 +6,43 @@ slug = "no-prob-bob-is-short-for-no-problem"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "644175803253440512"
-timestamp = 1614333918.0
-state = "published"
 should_open_in_legacy = true
-display_avatar = true
-is_blazed = false
-is_blaze_pending = false
-can_reblog = false
-slug = "no-prob-bob-is-short-for-no-problem"
-id = 6.441758032534405e+17
-summary = "“No prob, Bob,” is short for, “No problem, Boblem.”"
-type = "quote"
-reblog_key = "U77UBcdK"
-short_url = "https://tmblr.co/ZY3jbyZmadhbqi00"
-note_count = 0.0
 text = "No prob, Bob,” is short for, “No problem, Boblem."
 date = "2021-02-26 10:05:18 GMT"
-format = "html"
 can_like = false
-blog_name = "indirect"
+type = "quote"
+id = 6.441758032534405e+17
+is_blaze_pending = false
+format = "html"
+display_avatar = true
+post_url = "https://indirect.io/post/644175803253440512/no-prob-bob-is-short-for-no-problem"
+slug = "no-prob-bob-is-short-for-no-problem"
+summary = "“No prob, Bob,” is short for, “No problem, Boblem.”"
+note_count = 0.0
+can_reply = false
+timestamp = 1614333918.0
+state = "published"
+short_url = "https://tmblr.co/ZY3jbyZmadhbqi00"
 source = "<a href=\"http://twitter.com/curlycomedy/status/1365009433470902276\">@curlycomedy</a>"
+can_reblog = false
+can_blaze = false
+interactability_reblog = "everyone"
 interactability_blaze = "everyone"
 can_send_in_message = true
-can_reply = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/644175803253440512/no-prob-bob-is-short-for-no-problem"
-interactability_reblog = "everyone"
+is_blocks_post_format = false
+blog_name = "indirect"
+id_string = "644175803253440512"
+is_blazed = false
+reblog_key = "U77UBcdK"
 
 [tumblr.blog]
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 

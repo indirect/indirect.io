@@ -6,43 +6,91 @@ slug = "choose-your-fighter-advent-of-code-gf256"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_blaze = "everyone"
-can_reply = false
-format = "html"
+can_blaze = false
 summary = "Choose your fighter (Advent of Code) — @gf_256"
+can_send_in_message = true
+display_avatar = true
+is_blaze_pending = false
+format = "html"
+can_reblog = false
+can_reply = false
+is_blazed = false
 should_open_in_legacy = true
-note_count = 0.0
-blog_name = "indirect"
-slug = "choose-your-fighter-advent-of-code-gf256"
-link_url = "http://twitter.com/gf_256/status/1609058683891363840"
+interactability_reblog = "everyone"
+is_blocks_post_format = false
 id = 7.085748209920082e+17
+timestamp = 1675749607.0
+blog_name = "indirect"
+post_url = "https://indirect.io/post/708574820992008192/choose-your-fighter-advent-of-code-gf256"
+slug = "choose-your-fighter-advent-of-code-gf256"
 caption = "<p>Choose your fighter (Advent of Code) — <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
 can_like = false
-can_reblog = false
-type = "photo"
-can_blaze = false
-date = "2023-02-07 06:00:07 GMT"
-timestamp = 1675749607.0
-short_url = "https://tmblr.co/ZY3jbydLNGkc0y00"
-interactability_reblog = "everyone"
-display_avatar = true
-is_blocks_post_format = false
+interactability_blaze = "everyone"
 id_string = "708574820992008192"
-post_url = "https://indirect.tumblr.com/post/708574820992008192/choose-your-fighter-advent-of-code-gf256"
 state = "published"
+date = "2023-02-07 06:00:07 GMT"
+short_url = "https://tmblr.co/ZY3jbydLNGkc0y00"
 reblog_key = "NiJZN8uu"
-is_blaze_pending = false
-image_permalink = "https://indirect.tumblr.com/image/708574820992008192"
-is_blazed = false
-can_send_in_message = true
+note_count = 0.0
+link_url = "http://twitter.com/gf_256/status/1609058683891363840"
+image_permalink = "https://indirect.io/image/708574820992008192"
+type = "photo"
+
+[tumblr.blog]
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>Choose your fighter (Advent of Code) — <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
+content = "<p>Choose your fighter (Advent of Code) &mdash; <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+show_avatar = true
+background_color = "#FAFAFA"
+header_bounds = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+title_font = "Gibson"
+title_font_weight = "bold"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_color = "#444444"
+link_color = "#529ECC"
+header_full_height = 1055.0
+avatar_shape = "square"
+body_font = "Helvetica Neue"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+header_full_width = 3000.0
+header_image_poster = ""
+show_description = true
+
+[tumblr.trail.post]
+id = "708574820992008192"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b5/88/951258af1aa599659eba9a19ba40.jpg"
 width = 571.0
 height = 1200.0
+url = "/images/b5/88/951258af1aa599659eba9a19ba40.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b5/88/951258af1aa599659eba9a19ba40.jpg"
@@ -50,9 +98,9 @@ width = 571.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e2/8c/8592751f55c0642ec23f626ca39c.jpg"
 width = 457.0
 height = 960.0
+url = "/images/e2/8c/8592751f55c0642ec23f626ca39c.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b1/e7/6cb0de619aa0f471925ad2d64d30.jpg"
@@ -84,53 +132,7 @@ url = "/images/cc/45/cb6c823c661744a79b372ae2ae95.jpg"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
-
 [tumblr.reblog]
 comment = "<p>Choose your fighter (Advent of Code) — <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
 tree_html = ""
-
-[[tumblr.trail]]
-content_raw = "<p>Choose your fighter (Advent of Code) — <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
-content = "<p>Choose your fighter (Advent of Code) &mdash; <a href=\"http://twitter.com/gf_256/status/1609058683891363840\">@gf_256</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-body_font = "Helvetica Neue"
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font_weight = "bold"
-avatar_shape = "square"
-header_bounds = ""
-header_image_poster = ""
-show_header_image = false
-title_color = "#444444"
-background_color = "#FAFAFA"
-
-[tumblr.trail.post]
-id = "708574820992008192"
 +++

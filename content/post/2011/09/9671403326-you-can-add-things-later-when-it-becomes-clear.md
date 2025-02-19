@@ -6,46 +6,46 @@ slug = "you-can-add-things-later-when-it-becomes-clear"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
-is_blocks_post_format = false
-id_string = "9671403326"
-can_blaze = false
-slug = "you-can-add-things-later-when-it-becomes-clear"
-reblog_key = "7K5W5aZS"
-can_send_in_message = true
-is_blazed = false
-timestamp = 1314898974.0
-short_url = "https://tmblr.co/ZY3jby90TUS_"
-bookmarklet = true
-can_reblog = false
-blog_name = "indirect"
-note_count = 0.0
-type = "quote"
-id = 9671403326.0
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-state = "published"
-summary = "You can add things later when it becomes clear what’s important, but you’ll never recover from a confusing first impression."
-post_url = "https://indirect.tumblr.com/post/9671403326/you-can-add-things-later-when-it-becomes-clear"
-can_like = false
-can_reply = false
 is_blaze_pending = false
-text = "You can add things later when it becomes clear what’s important, but you’ll never recover from a confusing first impression."
-source = "<a href=\"http://mattgemmell.com/2010/03/05/ipad-application-design\">iPad Application Design</a>"
-date = "2011-09-01 17:42:54 GMT"
-format = "markdown"
+slug = "you-can-add-things-later-when-it-becomes-clear"
+summary = "You can add things later when it becomes clear what’s important, but you’ll never recover from a confusing first impression."
+can_send_in_message = true
+blog_name = "indirect"
+can_blaze = false
+timestamp = 1314898974.0
+id_string = "9671403326"
 source_url = "http://mattgemmell.com/2010/03/05/ipad-application-design"
+interactability_blaze = "everyone"
+is_blocks_post_format = false
+post_url = "https://indirect.io/post/9671403326/you-can-add-things-later-when-it-becomes-clear"
+state = "published"
+format = "markdown"
+reblog_key = "7K5W5aZS"
+bookmarklet = true
+should_open_in_legacy = true
+note_count = 0.0
+source = "<a href=\"http://mattgemmell.com/2010/03/05/ipad-application-design\">iPad Application Design</a>"
+can_reblog = false
+display_avatar = true
+type = "quote"
+is_blazed = false
+date = "2011-09-01 17:42:54 GMT"
+short_url = "https://tmblr.co/ZY3jby90TUS_"
+interactability_reblog = "everyone"
+can_reply = false
+id = 9671403326.0
+text = "You can add things later when it becomes clear what’s important, but you’ll never recover from a confusing first impression."
 source_title = "mattgemmell.com"
+can_like = false
 
 [tumblr.blog]
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
 

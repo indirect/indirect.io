@@ -6,58 +6,58 @@ slug = "i-didnt-have-gay-dinosaurs-on-my-2024-bingo"
 type = "tumblr-photo"
 
 [tumblr]
+can_reblog = false
+id_string = "751499529342320640"
+should_open_in_legacy = true
+note_count = 1.0
+caption = "<p>I didn&rsquo;t have &lsquo;gay dinosaurs&rsquo; on my 2024 bingo card tbh — <a href=\"https://twitter.com/BDaveWalters/status/1794279232446898287\">Non-Ironically T.V.&rsquo;s B. Dave Walters (@BDaveWalters)</a></p>"
+id = 7.514995293423206e+17
 can_send_in_message = true
 is_blocks_post_format = false
 is_blazed = false
-post_url = "https://indirect.tumblr.com/post/751499529342320640/i-didnt-have-gay-dinosaurs-on-my-2024-bingo"
-slug = "i-didnt-have-gay-dinosaurs-on-my-2024-bingo"
-link_url = "https://twitter.com/BDaveWalters/status/1794279232446898287"
-can_like = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-caption = "<p>I didn&rsquo;t have &lsquo;gay dinosaurs&rsquo; on my 2024 bingo card tbh — <a href=\"https://twitter.com/BDaveWalters/status/1794279232446898287\">Non-Ironically T.V.&rsquo;s B. Dave Walters (@BDaveWalters)</a></p>"
-reblog_key = "bF60FE9H"
-summary = "I didn't have 'gay dinosaurs' on my 2024 bingo card tbh — Non-Ironically T.V.'s B. Dave Walters (@BDaveWalters)"
-note_count = 1.0
-blog_name = "indirect"
-id = 7.514995293423206e+17
-state = "published"
-can_reply = false
-id_string = "751499529342320640"
-short_url = "https://tmblr.co/ZY3jbyfjtDSVKe00"
-display_avatar = true
-type = "photo"
-is_blaze_pending = false
+post_url = "https://indirect.io/post/751499529342320640/i-didnt-have-gay-dinosaurs-on-my-2024-bingo"
 timestamp = 1716685799.0
-should_open_in_legacy = true
-can_reblog = false
-can_blaze = false
-format = "html"
+link_url = "https://twitter.com/BDaveWalters/status/1794279232446898287"
+is_blaze_pending = false
 date = "2024-05-26 01:09:59 GMT"
-image_permalink = "https://indirect.tumblr.com/image/751499529342320640"
-
-[tumblr.reblog]
-comment = "<p>I didn’t have ‘gay dinosaurs’ on my 2024 bingo card tbh — <a href=\"https://twitter.com/BDaveWalters/status/1794279232446898287\">Non-Ironically T.V.’s B. Dave Walters (@BDaveWalters)</a></p>"
-tree_html = ""
+state = "published"
+summary = "I didn't have 'gay dinosaurs' on my 2024 bingo card tbh — Non-Ironically T.V.'s B. Dave Walters (@BDaveWalters)"
+interactability_reblog = "everyone"
+type = "photo"
+blog_name = "indirect"
+can_blaze = false
+slug = "i-didnt-have-gay-dinosaurs-on-my-2024-bingo"
+reblog_key = "bF60FE9H"
+interactability_blaze = "everyone"
+display_avatar = true
+format = "html"
+short_url = "https://tmblr.co/ZY3jbyfjtDSVKe00"
+can_reply = false
+can_like = false
+image_permalink = "https://indirect.io/image/751499529342320640"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+tree_html = ""
+comment = "<p>I didn’t have ‘gay dinosaurs’ on my 2024 bingo card tbh — <a href=\"https://twitter.com/BDaveWalters/status/1794279232446898287\">Non-Ironically T.V.’s B. Dave Walters (@BDaveWalters)</a></p>"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/a6/5a/fe2e4e5f730717c3138b83452438.png"
 width = 640.0
 height = 738.0
+url = "/images/a6/5a/fe2e4e5f730717c3138b83452438.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/a6/5a/fe2e4e5f730717c3138b83452438.png"
@@ -85,9 +85,9 @@ width = 250.0
 height = 288.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/63/d7/d98d57cb5efb1a6fc5dd9fe22bfc.png"
 width = 100.0
 height = 115.0
+url = "/images/63/d7/d98d57cb5efb1a6fc5dd9fe22bfc.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b8/2b/00e87f5f0bd07f81a7768edb8664.png"
@@ -101,30 +101,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
 
 [tumblr.trail.blog.theme]
-show_description = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_header_image = false
-title_font = "Gibson"
-header_stretch = true
-show_avatar = true
+header_full_height = 1055.0
 avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_color = "#444444"
-body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_poster = ""
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 link_color = "#529ECC"
+show_avatar = true
+show_title = true
+background_color = "#FAFAFA"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+show_description = true
+title_color = "#444444"
+title_font_weight = "bold"
+header_full_width = 3000.0
+show_header_image = false
+body_font = "Helvetica Neue"
+title_font = "Gibson"
 
 [tumblr.trail.post]
 id = "751499529342320640"

@@ -6,47 +6,47 @@ slug = "quarantine-taught-me-that-u-dont-need-fun-to-have"
 type = "tumblr-quote"
 
 [tumblr]
-format = "html"
-can_reply = false
-can_send_in_message = true
-note_count = 0.0
-source = "<a href=\"http://twitter.com/ashhhhhhole/status/1337865017975336974\">@ashhhhhhole</a>"
-interactability_reblog = "everyone"
+can_like = false
 id = 6.37444478600364e+17
-state = "published"
+id_string = "637444478600364032"
+should_open_in_legacy = true
+can_send_in_message = true
+can_reply = false
+can_blaze = false
+slug = "quarantine-taught-me-that-u-dont-need-fun-to-have"
+text = "quarantine taught me that u don’t need fun to have alcohol"
 display_avatar = true
 is_blocks_post_format = false
-should_open_in_legacy = true
-can_reblog = false
-blog_name = "indirect"
-is_blazed = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyZOg60-0a00"
 summary = "quarantine taught me that u don’t need fun to have alcohol"
-can_like = false
-interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/637444478600364032/quarantine-taught-me-that-u-dont-need-fun-to-have"
-slug = "quarantine-taught-me-that-u-dont-need-fun-to-have"
-date = "2020-12-14 02:53:47 GMT"
-timestamp = 1607914427.0
-reblog_key = "NuyrIBRH"
-text = "quarantine taught me that u don’t need fun to have alcohol"
+interactability_reblog = "everyone"
 type = "quote"
-id_string = "637444478600364032"
+short_url = "https://tmblr.co/ZY3jbyZOg60-0a00"
 is_blaze_pending = false
+post_url = "https://indirect.io/post/637444478600364032/quarantine-taught-me-that-u-dont-need-fun-to-have"
+timestamp = 1607914427.0
+format = "html"
+interactability_blaze = "everyone"
+blog_name = "indirect"
+state = "published"
+note_count = 0.0
+is_blazed = false
+date = "2020-12-14 02:53:47 GMT"
+reblog_key = "NuyrIBRH"
+source = "<a href=\"http://twitter.com/ashhhhhhole/status/1337865017975336974\">@ashhhhhhole</a>"
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ashhhhhhole/status/1337865017975336974\">@ashhhhhhole</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

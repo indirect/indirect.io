@@ -6,47 +6,47 @@ slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
-id = 99930316278.0
-is_blazed = false
-format = "html"
+text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
+is_blocks_post_format = false
 source = "<a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a>"
-interactability_blaze = "everyone"
-display_avatar = true
-reblog_key = "Ez0hlqQV"
 short_url = "https://tmblr.co/ZY3jby1T4Jvts"
+display_avatar = true
+post_url = "https://indirect.io/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+date = "2014-10-13 19:54:09 GMT"
+state = "published"
+format = "html"
 summary = "stages of development in a Ruby dev 1) “hey wow Rails!” 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+can_like = false
+can_blaze = false
+reblog_key = "Ez0hlqQV"
 note_count = 0.0
 can_reblog = false
 can_send_in_message = true
-is_blaze_pending = false
+is_blazed = false
 timestamp = 1413230049.0
-state = "published"
-slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
 should_open_in_legacy = true
-type = "quote"
-is_blocks_post_format = false
-can_blaze = false
-text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
-blog_name = "indirect"
-id_string = "99930316278"
-date = "2014-10-13 19:54:09 GMT"
+interactability_blaze = "everyone"
 can_reply = false
-
-[tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
+type = "quote"
+blog_name = "indirect"
+id = 99930316278.0
+id_string = "99930316278"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

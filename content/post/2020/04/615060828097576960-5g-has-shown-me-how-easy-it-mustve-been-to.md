@@ -6,47 +6,47 @@ slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/615060828097576960/5g-has-shown-me-how-easy-it-mustve-been-to"
-summary = "5G has shown me how easy it must’ve been to convert my ancestors to christianity"
-can_send_in_message = true
-display_avatar = true
-date = "2020-04-11 01:15:14 GMT"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
 state = "published"
-can_like = false
-can_reply = false
-blog_name = "indirect"
-id_string = "615060828097576960"
-should_open_in_legacy = true
+interactability_reblog = "everyone"
+is_blazed = false
 text = "5G has shown me how easy it must&rsquo;ve been to convert my ancestors to christianity"
+source = "<a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a>"
+can_reply = false
+display_avatar = true
+is_blocks_post_format = false
+summary = "5G has shown me how easy it must’ve been to convert my ancestors to christianity"
+interactability_blaze = "everyone"
+can_send_in_message = true
+type = "quote"
+slug = "5g-has-shown-me-how-easy-it-mustve-been-to"
+reblog_key = "oInTW3zF"
+blog_name = "indirect"
 id = 6.15060828097577e+17
 format = "html"
-is_blazed = false
-is_blaze_pending = false
-note_count = 0.0
 can_reblog = false
-reblog_key = "oInTW3zF"
-short_url = "https://tmblr.co/ZY3jbyY98f1_0u00"
-source = "<a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a>"
-type = "quote"
+id_string = "615060828097576960"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/615060828097576960/5g-has-shown-me-how-easy-it-mustve-been-to"
 timestamp = 1586567714.0
+short_url = "https://tmblr.co/ZY3jbyY98f1_0u00"
+date = "2020-04-11 01:15:14 GMT"
+should_open_in_legacy = true
+note_count = 0.0
+can_like = false
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/D0wJ0nEs/status/1248301714027032576\">@D0wJ0nEs</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+description = ""
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
-description = ""
 
 [tumblr.blog.tumblrmart_accessories]
 +++

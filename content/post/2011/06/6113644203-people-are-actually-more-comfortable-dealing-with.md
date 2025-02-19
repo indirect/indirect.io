@@ -6,47 +6,47 @@ slug = "people-are-actually-more-comfortable-dealing-with"
 type = "tumblr-quote"
 
 [tumblr]
-text = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is not as self-evident."
-can_reply = false
-post_url = "https://indirect.tumblr.com/post/6113644203/people-are-actually-more-comfortable-dealing-with"
-reblog_key = "n9yYs6Zo"
-format = "markdown"
 can_like = false
 type = "quote"
-blog_name = "indirect"
-state = "published"
-display_avatar = true
-is_blazed = false
-date = "2011-06-02 18:49:31 GMT"
-summary = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is..."
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jby5iPiwh"
-interactability_blaze = "everyone"
-slug = "people-are-actually-more-comfortable-dealing-with"
-source = "David Allen, <em>Getting Things Done</em>"
-id = 6113644203.0
 is_blaze_pending = false
 can_blaze = false
-timestamp = 1307040571.0
-interactability_reblog = "everyone"
+post_url = "https://indirect.io/post/6113644203/people-are-actually-more-comfortable-dealing-with"
+date = "2011-06-02 18:49:31 GMT"
+is_blocks_post_format = false
+blog_name = "indirect"
 id_string = "6113644203"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
+timestamp = 1307040571.0
+state = "published"
+should_open_in_legacy = true
+is_blazed = false
+interactability_blaze = "everyone"
+format = "markdown"
+source = "David Allen, <em>Getting Things Done</em>"
+reblog_key = "n9yYs6Zo"
+note_count = 0.0
+slug = "people-are-actually-more-comfortable-dealing-with"
+summary = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is..."
+can_send_in_message = true
+display_avatar = true
+can_reply = false
+interactability_reblog = "everyone"
+id = 6113644203.0
+short_url = "https://tmblr.co/ZY3jby5iPiwh"
+text = "People are actually more comfortable dealing with surprises and crises than they are taking control of processing … work that is not as self-evident."
+can_reblog = false
 
 [tumblr.reblog]
 comment = "<p>David Allen, <em>Getting Things Done</em></p>"
 tree_html = ""
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

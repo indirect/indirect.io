@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 type = "quote"
-is_blaze_pending = false
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/108217298318/the-internet-loses-nothing-if-it-declares-a-tko-on"
-short_url = "https://tmblr.co/ZY3jby1aoGEsE"
-id_string = "108217298318"
-should_open_in_legacy = true
-can_send_in_message = true
-state = "published"
-blog_name = "indirect"
-slug = "the-internet-loses-nothing-if-it-declares-a-tko-on"
-source = "<a href=\"http://sockpuppet.org/blog/2015/01/15/against-dnssec/##The+Internet+loses+nothing+if+it+declares+a+TKO+on+DNSSEC+and+starts+fresh.+There+are+better+DNS+security+proposals+circulating+already.\">Against DNSSEC — Quarrelsome</a>"
-can_like = false
-can_reply = false
-format = "markdown"
-note_count = 0.0
-text = "The Internet loses nothing if it declares a TKO on DNSSEC and starts fresh. There are better DNS security proposals circulating already."
 is_blocks_post_format = false
-id = 108217298318.0
-interactability_blaze = "everyone"
-is_blazed = false
-date = "2015-01-16 01:59:31 GMT"
-timestamp = 1421373571.0
-summary = "The Internet loses nothing if it declares a TKO on DNSSEC and starts fresh. There are better DNS security proposals circulating..."
-display_avatar = true
+can_send_in_message = true
+is_blaze_pending = false
+short_url = "https://tmblr.co/ZY3jby1aoGEsE"
+source = "<a href=\"http://sockpuppet.org/blog/2015/01/15/against-dnssec/##The+Internet+loses+nothing+if+it+declares+a+TKO+on+DNSSEC+and+starts+fresh.+There+are+better+DNS+security+proposals+circulating+already.\">Against DNSSEC — Quarrelsome</a>"
 interactability_reblog = "everyone"
 can_reblog = false
+is_blazed = false
+note_count = 0.0
+interactability_blaze = "everyone"
+blog_name = "indirect"
+timestamp = 1421373571.0
+text = "The Internet loses nothing if it declares a TKO on DNSSEC and starts fresh. There are better DNS security proposals circulating already."
+can_blaze = false
+date = "2015-01-16 01:59:31 GMT"
+state = "published"
+format = "markdown"
 reblog_key = "cMSPTYmJ"
+should_open_in_legacy = true
+display_avatar = true
+slug = "the-internet-loses-nothing-if-it-declares-a-tko-on"
+summary = "The Internet loses nothing if it declares a TKO on DNSSEC and starts fresh. There are better DNS security proposals circulating..."
+can_like = false
+id_string = "108217298318"
+post_url = "https://indirect.io/post/108217298318/the-internet-loses-nothing-if-it-declares-a-tko-on"
+can_reply = false
+id = 108217298318.0
 
 [tumblr.blog]
-title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

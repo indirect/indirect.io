@@ -6,75 +6,81 @@ slug = "totally-of-the-mearas"
 type = "tumblr-photo"
 
 [tumblr]
-note_count = 0.0
+can_reblog = false
+can_reply = false
+interactability_reblog = "everyone"
+interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/39728966374/totally-of-the-mearas"
+state = "published"
+can_send_in_message = true
+image_permalink = "https://indirect.io/image/39728966374"
+type = "photo"
+blog_name = "indirect"
+is_blaze_pending = false
+slug = "totally-of-the-mearas"
 timestamp = 1357369645.0
+note_count = 0.0
+id_string = "39728966374"
+is_blazed = false
+caption = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
+can_like = false
+can_blaze = false
+format = "markdown"
+summary = "[Totally Of The Mearas](http://www.penny-arcade.com/comic/2013/01/02)"
+reblog_key = "g14x8AHF"
+should_open_in_legacy = true
+display_avatar = true
 is_blocks_post_format = false
 id = 39728966374.0
-is_blazed = false
-image_permalink = "https://indirect.tumblr.com/image/39728966374"
-post_url = "https://indirect.tumblr.com/post/39728966374/totally-of-the-mearas"
-format = "markdown"
-interactability_reblog = "everyone"
-can_reblog = false
-id_string = "39728966374"
-short_url = "https://tmblr.co/ZY3jbyb01_hc"
-caption = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
-interactability_blaze = "everyone"
-can_send_in_message = true
-type = "photo"
-is_blaze_pending = false
-summary = "[Totally Of The Mearas](http://www.penny-arcade.com/comic/2013/01/02)"
-should_open_in_legacy = true
-can_like = false
-display_avatar = true
-can_blaze = false
-can_reply = false
-blog_name = "indirect"
-slug = "totally-of-the-mearas"
 date = "2013-01-05 07:07:25 GMT"
-state = "published"
-reblog_key = "g14x8AHF"
+short_url = "https://tmblr.co/ZY3jbyb01_hc"
 
 [[tumblr.trail]]
-content_raw = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
 content = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
 is_current_item = true
 is_root_item = true
+content_raw = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
 
 [tumblr.trail.blog]
-name = "indirect"
 active = true
 share_likes = false
 share_following = false
 can_be_followed = true
+name = "indirect"
 
 [tumblr.trail.blog.theme]
-show_avatar = true
-title_color = "#444444"
-avatar_shape = "square"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-title_font = "Gibson"
-title_font_weight = "bold"
-show_description = true
-show_title = true
+header_full_width = 3000.0
+header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+title_font = "Gibson"
+avatar_shape = "square"
 header_stretch = true
-show_header_image = false
+show_description = true
+link_color = "#529ECC"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+title_color = "#444444"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_header_image = false
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "39728966374"
 
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
+tree_html = ""
+
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
@@ -85,19 +91,19 @@ description = ""
 caption = ""
 
 [tumblr.photos.original_size]
+height = 476.0
 url = "/images/4c/be/90c3df1ed4c4496cab322682a972.jpg"
 width = 950.0
-height = 476.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4c/be/90c3df1ed4c4496cab322682a972.jpg"
 width = 950.0
 height = 476.0
+url = "/images/4c/be/90c3df1ed4c4496cab322682a972.jpg"
 
 [[tumblr.photos.alt_sizes]]
+height = 321.0
 url = "/images/ea/0b/9ecd3442fecfff1fafb3d718c31f.jpg"
 width = 640.0
-height = 321.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/4b/3a/94a129d258febe3ca476eee1be9b.jpg"
@@ -128,8 +134,4 @@ height = 50.0
 width = 75.0
 height = 75.0
 url = "/images/7e/2f/3c1f128e6b51986ef1df1297c01a.jpg"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://www.penny-arcade.com/comic/2013/01/02\">Totally Of The Mearas</a></p>"
-tree_html = ""
 +++

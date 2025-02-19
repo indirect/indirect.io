@@ -6,45 +6,49 @@ slug = "i-cant-tell-whats-worse-the-engrish-or-that-it"
 type = "tumblr-photo"
 
 [tumblr]
-is_blaze_pending = false
-should_open_in_legacy = true
-note_count = 0.0
+type = "photo"
+format = "markdown"
+image_permalink = "https://indirect.io/image/2904639435"
 interactability_blaze = "everyone"
-id = 2904639435.0
+is_blazed = false
 can_blaze = false
-reblog_key = "PkwOCAhT"
-can_like = false
+short_url = "https://tmblr.co/ZY3jby2j8KVB"
+id = 2904639435.0
+state = "published"
+should_open_in_legacy = true
 can_send_in_message = true
 is_blocks_post_format = false
-is_blazed = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jby2j8KVB"
-summary = "I can't tell what's worse: the Engrish, or that it took me two or three years to notice."
-caption = "<p>I can&rsquo;t tell what&rsquo;s worse: the Engrish, or that it took me two or three years to notice.</p>"
-interactability_reblog = "everyone"
-display_avatar = true
-can_reblog = false
-type = "photo"
-id_string = "2904639435"
-date = "2011-01-24 04:29:50 GMT"
-timestamp = 1295843390.0
-format = "markdown"
-image_permalink = "https://indirect.tumblr.com/image/2904639435"
-blog_name = "indirect"
 slug = "i-cant-tell-whats-worse-the-engrish-or-that-it"
+timestamp = 1295843390.0
+reblog_key = "PkwOCAhT"
+blog_name = "indirect"
+post_url = "https://indirect.io/post/2904639435/i-cant-tell-whats-worse-the-engrish-or-that-it"
+summary = "I can't tell what's worse: the Engrish, or that it took me two or three years to notice."
+display_avatar = true
+date = "2011-01-24 04:29:50 GMT"
+can_reblog = false
 can_reply = false
-post_url = "https://indirect.tumblr.com/post/2904639435/i-cant-tell-whats-worse-the-engrish-or-that-it"
+caption = "<p>I can&rsquo;t tell what&rsquo;s worse: the Engrish, or that it took me two or three years to notice.</p>"
+can_like = false
+id_string = "2904639435"
+is_blaze_pending = false
+note_count = 0.0
+interactability_reblog = "everyone"
 
 [tumblr.blog]
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>I can’t tell what’s worse: the Engrish, or that it took me two or three years to notice.</p>"
+tree_html = ""
 
 [[tumblr.trail]]
 is_current_item = true
@@ -60,23 +64,25 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
 link_color = "#529ECC"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
-show_title = true
+show_description = true
 title_color = "#444444"
+show_avatar = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_title = true
+title_font_weight = "bold"
+avatar_shape = "square"
 background_color = "#FAFAFA"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_font = "Gibson"
+header_full_width = 3000.0
+header_full_height = 1055.0
 body_font = "Helvetica Neue"
 header_bounds = ""
-show_description = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
 show_header_image = false
-avatar_shape = "square"
-header_stretch = true
-title_font = "Gibson"
-title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "2904639435"
@@ -85,24 +91,24 @@ id = "2904639435"
 caption = ""
 
 [tumblr.photos.original_size]
-height = 956.0
-url = "/images/c0/3e/2030579ff506fe8f58fb73ab8d8e.jpg"
-width = 1280.0
-
-[[tumblr.photos.alt_sizes]]
 url = "/images/c0/3e/2030579ff506fe8f58fb73ab8d8e.jpg"
 width = 1280.0
 height = 956.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5e/c4/3d07fa51a4c63f2adb482ea7fe28.jpg"
+url = "/images/c0/3e/2030579ff506fe8f58fb73ab8d8e.jpg"
+width = 1280.0
+height = 956.0
+
+[[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 478.0
+url = "/images/5e/c4/3d07fa51a4c63f2adb482ea7fe28.jpg"
 
 [[tumblr.photos.alt_sizes]]
-height = 403.0
 url = "/images/98/2d/940d9d0b1ef2ab12f58c8685b307.jpg"
 width = 540.0
+height = 403.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cd/2d/22f06ba13c18ca70b7bf602db693.jpg"
@@ -128,8 +134,4 @@ width = 100.0
 url = "/images/bc/80/af4c7ead986c5bd1ed71f42ec1f6.jpg"
 width = 75.0
 height = 75.0
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>I can’t tell what’s worse: the Engrish, or that it took me two or three years to notice.</p>"
 +++

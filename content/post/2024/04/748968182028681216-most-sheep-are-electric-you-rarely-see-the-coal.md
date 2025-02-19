@@ -6,43 +6,80 @@ slug = "most-sheep-are-electric-you-rarely-see-the-coal"
 type = "tumblr-photo"
 
 [tumblr]
-can_reply = false
-can_blaze = false
-slug = "most-sheep-are-electric-you-rarely-see-the-coal"
-timestamp = 1714271718.0
-state = "published"
-reblog_key = "TyaPU67p"
-interactability_blaze = "everyone"
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyfatfVbuy00"
-can_send_in_message = true
-display_avatar = true
 type = "photo"
-id_string = "748968182028681216"
-blog_name = "indirect"
-id = 7.489681820286812e+17
-is_blocks_post_format = false
-date = "2024-04-28 02:35:18 GMT"
+slug = "most-sheep-are-electric-you-rarely-see-the-coal"
+format = "html"
 can_like = false
-can_reblog = false
 is_blazed = false
-summary = "Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat — Tyler James Hill..."
-note_count = 0.0
-is_blaze_pending = false
 should_open_in_legacy = true
-link_url = "https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j"
-image_permalink = "https://indirect.tumblr.com/image/748968182028681216"
+note_count = 0.0
+state = "published"
+blog_name = "indirect"
+id_string = "748968182028681216"
+is_blaze_pending = false
+summary = "Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat — Tyler James Hill..."
 interactability_reblog = "everyone"
-post_url = "https://indirect.tumblr.com/post/748968182028681216/most-sheep-are-electric-you-rarely-see-the-coal"
+can_send_in_message = true
+is_blocks_post_format = false
+can_blaze = false
+timestamp = 1714271718.0
+display_avatar = true
+id = 7.489681820286812e+17
+reblog_key = "TyaPU67p"
+image_permalink = "https://indirect.io/image/748968182028681216"
+post_url = "https://indirect.io/post/748968182028681216/most-sheep-are-electric-you-rarely-see-the-coal"
+short_url = "https://tmblr.co/ZY3jbyfatfVbuy00"
 caption = "<p>Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat — <a href=\"https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j\">Tyler James Hill (@tylerjameshill.bsky.social)</a></p>"
+can_reblog = false
+can_reply = false
+date = "2024-04-28 02:35:18 GMT"
+link_url = "https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j"
+interactability_blaze = "everyone"
+
+[[tumblr.trail]]
+content_raw = "<p>Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat — <a href=\"https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j\">Tyler James Hill (@tylerjameshill.bsky.social)</a></p>"
+content = "<p>Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat &mdash; <a href=\"https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j\">Tyler James Hill (@tylerjameshill.bsky.social)</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_header_image = false
+title_font_weight = "bold"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+title_font = "Gibson"
+avatar_shape = "square"
+background_color = "#FAFAFA"
+header_bounds = ""
+show_title = true
+title_color = "#444444"
+header_full_width = 3000.0
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+header_stretch = true
+
+[tumblr.trail.post]
+id = "748968182028681216"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
+height = 727.0
 url = "/images/f8/b5/6b2573f9eba9e803dae738a9f50f.jpg"
 width = 1000.0
-height = 727.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/f8/b5/6b2573f9eba9e803dae738a9f50f.jpg"
@@ -50,9 +87,9 @@ width = 1000.0
 height = 727.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c0/ba/9762abe927014f423d4b82b38378.jpg"
 width = 640.0
 height = 465.0
+url = "/images/c0/ba/9762abe927014f423d4b82b38378.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/25/64/eb5c4d626f384ced9d0b3e185811.jpg"
@@ -60,9 +97,9 @@ width = 540.0
 height = 393.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/56/81/e76c5754c6f7e2435afbee694121.jpg"
 width = 500.0
 height = 364.0
+url = "/images/56/81/e76c5754c6f7e2435afbee694121.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/d9/ac/362bcd940bbe574f9ce9eb7b6150.jpg"
@@ -70,9 +107,9 @@ width = 400.0
 height = 291.0
 
 [[tumblr.photos.alt_sizes]]
-width = 250.0
 height = 182.0
 url = "/images/2d/0a/427c572cc145d1f7e353f231654d.jpg"
+width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/89/c1/565642b12b1a1b3ccc6668d70265.jpg"
@@ -89,48 +126,13 @@ comment = "<p>Most sheep are electric, you rarely see the coal powered sheep any
 tree_html = ""
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-content_raw = "<p>Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat — <a href=\"https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j\">Tyler James Hill (@tylerjameshill.bsky.social)</a></p>"
-content = "<p>Most sheep are electric, you rarely see the coal powered sheep anymore, always a treat &mdash; <a href=\"https://bsky.app/profile/tylerjameshill.bsky.social/post/3kr37elsa3k2j\">Tyler James Hill (@tylerjameshill.bsky.social)</a></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-can_be_followed = true
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-
-[tumblr.trail.blog.theme]
-show_title = true
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_description = true
-title_color = "#444444"
-header_image_poster = ""
-show_avatar = true
-title_font_weight = "bold"
-show_header_image = false
-avatar_shape = "square"
-background_color = "#FAFAFA"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-link_color = "#529ECC"
-body_font = "Helvetica Neue"
-header_bounds = ""
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "748968182028681216"
 +++

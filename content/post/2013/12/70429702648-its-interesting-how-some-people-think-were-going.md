@@ -6,46 +6,46 @@ slug = "its-interesting-how-some-people-think-were-going"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/70429702648/its-interesting-how-some-people-think-were-going"
+can_blaze = false
+slug = "its-interesting-how-some-people-think-were-going"
+date = "2013-12-18 22:54:59 GMT"
+can_reblog = false
+can_reply = false
+blog_name = "indirect"
+id = 70429702648.0
+is_blaze_pending = false
 timestamp = 1387407299.0
+source_url = "https://twitter.com/MadelineAshby/status/413438072370388992"
+can_like = false
+id_string = "70429702648"
+summary = "It’s interesting how some people think we’re going to bodily implant a bunch of hardware technologies just as we hit peak..."
+should_open_in_legacy = true
+source_title = "twitter.com"
+source = "<p><a href=\"https://twitter.com/MadelineAshby/status/413438072370388992\">@MadelineAshby</a></p>\n\n<p>I… did not think of that. 😧</p>"
 state = "published"
 reblog_key = "7sfmvPFZ"
 interactability_reblog = "everyone"
-is_blocks_post_format = false
-id_string = "70429702648"
-can_blaze = false
-slug = "its-interesting-how-some-people-think-were-going"
-summary = "It’s interesting how some people think we’re going to bodily implant a bunch of hardware technologies just as we hit peak..."
-source = "<p><a href=\"https://twitter.com/MadelineAshby/status/413438072370388992\">@MadelineAshby</a></p>\n\n<p>I… did not think of that. 😧</p>"
-can_reblog = false
+interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/70429702648/its-interesting-how-some-people-think-were-going"
+text = "It&rsquo;s interesting how some people think we&rsquo;re going to bodily implant a bunch of hardware technologies just as we hit peak antibiotic."
 type = "quote"
+short_url = "https://tmblr.co/ZY3jby11bx-du"
+is_blocks_post_format = false
+format = "markdown"
+display_avatar = true
 is_blazed = false
 bookmarklet = true
-source_title = "twitter.com"
-text = "It&rsquo;s interesting how some people think we&rsquo;re going to bodily implant a bunch of hardware technologies just as we hit peak antibiotic."
-can_reply = false
-display_avatar = true
-blog_name = "indirect"
-date = "2013-12-18 22:54:59 GMT"
-short_url = "https://tmblr.co/ZY3jby11bx-du"
 note_count = 0.0
-can_like = false
-interactability_blaze = "everyone"
 can_send_in_message = true
-is_blaze_pending = false
-format = "markdown"
-source_url = "https://twitter.com/MadelineAshby/status/413438072370388992"
-id = 70429702648.0
-should_open_in_legacy = true
 
 [tumblr.blog]
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 

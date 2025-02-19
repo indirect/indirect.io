@@ -6,47 +6,47 @@ slug = "if-monopoly-was-actually-based-on-american"
 type = "tumblr-quote"
 
 [tumblr]
-blog_name = "indirect"
-is_blaze_pending = false
-reblog_key = "2VnxWmUx"
-can_reply = false
-id = 115400063343.0
-id_string = "115400063343"
-summary = "If Monopoly was actually based on American capitalism, you could buy the jail."
-text = "If Monopoly was actually based on American capitalism, you could buy the jail."
-interactability_reblog = "everyone"
-display_avatar = true
-should_open_in_legacy = true
-can_like = false
-type = "quote"
-timestamp = 1428080427.0
-state = "published"
 note_count = 0.0
-is_blazed = false
+interactability_reblog = "everyone"
+blog_name = "indirect"
 can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1hUOJbl"
+post_url = "https://indirect.io/post/115400063343/if-monopoly-was-actually-based-on-american"
+can_like = false
+can_reblog = false
+can_reply = false
+interactability_blaze = "everyone"
+can_send_in_message = true
+display_avatar = true
 is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/115400063343/if-monopoly-was-actually-based-on-american"
+is_blazed = false
+type = "quote"
 slug = "if-monopoly-was-actually-based-on-american"
 date = "2015-04-03 17:00:27 GMT"
-interactability_blaze = "everyone"
-can_reblog = false
+timestamp = 1428080427.0
+state = "published"
 format = "html"
+short_url = "https://tmblr.co/ZY3jby1hUOJbl"
+should_open_in_legacy = true
+id = 115400063343.0
+id_string = "115400063343"
+is_blaze_pending = false
+text = "If Monopoly was actually based on American capitalism, you could buy the jail."
 source = "<a href=\"http://twitter.com/harikondabolu/status/583259889645928449\">@harikondabolu</a>"
-can_send_in_message = true
+reblog_key = "2VnxWmUx"
+summary = "If Monopoly was actually based on American capitalism, you could buy the jail."
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/harikondabolu/status/583259889645928449\">@harikondabolu</a></p>"
 tree_html = ""
 
 [tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
 
 [tumblr.blog.tumblrmart_accessories]
 +++

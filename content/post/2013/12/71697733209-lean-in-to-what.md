@@ -7,49 +7,49 @@ title = "Lean in to what?"
 type = "tumblr-link"
 
 [tumblr]
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reply = false
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby12nX9PP"
-description = ""
-display_avatar = true
-is_blaze_pending = false
+id_string = "71697733209"
 can_blaze = false
+timestamp = 1388454480.0
 reblog_key = "9H3FiNhH"
-title = "Lean in to what?"
-interactability_blaze = "everyone"
-state = "published"
-summary = "Lean in to what?"
-can_like = false
-type = "link"
-is_blocks_post_format = false
+can_send_in_message = true
+can_reply = false
 id = 71697733209.0
 slug = "lean-in-to-what"
 should_open_in_legacy = true
-can_send_in_message = true
-id_string = "71697733209"
-post_url = "https://indirect.tumblr.com/post/71697733209/lean-in-to-what"
-date = "2013-12-31 01:48:00 GMT"
-format = "markdown"
-publisher = "mathbabe.org"
+note_count = 0.0
 can_reblog = false
+state = "published"
+title = "Lean in to what?"
+can_like = false
+is_blaze_pending = false
+date = "2013-12-31 01:48:00 GMT"
+display_avatar = true
+is_blazed = false
+format = "markdown"
 url = "http://mathbabe.org/2013/12/30/lean-in-to-what/"
+description = ""
+post_url = "https://indirect.io/post/71697733209/lean-in-to-what"
+short_url = "https://tmblr.co/ZY3jby12nX9PP"
+summary = "Lean in to what?"
+publisher = "mathbabe.org"
+interactability_reblog = "everyone"
+type = "link"
+is_blocks_post_format = false
 blog_name = "indirect"
-timestamp = 1388454480.0
+interactability_blaze = "everyone"
+
+[tumblr.reblog]
+tree_html = ""
+comment = ""
 
 [tumblr.blog]
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = ""
-tree_html = ""
 +++

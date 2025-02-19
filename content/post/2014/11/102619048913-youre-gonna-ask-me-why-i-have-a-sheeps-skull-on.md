@@ -6,47 +6,47 @@ slug = "youre-gonna-ask-me-why-i-have-a-sheeps-skull-on"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1VaaclH"
-note_count = 0.0
-can_reply = false
-is_blocks_post_format = false
-format = "html"
-interactability_blaze = "everyone"
-should_open_in_legacy = true
-can_reblog = false
-can_send_in_message = true
+date = "2014-11-14 17:06:36 GMT"
 type = "quote"
-blog_name = "indirect"
-source = "<a href=\"http://twitter.com/twinnyvinny/status/521652828386099202\">@twinnyvinny</a>"
-state = "published"
-id_string = "102619048913"
-slug = "youre-gonna-ask-me-why-i-have-a-sheeps-skull-on"
 timestamp = 1415984796.0
-summary = "You’re gonna ask me why I have a sheep’s skull on my bathroom scales, aren’t you? Weigh a head of ewe there."
-can_like = false
+short_url = "https://tmblr.co/ZY3jby1VaaclH"
+source = "<a href=\"http://twitter.com/twinnyvinny/status/521652828386099202\">@twinnyvinny</a>"
+blog_name = "indirect"
+id = 102619048913.0
+is_blaze_pending = false
+post_url = "https://indirect.io/post/102619048913/youre-gonna-ask-me-why-i-have-a-sheeps-skull-on"
+can_reply = false
 interactability_reblog = "everyone"
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/102619048913/youre-gonna-ask-me-why-i-have-a-sheeps-skull-on"
+slug = "youre-gonna-ask-me-why-i-have-a-sheeps-skull-on"
 reblog_key = "vk9NuWyq"
-text = "You&rsquo;re gonna ask me why I have a sheep&rsquo;s skull on my bathroom scales, aren&rsquo;t you? Weigh a head of ewe there."
+summary = "You’re gonna ask me why I have a sheep’s skull on my bathroom scales, aren’t you? Weigh a head of ewe there."
+should_open_in_legacy = true
+state = "published"
+can_like = false
+can_send_in_message = true
+is_blocks_post_format = false
+id_string = "102619048913"
+is_blazed = false
+format = "html"
+can_reblog = false
 display_avatar = true
-id = 102619048913.0
-date = "2014-11-14 17:06:36 GMT"
+note_count = 0.0
+text = "You&rsquo;re gonna ask me why I have a sheep&rsquo;s skull on my bathroom scales, aren&rsquo;t you? Weigh a head of ewe there."
+interactability_blaze = "everyone"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/twinnyvinny/status/521652828386099202\">@twinnyvinny</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

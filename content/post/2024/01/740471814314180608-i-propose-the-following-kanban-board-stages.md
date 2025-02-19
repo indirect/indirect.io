@@ -6,47 +6,47 @@ slug = "i-propose-the-following-kanban-board-stages"
 type = "tumblr-quote"
 
 [tumblr]
+can_like = false
+type = "quote"
+id = 7.404718143141806e+17
+summary = "I propose the following #Kanban board stages:\n\n - TO DO (requested) - NO GO (blocked, cancelled) - FO SHO (doing it) - OH NO..."
+note_count = 0.0
+blog_name = "indirect"
 id_string = "740471814314180608"
-is_blaze_pending = false
-date = "2024-01-25 07:49:11 GMT"
-format = "markdown"
-display_avatar = true
-slug = "i-propose-the-following-kanban-board-stages"
+source = "<a href=\"https://hachyderm.io/@sanityinc/111811339600888590\">@sanityinc</a>"
+can_reblog = false
+post_url = "https://indirect.io/post/740471814314180608/i-propose-the-following-kanban-board-stages"
+should_open_in_legacy = true
 interactability_blaze = "everyone"
-post_url = "https://indirect.tumblr.com/post/740471814314180608/i-propose-the-following-kanban-board-stages"
-state = "published"
+can_reply = false
+is_blocks_post_format = false
+can_send_in_message = true
+date = "2024-01-25 07:49:11 GMT"
+timestamp = 1706168951.0
 text = "<p>I propose the following <a href=\"https://hachyderm.io/tags/Kanban\" class=\"mention hashtag\" rel=\"tag\">#Kanban</a> board stages:</p>\n\n<p>- TO DO (requested)<br/>- NO GO (blocked, cancelled)<br/>- FO SHO (doing it)<br/>- OH NO (testing)<br/>- YOLO (released)</p>"
 interactability_reblog = "everyone"
-is_blocks_post_format = false
-blog_name = "indirect"
-id = 7.404718143141806e+17
-short_url = "https://tmblr.co/ZY3jbyf6hp4YOi00"
+format = "markdown"
 can_blaze = false
-summary = "I propose the following #Kanban board stages:\n\n - TO DO (requested) - NO GO (blocked, cancelled) - FO SHO (doing it) - OH NO..."
-source = "<a href=\"https://hachyderm.io/@sanityinc/111811339600888590\">@sanityinc</a>"
-can_like = false
-can_reblog = false
-can_send_in_message = true
-should_open_in_legacy = true
-is_blazed = false
-type = "quote"
-timestamp = 1706168951.0
+state = "published"
 reblog_key = "bubI7KYw"
-note_count = 0.0
-can_reply = false
+short_url = "https://tmblr.co/ZY3jbyf6hp4YOi00"
+display_avatar = true
+is_blazed = false
+is_blaze_pending = false
+slug = "i-propose-the-following-kanban-board-stages"
 
 [tumblr.reblog]
-comment = "<p><a href=\"https://hachyderm.io/@sanityinc/111811339600888590\">@sanityinc</a></p>"
 tree_html = ""
+comment = "<p><a href=\"https://hachyderm.io/@sanityinc/111811339600888590\">@sanityinc</a></p>"
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+url = "https://indirect.io/"
 
 [tumblr.blog.tumblrmart_accessories]
 +++

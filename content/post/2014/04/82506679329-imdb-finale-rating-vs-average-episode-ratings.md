@@ -6,47 +6,47 @@ slug = "imdb-finale-rating-vs-average-episode-ratings"
 type = "tumblr-photo"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jby1Cro0GX"
-interactability_reblog = "everyone"
-can_send_in_message = true
+post_url = "https://indirect.io/post/82506679329/imdb-finale-rating-vs-average-episode-ratings"
 timestamp = 1397331795.0
+reblog_key = "0Woh8Wie"
+is_blazed = false
+date = "2014-04-12 19:43:15 GMT"
+caption = "<p>IMDb finale rating vs. average episode ratings <a href=\"http://t.co/FqWltWljOf\">@lizardbill</a></p>"
+display_avatar = true
 is_blocks_post_format = false
 summary = "IMDb finale rating vs. average episode ratings [@lizardbill](http://t.co/FqWltWljOf)"
-should_open_in_legacy = true
-display_avatar = true
-state = "published"
-can_reply = false
-reblog_key = "0Woh8Wie"
-slug = "imdb-finale-rating-vs-average-episode-ratings"
-date = "2014-04-12 19:43:15 GMT"
-blog_name = "indirect"
+can_send_in_message = true
 id_string = "82506679329"
-note_count = 0.0
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-type = "photo"
 is_blaze_pending = false
-caption = "<p>IMDb finale rating vs. average episode ratings <a href=\"http://t.co/FqWltWljOf\">@lizardbill</a></p>"
-image_permalink = "https://indirect.tumblr.com/image/82506679329"
+slug = "imdb-finale-rating-vs-average-episode-ratings"
+image_permalink = "https://indirect.io/image/82506679329"
+interactability_blaze = "everyone"
+blog_name = "indirect"
 id = 82506679329.0
-is_blazed = false
+note_count = 0.0
 can_blaze = false
-post_url = "https://indirect.tumblr.com/post/82506679329/imdb-finale-rating-vs-average-episode-ratings"
+type = "photo"
 format = "markdown"
+short_url = "https://tmblr.co/ZY3jby1Cro0GX"
+state = "published"
+should_open_in_legacy = true
+can_like = false
+interactability_reblog = "everyone"
+can_reblog = false
+can_reply = false
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 1018.0
 url = "/images/27/08/9b799e415f8518b788c90ed42ca9.jpg"
 width = 1247.0
+height = 1018.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/27/08/9b799e415f8518b788c90ed42ca9.jpg"
 width = 1247.0
 height = 1018.0
+url = "/images/27/08/9b799e415f8518b788c90ed42ca9.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/cf/9a/59cd866a5ccb472536670a3bb991.jpg"
@@ -74,27 +74,27 @@ width = 250.0
 height = 204.0
 
 [[tumblr.photos.alt_sizes]]
-height = 82.0
 url = "/images/13/2d/db15462696c15c8d3ea2ad5b2681.jpg"
 width = 100.0
+height = 82.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0e/10/1be8ae88ffdb96445eba3faaf1cf.jpg"
 width = 75.0
 height = 75.0
+url = "/images/0e/10/1be8ae88ffdb96445eba3faaf1cf.jpg"
 
 [tumblr.reblog]
 comment = "<p>IMDb finale rating vs. average episode ratings <a href=\"http://t.co/FqWltWljOf\">@lizardbill</a></p>"
 tree_html = ""
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -112,23 +112,25 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-show_header_image = false
-title_color = "#444444"
-title_font = "Gibson"
 show_title = true
 avatar_shape = "square"
-header_stretch = true
-link_color = "#529ECC"
-header_bounds = ""
-header_image_poster = ""
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_description = true
+title_color = "#444444"
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_stretch = true
+title_font_weight = "bold"
+header_full_width = 3000.0
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_poster = ""
+show_avatar = true
+show_header_image = false
 
 [tumblr.trail.post]
 id = "82506679329"

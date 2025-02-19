@@ -6,47 +6,47 @@ slug = "wow-ok-unfollowing-now-was-a-big-fan-of-his"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
+can_blaze = false
+text = "wow, ok, unfollowing now. was a big fan of his pipe music and rat extermination business, was not aware he lured 130 children away from their home to never be seen again due to a payment disagreement."
+post_url = "https://indirect.io/post/661813983302631424/wow-ok-unfollowing-now-was-a-big-fan-of-his"
+slug = "wow-ok-unfollowing-now-was-a-big-fan-of-his"
 short_url = "https://tmblr.co/ZY3jbyalF4_s8y00"
+interactability_reblog = "everyone"
+format = "html"
+can_like = false
 can_reply = false
 display_avatar = true
-id = 6.618139833026314e+17
 summary = "wow, ok, unfollowing now. was a big fan of his pipe music and rat extermination business, was not aware he lured 130 children..."
+note_count = 0.0
+can_reblog = false
+is_blocks_post_format = false
+id = 6.618139833026314e+17
+is_blaze_pending = false
+date = "2021-09-09 02:36:38 GMT"
+reblog_key = "qxXVE4PK"
+state = "published"
+source = "<a href=\"http://twitter.com/blessedorkirst/status/1435553702132264961\">@blessedorkirst</a>"
+type = "quote"
+blog_name = "indirect"
+is_blazed = false
+timestamp = 1631154998.0
+should_open_in_legacy = true
 interactability_blaze = "everyone"
 can_send_in_message = true
 id_string = "661813983302631424"
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/661813983302631424/wow-ok-unfollowing-now-was-a-big-fan-of-his"
-format = "html"
-type = "quote"
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blaze_pending = false
-slug = "wow-ok-unfollowing-now-was-a-big-fan-of-his"
-reblog_key = "qxXVE4PK"
-note_count = 0.0
-source = "<a href=\"http://twitter.com/blessedorkirst/status/1435553702132264961\">@blessedorkirst</a>"
-date = "2021-09-09 02:36:38 GMT"
-text = "wow, ok, unfollowing now. was a big fan of his pipe music and rat extermination business, was not aware he lured 130 children away from their home to never be seen again due to a payment disagreement."
-interactability_reblog = "everyone"
-can_like = false
-timestamp = 1631154998.0
-state = "published"
-should_open_in_legacy = true
-can_reblog = false
-
-[tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/blessedorkirst/status/1435553702132264961\">@blessedorkirst</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

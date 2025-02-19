@@ -6,48 +6,48 @@ slug = "edent-daviddlow-charlesarthur-benedictevans"
 type = "tumblr-text"
 
 [tumblr]
-can_send_in_message = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/671489031670038528/edent-daviddlow-charlesarthur-benedictevans"
-short_url = "https://tmblr.co/ZY3jbybHcxTpGu00"
-body = "<blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I&rsquo;ve droned on endlessly about how you can&rsquo;t expect normal people to use the command line. That&rsquo;s what Alexa is. If you don&rsquo;t say the *precise* invocation correctly, you get an error.\n<br/>And because there&rsquo;s no display, you have to remember dozens of different commands. It&rsquo;s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don&rsquo;t seem to stick for most people is that they&rsquo;re actually command line interfaces, but even less discoverable because they don&rsquo;t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a>"
-note_count = 0.0
-timestamp = 1640381843.0
-can_reply = false
 blog_name = "indirect"
-is_blazed = false
-slug = "edent-daviddlow-charlesarthur-benedictevans"
+date = "2021-12-24 21:37:23 GMT"
 format = "html"
+reblog_key = "SHSTFyFE"
+short_url = "https://tmblr.co/ZY3jbybHcxTpGu00"
+summary = "@edent: @daviddlow @charlesarthur @benedictevans I've droned on endlessly about how you can't expect normal people to use the..."
+should_open_in_legacy = false
 display_avatar = true
 state = "published"
-interactability_blaze = "everyone"
-can_reblog = false
-can_like = false
 type = "text"
 id = 6.714890316700385e+17
-is_blaze_pending = false
-can_blaze = false
-date = "2021-12-24 21:37:23 GMT"
-reblog_key = "SHSTFyFE"
+timestamp = 1640381843.0
 id_string = "671489031670038528"
-should_open_in_legacy = false
+can_like = false
 interactability_reblog = "everyone"
-summary = "@edent: @daviddlow @charlesarthur @benedictevans I've droned on endlessly about how you can't expect normal people to use the..."
+can_blaze = false
+post_url = "https://indirect.io/post/671489031670038528/edent-daviddlow-charlesarthur-benedictevans"
+note_count = 0.0
+can_send_in_message = true
+can_reply = false
+is_blaze_pending = false
+slug = "edent-daviddlow-charlesarthur-benedictevans"
+body = "<blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I&rsquo;ve droned on endlessly about how you can&rsquo;t expect normal people to use the command line. That&rsquo;s what Alexa is. If you don&rsquo;t say the *precise* invocation correctly, you get an error.\n<br/>And because there&rsquo;s no display, you have to remember dozens of different commands. It&rsquo;s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don&rsquo;t seem to stick for most people is that they&rsquo;re actually command line interfaces, but even less discoverable because they don&rsquo;t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a>"
+is_blocks_post_format = false
+is_blazed = false
+interactability_blaze = "everyone"
+can_reblog = false
 
 [tumblr.blog]
-can_show_badges = true
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
+updated = 1739927643.0
+can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I’ve droned on endlessly about how you can’t expect normal people to use the command line. That’s what Alexa is. If you don’t say the *precise* invocation correctly, you get an error.\n<br>And because there’s no display, you have to remember dozens of different commands. It’s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don’t seem to stick for most people is that they’re actually command line interfaces, but even less discoverable because they don’t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a></p>"
+tree_html = ""
 
 [[tumblr.trail]]
 content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/edent/status/1474403053528887296\">@edent</a>: @daviddlow @charlesarthur @benedictevans I’ve droned on endlessly about how you can’t expect normal people to use the command line. That’s what Alexa is. If you don’t say the *precise* invocation correctly, you get an error.\n<br>And because there’s no display, you have to remember dozens of different commands. It’s too hard\n</p></blockquote>\n\nLove this idea that the reason voice assistants don’t seem to stick for most people is that they’re actually command line interfaces, but even less discoverable because they don’t provide any visible feedback at all — <a href=\"http://twitter.com/simonw/status/1474418620625084420\">@simonw</a></p>"
@@ -56,30 +56,32 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-avatar_shape = "square"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_title = true
 title_color = "#444444"
+title_font_weight = "bold"
+header_full_width = 3000.0
+avatar_shape = "square"
 background_color = "#FAFAFA"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
-link_color = "#529ECC"
-show_description = true
-title_font = "Gibson"
-title_font_weight = "bold"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_avatar = true
+header_full_height = 1055.0
+header_bounds = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 show_header_image = false
+show_description = true
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+title_font = "Gibson"
+body_font = "Helvetica Neue"
+link_color = "#529ECC"
 
 [tumblr.trail.post]
 id = "671489031670038528"

@@ -6,42 +6,42 @@ slug = "in-n-out-invented-the-double-double-because-their"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "in-n-out-invented-the-double-double-because-their"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyYTLoUUuW00"
-should_open_in_legacy = true
-reblog_key = "iEQZK4yy"
+is_blocks_post_format = false
 summary = "In N Out invented the Double Double because their previous hamburger was only accurate to the 7th decimal"
 source = "<a href=\"http://twitter.com/chigbarg/status/1271321835796230145\">@chigbarg</a>"
-is_blazed = false
+state = "published"
 is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/620748151327948800/in-n-out-invented-the-double-double-because-their"
-format = "html"
-note_count = 0.0
-type = "quote"
-id_string = "620748151327948800"
 can_blaze = false
-can_send_in_message = true
 interactability_reblog = "everyone"
-can_reply = false
-text = "In N Out invented the Double Double because their previous hamburger was only accurate to the 7th decimal"
-interactability_blaze = "everyone"
-can_reblog = false
+can_send_in_message = true
 display_avatar = true
-can_like = false
-blog_name = "indirect"
+id_string = "620748151327948800"
+can_reblog = false
 id = 6.207481513279488e+17
+post_url = "https://indirect.io/post/620748151327948800/in-n-out-invented-the-double-double-because-their"
+slug = "in-n-out-invented-the-double-double-because-their"
+format = "html"
+text = "In N Out invented the Double Double because their previous hamburger was only accurate to the 7th decimal"
+can_reply = false
+is_blazed = false
 date = "2020-06-12 19:52:48 GMT"
+interactability_blaze = "everyone"
+type = "quote"
+blog_name = "indirect"
 timestamp = 1591991568.0
-is_blocks_post_format = false
+reblog_key = "iEQZK4yy"
+short_url = "https://tmblr.co/ZY3jbyYTLoUUuW00"
+can_like = false
+should_open_in_legacy = true
+note_count = 0.0
 
 [tumblr.blog]
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]

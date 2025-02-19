@@ -7,50 +7,50 @@ title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
 type = "tumblr-link"
 
 [tumblr]
-blog_name = "indirect"
-date = "2012-08-29 20:01:46 GMT"
-title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
-can_reblog = false
-can_send_in_message = true
-state = "published"
-note_count = 0.0
 description = ""
 can_like = false
-type = "link"
-is_blocks_post_format = false
-slug = "kickstarter-planetary-annihilation-a-next"
-interactability_reblog = "everyone"
-display_avatar = true
-id_string = "30469287392"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbySO76tW"
 is_blazed = false
-reblog_key = "LVZIltUt"
-url = "http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts"
-should_open_in_legacy = true
-bookmarklet = true
-id = 30469287392.0
-post_url = "https://indirect.tumblr.com/post/30469287392/kickstarter-planetary-annihilation-a-next"
-summary = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
-interactability_blaze = "everyone"
-can_reply = false
-can_blaze = false
 timestamp = 1346270506.0
-format = "markdown"
+reblog_key = "LVZIltUt"
+title = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
 publisher = "kickstarter.com"
+interactability_blaze = "everyone"
+type = "link"
+date = "2012-08-29 20:01:46 GMT"
+short_url = "https://tmblr.co/ZY3jbySO76tW"
+id_string = "30469287392"
+can_blaze = false
+note_count = 0.0
+can_reblog = false
+post_url = "https://indirect.io/post/30469287392/kickstarter-planetary-annihilation-a-next"
+summary = "Kickstarter: Planetary Annihilation - A Next Generation RTS"
+can_send_in_message = true
+display_avatar = true
+format = "markdown"
+url = "http://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts"
+interactability_reblog = "everyone"
+can_reply = false
+is_blaze_pending = false
+slug = "kickstarter-planetary-annihilation-a-next"
+should_open_in_legacy = true
+is_blocks_post_format = false
+blog_name = "indirect"
+id = 30469287392.0
+state = "published"
+bookmarklet = true
 
 [tumblr.reblog]
-tree_html = ""
 comment = ""
+tree_html = ""
 
 [tumblr.blog]
+can_show_badges = false
+name = "indirect"
 title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
+updated = 1739927643.0
 
 [tumblr.blog.tumblrmart_accessories]
 +++

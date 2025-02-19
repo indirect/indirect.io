@@ -6,93 +6,43 @@ slug = "welp-rt-takoda117-baby-boomer-logic"
 type = "tumblr-photo"
 
 [tumblr]
-is_blaze_pending = false
 timestamp = 1428462574.0
-reblog_key = "jFcrKL6i"
-can_like = false
-can_reply = false
-display_avatar = true
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/115819411948/welp-rt-takoda117-baby-boomer-logic"
-slug = "welp-rt-takoda117-baby-boomer-logic"
-short_url = "https://tmblr.co/ZY3jby1htN-di"
-should_open_in_legacy = true
 caption = "<p>Welp. RT @Takoda117: Baby boomer logic. — <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
-interactability_blaze = "everyone"
-can_blaze = false
-note_count = 0.0
 interactability_reblog = "everyone"
-type = "photo"
-blog_name = "indirect"
-format = "html"
 summary = "Welp. RT @Takoda117: Baby boomer logic. — @ProfessorBLove"
-date = "2015-04-08 03:09:34 GMT"
-id_string = "115819411948"
 can_reblog = false
-id = 115819411948.0
-is_blazed = false
+date = "2015-04-08 03:09:34 GMT"
+reblog_key = "jFcrKL6i"
+note_count = 0.0
 state = "published"
-image_permalink = "https://indirect.tumblr.com/image/115819411948"
-can_send_in_message = true
+is_blocks_post_format = false
+id = 115819411948.0
+is_blaze_pending = false
+can_reply = false
+blog_name = "indirect"
+can_blaze = false
+format = "html"
+display_avatar = true
+slug = "welp-rt-takoda117-baby-boomer-logic"
+type = "photo"
+id_string = "115819411948"
+post_url = "https://indirect.io/post/115819411948/welp-rt-takoda117-baby-boomer-logic"
+should_open_in_legacy = true
 link_url = "http://twitter.com/ProfessorBLove/status/585167061074235392"
-
-[tumblr.reblog]
-comment = "<p>Welp. RT @Takoda117: Baby boomer logic. — <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
-tree_html = ""
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
-[[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>Welp. RT @Takoda117: Baby boomer logic. — <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
-content = "<p>Welp. RT @Takoda117: Baby boomer logic. &mdash; <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
-is_current_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_title = true
-title_font = "Gibson"
-header_bounds = ""
-show_description = true
-background_color = "#FAFAFA"
-header_image_poster = ""
-link_color = "#529ECC"
-show_header_image = false
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_avatar = true
-title_color = "#444444"
-title_font_weight = "bold"
-avatar_shape = "square"
-body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-
-[tumblr.trail.post]
-id = "115819411948"
+can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jby1htN-di"
+image_permalink = "https://indirect.io/image/115819411948"
+interactability_blaze = "everyone"
+is_blazed = false
+can_like = false
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-width = 286.0
 height = 1024.0
 url = "/images/aa/0b/324d8ae0751f6b1468191c5ca50d.jpg"
+width = 286.0
 
 [[tumblr.photos.alt_sizes]]
 height = 1024.0
@@ -133,4 +83,56 @@ height = 200.0
 url = "/images/f4/8d/c200663dfa67331afcce878cba4f.jpg"
 width = 75.0
 height = 75.0
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p>Welp. RT @Takoda117: Baby boomer logic. — <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
+content = "<p>Welp. RT @Takoda117: Baby boomer logic. &mdash; <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+name = "indirect"
+active = true
+share_likes = false
+share_following = false
+can_be_followed = true
+
+[tumblr.trail.blog.theme]
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_title = true
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+title_font = "Gibson"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_header_image = false
+title_color = "#444444"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+title_font_weight = "bold"
+avatar_shape = "square"
+
+[tumblr.trail.post]
+id = "115819411948"
+
+[tumblr.reblog]
+comment = "<p>Welp. RT @Takoda117: Baby boomer logic. — <a href=\"http://twitter.com/ProfessorBLove/status/585167061074235392\">@ProfessorBLove</a></p>"
+tree_html = ""
 +++

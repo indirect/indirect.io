@@ -6,47 +6,47 @@ slug = "remember-a-first-draft-doesnt-have-to-be"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "remember-a-first-draft-doesnt-have-to-be"
-interactability_reblog = "everyone"
-id = 6.974859447371366e+17
 can_blaze = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jbycjzyLpue00"
-should_open_in_legacy = true
-can_send_in_message = true
-type = "quote"
-is_blocks_post_format = false
-post_url = "https://indirect.tumblr.com/post/697485944737136640/remember-a-first-draft-doesnt-have-to-be"
-text = "remember, a first draft doesn’t have to be perfect! except for mine. mine must be flawless or I might as well quit. I am the only one this applies to."
-can_reply = false
-state = "published"
-note_count = 0.0
+id = 6.974859447371366e+17
 can_like = false
-display_avatar = true
-id_string = "697485944737136640"
-is_blazed = false
-reblog_key = "zGM6H5PP"
-summary = "remember, a first draft doesn’t have to be perfect! except for mine. mine must be flawless or I might as well quit. I am the..."
-date = "2022-10-07 20:27:11 GMT"
-timestamp = 1665174431.0
-can_reblog = false
-is_blaze_pending = false
-source = "<a href=\"http://twitter.com/cassbeewrites/status/1578070576198914048\">@cassbeewrites</a>"
-blog_name = "indirect"
+interactability_reblog = "everyone"
+type = "quote"
+note_count = 0.0
+can_send_in_message = true
+can_reply = false
+text = "remember, a first draft doesn’t have to be perfect! except for mine. mine must be flawless or I might as well quit. I am the only one this applies to."
 interactability_blaze = "everyone"
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-
-[tumblr.blog.tumblrmart_accessories]
+is_blazed = false
+is_blaze_pending = false
+format = "html"
+reblog_key = "zGM6H5PP"
+can_reblog = false
+date = "2022-10-07 20:27:11 GMT"
+should_open_in_legacy = true
+timestamp = 1665174431.0
+blog_name = "indirect"
+post_url = "https://indirect.io/post/697485944737136640/remember-a-first-draft-doesnt-have-to-be"
+source = "<a href=\"http://twitter.com/cassbeewrites/status/1578070576198914048\">@cassbeewrites</a>"
+display_avatar = true
+is_blocks_post_format = false
+slug = "remember-a-first-draft-doesnt-have-to-be"
+summary = "remember, a first draft doesn’t have to be perfect! except for mine. mine must be flawless or I might as well quit. I am the..."
+short_url = "https://tmblr.co/ZY3jbycjzyLpue00"
+state = "published"
+id_string = "697485944737136640"
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/cassbeewrites/status/1578070576198914048\">@cassbeewrites</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+
+[tumblr.blog.tumblrmart_accessories]
 +++

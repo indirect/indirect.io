@@ -6,43 +6,43 @@ slug = "who-oa-were-halfway-there-who-oa-zeno-doesnt"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.tumblr.com/post/732172238042824704/who-oa-were-halfway-there-who-oa-zeno-doesnt"
+can_reblog = false
+display_avatar = true
+source = "<a href=\"https://mastodon.social/@drskyskull/111285652206507020\">@drskyskull</a>"
+id = 7.321722380428247e+17
+id_string = "732172238042824704"
+should_open_in_legacy = true
+text = "Who-oa<br/>We’re halfway there <br/>WHO-OA<br/>ZENO DOESN’T CARE"
+can_like = false
+short_url = "https://tmblr.co/ZY3jbyefCiLoyW00"
 note_count = 0.0
 type = "quote"
-blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyefCiLoyW00"
-text = "Who-oa<br/>We’re halfway there <br/>WHO-OA<br/>ZENO DOESN’T CARE"
-is_blazed = false
-can_reblog = false
+can_blaze = false
+can_reply = false
+is_blocks_post_format = false
+date = "2023-10-25 17:10:58 GMT"
 timestamp = 1698253858.0
-reblog_key = "Rmdoh0BQ"
-interactability_reblog = "everyone"
-state = "published"
-source = "<a href=\"https://mastodon.social/@drskyskull/111285652206507020\">@drskyskull</a>"
-can_like = false
-interactability_blaze = "everyone"
-id = 7.321722380428247e+17
-is_blaze_pending = false
-slug = "who-oa-were-halfway-there-who-oa-zeno-doesnt"
 format = "markdown"
 summary = "Who-oa We’re halfway there WHO-OA ZENO DOESN’T CARE"
-should_open_in_legacy = true
-display_avatar = true
-is_blocks_post_format = false
-can_blaze = false
-date = "2023-10-25 17:10:58 GMT"
-can_reply = false
-id_string = "732172238042824704"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blazed = false
+is_blaze_pending = false
+post_url = "https://indirect.io/post/732172238042824704/who-oa-were-halfway-there-who-oa-zeno-doesnt"
+slug = "who-oa-were-halfway-there-who-oa-zeno-doesnt"
+state = "published"
 can_send_in_message = true
+blog_name = "indirect"
+reblog_key = "Rmdoh0BQ"
 
 [tumblr.blog]
-title = "indirect"
 description = ""
-url = "https://indirect.tumblr.com/"
+url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
+updated = 1739927643.0
+can_show_badges = false
 name = "indirect"
+title = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

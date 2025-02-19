@@ -7,46 +7,46 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-is_blazed = false
-should_open_in_legacy = true
-text = "the horrors persist, but so do the little treats"
-interactability_reblog = "everyone"
-is_blaze_pending = false
-date = "2025-02-17 01:43:31 GMT"
 source = "<a href=\"https://bsky.app/profile/ellearmageddon.bsky.social/post/3li4qkwufbc26\">bubbe yaga (@ellearmageddon.bsky.social)</a>"
-can_like = false
+slug = "the-horrors-persist-but-so-do-the-little-treats"
+reblog_key = "DyykJYN3"
 can_reblog = false
 can_send_in_message = true
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/775691028317552640/the-horrors-persist-but-so-do-the-little-treats"
-format = "markdown"
-interactability_blaze = "everyone"
-state = "published"
-reblog_key = "DyykJYN3"
-summary = "the horrors persist, but so do the little treats"
-display_avatar = true
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jbyh3pk5cKq00"
-type = "quote"
-slug = "the-horrors-persist-but-so-do-the-little-treats"
-timestamp = 1739756611.0
-id = 7.756910283175526e+17
-note_count = 0.0
-can_reply = false
 id_string = "775691028317552640"
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
+format = "markdown"
+can_like = false
+display_avatar = true
+short_url = "https://tmblr.co/ZY3jbyh3pk5cKq00"
+summary = "the horrors persist, but so do the little treats"
+text = "the horrors persist, but so do the little treats"
+type = "quote"
+id = 7.756910283175526e+17
+is_blazed = false
+can_blaze = false
+should_open_in_legacy = true
+interactability_blaze = "everyone"
+timestamp = 1739756611.0
+interactability_reblog = "everyone"
+can_reply = false
+post_url = "https://indirect.io/post/775691028317552640/the-horrors-persist-but-so-do-the-little-treats"
+state = "published"
+is_blocks_post_format = false
+is_blaze_pending = false
+date = "2025-02-17 01:43:31 GMT"
+note_count = 0.0
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/ellearmageddon.bsky.social/post/3li4qkwufbc26\">bubbe yaga (@ellearmageddon.bsky.social)</a></p>"
 tree_html = ""
+
+[tumblr.blog]
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+
+[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,47 +6,47 @@ slug = "have-the-airlines-considered-not-buying-that-5"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2020-03-18 22:01:37 GMT"
+is_blaze_pending = false
 format = "html"
-note_count = 0.0
-interactability_reblog = "everyone"
+reblog_key = "yCFmEj1i"
+should_open_in_legacy = true
+can_reblog = false
+can_reply = false
 type = "quote"
-is_blocks_post_format = false
+state = "published"
+note_count = 0.0
+text = "have the airlines considered not buying that $5 starbucks latte and eating less avocado toast"
+interactability_reblog = "everyone"
+id_string = "612964916673019904"
 is_blazed = false
 summary = "have the airlines considered not buying that $5 starbucks latte and eating less avocado toast"
-slug = "have-the-airlines-considered-not-buying-that-5"
-interactability_blaze = "everyone"
 display_avatar = true
-can_blaze = false
-should_open_in_legacy = true
-can_like = false
-source = "<a href=\"http://twitter.com/Enichan/status/1239897775283847169\">@Enichan</a>"
-can_reply = false
-id = 6.129649166730199e+17
-id_string = "612964916673019904"
-reblog_key = "yCFmEj1i"
+slug = "have-the-airlines-considered-not-buying-that-5"
+is_blocks_post_format = false
 blog_name = "indirect"
-is_blaze_pending = false
-post_url = "https://indirect.tumblr.com/post/612964916673019904/have-the-airlines-considered-not-buying-that-5"
+id = 6.129649166730199e+17
 timestamp = 1584568897.0
-state = "published"
+source = "<a href=\"http://twitter.com/Enichan/status/1239897775283847169\">@Enichan</a>"
+can_blaze = false
 short_url = "https://tmblr.co/ZY3jbyY1i5WM4e00"
-text = "have the airlines considered not buying that $5 starbucks latte and eating less avocado toast"
-can_reblog = false
+can_like = false
+interactability_blaze = "everyone"
+post_url = "https://indirect.io/post/612964916673019904/have-the-airlines-considered-not-buying-that-5"
+date = "2020-03-18 22:01:37 GMT"
 can_send_in_message = true
 
 [tumblr.blog]
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
 title = "indirect"
 description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/Enichan/status/1239897775283847169\">@Enichan</a></p>"
+tree_html = ""
 +++

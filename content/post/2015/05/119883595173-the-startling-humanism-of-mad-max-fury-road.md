@@ -7,36 +7,47 @@ title = "The Startling Humanism of 'Mad Max: Fury Road'"
 type = "tumblr-link"
 
 [tumblr]
-summary = "The Startling Humanism of 'Mad Max: Fury Road'"
+description = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
+slug = "the-startling-humanism-of-mad-max-fury-road"
 timestamp = 1432591086.0
+type = "link"
+post_url = "https://indirect.io/post/119883595173/the-startling-humanism-of-mad-max-fury-road"
+can_reblog = false
+note_count = 1.0
+interactability_blaze = "everyone"
+date = "2015-05-25 21:58:06 GMT"
 state = "published"
-is_blocks_post_format = false
+id_string = "119883595173"
+can_blaze = false
+format = "markdown"
+summary = "The Startling Humanism of 'Mad Max: Fury Road'"
+publisher = "theawl.com"
+interactability_reblog = "everyone"
+should_open_in_legacy = true
+can_like = false
+display_avatar = true
 blog_name = "indirect"
 reblog_key = "lqLmX3Wl"
-title = "The Startling Humanism of 'Mad Max: Fury Road'"
-can_reblog = false
-can_reply = false
-type = "link"
-format = "markdown"
-note_count = 1.0
-can_like = false
-is_blaze_pending = false
-publisher = "theawl.com"
-interactability_blaze = "everyone"
 can_send_in_message = true
-display_avatar = true
-id = 119883595173.0
-can_blaze = false
-slug = "the-startling-humanism-of-mad-max-fury-road"
-date = "2015-05-25 21:58:06 GMT"
 short_url = "https://tmblr.co/ZY3jby1lfddsb"
-should_open_in_legacy = true
-description = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
-interactability_reblog = "everyone"
-id_string = "119883595173"
 is_blazed = false
-post_url = "https://indirect.tumblr.com/post/119883595173/the-startling-humanism-of-mad-max-fury-road"
+is_blaze_pending = false
+title = "The Startling Humanism of 'Mad Max: Fury Road'"
+can_reply = false
+is_blocks_post_format = false
+id = 119883595173.0
 url = "http://www.theawl.com/2015/05/the-startling-humanism-of-mad-max-fury-road"
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.trail]]
 content_raw = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
@@ -45,44 +56,35 @@ is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
+name = "indirect"
+active = true
 share_likes = false
 share_following = false
 can_be_followed = true
-name = "indirect"
-active = true
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
-title_font_weight = "bold"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-title_font = "Gibson"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
 show_header_image = false
-show_title = true
+title_color = "#444444"
 avatar_shape = "square"
+body_font = "Helvetica Neue"
 header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 show_avatar = true
+header_image_poster = ""
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+link_color = "#529ECC"
+title_font_weight = "bold"
+header_full_width = 3000.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_title = true
+title_font = "Gibson"
+header_full_height = 1055.0
+background_color = "#FAFAFA"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
 
 [tumblr.trail.post]
 id = "119883595173"
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-
-[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"

@@ -6,48 +6,63 @@ slug = "reverse-dracula-they-very-much-did-kill-jesus"
 type = "tumblr-photo"
 
 [tumblr]
-should_open_in_legacy = true
-caption = "<p>reverse dracula / they very much did kill jesus</p> — <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a>"
-display_avatar = true
-is_blocks_post_format = false
-type = "photo"
-is_blaze_pending = false
-photoset_layout = "12"
-can_reply = false
-link_url = "https://masto.ai/@stavvers/109557143105986498"
-is_blazed = false
-summary = "reverse dracula / they very much did kill jesus — @stavvers"
-can_blaze = false
-reblog_key = "PbQgBFRs"
-can_like = false
-interactability_blaze = "everyone"
-id_string = "705498501251006464"
-timestamp = 1672815800.0
-state = "published"
-format = "html"
-short_url = "https://tmblr.co/ZY3jbydARoOaem00"
-interactability_reblog = "everyone"
-can_send_in_message = true
-can_reblog = false
-blog_name = "indirect"
-id = 7.054985012510065e+17
-post_url = "https://indirect.tumblr.com/post/705498501251006464/reverse-dracula-they-very-much-did-kill-jesus"
-slug = "reverse-dracula-they-very-much-did-kill-jesus"
-date = "2023-01-04 07:03:20 GMT"
 note_count = 0.0
+reblog_key = "PbQgBFRs"
+interactability_blaze = "everyone"
+can_send_in_message = true
+link_url = "https://masto.ai/@stavvers/109557143105986498"
+id = 7.054985012510065e+17
+should_open_in_legacy = true
+id_string = "705498501251006464"
+post_url = "https://indirect.io/post/705498501251006464/reverse-dracula-they-very-much-did-kill-jesus"
+state = "published"
+is_blazed = false
+slug = "reverse-dracula-they-very-much-did-kill-jesus"
+timestamp = 1672815800.0
+can_like = false
+can_reblog = false
+can_reply = false
+display_avatar = true
+type = "photo"
+short_url = "https://tmblr.co/ZY3jbydARoOaem00"
+photoset_layout = "12"
+is_blocks_post_format = false
+is_blaze_pending = false
+date = "2023-01-04 07:03:20 GMT"
+summary = "reverse dracula / they very much did kill jesus — @stavvers"
+caption = "<p>reverse dracula / they very much did kill jesus</p> — <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a>"
+interactability_reblog = "everyone"
+blog_name = "indirect"
+can_blaze = false
+format = "html"
+
+[tumblr.reblog]
+comment = "<p><p>reverse dracula / they very much did kill jesus</p> — <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a></p>"
+tree_html = ""
+
+[tumblr.blog]
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/75/10/494d316ca32b705662d05b93fa68.jpg"
 width = 538.0
 height = 964.0
+url = "/images/75/10/494d316ca32b705662d05b93fa68.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/75/10/494d316ca32b705662d05b93fa68.jpg"
 width = 538.0
 height = 964.0
+url = "/images/75/10/494d316ca32b705662d05b93fa68.jpg"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/bf/5d/223a89a1407e3713295da14ce8f2.jpg"
@@ -80,22 +95,22 @@ width = 100.0
 height = 179.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9c/23/e411d57d7df89b23f886334b0c83.jpg"
 width = 75.0
 height = 75.0
+url = "/images/9c/23/e411d57d7df89b23f886334b0c83.jpg"
 
 [[tumblr.photos]]
 caption = ""
 
 [tumblr.photos.original_size]
-height = 339.0
 url = "/images/12/81/f8cc028489057f1678d4e3f52a2c.png"
 width = 538.0
+height = 339.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/12/81/f8cc028489057f1678d4e3f52a2c.png"
 width = 538.0
 height = 339.0
-url = "/images/12/81/f8cc028489057f1678d4e3f52a2c.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/e9/fe/77b921e258938396e15dc5dcef85.png"
@@ -103,9 +118,9 @@ width = 500.0
 height = 315.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/d7/f3/38f895baf22594e49edc9baa7760.png"
 width = 400.0
 height = 252.0
-url = "/images/d7/f3/38f895baf22594e49edc9baa7760.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/b8/c9/5964dbc1d372026e6d0a1fc4195f.png"
@@ -126,9 +141,9 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
+height = 472.0
 url = "/images/5a/0b/65e1afaef4c4b1eafaac4bded4f6.png"
 width = 538.0
-height = 472.0
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/5a/0b/65e1afaef4c4b1eafaac4bded4f6.png"
@@ -136,14 +151,14 @@ width = 538.0
 height = 472.0
 
 [[tumblr.photos.alt_sizes]]
+height = 439.0
 url = "/images/fc/2b/52dc7ae51a3b3b6a8936c11ae3b2.png"
 width = 500.0
-height = 439.0
 
 [[tumblr.photos.alt_sizes]]
+url = "/images/95/84/11e8f641b59d48f2668f4940700c.png"
 width = 400.0
 height = 351.0
-url = "/images/95/84/11e8f641b59d48f2668f4940700c.png"
 
 [[tumblr.photos.alt_sizes]]
 url = "/images/c4/fc/578f3e1c57fa519f4ed0cebbe3aa.png"
@@ -160,22 +175,14 @@ url = "/images/e2/9e/7b6a17921f453e7ce5d04ed6245c.png"
 width = 75.0
 height = 75.0
 
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
 [[tumblr.trail]]
-is_current_item = true
-is_root_item = true
 content_raw = "<p><p>reverse dracula / they very much did kill jesus</p> — <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a></p>"
 content = "<p><p>reverse dracula / they very much did kill jesus</p> &mdash; <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.post]
+id = "705498501251006464"
 
 [tumblr.trail.blog]
 name = "indirect"
@@ -185,28 +192,23 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-avatar_shape = "square"
-show_header_image = false
 background_color = "#FAFAFA"
-header_stretch = true
-link_color = "#529ECC"
-show_avatar = true
-title_font = "Gibson"
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
 header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_description = true
+header_full_width = 3000.0
+header_full_height = 1055.0
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_stretch = true
+show_header_image = false
+title_color = "#444444"
+title_font = "Gibson"
+link_color = "#529ECC"
+avatar_shape = "square"
+show_avatar = true
 show_title = true
 title_font_weight = "bold"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_color = "#444444"
-
-[tumblr.trail.post]
-id = "705498501251006464"
-
-[tumblr.reblog]
-comment = "<p><p>reverse dracula / they very much did kill jesus</p> — <a href=\"https://masto.ai/@stavvers/109557143105986498\">@stavvers</a></p>"
-tree_html = ""
 +++

@@ -6,38 +6,90 @@ slug = "sad-day-for-irvine-i-will-miss-my-friends-who-i"
 type = "tumblr-photo"
 
 [tumblr]
-can_reblog = false
-id_string = "54393080637"
-summary = "Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  –..."
-source_title = "twitter.com"
-can_reply = false
-id = 54393080637.0
-date = "2013-07-02 02:09:00 GMT"
-timestamp = 1372730940.0
-can_blaze = false
-post_url = "https://indirect.tumblr.com/post/54393080637/sad-day-for-irvine-i-will-miss-my-friends-who-i"
-link_url = "https://twitter.com/sfgirl/status/351840616201736192"
-image_permalink = "https://indirect.tumblr.com/image/54393080637"
-is_blaze_pending = false
-should_open_in_legacy = true
-bookmarklet = true
-source_url = "https://twitter.com/sfgirl/status/351840616201736192"
-can_like = false
-interactability_blaze = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyog58iz"
-can_send_in_message = true
-blog_name = "indirect"
-is_blazed = false
-format = "markdown"
-reblog_key = "8NS3X1Jl"
-interactability_reblog = "everyone"
 type = "photo"
-slug = "sad-day-for-irvine-i-will-miss-my-friends-who-i"
-caption = "<blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p>"
+is_blaze_pending = false
+post_url = "https://indirect.io/post/54393080637/sad-day-for-irvine-i-will-miss-my-friends-who-i"
+state = "published"
+image_permalink = "https://indirect.io/image/54393080637"
+can_send_in_message = true
+id_string = "54393080637"
+format = "markdown"
+summary = "Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  –..."
+source_url = "https://twitter.com/sfgirl/status/351840616201736192"
+interactability_blaze = "everyone"
+is_blazed = false
 note_count = 0.0
+can_reply = false
+is_blocks_post_format = false
+id = 54393080637.0
+reblog_key = "8NS3X1Jl"
+caption = "<blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p>"
+can_like = false
+can_blaze = false
+slug = "sad-day-for-irvine-i-will-miss-my-friends-who-i"
+date = "2013-07-02 02:09:00 GMT"
+bookmarklet = true
+interactability_reblog = "everyone"
+can_reblog = false
+display_avatar = true
+blog_name = "indirect"
+timestamp = 1372730940.0
+link_url = "https://twitter.com/sfgirl/status/351840616201736192"
+short_url = "https://tmblr.co/ZY3jbyog58iz"
+should_open_in_legacy = true
+source_title = "twitter.com"
+
+[tumblr.reblog]
+comment = "<p><blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p></p>"
+tree_html = ""
+
+[tumblr.blog]
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+updated = 1739927643.0
+can_show_badges = false
+name = "indirect"
+title = "indirect"
+description = ""
+
+[tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.trail]]
+content_raw = "<p><blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p></p>"
+content = "<p><blockquote><p>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  &ndash; <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></p></blockquote>\n\n<p>#goodbyeirvine</p></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+share_likes = false
+share_following = false
+can_be_followed = true
+name = "indirect"
+active = true
+
+[tumblr.trail.blog.theme]
+header_image_poster = ""
+header_stretch = true
+link_color = "#529ECC"
+show_header_image = false
+title_font_weight = "bold"
+avatar_shape = "square"
+header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+title_color = "#444444"
+title_font = "Gibson"
+header_full_width = 3000.0
+header_bounds = ""
+header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+show_avatar = true
+show_title = true
+background_color = "#FAFAFA"
+header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+show_description = true
+header_full_height = 1055.0
+body_font = "Helvetica Neue"
+
+[tumblr.trail.post]
+id = "54393080637"
 
 [[tumblr.photos]]
 caption = ""
@@ -81,54 +133,4 @@ height = 75.0
 url = "/images/97/76/263e283fa31b5cf50b87f9693854.jpg"
 width = 75.0
 height = 75.0
-
-[[tumblr.trail]]
-content_raw = "<p><blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p></p>"
-content = "<p><blockquote><p>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  &ndash; <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></p></blockquote>\n\n<p>#goodbyeirvine</p></p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-name = "indirect"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_bounds = ""
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-show_description = true
-title_font = "Gibson"
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_poster = ""
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_stretch = true
-show_title = true
-title_color = "#444444"
-link_color = "#529ECC"
-show_avatar = true
-show_header_image = false
-
-[tumblr.trail.post]
-id = "54393080637"
-
-[tumblr.blog]
-can_show_badges = true
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.tumblr.com/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739757070.0
-
-[tumblr.blog.tumblrmart_accessories]
-
-[tumblr.reblog]
-comment = "<p><blockquote>Sad day for Irvine. I will miss my friends who I must assume were incinerated in the localized apocalyptic weather.  – <a href=\"https://twitter.com/sfgirl/status/351840616201736192\">@sfgirl</a></blockquote>\n\n<p>#goodbyeirvine</p></p>"
-tree_html = ""
 +++
