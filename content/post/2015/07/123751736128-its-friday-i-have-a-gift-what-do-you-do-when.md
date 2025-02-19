@@ -40,32 +40,32 @@ post_url = "https://indirect.io/post/123751736128/its-friday-i-have-a-gift-what-
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/4c/81/e1c244b4726a93ae5fa8ffe8ba44.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_500.png"
 width = 375.0
 height = 667.0
 
 [[tumblr.photos.alt_sizes]]
 width = 375.0
 height = 667.0
-url = "/images/4c/81/e1c244b4726a93ae5fa8ffe8ba44.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_500.png"
 
 [[tumblr.photos.alt_sizes]]
 height = 600.0
-url = "/images/49/87/878d4db30cc7f59949fa17dd52b7.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_400.png"
 width = 337.0
 
 [[tumblr.photos.alt_sizes]]
 width = 225.0
 height = 400.0
-url = "/images/c6/7a/b0f4a51c4523dbe3f0a2c897a5e7.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_250.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/16/e1/ad3f5bd408c2e2482c648dfca2fc.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_100.png"
 width = 100.0
 height = 178.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/3a/8ff6ee76676d7f40925750b6d426.png"
+url = "https://64.media.tumblr.com/0807a8e73dc2b027724e806cede79fda/tumblr_nrai6jxTIX1qz5dnvo1_75sq.png"
 width = 75.0
 height = 75.0
 
@@ -95,8 +95,8 @@ header_stretch = true
 link_color = "#529ECC"
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_description = true
 title_color = "#444444"
@@ -104,7 +104,7 @@ avatar_shape = "square"
 show_header_image = false
 show_title = true
 title_font_weight = "bold"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font = "Gibson"
 
 [tumblr.trail.post]

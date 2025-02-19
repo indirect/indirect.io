@@ -40,49 +40,49 @@ can_reblog = false
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/d4/fb/117937d25c3e23e89d468c4ae016.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_1280.jpg"
 width = 1024.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d4/fb/117937d25c3e23e89d468c4ae016.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_1280.jpg"
 width = 1024.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/66/8c/e9737fd3aa0061cff9bda36f8ad0.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_640.jpg"
 width = 640.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 width = 540.0
 height = 338.0
-url = "/images/34/09/07faafe282b3053683a28494cfa1.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_540.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/51/62/759dd6100fc67c7c6730bd8b5f41.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_500.jpg"
 width = 500.0
 height = 313.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6b/26/83ce08bf9981117e7ad2c5b40c1d.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_400.jpg"
 width = 400.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
 height = 156.0
-url = "/images/34/0e/ce0ec449a2df3982312a3de7e157.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 height = 63.0
-url = "/images/c6/2c/3841ab02278d64fef6b9d4ab60a0.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/7b/3d/0c4b7b40cad552b471112495ab1a.jpg"
+url = "https://64.media.tumblr.com/e5e6bf257b2e78df880b20d9ff3dc31e/tumblr_pktye81b7A1qz5dnvo1_75sq.jpg"
 
 [tumblr.reblog]
 comment = "<p>This projet defeat ReCaptcha with 91% accuracy 🤩. How? You might ask. They ask for the audio challenge, dl the mp3, forward it to Google Speech2Text API and submit the answer back… and it works 🤦🏻‍♂️   — <a href=\"http://twitter.com/FGRibreau/status/1080810518493966337\">@FGRibreau</a></p>"
@@ -128,11 +128,11 @@ header_full_width = 3000.0
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font = "Gibson"
 +++

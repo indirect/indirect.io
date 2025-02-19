@@ -40,39 +40,39 @@ can_send_in_message = true
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/27/a7/d4846aa6e9dc0db8549e609e9933.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_540.png"
 width = 515.0
 height = 326.0
 
 [[tumblr.photos.alt_sizes]]
 height = 326.0
-url = "/images/27/a7/d4846aa6e9dc0db8549e609e9933.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_540.png"
 width = 515.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cf/db/464fbffd75f2bf1413db94040ce2.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_500.png"
 width = 500.0
 height = 317.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/87/89/7bb9476a1faa4db8c63b804ab1d5.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_400.png"
 width = 400.0
 height = 253.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 158.0
-url = "/images/8d/20/0a130f3ab714fcdb98fe3f29299f.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_250.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fe/0b/6debdbedc367c77c30797c17bb85.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_100.png"
 width = 100.0
 height = 63.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/f9/05/e0fe89e0a853c1f23e48b27d908a.png"
+url = "https://64.media.tumblr.com/a874426e4e757d18c5f2118144833518/tumblr_nfhhv09JCP1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>Violent crime has plummeted in the US. But most Americans have no idea: — <a href=\"http://twitter.com/voxdotcom/status/536372320374226945\">@voxdotcom</a></p>"
@@ -94,14 +94,14 @@ active = true
 [tumblr.trail.blog.theme]
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_full_width = 3000.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 title_font_weight = "bold"
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 title_color = "#444444"
 header_full_height = 1055.0

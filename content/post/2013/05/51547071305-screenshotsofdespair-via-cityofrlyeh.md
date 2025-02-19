@@ -52,32 +52,32 @@ can_show_badges = false
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/7f/9c/70f1b9cfc7e99e020cfcf5883193.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_500.png"
 width = 472.0
 height = 168.0
 
 [[tumblr.photos.alt_sizes]]
 height = 168.0
-url = "/images/7f/9c/70f1b9cfc7e99e020cfcf5883193.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_500.png"
 width = 472.0
 
 [[tumblr.photos.alt_sizes]]
 height = 142.0
-url = "/images/77/19/be0e5510f1fc0a37ad1902a604bf.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_400.png"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 height = 89.0
-url = "/images/da/e3/5b2da8e429fec898efa91be75278.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_250.png"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/40/83/6fbcfe8628a662257a1a08c65212.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_100.png"
 width = 100.0
 height = 36.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c4/d5/69675752dd58f8bbd35f17443378.png"
+url = "https://64.media.tumblr.com/638ed7b8b17dd4ea05e5dbb6226ca5b8/tumblr_mm3gqjQztr1rqbl96o1_75sq.png"
 width = 75.0
 height = 75.0
 
@@ -99,15 +99,15 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 link_color = "#529ECC"
-header_image = "/images/d2/68/8921427a8867b9bf506bf377d2a9.jpg"
-header_image_scaled = "/images/46/53/e036316a9e401752f2e00a3b55d4.jpg"
+header_image = "https://static.tumblr.com/00f6a796501bd3c6e77de2e7911db11b/wlnyv6r/Myuoxdjk0/tumblr_static_.jpg"
+header_image_scaled = "https://static.tumblr.com/00f6a796501bd3c6e77de2e7911db11b/wlnyv6r/Myuoxdjk0/tumblr_static__2048_v2.jpg"
 show_avatar = true
 show_description = true
 show_header_image = true
 show_title = true
 avatar_shape = "circle"
 header_bounds = "0,587,304,46"
-header_image_focused = "/images/12/14/8d1f6b14f76ede333d4c8c9307db.jpg"
+header_image_focused = "https://static.tumblr.com/00f6a796501bd3c6e77de2e7911db11b/wlnyv6r/e18oxdjk1/tumblr_static_tumblr_static__focused_v3.jpg"
 header_full_width = 640.0
 header_full_height = 304.0
 header_focus_width = 541.0

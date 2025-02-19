@@ -40,23 +40,23 @@ type = "photo"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/5b/79/c7524869f2d596a67d9090f707b4.jpg"
+url = "https://64.media.tumblr.com/a9a985d1e49cfd1f9d1db5cd867ccc75/tumblr_n78mp4LWNz1qz5dnvo1_250.jpg"
 width = 200.0
 height = 266.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5b/79/c7524869f2d596a67d9090f707b4.jpg"
+url = "https://64.media.tumblr.com/a9a985d1e49cfd1f9d1db5cd867ccc75/tumblr_n78mp4LWNz1qz5dnvo1_250.jpg"
 width = 200.0
 height = 266.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fc/6d/8d372232e5aa23773b2a1a9349b5.jpg"
+url = "https://64.media.tumblr.com/a9a985d1e49cfd1f9d1db5cd867ccc75/tumblr_n78mp4LWNz1qz5dnvo1_100.jpg"
 width = 100.0
 height = 133.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/b0/fd/4174ce931c9c3318b65072fe0952.jpg"
+url = "https://64.media.tumblr.com/a9a985d1e49cfd1f9d1db5cd867ccc75/tumblr_n78mp4LWNz1qz5dnvo1_75sq.jpg"
 width = 75.0
 
 [[tumblr.trail]]
@@ -73,13 +73,13 @@ can_be_followed = true
 name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 show_title = true
 header_full_width = 3000.0
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 title_color = "#444444"
 avatar_shape = "square"
@@ -89,7 +89,7 @@ show_description = true
 show_header_image = false
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_full_height = 1055.0
 background_color = "#FAFAFA"
 

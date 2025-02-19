@@ -51,47 +51,47 @@ url = "https://indirect.io/"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/ca/c3/ac1d2e2dab768ee87e8eec8e8a62.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s1280x1920/e98f94b8efa3e7cc0ad5d00b1b6b37a76a9f1c53.jpg"
 width = 1200.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ca/c3/ac1d2e2dab768ee87e8eec8e8a62.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s1280x1920/e98f94b8efa3e7cc0ad5d00b1b6b37a76a9f1c53.jpg"
 width = 1200.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 480.0
-url = "/images/59/ca/8461c97f9b9cfb32c336899797d9.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s640x960/ebf44dd446f08fa923b4d59874909d14db2f00d0.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1e/46/85d72e7b7dd42dab9b9f2f47be29.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s540x810/53aa087844c5ac7c91530cf1402c7f744fb872eb.jpg"
 width = 540.0
 height = 405.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a7/6f/44add791152272f902aff9a9af83.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s500x750/34c6d8c04ef2a85b1500c76787a12c19391677d4.jpg"
 width = 500.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 300.0
-url = "/images/96/cf/5c4070fe9340b199e093439196e1.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s400x600/acb60a32ee82052241b774e3db251ac761a93075.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/33/2f/eb360d7ff444034af15fd8f2e9b5.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s250x400/853e2910638b4486d7b6d1d72131244d70f28c7e.jpg"
 width = 250.0
 height = 188.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c1/42/e345ef2c9bb9efc144736a96e518.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s100x200/f1ba5796df82281973450c790026a22881956625.jpg"
 width = 100.0
 height = 75.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fe/ce/f14df3df4f433c4231a7b3a606dd.jpg"
+url = "https://64.media.tumblr.com/752debf06186631ed8c6e28e8c53f61a/eee8129cc71d70d5-af/s75x75_c1/0fb4ed58d726e2ebedf085d2ea0a5d0d916957f2.jpg"
 width = 75.0
 height = 75.0
 
@@ -99,49 +99,49 @@ height = 75.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/e6/c8/e7ac0caf238bc20bee2ad113f206.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s1280x1920/891ead65049b672f2f4bb63842b11fce04fc2ec1.jpg"
 width = 1200.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
 width = 1200.0
 height = 900.0
-url = "/images/e6/c8/e7ac0caf238bc20bee2ad113f206.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s1280x1920/891ead65049b672f2f4bb63842b11fce04fc2ec1.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 480.0
-url = "/images/6c/98/432751c93c4db7c99a03c195eeec.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s640x960/803690ba7970765eec1294772903a5d860704f0b.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7d/63/f6b38538a8dcffaab3919a2c2e21.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s540x810/62559b30b1ded70187741a565f9fd9ce77bf7f40.jpg"
 width = 540.0
 height = 405.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/13/db/20133f0eab198dc7efd1cebc0153.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s500x750/60fdbee9b3a5c90c321af16dd96c4bb9d2bbd492.jpg"
 width = 500.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/da/13/9fd082ab486e34536c773fa2019b.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s400x600/401afff97951feca75b618ce9b7021c157f0bc9b.jpg"
 width = 400.0
 height = 300.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/de/65/e5c30e482aeb3f5bbf11be403bde.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s250x400/49ddedc938512a5d8b3d4d229d0ad29fe48be091.jpg"
 width = 250.0
 height = 188.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 75.0
-url = "/images/5f/e2/472d773b59cdb4367e346b363853.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s100x200/e1eb22d17a19375eddf418880c780da5bc4791ec.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/cf/ff/2573461d4bd4f710e36e7d37e281.jpg"
+url = "https://64.media.tumblr.com/4cd53ec3d3442cd62a99ebbf609b0f77/eee8129cc71d70d5-9c/s75x75_c1/80165b4937be4da512f2d0906b6c92b6d54e9829.jpg"
 
 [tumblr.reblog]
 comment = "<p>Passive aggressive Alaskan map of the United States — <a href=\"http://twitter.com/shortbread131/status/1172543558819008512\">@shortbread131</a></p>"
@@ -161,12 +161,12 @@ can_be_followed = true
 name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 show_description = true
 show_title = true
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 title_color = "#444444"
@@ -175,7 +175,7 @@ header_full_width = 3000.0
 header_image_poster = ""
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 title_font = "Gibson"
 background_color = "#FAFAFA"

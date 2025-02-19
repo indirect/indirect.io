@@ -33,7 +33,7 @@ id_string = "105165931733"
 slug = "the-fandoms-are-cool-leradny-videohall"
 short_url = "https://tmblr.co/ZY3jby1XyOCJL"
 should_open_in_legacy = true
-thumbnail_url = "/images/27/6d/1d0f3b3d8f3f697aff68efcbb4df.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3_frame1.jpg"
 thumbnail_width = 640.0
 duration = 38.0
 date = "2014-12-14 10:50:24 GMT"
@@ -74,7 +74,7 @@ show_description = true
 show_header_image = true
 title_font_weight = "bold"
 background_color = "#FFFFFF"
-header_image_scaled = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_01_focused_v3.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 header_stretch = true
 link_color = "#00B8FF"
 show_avatar = true
@@ -82,8 +82,8 @@ show_title = true
 title_color = "#000000"
 avatar_shape = "circle"
 body_font = "Helvetica Neue"
-header_image = "/images/80/65/33ac24e459e48a36cd204e96e2f2.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
-header_image_focused = "/images/75/3b/1f4f448ff51577c9ed4ecc61a434.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_01.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_01_focused_v3.png?_v=f67ca5ac5d1c4a0526964674cb5a0605"
 title_font = "Gibson"
 header_bounds = ""
 header_image_poster = ""
@@ -103,9 +103,9 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/47/3a/7a52ba1a3d3a2f9238ddc51c6f4e.png?_v=eafbfb1726b334d86841955ae7b9221c"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_10.png?_v=eafbfb1726b334d86841955ae7b9221c"
 header_image_poster = ""
-header_image_scaled = "/images/47/3a/7a52ba1a3d3a2f9238ddc51c6f4e.png?_v=eafbfb1726b334d86841955ae7b9221c"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_10.png?_v=eafbfb1726b334d86841955ae7b9221c"
 show_description = true
 show_header_image = true
 title_color = "#444444"
@@ -118,7 +118,7 @@ show_title = true
 link_color = "#529ECC"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/47/3a/7a52ba1a3d3a2f9238ddc51c6f4e.png?_v=eafbfb1726b334d86841955ae7b9221c"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_10.png?_v=eafbfb1726b334d86841955ae7b9221c"
 title_font = "Gibson"
 
 [tumblr.trail.post]
@@ -141,7 +141,7 @@ share_likes = true
 [tumblr.trail.blog.theme]
 body_font = "Helvetica Neue"
 header_bounds = 0.0
-header_image_scaled = "/images/20/bf/9fd8db6ec2d07c0a6edb037a4566.png?_v=f0f055039bb6136b9661cf2227b535c2"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2"
 header_stretch = true
 link_color = "#529ECC"
 show_avatar = true
@@ -154,18 +154,18 @@ show_header_image = true
 title_font = "Gibson"
 title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image = "/images/20/bf/9fd8db6ec2d07c0a6edb037a4566.png?_v=f0f055039bb6136b9661cf2227b535c2"
-header_image_focused = "/images/20/bf/9fd8db6ec2d07c0a6edb037a4566.png?_v=f0f055039bb6136b9661cf2227b535c2"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_08.png?_v=f0f055039bb6136b9661cf2227b535c2"
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='250' height='141' poster='/images/27/6d/1d0f3b3d8f3f697aff68efcbb4df.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='250' height='141' poster='https://64.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='400' height='225' poster='/images/27/6d/1d0f3b3d8f3f697aff68efcbb4df.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='400' height='225' poster='https://64.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='500' height='281' poster='/images/27/6d/1d0f3b3d8f3f697aff68efcbb4df.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593792a5953839866' class='crt-video crt-skin-default' width='500' height='281' poster='https://64.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":38,\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_mrwr27SlTP1r6ego3.mp4\" type=\"video/mp4\">\n</video>\n"
 +++

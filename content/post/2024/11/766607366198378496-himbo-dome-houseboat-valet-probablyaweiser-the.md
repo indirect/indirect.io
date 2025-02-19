@@ -51,49 +51,49 @@ uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/2d/61/26e3e6654e0aad44dd6d80f0ca8f.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s1280x1920/3a54976334c1ac52b98a644e5f29dccc6b57415c.jpg"
 width = 1110.0
 height = 619.0
 
 [[tumblr.photos.alt_sizes]]
 height = 619.0
-url = "/images/2d/61/26e3e6654e0aad44dd6d80f0ca8f.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s1280x1920/3a54976334c1ac52b98a644e5f29dccc6b57415c.jpg"
 width = 1110.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/98/bc/d0ad8d8e386b70df7256ff82c40f.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s640x960/ee5e08dfb3d2eabab98b9a12c8cd13cb7e448a73.jpg"
 width = 640.0
 height = 357.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/61/47/e919aa8902b2969e5dda9f81531f.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s540x810/c83b4ac1496226d215605e4223df4817328f9f2d.jpg"
 width = 540.0
 height = 301.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a7/3c/a1cdcced439ad4733e4c33687316.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s500x750/221ab6884ad24cc88b96ecbff30ede7426daee3b.jpg"
 width = 500.0
 height = 279.0
 
 [[tumblr.photos.alt_sizes]]
 height = 223.0
-url = "/images/0f/56/db4f5ee29eb9b26e658f1f9355ad.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s400x600/abe78559d4abd4c3a08fde7bb7bef7ba09379bab.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8e/be/bb6e63eaf95225a7acd6fcf763b9.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s250x400/315e8425bdf2f5c35b33431343bebcffbab665b1.jpg"
 width = 250.0
 height = 139.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2e/a3/1ad2a05d2578173e20956582fb7b.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s100x200/31fb08f5ad39315ea2c71f94eb1ff2aa54ae54b0.jpg"
 width = 100.0
 height = 56.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/36/5a/f4bcaee38148fc3918f31b632366.jpg"
+url = "https://64.media.tumblr.com/34d27dce6e1dc1d1b9e23f6470b63c97/b8c4045cfc868dff-40/s75x75_c1/59a37b7fa6b2ac8d7efeaea9a5510b78380f7ef9.jpg"
 
 [tumblr.reblog]
 comment = "<p><blockquote><p>\n<a href=\"https://twitter.com/probablyaweiser/status/1854582543347020252\">Himbo Dome Houseboat Valet (@probablyaweiser)</a>: The libs are freaking out screaming, crying, throwing up, etc over Drumpf 2.0. Unlike me, a calm and perfectly sane guy pacing back and forth saying “gotta rebuild the labor movement” to myself over and over again.\n</p></blockquote>\n\n<a href=\"https://t.co/C6LZLNI7cx\">https://t.co/C6LZLNI7cx</a> — <a href=\"https://twitter.com/_grendan/status/1854644445268054383\">Brendan O'Connor (@_grendan)</a></p>"
@@ -113,7 +113,7 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 header_full_width = 3000.0
@@ -128,8 +128,8 @@ title_color = "#444444"
 title_font = "Gibson"
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_title = true
 

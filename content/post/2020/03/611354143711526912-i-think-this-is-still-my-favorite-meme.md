@@ -40,44 +40,44 @@ summary = "I think this is still my favorite meme — @AuthorizedMusin"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a9/34/c69d577335225b6a1b01eee55f11.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s640x960/7f1f952b173d2676e49fcdd0a5273d909f241341.jpg"
 width = 578.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ef/54/7200444c3993cecde8f5ef816bbe.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s540x810/b75486fb83f3245e94747bb6c693da21c2d4eb50.jpg"
 width = 540.0
 height = 374.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b0/1d/c0352e039be7d93b5a880f9d8e66.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s500x750/1ee04adf80bba4dd2858d8f96569e2583ef635ed.jpg"
 width = 500.0
 height = 346.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fa/9f/02bd073b1f1a428fe6aad34fa16f.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s400x600/da272fb49156b4c4f85557a843c3d87daf6d0187.jpg"
 width = 400.0
 height = 277.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4f/af/ea69f5d6ead9d756a5f0ec89b0e9.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s250x400/d98d2a9f808622ad73db4d914719804292655005.jpg"
 width = 250.0
 height = 173.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4f/25/6cbce275415739d6fee696173671.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s100x200/5bee85d6f4dc00c821df622623e5dd44732c20e4.jpg"
 width = 100.0
 height = 69.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/b3/78/72c68bad68a138554c6ff712a2f3.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s75x75_c1/2e36324e918a98a33e19c386788afdf972c6dfac.jpg"
 
 [tumblr.photos.original_size]
 width = 578.0
 height = 400.0
-url = "/images/a9/34/c69d577335225b6a1b01eee55f11.jpg"
+url = "https://64.media.tumblr.com/ba87d4db9dfd08c9a88d4923c1c326db/4c69779b5ee9b258-12/s640x960/7f1f952b173d2676e49fcdd0a5273d909f241341.jpg"
 
 [tumblr.reblog]
 tree_html = ""
@@ -109,21 +109,21 @@ name = "indirect"
 
 [tumblr.trail.blog.theme]
 header_full_width = 3000.0
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 background_color = "#FAFAFA"
 link_color = "#529ECC"
 show_avatar = true
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_title = true
 title_color = "#444444"
 title_font = "Gibson"
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 show_header_image = false
 title_font_weight = "bold"

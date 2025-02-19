@@ -57,22 +57,22 @@ tree_html = "<p><a href=\"http://theamericankid.com/post/5418215295/the-quick-br
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/82/4e/881c37b04752c6ee3387c17dfa7d.gif"
+url = "https://64.media.tumblr.com/tumblr_lkyr46qeuv1qcb5fko1_250.gif"
 width = 200.0
 height = 169.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/77/a1/c0a0aa730e3e15db708c1b5efd73.gif"
+url = "https://64.media.tumblr.com/tumblr_lkyr46qeuv1qcb5fko1_100.gif"
 width = 100.0
 height = 85.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/90/fc/b8788d91be4f1bf06a8661aa3717.gif"
+url = "https://64.media.tumblr.com/tumblr_lkyr46qeuv1qcb5fko1_75sq.gif"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
-url = "/images/82/4e/881c37b04752c6ee3387c17dfa7d.gif"
+url = "https://64.media.tumblr.com/tumblr_lkyr46qeuv1qcb5fko1_250.gif"
 width = 200.0
 height = 169.0
 
@@ -89,7 +89,7 @@ can_be_followed = false
 name = "theamericankid"
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/46/8f/1915aa283e6b5fd141ec094c0190.jpg"
+header_image_scaled = "https://64.media.tumblr.com/b97aa578f321d48b280527be04ec0cc1/e8e13b7eaa32df39-bf/s2048x3072/94dd5b9f705a2041c51069ff7b4410d0d17415c8.jpg"
 show_avatar = true
 background_color = "#FFFFFF"
 link_color = "#ff0037"
@@ -99,14 +99,14 @@ show_title = true
 title_color = "#000000"
 avatar_shape = "circle"
 header_bounds = ""
-header_image_focused = "/images/46/8f/1915aa283e6b5fd141ec094c0190.jpg"
+header_image_focused = "https://64.media.tumblr.com/b97aa578f321d48b280527be04ec0cc1/e8e13b7eaa32df39-bf/s2048x3072/94dd5b9f705a2041c51069ff7b4410d0d17415c8.jpg"
 title_font = "Typewriter FS"
 title_font_weight = "bold"
 show_description = true
 header_full_width = 4032.0
 header_full_height = 3024.0
 body_font = "Helvetica Neue"
-header_image = "/images/24/76/4c4af002c34a9051ac51c6ac9e7b.jpg"
+header_image = "https://64.media.tumblr.com/b97aa578f321d48b280527be04ec0cc1/e8e13b7eaa32df39-bf/s4032x3024/2615cb4d6045bbafc787dfb14bb8adf90c6453d1.jpg"
 header_image_poster = ""
 
 [tumblr.trail.post]

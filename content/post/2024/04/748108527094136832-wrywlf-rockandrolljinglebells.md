@@ -50,10 +50,10 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 show_header_image = true
 body_font = "Helvetica Neue"
-header_image_focused = "/images/b3/bf/2573f487f12b90405feb266a6776.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 show_title = true
 header_bounds = ""
-header_image = "/images/68/6b/aba8f2a2b589fdc12aa1d14e40ec.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 header_image_poster = ""
 show_description = true
 title_font = "Gibson"
@@ -63,7 +63,7 @@ header_stretch = true
 link_color = "#00B8FF"
 title_color = "#000000"
 title_font_weight = "bold"
-header_image_scaled = "/images/b3/bf/2573f487f12b90405feb266a6776.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 show_avatar = true
 
 [tumblr.trail.post]
@@ -82,7 +82,7 @@ name = "rockandrolljinglebells"
 
 [tumblr.trail.blog.theme]
 background_color = "#FFFFFF"
-header_image = "/images/68/6b/aba8f2a2b589fdc12aa1d14e40ec.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 link_color = "#00B8FF"
 show_description = true
 body_font = "Helvetica Neue"
@@ -90,11 +90,11 @@ header_bounds = ""
 show_avatar = true
 show_header_image = true
 title_font = "Gibson"
-header_image_focused = "/images/b3/bf/2573f487f12b90405feb266a6776.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 header_image_poster = ""
 title_font_weight = "bold"
 avatar_shape = "square"
-header_image_scaled = "/images/b3/bf/2573f487f12b90405feb266a6776.png?_v=b976ee00195b1b7806c94ae285ca46a7"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7"
 header_stretch = true
 show_title = true
 title_color = "#000000"
@@ -119,7 +119,7 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 header_image_focused = "https://64.media.tumblr.com/153d01c5906d73ff04496c9279193de3/5679571c0515761a-20/s2048x3072_c10059,0,88757,98667/cb2f75612f3f8f8b939b7a27eb38feaf124d0e23.png"
 header_image_poster = ""
-header_image_scaled = "/images/4c/9a/dad3db907cf98e383815f0d7f6f4.png"
+header_image_scaled = "https://64.media.tumblr.com/153d01c5906d73ff04496c9279193de3/5679571c0515761a-20/s2048x3072/d3a3ecf527219832c128085bebd87cd0ff511fb8.png"
 header_stretch = true
 header_full_width = 169.0
 header_full_height = 75.0
@@ -129,7 +129,7 @@ header_bounds = "0,150,74,17"
 show_header_image = true
 avatar_shape = "circle"
 body_font = "Helvetica Neue"
-header_image = "/images/15/80/062f52eccd1a442517d9856c3007.png"
+header_image = "https://64.media.tumblr.com/153d01c5906d73ff04496c9279193de3/5679571c0515761a-20/s169x75/e9058aff3e2cb03577515fe95eee0dba54994485.png"
 link_color = "#529ECC"
 show_description = true
 show_title = true

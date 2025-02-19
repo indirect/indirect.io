@@ -40,27 +40,27 @@ post_url = "https://indirect.io/post/698147259819425792/this-is-one-of-the-funni
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/be/35/03cea8a759f0026a34e611e7278f.jpg"
+url = "https://64.media.tumblr.com/1d078a0bdbcfc3e983531bf84f05ea56/061ebf5473e5c090-72/s400x600/ec14c7bc7fb4084937afa6dfeb71e302b6bb3773.jpg"
 width = 279.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/be/35/03cea8a759f0026a34e611e7278f.jpg"
+url = "https://64.media.tumblr.com/1d078a0bdbcfc3e983531bf84f05ea56/061ebf5473e5c090-72/s400x600/ec14c7bc7fb4084937afa6dfeb71e302b6bb3773.jpg"
 width = 279.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/19/51/d5690292ee68aa7a601553389cf2.jpg"
+url = "https://64.media.tumblr.com/1d078a0bdbcfc3e983531bf84f05ea56/061ebf5473e5c090-72/s250x400/b4bc94b67317a57c32fe3e77a6d70f6fdfb2cf57.jpg"
 width = 250.0
 height = 323.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/02/11/92d10ad1abb4329266fd6fd45ac3.jpg"
+url = "https://64.media.tumblr.com/1d078a0bdbcfc3e983531bf84f05ea56/061ebf5473e5c090-72/s100x200/6338eda88487c20ef45427b4208b35a421067d35.jpg"
 width = 100.0
 height = 129.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/07/db/778701c2528e8aff33f46a9f72b6.jpg"
+url = "https://64.media.tumblr.com/1d078a0bdbcfc3e983531bf84f05ea56/061ebf5473e5c090-72/s75x75_c1/1e0dab6b6356cb879547014882bc8f1aa23a8c26.jpg"
 width = 75.0
 height = 75.0
 
@@ -83,7 +83,7 @@ share_likes = false
 
 [tumblr.trail.blog.theme]
 header_full_width = 3000.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 link_color = "#529ECC"
 show_header_image = false
@@ -98,8 +98,8 @@ header_stretch = true
 show_description = true
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font_weight = "bold"
 
 [tumblr.trail.post]

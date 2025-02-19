@@ -56,15 +56,15 @@ header_bounds = ""
 header_image_poster = ""
 show_header_image = false
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_font = "Gibson"
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 link_color = "#529ECC"
 show_description = true
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_title = true
 title_color = "#444444"
@@ -77,49 +77,49 @@ id = "680543061380579328"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ec/18/dedcc5bdc150157ac5dc39bf978e.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s1280x1920/0b4675eaf6306b3576ff80ae019dcc1887280a3f.png"
 width = 786.0
 height = 382.0
 
 [[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 311.0
-url = "/images/62/07/d39dcaf88c466d3d11b39f6cf253.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s640x960/5538d50ce02ca3791f529ff8e5b35425ea5f236c.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0e/18/d5cf35003378a411bc228eb03f6c.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s540x810/5bd4c2c869287f779c505a085fd35da57e27d77b.png"
 width = 540.0
 height = 262.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9a/9f/27e43bf94db07fad2b9a0a27ba98.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s500x750/5baa81ee8f0cbabaafae88c56e71113068005b8d.png"
 width = 500.0
 height = 243.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 194.0
-url = "/images/f5/00/ccfded856e6222389a9e858ed3b0.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s400x600/aa0094248327b389646b4c764e2fe5529bf9f429.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8d/14/486cea06b192cd8d93cd2f09b6c2.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s250x400/90543b39870358ea5c6cf7008cf862dcb454b4a4.png"
 width = 250.0
 height = 122.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b9/8f/3de563f4be5804ee3b715f24dd91.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s100x200/52ac2415a1c7804f769dd252dccbf58f06f221bd.png"
 width = 100.0
 height = 49.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d6/e0/4e8573f7f2a4801d13ada719cba4.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s75x75_c1/fae77ed3a5f7d4750c15ecb1fa81a1f60280564d.png"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
 width = 786.0
 height = 382.0
-url = "/images/ec/18/dedcc5bdc150157ac5dc39bf978e.png"
+url = "https://64.media.tumblr.com/474730fb244f7146f59390b69e9ec540/4dfae7d93b279bb0-23/s1280x1920/0b4675eaf6306b3576ff80ae019dcc1887280a3f.png"
 
 [tumblr.reblog]
 comment = "<p>Life Magazine, April 1910. — <a href=\"http://twitter.com/wikivictorian/status/1510397072578650117\">@wikivictorian</a></p>"

@@ -40,49 +40,49 @@ format = "html"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/41/e5/717235a00722df820334ac27f7e0.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_1280.jpg"
 width = 712.0
 height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/41/e5/717235a00722df820334ac27f7e0.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_1280.jpg"
 width = 712.0
 height = 1199.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/30/a9/34cbb3160fb7fe950bb870d74266.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_640.jpg"
 width = 570.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
 width = 481.0
 height = 810.0
-url = "/images/5e/5c/6f9853dc03e76d8bff744d22b12e.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_540.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e7/a3/ff27f1a60082d554fc3d68a1b4eb.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_500.jpg"
 width = 445.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ef/2e/be813a9080af01878b51ce30f4f0.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_400.jpg"
 width = 356.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
 height = 400.0
-url = "/images/c4/56/8e91adffd75790457adbc8278f51.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_250.jpg"
 width = 238.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c9/de/d4bdacbe65f8a76277abe0bd5022.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_100.jpg"
 width = 100.0
 height = 168.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/e0/2b/1dec3e03106c671242372ea5dbbf.jpg"
+url = "https://64.media.tumblr.com/13c474aea869185787f9bd622172f71c/tumblr_p89z5j8c401qz5dnvo1_75sq.jpg"
 
 [tumblr.reblog]
 comment = "<p>The Talmud my students are studying addressed this topic of incels and experts demanding redistribution of sex, around 1500 years ago — <a href=\"http://twitter.com/drnelk/status/991005177971990528\">@drnelk</a></p>"
@@ -102,7 +102,7 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_title = true
 title_font_weight = "bold"
@@ -114,13 +114,13 @@ show_header_image = false
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_avatar = true
 title_color = "#444444"
 title_font = "Gibson"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "173617731978"

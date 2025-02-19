@@ -52,14 +52,14 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_avatar = true
 show_header_image = false
 title_font_weight = "bold"
 header_full_width = 3000.0
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_stretch = true
 show_title = true
 avatar_shape = "square"
@@ -67,7 +67,7 @@ title_font = "Gibson"
 show_description = true
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 title_color = "#444444"
 
@@ -78,57 +78,57 @@ id = "658071784246132736"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/7e/67/33bca1b2f91f4d649c95db82fde8.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s1280x1920/316a3f700f134a3efd3f48d29245a2ffb5f85ae1.png"
 width = 1280.0
 height = 1656.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/10/e6/528b55cb141992eac7bbcfd51b67.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s2048x3072/5c3290d103f864818af4c7aa6fba34acef8551cb.png"
 width = 2048.0
 height = 2650.0
 
 [[tumblr.photos.alt_sizes]]
 width = 1280.0
 height = 1656.0
-url = "/images/7e/67/33bca1b2f91f4d649c95db82fde8.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s1280x1920/316a3f700f134a3efd3f48d29245a2ffb5f85ae1.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/03/68/7e9ad4dca23f6b58af2267bfbde7.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s640x960/528227a648727203f042d42c6409087a9706fad3.png"
 width = 640.0
 height = 828.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/54/ed/8a1759ea5989fe832f19f0dc8a8b.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s540x810/df6d6e6f6bd441c4365567a9171f5ad617e1a295.png"
 width = 540.0
 height = 699.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 647.0
-url = "/images/ac/68/c3f5d5e0f94788945d38b4cf51b8.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s500x750/88720cd790411f3feaea031cd714c70eab3ae722.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2a/7f/3fe84db8df2ba7c47c5573ecbe80.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s400x600/f6e9c6ca02a3295fe33a5e9d1312d2a26ebb37ef.png"
 width = 400.0
 height = 518.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/00/62/f9aa100a7039c1cec63276fbd8b5.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s250x400/fdf3254a721de6bd3fefdf09447ab1dfd0e4774d.png"
 width = 250.0
 height = 324.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 129.0
-url = "/images/08/9f/13d7a1200d244f07716db7f6fdc6.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s100x200/d6657b53112380cd3324469a121b3bd8f7c921dd.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/23/61/3064e1cbdb8830f822dae5ace6b0.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s75x75_c1/db095402afe2e93d771a2faf0e2fed2f0626eaa0.png"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.panorama_size]
-url = "/images/dc/11/26330a63c9a90c3aa525c788f8d6.png"
+url = "https://64.media.tumblr.com/d3a07543602216cc8781d847c8f07ea3/750726070cd9bfbc-0a/s2560x500/00f22a7120ca0a2e737c5ae4d3ad319512afa6c4.png"
 width = 386.0
 height = 500.0
 

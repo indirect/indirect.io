@@ -56,47 +56,47 @@ tree_html = "<p><a href=\"http://www.humansofnewyork.com/post/55976531822/if-you
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/65/7c/cb7075940d124152f6db8d06d197.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_1280.jpg"
 width = 960.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a4/d2/5b5f8d7aa4410cf1f579a05573f4.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_640.jpg"
 width = 640.0
 height = 427.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e2/e6/9f9d8aa6d9f7e426dfed80502da2.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_540.jpg"
 width = 540.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/72/cf/fe8899976d585e1342104870ef61.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_500.jpg"
 width = 500.0
 height = 333.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/85/e4/f9ede03591b4fc87bd1cadc9a2c5.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_400.jpg"
 width = 400.0
 height = 267.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9b/89/1be9a2d6816f5950c3e8ce99ec10.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_250.jpg"
 width = 250.0
 height = 167.0
 
 [[tumblr.photos.alt_sizes]]
 height = 67.0
-url = "/images/51/a5/6e485aef969c74cd610294ac843b.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/2f/e5/ccf9b9871beb2cebb7b9bab42cf0.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_75sq.jpg"
 width = 75.0
 
 [tumblr.photos.original_size]
-url = "/images/65/7c/cb7075940d124152f6db8d06d197.jpg"
+url = "https://64.media.tumblr.com/1da24cddf42c7d423e40e033f06fc681/tumblr_mq8zmrrXkC1qggwnvo1_1280.jpg"
 width = 960.0
 height = 640.0
 
@@ -116,8 +116,8 @@ name = "humansofnewyork"
 show_avatar = true
 title_color = "#444444"
 title_font_weight = "bold"
-header_image = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
-header_image_scaled = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 show_description = true
 show_title = true
 body_font = "Helvetica Neue"
@@ -128,7 +128,7 @@ header_stretch = true
 show_header_image = false
 title_font = "Helvetica Neue"
 background_color = "#F6F6F6"
-header_image_focused = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 link_color = "#529ECC"
 
 [tumblr.trail.post]

@@ -23,7 +23,7 @@ is_blazed = false
 post_url = "https://indirect.io/post/104733305968/man-finally-put-in-charge-of-struggling-feminist"
 format = "markdown"
 short_url = "https://tmblr.co/ZY3jby1XYbsnm"
-link_image = "/images/27/58/0e1b13f3b44af4e581eadb756573.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_ngask8ocEr1qz5dnv_og.jpg"
 bookmarklet = true
 url = "http://www.theonion.com/articles/man-finally-put-in-charge-of-struggling-feminist-m,2338/"
 can_like = false
@@ -44,7 +44,7 @@ display_avatar = true
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/27/58/0e1b13f3b44af4e581eadb756573.jpg"
+url = "https://64.media.tumblr.com/tumblr_ngask8ocEr1qz5dnv_og.jpg"
 width = 500.0
 height = 500.0
 
@@ -81,14 +81,14 @@ background_color = "#FAFAFA"
 show_description = true
 show_header_image = false
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 link_color = "#529ECC"
 show_title = true
 title_color = "#444444"
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 body_font = "Helvetica Neue"
 header_bounds = ""
 header_image_poster = ""

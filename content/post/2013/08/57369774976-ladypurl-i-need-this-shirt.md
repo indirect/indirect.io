@@ -56,47 +56,47 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/fb/47/85455280739a3d3b275937f32344.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_1280.jpg"
 width = 960.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fb/47/85455280739a3d3b275937f32344.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_1280.jpg"
 width = 960.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0d/70/9a5e06107755959a28dcca8fa57b.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_640.jpg"
 width = 640.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
 height = 540.0
-url = "/images/9a/f2/a617c2c4819b0a74eadeb60d3da3.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_540.jpg"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 500.0
-url = "/images/a7/fc/ff7641a4466224936954f1b3e9ad.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7b/75/e0cc68a94f9c6d6365d059e76e94.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_400.jpg"
 width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/55/b1/46df5ad1fb0511f51f434ddc4c6e.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_250.jpg"
 width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/dd/95/9f41ac3fc427a9e99dce325489de.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_100.jpg"
 width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f5/5d/c492697fd17248509746ab6d2961.jpg"
+url = "https://64.media.tumblr.com/54433bc55b0ca654b656284c49aa092c/tumblr_mqzsgqvkHF1s6x9czo1_75sq.jpg"
 width = 75.0
 height = 75.0
 +++

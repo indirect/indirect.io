@@ -22,7 +22,7 @@ can_send_in_message = true
 id = 181265534743.0
 can_blaze = false
 blog_name = "indirect"
-body = "<figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"/images/6a/44/cffeee57f6513f827048385d08bc.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"/></figure><p>slep perchance to drem</p>"
+body = "<figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"https://64.media.tumblr.com/ffe79cb991acaf6786903eb6ff31486f/tumblr_pk12x1pbB61qz5dnv_540.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"/></figure><p>slep perchance to drem</p>"
 can_like = false
 can_reply = false
 id_string = "181265534743"
@@ -35,12 +35,12 @@ reblog_key = "HaBEGoBU"
 should_open_in_legacy = false
 
 [tumblr.reblog]
-comment = "<p><figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"/images/6a/44/cffeee57f6513f827048385d08bc.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"></figure><p>slep perchance to drem</p></p>"
+comment = "<p><figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"https://64.media.tumblr.com/ffe79cb991acaf6786903eb6ff31486f/tumblr_pk12x1pbB61qz5dnv_540.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"></figure><p>slep perchance to drem</p></p>"
 tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p><figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"/images/6a/44/cffeee57f6513f827048385d08bc.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"></figure><p>slep perchance to drem</p></p>"
-content = "<p><figure class=\"tmblr-full\"><img src=\"/images/6a/44/cffeee57f6513f827048385d08bc.jpg\" alt=\"image\" class=\"\"/></figure><p>slep perchance to drem</p></p>"
+content_raw = "<p><figure class=\"tmblr-full\" data-orig-height=\"1176\" data-orig-width=\"1225\"><img src=\"https://64.media.tumblr.com/ffe79cb991acaf6786903eb6ff31486f/tumblr_pk12x1pbB61qz5dnv_540.jpg\" data-orig-height=\"1176\" data-orig-width=\"1225\"></figure><p>slep perchance to drem</p></p>"
+content = "<p><figure class=\"tmblr-full\"><img src=\"https://64.media.tumblr.com/ffe79cb991acaf6786903eb6ff31486f/tumblr_pk12x1pbB61qz5dnv_540.jpg\" alt=\"image\" class=\"\"/></figure><p>slep perchance to drem</p></p>"
 is_current_item = true
 is_root_item = true
 
@@ -54,10 +54,10 @@ active = true
 [tumblr.trail.blog.theme]
 avatar_shape = "square"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 header_full_height = 1055.0
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_title = true
 header_full_width = 3000.0
@@ -69,7 +69,7 @@ show_header_image = false
 title_font = "Gibson"
 title_font_weight = "bold"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_color = "#444444"
 
 [tumblr.trail.post]

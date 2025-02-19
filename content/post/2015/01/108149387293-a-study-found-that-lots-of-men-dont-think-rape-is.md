@@ -40,44 +40,44 @@ caption = "<p>A study found that lots of men don&rsquo;t think rape is rape: —
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/7b/b6/53a99f9a0ff5897008fb4931ffca.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_640.jpg"
 width = 600.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7b/b6/53a99f9a0ff5897008fb4931ffca.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_640.jpg"
 width = 600.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d2/2b/03196f697b786f8ff6dc5f8118a2.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_540.jpg"
 width = 540.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/53/ee/3c61e43b3ee9ff7046402f873bc2.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_500.jpg"
 width = 500.0
 height = 333.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/46/bb/81f4fe88f1330b1e45eed87ff6b6.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_400.jpg"
 width = 400.0
 height = 267.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5f/0e/fbed0a13db8dfb37fc73b6d3cc08.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_250.jpg"
 width = 250.0
 height = 167.0
 
 [[tumblr.photos.alt_sizes]]
 height = 67.0
-url = "/images/f3/34/4a83664258631ffb39724d1ee8fd.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/86/ab/03961f06032e5b3c7bbdc372f837.jpg"
+url = "https://64.media.tumblr.com/8e9ef5a4c0b2bd4870d3653632954748/tumblr_ni7hkmHqQr1qz5dnvo1_75sq.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>A study found that lots of men don’t think rape is rape: — <a href=\"http://twitter.com/NYMag/status/555047112246063108\">@NYMag</a></p>"
@@ -93,11 +93,11 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_header_image = false
 show_title = true
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 link_color = "#529ECC"
 title_color = "#444444"
@@ -106,7 +106,7 @@ title_font_weight = "bold"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_stretch = true
 show_description = true
 header_full_height = 1055.0

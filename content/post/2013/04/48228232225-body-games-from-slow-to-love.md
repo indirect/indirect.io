@@ -18,7 +18,7 @@ artist = "Doe Paoro"
 plays = 0.0
 state = "published"
 track_name = "Body Games"
-album_art = "/images/ca/c8/7b74e3b0c25e7d418c5dd80cde59.jpg"
+album_art = "https://64.media.tumblr.com/tumblr_mlf712AXje1qz5dnvo1_1366236759_cover.jpg"
 caption = "<p>Body Games from <a href=\"http://doepaoro.bandcamp.com/album/slow-to-love\">Slow to Love</a></p>"
 embed = "<iframe class=\"tumblr_audio_player tumblr_audio_player_48228232225\" src=\"https://indirect.io/post/48228232225/audio_player_iframe/indirect/tumblr_mlf712AXje1qz5dnv?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_mlf712AXje1qz5dnvo1.mp3\" frameborder=\"0\" allowtransparency=\"true\" scrolling=\"no\" width=\"540\" height=\"169\"></iframe>"
 audio_source_url = "https://a.tumblr.com/tumblr_mlf712AXje1qz5dnvo1.mp3"
@@ -81,15 +81,15 @@ show_header_image = false
 show_title = true
 title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_description = true
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_full_width = 3000.0
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_color = "#444444"
 title_font = "Gibson"
 

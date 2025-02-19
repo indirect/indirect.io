@@ -9,7 +9,7 @@ type = "tumblr-video"
 note_count = 104556.0
 slug = "phlynn-industrial-goth-dance-groups-are-having"
 reblog_key = "ev1GrQtR"
-thumbnail_url = "/images/5c/62/d4abe8a1ba5f292af949c52300d0.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9_frame1.jpg"
 thumbnail_height = 360.0
 interactability_blaze = "noone"
 post_url = "https://indirect.io/post/112813117663/phlynn-industrial-goth-dance-groups-are-having"
@@ -48,15 +48,15 @@ tree_html = "<p><a class=\"tumblr_blog\" href=\"http://phlynn.tumblr.com/post/29
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='250' height='141' poster='/images/5c/62/d4abe8a1ba5f292af949c52300d0.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='250' height='141' poster='https://64.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='400' height='225' poster='/images/5c/62/d4abe8a1ba5f292af949c52300d0.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='400' height='225' poster='https://64.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='500' height='281' poster='/images/5c/62/d4abe8a1ba5f292af949c52300d0.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b575935da74160606586' class='crt-video crt-skin-default' width='500' height='281' poster='https://64.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9_frame1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":\"210\",\"hdUrl\":false,\"filmstrip\":false}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_m8wg5hYuE11r7hkx9.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
@@ -90,17 +90,17 @@ title_color = "#FFFFFF"
 header_full_width = 1240.0
 header_full_height = 698.0
 header_bounds = "193,1018,617,263"
-header_image_scaled = "/images/94/52/86036e8444fbc012c99d3d3d39e1.jpg"
+header_image_scaled = "https://static.tumblr.com/190451241d2516b1e5fd67eb796d0a04/b0kthap/uwno623ke/tumblr_static__2048_v2.jpg"
 header_stretch = true
 link_color = "#000000"
 show_title = true
 header_focus_height = 424.0
-header_image_focused = "/images/43/15/c52f75cacd73b58347325025c534.jpg"
+header_image_focused = "https://static.tumblr.com/190451241d2516b1e5fd67eb796d0a04/b0kthap/DVao623kg/tumblr_static_tumblr_static__focused_v3.jpg"
 show_description = true
 show_header_image = true
 title_font = "Brutal Type"
 background_color = "#000000"
-header_image = "/images/ca/26/4aed3ed6c37a9b1fc66d5d583fdd.jpg"
+header_image = "https://static.tumblr.com/190451241d2516b1e5fd67eb796d0a04/b0kthap/uwno623ke/tumblr_static_.jpg"
 header_image_poster = ""
 title_font_weight = "bold"
 
@@ -122,20 +122,20 @@ name = "indirect"
 [tumblr.trail.blog.theme]
 title_font_weight = "bold"
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_header_image = false
 show_title = true
 header_full_height = 1055.0
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 title_color = "#444444"
 header_full_width = 3000.0
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 link_color = "#529ECC"
 title_font = "Gibson"

@@ -51,17 +51,17 @@ share_likes = false
 
 [tumblr.trail.blog.theme]
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 show_header_image = false
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 title_font = "Gibson"
 title_font_weight = "bold"
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_avatar = true
 header_stretch = true
 link_color = "#529ECC"
@@ -81,32 +81,32 @@ comment = "<p>#Innovate  — <a href=\"http://twitter.com/ProfJeffJarvis/status/
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/41/59/380928c44060960acce2e451960b.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_500.jpg"
 width = 358.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/41/59/380928c44060960acce2e451960b.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_500.jpg"
 width = 358.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
 width = 336.0
 height = 600.0
-url = "/images/e3/ce/01624acd6a44b62c185680162b7d.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_400.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/83/5a/cc1fe02ad8f17b0669584973f355.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_250.jpg"
 width = 224.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/66/e9/c3afe964e52392b9f0aa5d6cb506.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_100.jpg"
 width = 100.0
 height = 179.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/da/80/68f485c92ce00bedfb6402af18a9.jpg"
+url = "https://64.media.tumblr.com/248c8f46fd5a4c75a250cb2d04e064b6/tumblr_niexxg8SIf1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 

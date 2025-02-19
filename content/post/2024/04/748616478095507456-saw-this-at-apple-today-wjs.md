@@ -51,59 +51,59 @@ updated = 1739939727.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/83/35/a2d432db0d16e5828a028a50cc67.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s1280x1920/4c57641adfa733a4aa501fca7935147fab569a4b.jpg"
 width = 1280.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
 height = 1536.0
-url = "/images/a2/23/74716f4ea5708b593d9071db8d0c.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s2048x3072/b9cc3ffe1611c60e44f9ac9d8494e2bb46cbc852.jpg"
 width = 2048.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/83/35/a2d432db0d16e5828a028a50cc67.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s1280x1920/4c57641adfa733a4aa501fca7935147fab569a4b.jpg"
 width = 1280.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3a/b4/13fb27ce1d1aaaa68989980f58dc.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s640x960/4129b30b6004a9c3d882f42b34b52dc01f73a623.jpg"
 width = 640.0
 height = 480.0
 
 [[tumblr.photos.alt_sizes]]
 width = 540.0
 height = 405.0
-url = "/images/f5/c7/75009979a51cc07fa2608897dd0d.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s540x810/1fde31106c4864f8540c5ff5da67cff1397bf09e.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c3/dc/b84ad2b024162d0d573bab1aff8b.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s500x750/60b4ac8f78f22ec396471c1d319487b4d1e29fc6.jpg"
 width = 500.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
 height = 300.0
-url = "/images/65/81/2d908044773a319905d52f9ea1f1.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s400x600/f1ac12e5c12f898a1a7396ec69c8e5f85c634414.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fe/69/03f5ddae397b0cce2e3ad0af7170.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s250x400/000534adfafa8dd35f00467810bd0d5489b30aa2.jpg"
 width = 250.0
 height = 188.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/50/c8/cc01c77998ba0f203e6bd8a1af50.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s100x200/f9efe16c6ea3581c9cf905d7c01efa3f19ff919c.jpg"
 width = 100.0
 height = 75.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/f2/58/90e1df6feb24ed853b7862e0849e.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s75x75_c1/6a09656647c42353473916bf9f6f899f02f06003.jpg"
 width = 75.0
 
 [tumblr.photos.panorama_size]
 width = 667.0
 height = 500.0
-url = "/images/be/dc/80019ff877a97410d26e124fd2e8.jpg"
+url = "https://64.media.tumblr.com/4e5bd62b2b9a5fd4a0b8e10a80797393/c6579eb9b4b27c1b-42/s2560x500/de632efa33b944639807945a347d686d02a35a43.jpg"
 
 [tumblr.reblog]
 comment = "<p><p>Saw this at Apple today.</p> — <a href=\"https://mastodon.social/@wjs/112324418170576495\">@wjs</a></p>"
@@ -128,8 +128,8 @@ name = "indirect"
 [tumblr.trail.blog.theme]
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 show_avatar = true
 show_header_image = false
@@ -137,7 +137,7 @@ title_color = "#444444"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_title = true
 title_font = "Gibson"

@@ -29,7 +29,7 @@ can_blaze = false
 post_url = "https://indirect.io/post/688386552524587008/web3-chuds-the-metaverse-will-be-a-fully-virtual"
 summary = "Web3 chuds:\n The metaverse will be a fully virtual world you can live and work in, replacing your office with a virtual office..."
 video_url = "https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4"
-thumbnail_url = "/images/36/16/9c0f10ab79c24c563cd588313d2f.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv_frame1.jpg"
 state = "published"
 short_url = "https://tmblr.co/ZY3jbycDe_mROa00"
 can_reblog = false
@@ -43,15 +43,15 @@ caption = "<p>Web3 chuds:\n<br/>The metaverse will be a fully virtual world you 
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='250' height='457' poster='/images/68/57/8a4701da3edd54a8f74c9db6bfff.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/b5/1a/867e88bc21fde55d3c18639dcf8d.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='250' height='457' poster='https://64.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_re8gw9BuA11qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='400' height='731' poster='/images/68/57/8a4701da3edd54a8f74c9db6bfff.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/b5/1a/867e88bc21fde55d3c18639dcf8d.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='400' height='731' poster='https://64.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_re8gw9BuA11qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='500' height='914' poster='/images/68/57/8a4701da3edd54a8f74c9db6bfff.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/b5/1a/867e88bc21fde55d3c18639dcf8d.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592771d4399405814' class='crt-video crt-skin-default' width='500' height='914' poster='https://64.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":36,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_re8gw9BuA11qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"363\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_re8gw9BuA11qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [tumblr.reblog]
 comment = "<p>Web3 chuds:\n<br>The metaverse will be a fully virtual world you can live and work in, replacing your office with a virtual office and virtual currency so you can experience your real life in 3d from anywhere.\n<br>\n<br>Furries:\n<br>Fursona go bonk to Kate Bush — <a href=\"http://twitter.com/jjbbllkk/status/1534894564699279360\">@jjbbllkk</a></p>"
@@ -77,9 +77,9 @@ share_likes = false
 show_avatar = true
 show_header_image = false
 title_color = "#444444"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 title_font_weight = "bold"
@@ -88,7 +88,7 @@ title_font = "Gibson"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_title = true
 header_full_height = 1055.0
 avatar_shape = "square"

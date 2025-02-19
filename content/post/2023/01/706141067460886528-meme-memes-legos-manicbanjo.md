@@ -44,49 +44,49 @@ comment = "<p><p><a href=\"https://mastodon.lol/tags/meme\" class=\"mention hash
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/75/e0/3e96f64daa3760c14f3521a45779.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s1280x1920/10e636e4913ab3f5f64743511e6d770195aa04f6.jpg"
 width = 800.0
 height = 463.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/75/e0/3e96f64daa3760c14f3521a45779.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s1280x1920/10e636e4913ab3f5f64743511e6d770195aa04f6.jpg"
 width = 800.0
 height = 463.0
 
 [[tumblr.photos.alt_sizes]]
 width = 640.0
 height = 370.0
-url = "/images/84/13/7a153c4d09d500b13d514811bd84.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s640x960/654114e9c3ead066439669c7a8190fd5fecaaf23.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 540.0
 height = 313.0
-url = "/images/79/90/2c5003bea8e9eff699b2abd9c82f.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s540x810/51f3846305118853bbc3e3a4c34de9f9f3bebbce.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/ce/25841a0213ee612f64c452f5eac3.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s500x750/1ba870e9278f82293da58dee402f2d6eb3a7db21.jpg"
 width = 500.0
 height = 289.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4b/7f/1805fa8c4b8aefa2a3b748f63151.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s400x600/3c478f272ee776d8a0aeb5d954420e8de888ce3b.jpg"
 width = 400.0
 height = 232.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 145.0
-url = "/images/2a/5b/aa6edaa9386fab58b8a43cac87cc.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s250x400/10475529cbf8a6acbaf8aa34143845d9cf294d40.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 58.0
-url = "/images/5c/26/981e31dea0baff0a2c84869b7114.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s100x200/3973536fec1e603d0cab32412ab5bd07a6aaf6ed.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/f9/56/23bab1f2b3e0ab6163d52e641918.jpg"
+url = "https://64.media.tumblr.com/b38f0997049c727eeb08618dfc250f27/959f60bab7ea2472-c8/s75x75_c1/13d51db28b681be87bc0c83953597abc6795c1e8.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p><p><a href=\"https://mastodon.lol/tags/meme\" class=\"mention hashtag\" rel=\"tag\">#meme</a> <a href=\"https://mastodon.lol/tags/memes\" class=\"mention hashtag\" rel=\"tag\">#memes</a> <a href=\"https://mastodon.lol/tags/Legos\" class=\"mention hashtag\" rel=\"tag\">#Legos</a></p> — <a href=\"https://mastodon.lol/@manicbanjo/109659867759570966\">@manicbanjo</a></p>"
@@ -107,7 +107,7 @@ share_following = false
 [tumblr.trail.blog.theme]
 title_font_weight = "bold"
 header_full_width = 3000.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_title = true
 show_header_image = false
@@ -115,9 +115,9 @@ title_color = "#444444"
 avatar_shape = "square"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 header_full_height = 1055.0

@@ -20,7 +20,7 @@ can_reply = false
 is_blocks_post_format = false
 is_blaze_pending = false
 bookmarklet = true
-link_image = "/images/13/0b/aeeddd3d2b37c363e479fa9b5b47.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_ni1p6mlXtM1qz5dnv_og.jpg"
 publisher = "montulli.org"
 type = "link"
 id = 107858841288.0
@@ -59,7 +59,7 @@ description = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/13/0b/aeeddd3d2b37c363e479fa9b5b47.jpg"
+url = "https://64.media.tumblr.com/tumblr_ni1p6mlXtM1qz5dnv_og.jpg"
 width = 95.0
 height = 95.0
 

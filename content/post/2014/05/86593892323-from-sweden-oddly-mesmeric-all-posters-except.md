@@ -44,32 +44,32 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/0d/32/9f578697e53eaeea27780c21bc98.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_500.jpg"
 width = 468.0
 height = 349.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0d/32/9f578697e53eaeea27780c21bc98.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_500.jpg"
 width = 468.0
 height = 349.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0f/33/de0125b83bf219f00dd248ffac2a.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_400.jpg"
 width = 400.0
 height = 298.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/dc/79/fb6eb83d5cd82690e2b4efddc56b.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_250.jpg"
 width = 250.0
 height = 186.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 75.0
-url = "/images/2c/96/7386491c213b7ba6532c8a3cfa25.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_100.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f9/7f/a02aa9f80b3cbb29d38319e15c55.jpg"
+url = "https://64.media.tumblr.com/025c3124d0f79898038e6a8611aceec1/tumblr_n613r8Jkkm1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -93,13 +93,13 @@ body_font = "Helvetica Neue"
 header_image_poster = ""
 show_title = true
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 header_full_width = 3000.0
 header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 link_color = "#529ECC"
 title_color = "#444444"

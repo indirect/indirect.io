@@ -24,7 +24,7 @@ note_count = 0.0
 source_title = "journals.plos.org"
 is_blazed = false
 is_blaze_pending = false
-link_image = "/images/dc/17/f0844c1eadd13326e5921a379bc3.png"
+link_image = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_540.png"
 excerpt = "This paper studies differences in the effect of temperature on cognitive performance by gender in a large controlled lab experiment (N = 543). We study performance in math, verbal and cognitive reflection tasks and find that the effects of temperature vary significantly across men and women. At higher temperatures, women perform better on a math and verbal task while the reverse effect is observed for men. The increase in female performance in response to higher temperature is significantly larger and more precisely estimated than the corresponding decrease in male performance. In contrast to math and verbal tasks, temperature has no impact on a measure of cognitive reflection for either gender. Our findings suggest that gender mixed workplaces may be able to increase productivity by setting the thermostat higher than current standards."
 can_like = false
 can_send_in_message = true
@@ -57,27 +57,27 @@ title = "indirect"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/96/41/71e9bbfb87a7e1eeaa85b3e82f5e.png"
+url = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_1280.png"
 width = 320.0
 height = 233.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/64/1b/d6c2632b9ce94cfb506c8ff9fbba.png"
+url = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_400.png"
 width = 320.0
 height = 233.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/39/b4/e7045e017734a0af8ad815a928c8.png"
+url = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_250.png"
 width = 250.0
 height = 182.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/81/bc/e3338580679dcb0b7490ff59d2e5.png"
+url = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_100.png"
 width = 100.0
 height = 73.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e1/1a/8b839d30e2bad9da6cc02642b24b.png"
+url = "https://64.media.tumblr.com/65dc601427276fd535cf0e0f5f831a94/tumblr_przr5nqmca1qz5dnv_og_75sq.png"
 width = 75.0
 height = 75.0
 
@@ -110,15 +110,15 @@ header_image_poster = ""
 header_stretch = true
 show_header_image = false
 show_title = true
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 title_font = "Gibson"
 body_font = "Helvetica Neue"
 header_bounds = ""
 link_color = "#529ECC"
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 title_color = "#444444"
 title_font_weight = "bold"

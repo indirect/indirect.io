@@ -33,7 +33,7 @@ reblog_key = "ViHbGcWC"
 can_reblog = false
 slug = "rebecca-solnit-on-not-meeting-nazis-halfway"
 summary = "Rebecca Solnit: On Not Meeting Nazis Halfway"
-link_image = "/images/ab/82/9ee93e68b35f1555be1d34ea0312.jpg"
+link_image = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s540x810/3949750d7365a20381d20df6e584d299f1aee942.jpg"
 can_reply = false
 post_url = "https://indirect.io/post/635449077024391168/rebecca-solnit-on-not-meeting-nazis-halfway"
 timestamp = 1606011463.0
@@ -86,13 +86,13 @@ title_font = "Gibson"
 avatar_shape = "square"
 background_color = "#FAFAFA"
 title_font_weight = "bold"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 title_color = "#444444"
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 
 [tumblr.trail.post]
@@ -102,47 +102,47 @@ id = "635449077024391168"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/d0/55/1559f885dd52318ae7b162e2ce93.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s1280x1920/bef9bfcfb1a122410553fd45ea079631065c0b46.jpg"
 width = 1200.0
 height = 471.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d0/55/1559f885dd52318ae7b162e2ce93.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s1280x1920/bef9bfcfb1a122410553fd45ea079631065c0b46.jpg"
 width = 1200.0
 height = 471.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/60/e0/805ec65d2513c900fbdc4b1b9bb8.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s640x960/7c456c8e779db71cf06197805dedce57b294e80a.jpg"
 width = 640.0
 height = 251.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ab/82/9ee93e68b35f1555be1d34ea0312.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s540x810/3949750d7365a20381d20df6e584d299f1aee942.jpg"
 width = 540.0
 height = 212.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/06/53/cd829bcdbe4fa15442d944eeaf27.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s500x750/b0de47b43462d80253a4e249ce051620822e5736.jpg"
 width = 500.0
 height = 196.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 157.0
-url = "/images/13/e2/8eb325a1616bcaff14d6cc534d7c.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s400x600/96a03b05b1679ce52442f8d145dbc14788e7bf02.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5a/5c/2f7832d29a09b191abfd9bf116e5.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s250x400/869e465e29048b99943191a65be501a9d7bea267.jpg"
 width = 250.0
 height = 98.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 39.0
-url = "/images/ad/55/c21af621e96d58a71d978345a285.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s100x200/5bac320f85a4650f27bb852f020aeea7b0557421.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d0/ef/22005aeed9940e2c86d80ac7a387.jpg"
+url = "https://64.media.tumblr.com/c6730b6bd68c3aff54988cdf6c14c4e2/74c1a30802af94e1-5c/s75x75_c1/d154cfb05fe68b424e2a9098f9305bca18f058ee.jpg"
 width = 75.0
 height = 75.0
 +++

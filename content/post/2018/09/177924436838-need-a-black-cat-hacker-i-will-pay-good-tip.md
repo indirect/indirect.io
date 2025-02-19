@@ -42,47 +42,47 @@ caption = ""
 [tumblr.photos.original_size]
 width = 1125.0
 height = 982.0
-url = "/images/55/39/58e66e37b7fb3e6ea0f9b9ac236f.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_1280.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/55/39/58e66e37b7fb3e6ea0f9b9ac236f.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_1280.jpg"
 width = 1125.0
 height = 982.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/27/1a/8a5bd7969efa4ee9d08b627d3af2.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_640.jpg"
 width = 640.0
 height = 559.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4d/14/c5a560453c0defd2c580c52ceb73.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_540.jpg"
 width = 540.0
 height = 471.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5e/8f/a6b2aae049051125b917a25f086f.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_500.jpg"
 width = 500.0
 height = 436.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/15/14/93673e819a6f2620eb8622ae94ec.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_400.jpg"
 width = 400.0
 height = 349.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b9/8b/23a0e38ed037c9a03332c6f38be3.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_250.jpg"
 width = 250.0
 height = 218.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6c/b1/364d0ff537fdad857d6d09b4ae75.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_100.jpg"
 width = 100.0
 height = 87.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/83/42/14f4d0ef86125cc1fd6cb0d7d363.jpg"
+url = "https://64.media.tumblr.com/e9c9b36b0def7822b4cfda65b9ef7033/tumblr_peth1qAR1d1qz5dnvo1_75sq.jpg"
 
 [tumblr.reblog]
 comment = "<p>Need a black cat hacker, I will pay good tip — <a href=\"http://twitter.com/find_evil/status/1038889539509673986\">@find_evil</a></p>"
@@ -121,16 +121,16 @@ show_avatar = true
 show_description = true
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_stretch = true
 link_color = "#529ECC"
 header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 show_title = true
 title_color = "#444444"

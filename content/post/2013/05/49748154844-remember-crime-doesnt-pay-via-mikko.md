@@ -39,42 +39,42 @@ post_url = "https://indirect.io/post/49748154844/remember-crime-doesnt-pay-via-m
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/ee/68/538a49fc74f5f9730921300f6fce.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_640.jpg"
 width = 590.0
 height = 393.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ee/68/538a49fc74f5f9730921300f6fce.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_640.jpg"
 width = 590.0
 height = 393.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/99/8f/64eaf5b42f1100320505800ebd68.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_540.jpg"
 width = 540.0
 height = 360.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 333.0
-url = "/images/c9/af/3792a927713971fc9f5dea357d99.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 266.0
-url = "/images/a3/46/50591eb5a7f5a18231623fd80425.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_400.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/19/4f/e9192d3f6784f14fac12d3eaad0b.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_250.jpg"
 width = 250.0
 height = 167.0
 
 [[tumblr.photos.alt_sizes]]
 height = 67.0
-url = "/images/49/b3/eb2486406a441ed1c5ac960ea721.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/31/75/084a338589569bab1ed53aa073bb.jpg"
+url = "https://64.media.tumblr.com/294eeb0cb53877e6cc01cb802351904d/tumblr_mmcxth6O9Q1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -105,12 +105,12 @@ share_likes = false
 [tumblr.trail.blog.theme]
 header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font = "Gibson"
 header_full_width = 3000.0
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_header_image = false
@@ -118,7 +118,7 @@ avatar_shape = "square"
 header_image_poster = ""
 link_color = "#529ECC"
 title_font_weight = "bold"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_description = true
 show_title = true
 title_color = "#444444"

@@ -65,7 +65,7 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 header_stretch = true
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 link_color = "#529ECC"
 title_color = "#444444"
@@ -81,8 +81,8 @@ show_header_image = false
 title_font_weight = "bold"
 header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.reblog]
 comment = "<p>Mercator projection vs. the true size of countries — <a href=\"http://twitter.com/nick_kapur/status/1062407074431361030\">@nick_kapur</a></p>"
@@ -92,47 +92,47 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/68/08/e342afc08fffbc136ef1479ec1f8.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_1280.jpg"
 width = 1070.0
 height = 735.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/68/08/e342afc08fffbc136ef1479ec1f8.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_1280.jpg"
 width = 1070.0
 height = 735.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c6/d5/1d759d413dc6e3a66ecc7747db30.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_640.jpg"
 width = 640.0
 height = 440.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d2/63/c238c6959eed274fe436e878268e.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_540.jpg"
 width = 540.0
 height = 371.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ea/b7/a876f95f50d76e44132df2d26447.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_500.jpg"
 width = 500.0
 height = 343.0
 
 [[tumblr.photos.alt_sizes]]
 height = 275.0
-url = "/images/cb/1b/1cfadb78ed1619bb54bdd57c449e.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_400.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a2/4c/e605831c3d982caa5a87744a525c.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_250.jpg"
 width = 250.0
 height = 172.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/12/b0/e684fbb4ded0371ac0a643a280a5.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_100.jpg"
 width = 100.0
 height = 69.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cd/ca/7909ca47571afc31cc93dd8d7276.jpg"
+url = "https://64.media.tumblr.com/dc3d1ca52525ca2f247a991518c07c56/tumblr_pi6a08YXrj1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 +++

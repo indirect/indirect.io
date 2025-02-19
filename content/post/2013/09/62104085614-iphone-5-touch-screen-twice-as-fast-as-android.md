@@ -43,49 +43,49 @@ source_url = "http://www.macrumors.com/2013/09/21/iphone-5-touch-screen-twice-as
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/cd/e2/172baac3b8b1f8e25ba0be5ba500.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_1280.jpg"
 width = 800.0
 height = 538.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cd/e2/172baac3b8b1f8e25ba0be5ba500.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_1280.jpg"
 width = 800.0
 height = 538.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f4/9c/b4c97a243a2037f03e90e454d65e.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_640.jpg"
 width = 640.0
 height = 430.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a5/54/5597aeeea1860d3d1e55e35b1226.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_540.jpg"
 width = 540.0
 height = 363.0
 
 [[tumblr.photos.alt_sizes]]
 height = 336.0
-url = "/images/4e/34/dc29e6155bae2001275a1d840641.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_500.jpg"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/aa/64/4890c82a66bb5e025a4b2ac8bc52.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_400.jpg"
 width = 400.0
 height = 269.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1e/e2/f2c8b2b4bac9f97239e6eeef37af.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_250.jpg"
 width = 250.0
 height = 168.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c9/8e/e5a67d175e45143c2d7c028a8700.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_100.jpg"
 width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/6e/4e/40ab6fb47dc0c634e1243302fbc5.jpg"
+url = "https://64.media.tumblr.com/65b32bbc1ee36206e68e8d12adaf97a7/tumblr_mtlreem2qf1qz5dnvo1_75sq.jpg"
 
 [tumblr.blog]
 title = "indirect"
@@ -116,7 +116,7 @@ share_likes = false
 
 [tumblr.trail.blog.theme]
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
@@ -127,8 +127,8 @@ show_header_image = false
 title_color = "#444444"
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_avatar = true
 show_description = true

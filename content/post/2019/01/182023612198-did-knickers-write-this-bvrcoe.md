@@ -40,27 +40,27 @@ date = "2019-01-15 05:07:28 GMT"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b1/13/fcf8e52ba89b7cb0536c129f34d4.jpg"
+url = "https://64.media.tumblr.com/e2cc7db001e4a418bc15d85185d94a1f/tumblr_plcwwgeOg01qz5dnvo1_400.jpg"
 width = 307.0
 height = 428.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b1/13/fcf8e52ba89b7cb0536c129f34d4.jpg"
+url = "https://64.media.tumblr.com/e2cc7db001e4a418bc15d85185d94a1f/tumblr_plcwwgeOg01qz5dnvo1_400.jpg"
 width = 307.0
 height = 428.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3d/88/cfaeb7999a7688541a7fa2ffe0db.jpg"
+url = "https://64.media.tumblr.com/e2cc7db001e4a418bc15d85185d94a1f/tumblr_plcwwgeOg01qz5dnvo1_250.jpg"
 width = 250.0
 height = 349.0
 
 [[tumblr.photos.alt_sizes]]
 height = 139.0
-url = "/images/56/38/5bf1cb088ab20fc0f8dfa10ff861.jpg"
+url = "https://64.media.tumblr.com/e2cc7db001e4a418bc15d85185d94a1f/tumblr_plcwwgeOg01qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/92/56/7052700127b4dc04e0dbf9c42fdb.jpg"
+url = "https://64.media.tumblr.com/e2cc7db001e4a418bc15d85185d94a1f/tumblr_plcwwgeOg01qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -100,19 +100,19 @@ show_title = true
 title_color = "#444444"
 title_font_weight = "bold"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 avatar_shape = "square"
 show_avatar = true
 header_full_height = 1055.0
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_header_image = false
 title_font = "Gibson"
 header_full_width = 3000.0
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 +++

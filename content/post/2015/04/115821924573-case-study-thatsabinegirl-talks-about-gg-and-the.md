@@ -53,13 +53,13 @@ share_likes = false
 share_following = false
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 title_color = "#444444"
 title_font = "Gibson"
 header_full_height = 1055.0
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 title_font_weight = "bold"
 avatar_shape = "square"
@@ -81,42 +81,42 @@ comment = "<p>Case study: @ThatSabineGirl talks about GG and the autoblocker. A 
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/ab/86/b8232ad2b217f74e5feb5802ab8d.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_640.jpg"
 width = 573.0
 height = 895.0
 
 [[tumblr.photos.alt_sizes]]
 width = 573.0
 height = 895.0
-url = "/images/ab/86/b8232ad2b217f74e5feb5802ab8d.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_640.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cc/5d/87656e7d9a0729d6f0060a355ae8.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_540.jpg"
 width = 519.0
 height = 810.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/42/47/6c990548554b8d074d7af74ee129.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_500.jpg"
 width = 480.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bf/5f/088c36beb3ff2a2a4e731aa75692.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_400.jpg"
 width = 384.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b8/21/673fb3c68921f8b36a9a8d4858f7.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_250.jpg"
 width = 250.0
 height = 390.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 156.0
-url = "/images/71/b2/588e55b6b88ebcb8b017d527a2cd.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_100.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d6/ed/7c005ffa783d66dd320bad5fe384.jpg"
+url = "https://64.media.tumblr.com/5f2589d5c907932a9883c13f06680e0b/tumblr_nmgy7iHMH91qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 

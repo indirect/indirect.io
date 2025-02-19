@@ -71,13 +71,13 @@ show_avatar = true
 show_description = true
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 link_color = "#529ECC"
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font_weight = "bold"
 header_full_width = 3000.0
 
@@ -88,44 +88,44 @@ id = "107865149618"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a6/b0/8f3da23a198709ccf447c7968f9c.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_640.png"
 width = 599.0
 height = 373.0
 
 [[tumblr.photos.alt_sizes]]
 height = 336.0
-url = "/images/03/83/6f430a831f37d13d57c60d21d0aa.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_540.png"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/71/d9/23b13944e770c8b2afce694ec62f.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_500.png"
 width = 500.0
 height = 311.0
 
 [[tumblr.photos.alt_sizes]]
 height = 249.0
-url = "/images/8b/04/53b5984c63836a45b496e2c55242.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_400.png"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3c/99/4d14262081d8478345d2da6a7d2e.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_250.png"
 width = 250.0
 height = 156.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fb/37/41b685ddb40fee0738a3bd9fbfd5.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_100.png"
 width = 100.0
 height = 62.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/4a/df/305800738c0f6cc071943208d2b3.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_75sq.png"
 
 [tumblr.photos.original_size]
 width = 599.0
 height = 373.0
-url = "/images/a6/b0/8f3da23a198709ccf447c7968f9c.png"
+url = "https://64.media.tumblr.com/f1400eba8cdbe0e54b5f777f63c59405/tumblr_ni1sgzSWBI1qz5dnvo1_640.png"
 
 [tumblr.reblog]
 comment = "<p>That surprised look when you show someone that broccoli didn’t occur “naturally” humans bred it from wild mustard — <a href=\"http://twitter.com/VanceCrowe/status/554290735030075393\">@VanceCrowe</a></p>"

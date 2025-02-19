@@ -54,17 +54,17 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/41/e5/335d609b49eeb109c32a52155fd5.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_11_focused_v3.png?_v=4275fa0865b78225d79970023dde05a1"
 header_stretch = true
 show_description = true
 show_avatar = true
 show_header_image = true
 title_color = "#000000"
-header_image_focused = "/images/41/e5/335d609b49eeb109c32a52155fd5.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_11_focused_v3.png?_v=4275fa0865b78225d79970023dde05a1"
 header_image_poster = ""
 link_color = "#00B8FF"
 title_font = "Gibson"
-header_image = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 show_title = true
 title_font_weight = "bold"
 avatar_shape = "circle"

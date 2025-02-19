@@ -66,16 +66,16 @@ header_full_width = 3000.0
 header_full_height = 1055.0
 header_bounds = ""
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font_weight = "bold"
 avatar_shape = "square"
 title_font = "Gibson"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_title = true
 title_color = "#444444"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_description = true
@@ -88,44 +88,44 @@ id = "99513939343"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/52/3b/88ee1ef910ce72e04163057ef48f.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_640.png"
 width = 554.0
 height = 352.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/52/3b/88ee1ef910ce72e04163057ef48f.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_640.png"
 width = 554.0
 height = 352.0
 
 [[tumblr.photos.alt_sizes]]
 height = 343.0
-url = "/images/b9/18/24c196db5707e5451c0fa7a1fbfe.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_540.png"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/16/d4/5f331eed32f5f25954664120f697.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_500.png"
 width = 500.0
 height = 318.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/72/92/a367df31c04bba22115e9e152e54.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_400.png"
 width = 400.0
 height = 254.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/01/6d/06e7d7232181de2dda83ac68aa29.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_250.png"
 width = 250.0
 height = 159.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/fb/3ad9c85a225aa9763e2350e545be.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_100.png"
 width = 100.0
 height = 64.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/25/55/046ee2617a8443793569a01d1af6.png"
+url = "https://64.media.tumblr.com/b324f0528f0ce79792b3ad0894fdb3e1/tumblr_nd5aknvAao1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>Zizek on cats, highlight so far from the Zizek chat on @guardian @VersoBooks — <a href=\"http://twitter.com/Crittheory/status/519855420383711232\">@Crittheory</a></p>"

@@ -67,32 +67,32 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 363.0
-url = "/images/84/38/d1ec88629c0298dcf90c76733271.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_500.png"
 width = 487.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/84/38/d1ec88629c0298dcf90c76733271.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_500.png"
 width = 487.0
 height = 363.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7f/a1/f611b71b32680087b44282985939.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_400.png"
 width = 400.0
 height = 298.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/de/4d/434917db73911d5dbcb9d6288fec.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_250.png"
 width = 250.0
 height = 186.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0e/3b/a4cc92e23ef71b0022944ce4269c.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_100.png"
 width = 100.0
 height = 75.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/77/20/5a63351c491c52f8faafc5aca732.png"
+url = "https://64.media.tumblr.com/011f3598a848c3991e4b1bf3d8c48e01/tumblr_muh4eugvOa1r9auruo1_75sq.png"
 width = 75.0
 
 [tumblr.reblog]

@@ -55,7 +55,7 @@ header_stretch = true
 show_description = true
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_header_image = false
 title_font = "Gibson"
@@ -64,8 +64,8 @@ header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 show_avatar = true
 show_title = true
@@ -77,49 +77,49 @@ id = "755498394994327552"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/e2/3a/aa468cb3b7393bbb5dc898cff65a.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s1280x1920/ebe4d1fee4e3fd52e5b820be6c24ad567e9165d0.jpg"
 width = 1000.0
 height = 739.0
 
 [[tumblr.photos.alt_sizes]]
 height = 739.0
-url = "/images/e2/3a/aa468cb3b7393bbb5dc898cff65a.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s1280x1920/ebe4d1fee4e3fd52e5b820be6c24ad567e9165d0.jpg"
 width = 1000.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ce/1d/2b506a620f4721043a4c5c45d020.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s640x960/651464ad6632196bfbcf09b89ab64cf5ba708fbe.jpg"
 width = 640.0
 height = 473.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e7/07/614ed7d24c5dea229bcc1cae5d49.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s540x810/e06008eda78b1c8c863ed8929bc403a8621b0d40.jpg"
 width = 540.0
 height = 399.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b0/2b/259236ea7c53712d095cba31d6dc.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s500x750/c02b128228f869581d7f8fe4c005458003c996fd.jpg"
 width = 500.0
 height = 370.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7f/ae/17563ac1e1aa9561213d36e73703.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s400x600/f534a9fb4dae6b1d81f2788a6cd7fa87efcc2439.jpg"
 width = 400.0
 height = 296.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c3/f5/bbc02da539a99dc3448f6151ebf2.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s250x400/9f4705849c3df1b3127b68e9dbc5876ceee54fe7.jpg"
 width = 250.0
 height = 185.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/50/e5/1b7a5e9e4a90ec51af4c81d07ff3.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s100x200/9d0cb0368e745af7499392df74d2680146544916.jpg"
 width = 100.0
 height = 74.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/2f/9e/59f12401da4b536b1256f1bbe652.jpg"
+url = "https://64.media.tumblr.com/47e1a5e37f647a6e355feba1cfefb901/839fce5bdd6524b2-54/s75x75_c1/de0747c49ff8b4718c8e963ad6a32f03c08868c5.jpg"
 
 [tumblr.reblog]
 comment = "<p>an elder millennial posing next to her first shelter in Minecraft (2011) — <a href=\"https://bsky.app/profile/juno.bsky.social/post/3kwswjuh3gp2u\">juno. stump (@juno.bsky.social)</a></p>"

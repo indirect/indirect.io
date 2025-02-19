@@ -31,7 +31,7 @@ display_avatar = true
 is_blocks_post_format = false
 is_blaze_pending = false
 should_open_in_legacy = true
-link_image = "/images/8a/ad/e849d4144cb5742a6d9dd886333d.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_njukml5wJp1qz5dnv_og.jpg"
 can_send_in_message = true
 can_reply = false
 publisher = "theonion.com"
@@ -48,7 +48,7 @@ height = 500.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/8a/ad/e849d4144cb5742a6d9dd886333d.jpg"
+url = "https://64.media.tumblr.com/tumblr_njukml5wJp1qz5dnv_og.jpg"
 width = 500.0
 height = 500.0
 

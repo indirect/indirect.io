@@ -52,19 +52,19 @@ share_likes = false
 [tumblr.trail.blog.theme]
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_image_poster = ""
 show_title = true
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_description = true
 show_header_image = false
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 title_color = "#444444"
 title_font = "Gibson"
@@ -77,32 +77,32 @@ id = "99761323433"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/95/f0/7fb3b4b2606ca7c2033f0cee9fe5.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_500.png"
 width = 500.0
 height = 550.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/44/ab/904e6858a869614a7a7bfa125838.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_400.png"
 width = 400.0
 height = 440.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4c/c1/1f15e64418459a0feaf3cd5b476b.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_250.png"
 width = 250.0
 height = 275.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ff/f9/9aa0029eacf2a6f25bb60da838e9.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_100.png"
 width = 100.0
 height = 110.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/37/81/50eda480320f9c1601f017f0adf3.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_75sq.png"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
-url = "/images/95/f0/7fb3b4b2606ca7c2033f0cee9fe5.png"
+url = "https://64.media.tumblr.com/b0d4cfc3aa7bf7d24d4872b5c07b9543/tumblr_ndaw5z7GBO1qz5dnvo1_500.png"
 width = 500.0
 height = 550.0
 

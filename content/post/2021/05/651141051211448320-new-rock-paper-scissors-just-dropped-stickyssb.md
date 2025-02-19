@@ -55,49 +55,49 @@ tree_html = ""
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1a/ed/c0cf2cfcaa3ec916e57ef2ce0c95.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s1280x1920/026e5bbf12753dcdde0383f38951a71e5d39970c.jpg"
 width = 1080.0
 height = 785.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/43/b7/b305d35cdd7928e4d2b0d0738d0a.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s640x960/2ee48b1fcead0ef16388a8d34aa955a650dce275.jpg"
 width = 640.0
 height = 465.0
 
 [[tumblr.photos.alt_sizes]]
 width = 540.0
 height = 393.0
-url = "/images/10/0b/83c194ab2eed2db2e168c117e959.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s540x810/6545321448161d802864fcfcf3c0a6896489ddd1.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2f/64/09ec74b7ee9fa510a64dbb16736d.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s500x750/c7a2adae2030f94a98afa853849c6c93a5ad7bd2.jpg"
 width = 500.0
 height = 363.0
 
 [[tumblr.photos.alt_sizes]]
 height = 291.0
-url = "/images/73/bd/d6213fac8e51848af3762395ade2.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s400x600/e11c39dcce5249a1874d2c538a57614d5430f0b9.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 182.0
-url = "/images/55/d6/b21d8f5f393759fb0ff35e5a79f9.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s250x400/de93b288c90d1722be2764dcd2a9f135f007419a.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/93/8b/4a1b357e35052047afce761b2923.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s100x200/83086eafd2e5e01501a78d303173cf110767f6f2.jpg"
 width = 100.0
 height = 73.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0a/52/eb200b408e808232c1a666bb4583.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s75x75_c1/b747979037f75692c6fee03371074b9793308336.jpg"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
 width = 1080.0
 height = 785.0
-url = "/images/1a/ed/c0cf2cfcaa3ec916e57ef2ce0c95.jpg"
+url = "https://64.media.tumblr.com/06b4ba19faf9c607e34962e0f156d2b2/b7c11de121a37058-76/s1280x1920/026e5bbf12753dcdde0383f38951a71e5d39970c.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>New rock paper scissors just dropped — <a href=\"http://twitter.com/sticky_ssb/status/1392857442711752705\">@sticky_ssb</a></p>"
@@ -125,14 +125,14 @@ header_stretch = true
 title_font = "Gibson"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 background_color = "#FAFAFA"
 title_color = "#444444"
 title_font_weight = "bold"
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 show_description = true
 +++

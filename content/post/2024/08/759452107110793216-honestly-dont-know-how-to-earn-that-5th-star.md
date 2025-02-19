@@ -40,24 +40,24 @@ state = "published"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/85/8d/054b33fc8675b12441ef3fd45b38.png"
+url = "https://64.media.tumblr.com/63256df4703e9e07290ee8dabc2f6a9a/364bb268d6b52659-18/s250x400/1588d4a5972f7244ff55a80a5a62f7c9b2c3554f.png"
 width = 182.0
 height = 87.0
 
 [[tumblr.photos.alt_sizes]]
 width = 182.0
 height = 87.0
-url = "/images/85/8d/054b33fc8675b12441ef3fd45b38.png"
+url = "https://64.media.tumblr.com/63256df4703e9e07290ee8dabc2f6a9a/364bb268d6b52659-18/s250x400/1588d4a5972f7244ff55a80a5a62f7c9b2c3554f.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f9/26/4018d2a442f8435650254c5131d1.png"
+url = "https://64.media.tumblr.com/63256df4703e9e07290ee8dabc2f6a9a/364bb268d6b52659-18/s100x200/fc0fa2c9653ed1d6153a9b0d6070c7cc014b5dd3.png"
 width = 100.0
 height = 48.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/e1/11/d9888d133e1b6ef68d6693db1c8a.png"
+url = "https://64.media.tumblr.com/63256df4703e9e07290ee8dabc2f6a9a/364bb268d6b52659-18/s75x75_c1/b5204557acd04d8a4d79d030b4e98fd9e62f7bcc.png"
 
 [tumblr.blog]
 updated = 1739939727.0
@@ -92,13 +92,13 @@ header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 show_avatar = true
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 header_image_poster = ""
 header_stretch = true

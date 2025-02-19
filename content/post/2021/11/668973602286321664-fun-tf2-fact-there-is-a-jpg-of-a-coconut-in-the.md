@@ -40,27 +40,27 @@ id_string = "668973602286321664"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/c9/57/039f117c945abe07f73d1c8cf118.jpg"
+url = "https://64.media.tumblr.com/80c142f88b2a9117f795e2945ec1b92a/23ac3363d63d7114-d6/s400x600/b49888094ee566d0ddd279d20b3d36ea858f55c6.jpg"
 width = 256.0
 height = 256.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c9/57/039f117c945abe07f73d1c8cf118.jpg"
+url = "https://64.media.tumblr.com/80c142f88b2a9117f795e2945ec1b92a/23ac3363d63d7114-d6/s400x600/b49888094ee566d0ddd279d20b3d36ea858f55c6.jpg"
 width = 256.0
 height = 256.0
 
 [[tumblr.photos.alt_sizes]]
 height = 250.0
-url = "/images/ea/0e/2dd97f86e12dfe2fab337ceae74b.jpg"
+url = "https://64.media.tumblr.com/80c142f88b2a9117f795e2945ec1b92a/23ac3363d63d7114-d6/s250x400/8fc17c729d9ce5f1e4ad4b038119d431cfba202a.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 height = 100.0
-url = "/images/44/a1/d3ffe91eef65820f16ccd1e879bf.jpg"
+url = "https://64.media.tumblr.com/80c142f88b2a9117f795e2945ec1b92a/23ac3363d63d7114-d6/s100x200/b7b0d9ffcaa3dec8df7b3346884f04a4bb46826a.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6c/c0/fbbf52dc9915633ce14395d48414.jpg"
+url = "https://64.media.tumblr.com/80c142f88b2a9117f795e2945ec1b92a/23ac3363d63d7114-d6/s75x75_c1/068c35cc1e96a9d33f9871fe82ac06c9c139235b.jpg"
 width = 75.0
 height = 75.0
 
@@ -105,13 +105,13 @@ title_font_weight = "bold"
 header_full_width = 3000.0
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 show_header_image = false
 title_font = "Gibson"
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "668973602286321664"

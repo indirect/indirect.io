@@ -55,42 +55,42 @@ comment = "<p>Why Nigerian scam emails are so poorly written. — <a href=\"http
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/a1/17/ffd05992338d1f6ad07300d9b006.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_640.jpg"
 width = 600.0
 height = 335.0
 
 [[tumblr.photos.alt_sizes]]
 height = 335.0
-url = "/images/a1/17/ffd05992338d1f6ad07300d9b006.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_640.jpg"
 width = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/ab/093cb97edf658451e2e8327dc1b3.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_540.jpg"
 width = 540.0
 height = 302.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d1/1a/41080026b8e913bd1f78a82ebcc9.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_500.jpg"
 width = 500.0
 height = 279.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 223.0
-url = "/images/50/9e/22032683a9dfa0e94ff10aa298bb.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_400.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5c/4f/dee0263cc53bc01640140fad502e.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_250.jpg"
 width = 250.0
 height = 140.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cb/15/1c660db82791f8a856ee44e7653f.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_100.jpg"
 width = 100.0
 height = 56.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d6/3a/74bab2c82340e257eeccb70e6afd.jpg"
+url = "https://64.media.tumblr.com/4794bb6b014ddf9b1419d1a849d82960/tumblr_na5k0lVzzn1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -112,13 +112,13 @@ title_font_weight = "bold"
 avatar_shape = "square"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 header_full_width = 3000.0
 header_image_poster = ""
 link_color = "#529ECC"
 show_avatar = true
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 show_header_image = false
@@ -126,7 +126,7 @@ show_title = true
 title_font = "Gibson"
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 
 [tumblr.trail.post]
 id = "94447170258"

@@ -54,7 +54,7 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 header_bounds = ""
 link_color = "#529ECC"
@@ -65,13 +65,13 @@ header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 show_title = true
 title_font = "Gibson"
 show_description = true
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 
 [tumblr.reblog]
 comment = "<p>“[T]here does not appear to be a relationship with anonymity and incivility, as uncivil tweets were just as likely to originate from tweets that identified users’ names as they were to originate from anonymous or pseudonymous accounts\"\n<br>\n<br> — <a href=\"http://twitter.com/losowsky/status/1427745628541657093\">@losowsky</a></p>"

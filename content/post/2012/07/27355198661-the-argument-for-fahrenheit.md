@@ -43,47 +43,47 @@ comment = "<p>The argument for Fahrenheit</p>"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/5a/b9/c47a52aad6e597e39c638c0e81cc.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_1280.jpg"
 width = 957.0
 height = 963.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5a/b9/c47a52aad6e597e39c638c0e81cc.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_1280.jpg"
 width = 957.0
 height = 963.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1a/94/4dbea55aaab14209604339bcc45e.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_640.jpg"
 width = 640.0
 height = 644.0
 
 [[tumblr.photos.alt_sizes]]
 height = 543.0
-url = "/images/61/e5/74d082983c63d95b632529a987ae.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_540.jpg"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/19/bb/98b0594fe65e8c2e5ee59f964053.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_500.jpg"
 width = 500.0
 height = 503.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/df/3f/6eb4831590f04578615df9aa3cc7.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_400.jpg"
 width = 400.0
 height = 403.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1b/43/158df667479a81329ef48941427c.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_250.jpg"
 width = 250.0
 height = 252.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/b9/ed2f4bf64dfbc80613d228c95852.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_100.jpg"
 width = 100.0
 height = 101.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/66/da/a34df2384743ca97c7b83dabbc67.jpg"
+url = "https://64.media.tumblr.com/tumblr_m79ujsUiNZ1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -115,14 +115,14 @@ name = "indirect"
 header_full_width = 3000.0
 header_full_height = 1055.0
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 header_stretch = true
 link_color = "#529ECC"
 show_avatar = true
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 title_color = "#444444"
 body_font = "Helvetica Neue"

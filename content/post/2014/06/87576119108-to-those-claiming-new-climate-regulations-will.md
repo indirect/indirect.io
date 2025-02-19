@@ -50,18 +50,18 @@ share_following = false
 can_be_followed = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_description = true
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font = "Gibson"
 header_full_height = 1055.0
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 link_color = "#529ECC"
 show_header_image = false
@@ -77,44 +77,44 @@ id = "87576119108"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b4/0d/a14f01c2cc20afe21eb2effbe775.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_640.png"
 width = 599.0
 height = 442.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b4/0d/a14f01c2cc20afe21eb2effbe775.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_640.png"
 width = 599.0
 height = 442.0
 
 [[tumblr.photos.alt_sizes]]
 height = 398.0
-url = "/images/89/fa/5efd3b26cee83516ccb3f61167ba.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_540.png"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d2/ad/0293de8c431f243aeb367897bd01.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_500.png"
 width = 500.0
 height = 369.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 295.0
-url = "/images/50/8f/a7a370747a24a56605c683b92c12.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_400.png"
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 184.0
-url = "/images/19/a4/fee72b4310f33701978153664258.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_250.png"
 
 [[tumblr.photos.alt_sizes]]
 height = 74.0
-url = "/images/e1/d5/96456054a029475bd23454d8d421.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_100.png"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/ba/07/01322340880928936d960abf44d4.png"
+url = "https://64.media.tumblr.com/67f3c61e388d308d3f75942c3315fe36/tumblr_n6j43wg7xg1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>To those claiming new climate regulations will destroy the economy, here’s how past claims panned out. — <a href=\"http://twitter.com/PeterGleick/status/472904744684359680\">@PeterGleick</a></p>"

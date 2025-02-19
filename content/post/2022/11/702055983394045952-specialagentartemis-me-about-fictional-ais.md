@@ -72,7 +72,7 @@ link_color = "#529ECC"
 header_full_width = 960.0
 header_focus_height = 478.0
 header_bounds = "169,906,647,55"
-header_image_scaled = "/images/6b/f0/ba02b339205e9479c70f0a399281.jpg"
+header_image_scaled = "https://64.media.tumblr.com/34472deadda2b94419d08b893f2356b2/2d0634858bbe3185-d4/s2048x3072/bd7dc3872e89345ab49e52dbdf5ef46fdaff9f41.jpg"
 title_font = "Arquitecta"
 avatar_shape = "square"
 background_color = "#FAFAFA"
@@ -82,7 +82,7 @@ show_header_image = true
 title_color = "#444444"
 header_full_height = 720.0
 header_focus_width = 851.0
-header_image = "/images/3d/73/73dbb3eeb41a7d23b4c9e159f78d.jpg"
+header_image = "https://64.media.tumblr.com/34472deadda2b94419d08b893f2356b2/2d0634858bbe3185-d4/s960x720/9b7351484bfb0e3aff5c1a4ec2400fac70b21050.jpg"
 header_image_focused = "https://64.media.tumblr.com/34472deadda2b94419d08b893f2356b2/2d0634858bbe3185-d4/s2048x3072_c5729,23472,94375,89861/767244ebc857c31562b30287b7edda96ab25b46b.jpg"
 
 [tumblr.trail.post]

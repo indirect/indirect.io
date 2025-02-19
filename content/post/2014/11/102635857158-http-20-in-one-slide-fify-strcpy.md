@@ -51,29 +51,29 @@ uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/9a/3e/4a25fa41c248b213b2902adcfb02.png"
+url = "https://64.media.tumblr.com/00260450244a8241b66f21e9c194b570/tumblr_nf1sw5MeBw1qz5dnvo1_400.png"
 width = 264.0
 height = 543.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9a/3e/4a25fa41c248b213b2902adcfb02.png"
+url = "https://64.media.tumblr.com/00260450244a8241b66f21e9c194b570/tumblr_nf1sw5MeBw1qz5dnvo1_400.png"
 width = 264.0
 height = 543.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/22/aa/16224612a72be46184a0ae4752a7.png"
+url = "https://64.media.tumblr.com/00260450244a8241b66f21e9c194b570/tumblr_nf1sw5MeBw1qz5dnvo1_250.png"
 width = 194.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 width = 97.0
 height = 200.0
-url = "/images/9c/e1/d93f2aa3f8014116d8fdc8d56289.png"
+url = "https://64.media.tumblr.com/00260450244a8241b66f21e9c194b570/tumblr_nf1sw5MeBw1qz5dnvo1_100.png"
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/e6/4a/ed5334e466b21d0f559ce5425760.png"
+url = "https://64.media.tumblr.com/00260450244a8241b66f21e9c194b570/tumblr_nf1sw5MeBw1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>HTTP 2.0 in one slide: FIFY — <a href=\"http://twitter.com/strcpy/status/533304877053915136\">@strcpy</a></p>"
@@ -96,15 +96,15 @@ can_be_followed = true
 title_font = "Gibson"
 title_font_weight = "bold"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 header_stretch = true
 link_color = "#529ECC"
 show_title = true
 header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 show_description = true
 show_header_image = false

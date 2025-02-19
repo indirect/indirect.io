@@ -34,7 +34,7 @@ slug = "filming-bats-upside-down-looks-like-a-goth"
 is_blocks_post_format = false
 timestamp = 1598210632.0
 video_url = "https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4"
-thumbnail_url = "/images/66/20/8e0b11847e771201492e7548a146.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv_frame1.jpg"
 can_reblog = false
 is_blaze_pending = false
 short_url = "https://tmblr.co/ZY3jbyYqWXsxSW00"
@@ -56,7 +56,7 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_color = "#444444"
 header_full_width = 3000.0
 header_full_height = 1055.0
@@ -66,8 +66,8 @@ link_color = "#529ECC"
 show_title = true
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_header_image = false
@@ -80,15 +80,15 @@ id = "627269312321814528"
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='250' height='144' poster='/images/00/bc/503aae907a23fc34a490c58e9b7e.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/07/e9/99cd5990ca70f0137cb2000a9b12.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='250' height='144' poster='https://64.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qfj76ef94i1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='400' height='231' poster='/images/00/bc/503aae907a23fc34a490c58e9b7e.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/07/e9/99cd5990ca70f0137cb2000a9b12.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='400' height='231' poster='https://64.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qfj76ef94i1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='500' height='288' poster='/images/00/bc/503aae907a23fc34a490c58e9b7e.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/07/e9/99cd5990ca70f0137cb2000a9b12.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592dfdda033311345' class='crt-video crt-skin-default' width='500' height='288' poster='https://64.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":52,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qfj76ef94i1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"115\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qfj76ef94i1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [tumblr.reblog]
 comment = "<p>Filming bats upside down looks like a goth nightclub 😂 — <a href=\"http://twitter.com/cctv_idiots/status/1297269282452189191\">@cctv_idiots</a></p>"

@@ -44,43 +44,43 @@ comment = "<p>Lol, entire Bitcoin market cap is dwarfed by $15B Amazon Gift Card
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/45/6d/9774ebe13f2e14f2564fd8d6709a.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_640.jpg"
 width = 599.0
 height = 408.0
 
 [[tumblr.photos.alt_sizes]]
 width = 599.0
 height = 408.0
-url = "/images/45/6d/9774ebe13f2e14f2564fd8d6709a.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_640.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0c/6d/8692f7db62e0072d3ffcd7751cec.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_540.jpg"
 width = 540.0
 height = 368.0
 
 [[tumblr.photos.alt_sizes]]
 height = 341.0
-url = "/images/84/78/cadbd872606f82115a6aa601ef69.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_500.jpg"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
 height = 272.0
-url = "/images/1e/a1/8e1ea32edb96b1e76c0a0365944c.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_400.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e2/38/5970eac46247310de52743bbbfa0.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_250.jpg"
 width = 250.0
 height = 170.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 68.0
-url = "/images/cf/f1/ddf4ff297ce47d9c9a4e8fe20366.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_100.jpg"
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/32/45/8a94aab22a7c69fc287162b87ec8.jpg"
+url = "https://64.media.tumblr.com/3db157cf6d3adb19ac5476646b3ec4f8/tumblr_nhqg8h0Wlo1qz5dnvo1_75sq.jpg"
 width = 75.0
 
 [[tumblr.trail]]
@@ -102,9 +102,9 @@ show_avatar = true
 link_color = "#529ECC"
 title_color = "#444444"
 title_font_weight = "bold"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 show_header_image = false
@@ -115,7 +115,7 @@ header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "107270179868"

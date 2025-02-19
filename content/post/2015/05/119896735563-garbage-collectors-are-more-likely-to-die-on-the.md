@@ -41,42 +41,42 @@ source_url = "http://qz.com/410585/garbage-collectors-are-more-likely-to-die-on-
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b1/35/b1f0e5d0971466c5477fc083e485.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_640.png"
 width = 640.0
 height = 683.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b1/35/b1f0e5d0971466c5477fc083e485.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_640.png"
 width = 640.0
 height = 683.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5d/55/2a1971299cfa5704bc712d3b174f.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_540.png"
 width = 540.0
 height = 576.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e3/b3/e759a1f14a004760c238f24cee25.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_500.png"
 width = 500.0
 height = 534.0
 
 [[tumblr.photos.alt_sizes]]
 height = 427.0
-url = "/images/ea/e1/5d0b774916f1eef01a8ee149d724.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_400.png"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/00/2a/8924136f4d960d01b3304ca49b06.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_250.png"
 width = 250.0
 height = 267.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 107.0
-url = "/images/cd/0d/e66723179943a6a00d6cf5a3482c.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_100.png"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fb/45/c079c1442efc78295cdc096aab65.png"
+url = "https://64.media.tumblr.com/a3968b96966048c59d1a3dd257ca43c3/tumblr_noxmwswztT1qz5dnvo1_75sq.png"
 width = 75.0
 height = 75.0
 
@@ -107,9 +107,9 @@ show_avatar = true
 header_full_width = 3000.0
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 title_color = "#444444"
 title_font = "Gibson"

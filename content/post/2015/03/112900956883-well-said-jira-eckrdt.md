@@ -40,29 +40,29 @@ caption = "<p>Well said, JIRA. — <a href=\"http://twitter.com/eckrdt/status/57
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/8f/4f/58d3e13cdb08ea83bf76d2a6709c.png"
+url = "https://64.media.tumblr.com/06b8725091bbd4d121890522db8eddbd/tumblr_nkt3e5be8z1qz5dnvo1_400.png"
 width = 328.0
 height = 93.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8f/4f/58d3e13cdb08ea83bf76d2a6709c.png"
+url = "https://64.media.tumblr.com/06b8725091bbd4d121890522db8eddbd/tumblr_nkt3e5be8z1qz5dnvo1_400.png"
 width = 328.0
 height = 93.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/00/8a/28958f85e9ff1acf73faee26596b.png"
+url = "https://64.media.tumblr.com/06b8725091bbd4d121890522db8eddbd/tumblr_nkt3e5be8z1qz5dnvo1_250.png"
 width = 250.0
 height = 71.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/02/2c/e00b57bbb9de5675b8b07185304b.png"
+url = "https://64.media.tumblr.com/06b8725091bbd4d121890522db8eddbd/tumblr_nkt3e5be8z1qz5dnvo1_100.png"
 width = 100.0
 height = 28.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/a0/a0/f18371bdadd53b25879420330c7b.png"
+url = "https://64.media.tumblr.com/06b8725091bbd4d121890522db8eddbd/tumblr_nkt3e5be8z1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>Well said, JIRA. — <a href=\"http://twitter.com/eckrdt/status/573781095923212288\">@eckrdt</a></p>"
@@ -97,11 +97,11 @@ active = true
 
 [tumblr.trail.blog.theme]
 header_full_width = 3000.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_header_image = false
 show_title = true

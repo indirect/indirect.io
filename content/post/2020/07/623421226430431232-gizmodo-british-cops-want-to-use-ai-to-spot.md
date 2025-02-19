@@ -9,7 +9,7 @@ type = "tumblr-text"
 slug = "gizmodo-british-cops-want-to-use-ai-to-spot"
 reblog_key = "lMHp4QOV"
 state = "published"
-body = "<blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"/images/3b/b5/dd8281ad68d0fa68af1c1e7e5cbc.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"/></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a>"
+body = "<blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"https://64.media.tumblr.com/b890e24677de35969ce236a2bef70014/92856094425de88d-7f/s540x810/8adc9bef951f49fd501e0bdbe6119fcc17c1e758.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"/></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a>"
 short_url = "https://tmblr.co/ZY3jbyYcrargqm00"
 can_reblog = false
 display_avatar = true
@@ -35,12 +35,12 @@ id_string = "623421226430431232"
 is_blaze_pending = false
 
 [tumblr.reblog]
-comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"/images/3b/b5/dd8281ad68d0fa68af1c1e7e5cbc.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
+comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"https://64.media.tumblr.com/b890e24677de35969ce236a2bef70014/92856094425de88d-7f/s540x810/8adc9bef951f49fd501e0bdbe6119fcc17c1e758.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
 tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"/images/3b/b5/dd8281ad68d0fa68af1c1e7e5cbc.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
-content = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn&mdash;but it keeps mistaking desert pics for nudes\n</p><figure class=\"tmblr-full\"><img src=\"/images/3b/b5/dd8281ad68d0fa68af1c1e7e5cbc.jpg\" alt=\"image\" class=\"\"/></figure></blockquote>\n\nSend dunes &mdash; <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
+content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn—but it keeps mistaking desert pics for nudes\n<figure class=\"tmblr-full\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"><img src=\"https://64.media.tumblr.com/b890e24677de35969ce236a2bef70014/92856094425de88d-7f/s540x810/8adc9bef951f49fd501e0bdbe6119fcc17c1e758.jpg\" data-orig-height=\"449\" data-orig-width=\"800\" data-orig-src=\"http://pbs.twimg.com/media/DRV9eFjXkAAyh-x.jpg\"></figure></p></blockquote>\n\nSend dunes — <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
+content = "<p><blockquote><p>\n<a href=\"http://twitter.com/Gizmodo/status/942797655331233792\">@Gizmodo</a>: British cops want to use AI to spot porn&mdash;but it keeps mistaking desert pics for nudes\n</p><figure class=\"tmblr-full\"><img src=\"https://64.media.tumblr.com/b890e24677de35969ce236a2bef70014/92856094425de88d-7f/s540x810/8adc9bef951f49fd501e0bdbe6119fcc17c1e758.jpg\" alt=\"image\" class=\"\"/></figure></blockquote>\n\nSend dunes &mdash; <a href=\"http://twitter.com/AllegedlyMiri/status/1280783107440939008\">@AllegedlyMiri</a></p>"
 is_current_item = true
 is_root_item = true
 
@@ -63,14 +63,14 @@ link_color = "#529ECC"
 show_header_image = false
 show_title = true
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 title_color = "#444444"
 header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 
 [tumblr.trail.post]
 id = "623421226430431232"

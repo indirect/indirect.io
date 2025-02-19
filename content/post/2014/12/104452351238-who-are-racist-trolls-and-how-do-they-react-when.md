@@ -40,42 +40,42 @@ summary = "Who are Racist Trolls and how do they react when \"outed\"? \n\nMore 
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b8/9d/22febfd4332f568e1806a6e96e00.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_640.jpg"
 width = 599.0
 height = 502.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b8/9d/22febfd4332f568e1806a6e96e00.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_640.jpg"
 width = 599.0
 height = 502.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/40/fb/8ff1b541442e46cd6c577ee92c47.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_540.jpg"
 width = 540.0
 height = 453.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f3/6b/ebc4ce61bed7b8b7483ec36eb7b8.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_500.jpg"
 width = 500.0
 height = 419.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ef/21/7bade27fbf168c81a1956a80e46b.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_400.jpg"
 width = 400.0
 height = 335.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1d/d8/b8f158cac9f4e25790b884fdab07.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_250.jpg"
 width = 250.0
 height = 210.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3e/a1/dcb93109cb916dac6e1650edb224.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_100.jpg"
 width = 100.0
 height = 84.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/46/95/e85ee14637faf13822bd445e67c3.jpg"
+url = "https://64.media.tumblr.com/ba124b91df91884d8fe51b94f52cef5e/tumblr_ng50ktopbE1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -95,14 +95,14 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 header_full_height = 1055.0
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_description = true
 show_title = true
 title_color = "#444444"
 title_font_weight = "bold"
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 show_header_image = false
 avatar_shape = "square"
@@ -111,7 +111,7 @@ header_stretch = true
 title_font = "Gibson"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "104452351238"

@@ -55,29 +55,29 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/66/1e/bb28e8ca2dd2ed7beba0e6850df6.jpg"
+url = "https://64.media.tumblr.com/c81e1dbce569ba7536aee5bcdd1943bc/tumblr_n67kxqJ6HR1qz5dnvo1_400.jpg"
 width = 362.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/66/1e/bb28e8ca2dd2ed7beba0e6850df6.jpg"
+url = "https://64.media.tumblr.com/c81e1dbce569ba7536aee5bcdd1943bc/tumblr_n67kxqJ6HR1qz5dnvo1_400.jpg"
 width = 362.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
 height = 276.0
-url = "/images/28/d9/2c73645fa4a9ab80980a70cce689.jpg"
+url = "https://64.media.tumblr.com/c81e1dbce569ba7536aee5bcdd1943bc/tumblr_n67kxqJ6HR1qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 110.0
-url = "/images/20/91/2278b49a0188131f343ec8ae702c.jpg"
+url = "https://64.media.tumblr.com/c81e1dbce569ba7536aee5bcdd1943bc/tumblr_n67kxqJ6HR1qz5dnvo1_100.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/3c/ea/8e0f5a12afd5054ab333d1c4aff7.jpg"
+url = "https://64.media.tumblr.com/c81e1dbce569ba7536aee5bcdd1943bc/tumblr_n67kxqJ6HR1qz5dnvo1_75sq.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>this would be more accurate if the kid was getting hit in the face with a huge piece of garbage — <a href=\"http://twitter.com/arealliveghost/status/471068211966775296\">@arealliveghost</a></p>"
@@ -99,7 +99,7 @@ can_be_followed = true
 show_description = true
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 header_full_height = 1055.0
 background_color = "#FAFAFA"
@@ -108,8 +108,8 @@ header_stretch = true
 show_avatar = true
 title_font = "Gibson"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 link_color = "#529ECC"
 show_title = true

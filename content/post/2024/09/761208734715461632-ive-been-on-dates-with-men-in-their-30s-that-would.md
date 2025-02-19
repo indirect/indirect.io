@@ -52,18 +52,18 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 show_header_image = false
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_avatar = true
 show_description = true
 show_title = true
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 title_color = "#444444"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 header_full_width = 3000.0
 avatar_shape = "square"
@@ -81,47 +81,47 @@ comment = "<p>ive been on dates with men in their 30s that would say pencils —
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/12/ad/61009d94e3359887dd36a6a8faf7.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s1280x1920/1e1eb3f662a67c44e64150c4d919d53ce067c741.jpg"
 width = 920.0
 height = 467.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/12/ad/61009d94e3359887dd36a6a8faf7.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s1280x1920/1e1eb3f662a67c44e64150c4d919d53ce067c741.jpg"
 width = 920.0
 height = 467.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fd/23/4e05a4a5e23f84fb5c18a51510d2.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s640x960/df718f2ff9975c55c42e3fd279fcae2fa6657122.jpg"
 width = 640.0
 height = 325.0
 
 [[tumblr.photos.alt_sizes]]
 height = 274.0
-url = "/images/d9/d3/0f6342fe2b625ffa34aefd8fadee.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s540x810/9925f8a4a5ddfade9e4ea207318e66455734b7f3.jpg"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 254.0
-url = "/images/19/73/3b3dfa4e8e87ecb0bf9b83f1a78b.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s500x750/ba4b0922192d2202bf56a9c02a39d7fea74560ea.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/93/b4/4cb07e230f8370f68635d893682f.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s400x600/65259f0bac821ab16ec70df729a6388bac8cafce.jpg"
 width = 400.0
 height = 203.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2a/4c/367700e20b7fb8183786030e9ee4.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s250x400/94200ffe631b81bc9a54ffb74d263f01a059c8e8.jpg"
 width = 250.0
 height = 127.0
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 51.0
-url = "/images/df/2b/2982cd6ae90bf613b4de2bb09912.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s100x200/7aed6e851fe02c858346aaa794654566d71d0ee3.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/60/0e/9ba39b054530c72240f0a5769db9.jpg"
+url = "https://64.media.tumblr.com/0e31815852c7b4b3fe6969876327e712/14619bcd7d100c5d-43/s75x75_c1/3aac3c27d45a1d042dfa6fc9d1614174047b7af6.jpg"
 width = 75.0
 height = 75.0
 

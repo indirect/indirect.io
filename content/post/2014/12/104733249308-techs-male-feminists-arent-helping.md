@@ -27,7 +27,7 @@ note_count = 0.0
 type = "link"
 id_string = "104733249308"
 title = "Tech’s Male ‘Feminists’ Aren’t Helping"
-link_image = "/images/09/9b/b33a4b9dac2796c75c141c60d6de.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_ngasj1kWt71qz5dnv_og.jpg"
 description = ""
 can_like = false
 blog_name = "indirect"
@@ -44,7 +44,7 @@ id = 104733249308.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/09/9b/b33a4b9dac2796c75c141c60d6de.jpg"
+url = "https://64.media.tumblr.com/tumblr_ngasj1kWt71qz5dnv_og.jpg"
 width = 500.0
 height = 500.0
 

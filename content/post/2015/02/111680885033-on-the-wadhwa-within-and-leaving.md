@@ -14,7 +14,7 @@ summary = "On the Wadhwa Within, and Leaving"
 bookmarklet = true
 id = 111680885033.0
 post_url = "https://indirect.io/post/111680885033/on-the-wadhwa-within-and-leaving"
-link_image = "/images/8e/9e/106f044af6e5964260a2db58b86e.png"
+link_image = "https://64.media.tumblr.com/tumblr_nk4zlgnPBD1qz5dnv_og.png"
 description = ""
 can_send_in_message = true
 date = "2015-02-21 19:32:04 GMT"
@@ -55,7 +55,7 @@ title = "indirect"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/8e/9e/106f044af6e5964260a2db58b86e.png"
+url = "https://64.media.tumblr.com/tumblr_nk4zlgnPBD1qz5dnv_og.png"
 width = 144.0
 height = 144.0
 

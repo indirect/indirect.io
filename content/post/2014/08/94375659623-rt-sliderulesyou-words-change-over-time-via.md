@@ -41,31 +41,31 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 480.0
-url = "/images/ed/7f/02eaa611b269c33d7fdd3ee355b5.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_500.jpg"
 width = 480.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ed/7f/02eaa611b269c33d7fdd3ee355b5.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_500.jpg"
 width = 480.0
 height = 480.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/6d/e9f0523be78f3a27928a879c4d2c.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_400.jpg"
 width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3a/98/aa101692905489db4fb1e539e811.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_250.jpg"
 width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/93/65/85aa03f4bf23902b574401ac4816.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_100.jpg"
 width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/93/ab/7e7224a7b536d3cd62cafddd5cc2.jpg"
+url = "https://64.media.tumblr.com/0aefe1a0325c9b290ea19bb51220de0a/tumblr_na43rqoafO1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -89,11 +89,11 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 avatar_shape = "square"
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 show_title = true
 title_font = "Gibson"

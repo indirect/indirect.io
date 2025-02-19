@@ -68,16 +68,16 @@ share_likes = false
 [tumblr.trail.blog.theme]
 header_focus_height = 1125.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/77/4e/9d47b044c9a232350e73c01baf80.png"
+header_image_focused = "https://static.tumblr.com/ebdf20157a02720b9f4a6a90b2ad8fa4/id65ytq/LNMppv2vo/tumblr_static_tumblr_static_28vd1omb57dw8wc4scwcowkwo_focused_v3.png"
 header_stretch = true
 header_full_height = 1550.0
 background_color = "#FAFAFA"
 header_bounds = "46,2000,1171,0"
-header_image = "/images/cb/f5/69b9f941ec1628251b0824455409.png"
+header_image = "https://static.tumblr.com/ebdf20157a02720b9f4a6a90b2ad8fa4/id65ytq/JZxp6j4bv/tumblr_static_28vd1omb57dw8wc4scwcowkwo.png"
 title_color = "#444444"
 header_full_width = 2000.0
 header_focus_width = 2000.0
-header_image_scaled = "/images/a8/43/8a1b7d9a7404c558789cfe1543ea.png?_v=2f4063be1dd2ee91e4eca54332e25191"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_13_focused_v3.png?_v=2f4063be1dd2ee91e4eca54332e25191"
 link_color = "#529ECC"
 show_avatar = true
 show_description = true
@@ -107,7 +107,7 @@ background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_full_width = 2000.0
 header_image_poster = ""
-header_image = "/images/cb/f5/69b9f941ec1628251b0824455409.png"
+header_image = "https://static.tumblr.com/ebdf20157a02720b9f4a6a90b2ad8fa4/id65ytq/JZxp6j4bv/tumblr_static_28vd1omb57dw8wc4scwcowkwo.png"
 show_avatar = true
 show_description = true
 show_header_image = true
@@ -116,9 +116,9 @@ title_color = "#444444"
 header_focus_width = 2000.0
 header_bounds = "46,2000,1171,0"
 title_font = "Sans Serif"
-header_image_focused = "/images/77/4e/9d47b044c9a232350e73c01baf80.png"
+header_image_focused = "https://static.tumblr.com/ebdf20157a02720b9f4a6a90b2ad8fa4/id65ytq/LNMppv2vo/tumblr_static_tumblr_static_28vd1omb57dw8wc4scwcowkwo_focused_v3.png"
 title_font_weight = "bold"
-header_image_scaled = "/images/a8/43/8a1b7d9a7404c558789cfe1543ea.png?_v=2f4063be1dd2ee91e4eca54332e25191"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_13_focused_v3.png?_v=2f4063be1dd2ee91e4eca54332e25191"
 header_stretch = true
 link_color = "#529ECC"
 header_full_height = 1550.0

@@ -27,7 +27,7 @@ should_open_in_legacy = true
 bookmarklet = true
 note_count = 3113.0
 title = "August Never Ends"
-link_image = "/images/ee/08/a4d30a4eb7e33c0ec2c06787baaa.png"
+link_image = "https://64.media.tumblr.com/tumblr_ni1emdEvwO1qg1dhz_og.png"
 can_like = false
 can_reblog = false
 type = "link"
@@ -45,7 +45,7 @@ can_reply = false
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/ee/08/a4d30a4eb7e33c0ec2c06787baaa.png"
+url = "https://64.media.tumblr.com/tumblr_ni1emdEvwO1qg1dhz_og.png"
 width = 442.0
 height = 442.0
 
@@ -66,9 +66,9 @@ name = "ohdeargodbees"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/26/f7/675e8c66978255cb8d5a7cd355bc.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
-header_image_focused = "/images/5e/f2/67858411d53db9d949cbf8b37f0c.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
-header_image_scaled = "/images/5e/f2/67858411d53db9d949cbf8b37f0c.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_03.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_03_focused_v3.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_03_focused_v3.png?_v=a0f20b51ed40eb5a930ab86effe42a40"
 show_description = true
 show_title = true
 background_color = "#FFFFFF"

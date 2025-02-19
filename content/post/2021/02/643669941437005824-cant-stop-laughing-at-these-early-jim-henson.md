@@ -21,7 +21,7 @@ can_reply = false
 id_string = "643669941437005824"
 is_blaze_pending = false
 post_url = "https://indirect.io/post/643669941437005824/cant-stop-laughing-at-these-early-jim-henson"
-thumbnail_url = "/images/84/8c/0f426acd8a41e710e6ce6a1e436a.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv_frame1.jpg"
 short_url = "https://tmblr.co/ZY3jbyZkncR3ym00"
 thumbnail_height = 270.0
 video_type = "tumblr"
@@ -43,15 +43,15 @@ state = "published"
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='250' height='188' poster='/images/22/d2/bb34d3d4465ae625f09e844cb2e2.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/ca/8b/ca30000557685c04bd74d1d53a2f.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='250' height='188' poster='https://64.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qoufodtJEp1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='400' height='300' poster='/images/22/d2/bb34d3d4465ae625f09e844cb2e2.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/ca/8b/ca30000557685c04bd74d1d53a2f.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='400' height='300' poster='https://64.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qoufodtJEp1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='500' height='375' poster='/images/22/d2/bb34d3d4465ae625f09e844cb2e2.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/ca/8b/ca30000557685c04bd74d1d53a2f.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57592ddc94317976783' class='crt-video crt-skin-default' width='500' height='375' poster='https://64.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":64,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://64.media.tumblr.com/previews/tumblr_qoufodtJEp1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"150\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_qoufodtJEp1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [tumblr.blog]
 name = "indirect"
@@ -86,9 +86,9 @@ active = true
 
 [tumblr.trail.blog.theme]
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 title_color = "#444444"
 title_font_weight = "bold"
@@ -100,7 +100,7 @@ show_avatar = true
 show_title = true
 title_font = "Gibson"
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_description = true
 show_header_image = false

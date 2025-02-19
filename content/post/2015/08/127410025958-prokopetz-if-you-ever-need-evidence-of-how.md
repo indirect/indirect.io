@@ -63,15 +63,15 @@ name = "prokopetz"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/7b/d0/663209aa66977af19924d3cf9865.png"
+header_image = "https://64.media.tumblr.com/2b301b3c0c3c67426d0e6f5455337d10/7ba9137493b21a87-0a/s3000x1055/adf7dab333bedd4f367d3b0f12d642bcd3356579.png"
 header_image_poster = ""
-header_image_scaled = "/images/7f/c1/c638d523de78de839ef94f524ad0.png"
+header_image_scaled = "https://64.media.tumblr.com/2b301b3c0c3c67426d0e6f5455337d10/7ba9137493b21a87-0a/s2048x3072/9ffc323fcf8bcf241f6ae0764c28ca1eda425df5.png"
 header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/7f/c1/c638d523de78de839ef94f524ad0.png"
+header_image_focused = "https://64.media.tumblr.com/2b301b3c0c3c67426d0e6f5455337d10/7ba9137493b21a87-0a/s2048x3072/9ffc323fcf8bcf241f6ae0764c28ca1eda425df5.png"
 show_header_image = true
 show_title = true
 title_font = "Gibson"

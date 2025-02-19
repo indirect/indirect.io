@@ -56,14 +56,14 @@ show_avatar = true
 title_color = "#444444"
 title_font_weight = "bold"
 background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_title = true
 title_font = "Gibson"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_full_width = 3000.0
 header_bounds = ""
 header_image_poster = ""
@@ -76,34 +76,34 @@ id = "48835013005"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/66/f4/80a32ca3eda0a4568da993cd57d8.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_500.jpg"
 width = 480.0
 height = 532.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/66/f4/80a32ca3eda0a4568da993cd57d8.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_500.jpg"
 width = 480.0
 height = 532.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bd/51/7f77b047998e1b4d94dc8c52b637.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_400.jpg"
 width = 400.0
 height = 443.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 277.0
-url = "/images/5d/41/cb1618618197f65f182e01a45e98.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_250.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e5/f9/2fd7f94bcffe873e364956ae8b07.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_100.jpg"
 width = 100.0
 height = 111.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/6f/b2/7af6dd65a77794817326fcf2b564.jpg"
+url = "https://64.media.tumblr.com/62e750a2a8cde95444e01c2d83a0b644/tumblr_mlsonaGT901qz5dnvo1_75sq.jpg"
 
 [tumblr.reblog]
 comment = "<p>The kitten version of puppy dog eyes (via <a href=\"https://twitter.com/EmrgencyKittens/status/327211419110105090\">@EmrgencyKittens</a>)</p>"

@@ -41,43 +41,43 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 510.0
-url = "/images/c2/8e/4417b0263e96103d13208dc7aaf0.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_640.jpg"
 width = 544.0
 
 [[tumblr.photos.alt_sizes]]
 width = 544.0
 height = 510.0
-url = "/images/c2/8e/4417b0263e96103d13208dc7aaf0.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_640.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ad/f1/2dd6626d5ad9d6006e48410af45c.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_540.jpg"
 width = 540.0
 height = 506.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 469.0
-url = "/images/be/15/ed4027b4b8a02dedd593f2a4fdda.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/df/98/cbaebd4c69882449637d7c6a7834.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_400.jpg"
 width = 400.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
 height = 234.0
-url = "/images/12/f8/d533852ce95b2274b97802f20a62.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2e/db/c88296577234c3d24c22e45cc663.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_100.jpg"
 width = 100.0
 height = 94.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/55/06/370b7f4c0a8dd09318c16313ed53.jpg"
+url = "https://64.media.tumblr.com/0fac69f11d543c4bf5cd4daa95a58530/tumblr_ocqd43BGgf1qz5dnvo1_75sq.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>In ’Too Much Reading Is Harmful’ writer laments how too much reading ruins childhood (1938) <a href=\"https://t.co/e4CF728SBk\">https://t.co/e4CF728SBk</a> <a href=\"https://t.co/J0Wp89N7nm\">https://t.co/J0Wp89N7nm</a> — <a href=\"http://twitter.com/PessimistsArc/status/769239146082799616\">@PessimistsArc</a></p>"
@@ -104,9 +104,9 @@ header_full_height = 1055.0
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 show_description = true
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_title = true
 title_color = "#444444"

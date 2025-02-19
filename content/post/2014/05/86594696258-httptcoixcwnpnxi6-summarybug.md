@@ -44,42 +44,42 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/8a/f3/94ba6e16722cea001025333b265b.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_640.jpg"
 width = 599.0
 height = 337.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8a/f3/94ba6e16722cea001025333b265b.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_640.jpg"
 width = 599.0
 height = 337.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b0/42/3039754f865629dbad2c73d00b37.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_540.jpg"
 width = 540.0
 height = 304.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/44/ea/f8706b101cdb6f1f38f2ca837714.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_500.jpg"
 width = 500.0
 height = 281.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fe/e6/50d42d270c87cc95ebcc8b47ff19.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_400.jpg"
 width = 400.0
 height = 225.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1e/5a/fe4b8bb8fe453a24ffd563fea5a8.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_250.jpg"
 width = 250.0
 height = 141.0
 
 [[tumblr.photos.alt_sizes]]
 height = 56.0
-url = "/images/07/08/c31592b71ed65490a02964395c6b.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e9/2f/7a6bd2f66acb2a53c1870f11d575.jpg"
+url = "https://64.media.tumblr.com/490c5278d10acf8e4681aa84a130ee4f/tumblr_n614elVW2c1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -112,14 +112,14 @@ title_color = "#444444"
 show_description = true
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 show_avatar = true
 header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 body_font = "Helvetica Neue"
 header_stretch = true
 show_header_image = false

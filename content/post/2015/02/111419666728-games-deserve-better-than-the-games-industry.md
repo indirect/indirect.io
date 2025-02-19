@@ -11,7 +11,7 @@ id = 111419666728.0
 description = ""
 summary = "Games deserve better than the games industry."
 title = "Games deserve better than the games industry."
-link_image = "/images/20/80/1021add9af90d15c031ed2329a2f.gif"
+link_image = "https://64.media.tumblr.com/tumblr_njztf2PNmw1qz5dnv_og.gif"
 can_send_in_message = true
 url = "https://storify.com/strictmachine/games-deserve-better-than-the-games-industry"
 publisher = "storify.com"
@@ -60,7 +60,7 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 246.0
-url = "/images/20/80/1021add9af90d15c031ed2329a2f.gif"
+url = "https://64.media.tumblr.com/tumblr_njztf2PNmw1qz5dnv_og.gif"
 width = 246.0
 
 [tumblr.reblog]

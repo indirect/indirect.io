@@ -44,32 +44,32 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/76/7d/fb0e3bdab5a6c8711d95a2224e81.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_500.jpg"
 width = 500.0
 height = 333.0
 
 [[tumblr.photos.alt_sizes]]
 height = 333.0
-url = "/images/76/7d/fb0e3bdab5a6c8711d95a2224e81.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_500.jpg"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4d/83/33598ee2cdd708de33f8e7643e1f.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_400.jpg"
 width = 400.0
 height = 266.0
 
 [[tumblr.photos.alt_sizes]]
 height = 167.0
-url = "/images/fd/de/693548fb7e14acf09fd0a4c994df.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e3/b6/c66aa5525a1139199b4431452c58.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_100.jpg"
 width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ba/c7/8b084711562afb5da056a9a34388.jpg"
+url = "https://64.media.tumblr.com/d118bfece061d17fe6a6401516583cfe/tumblr_nf8y2wRL821qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -92,12 +92,12 @@ show_header_image = false
 show_title = true
 header_full_width = 3000.0
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_color = "#444444"
 title_font = "Gibson"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 body_font = "Helvetica Neue"

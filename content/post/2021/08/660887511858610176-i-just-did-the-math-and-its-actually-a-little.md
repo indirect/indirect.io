@@ -40,49 +40,49 @@ id_string = "660887511858610176"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/94/a8/dc945bbfab8d0954f559a4b99c53.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s1280x1920/6aab0ba53b6a9c9666538dba70b003fd4df61b11.jpg"
 width = 720.0
 height = 469.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/a8/dc945bbfab8d0954f559a4b99c53.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s1280x1920/6aab0ba53b6a9c9666538dba70b003fd4df61b11.jpg"
 width = 720.0
 height = 469.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a9/63/cef0b753281048bb5a236d42323b.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s640x960/014f90fd780864cdc75922d1d5574f4cfc79240a.jpg"
 width = 640.0
 height = 417.0
 
 [[tumblr.photos.alt_sizes]]
 width = 540.0
 height = 352.0
-url = "/images/5c/ee/f0a94df3b3b91b3b53d251d058a8.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s540x810/acda298016364fdb5a173709d696cd1290b0a249.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/37/8b/59f72c9229b2120e8f9d6d5a3865.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s500x750/f0e7ad6c868913ba6890cbcbfd5e1b6c92503e00.jpg"
 width = 500.0
 height = 326.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/be/6f/b7a01cde16ceb363761fa141c989.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s400x600/511749978eabdc062e86f44849a1a430862dee80.jpg"
 width = 400.0
 height = 261.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/83/a1/1c9e141e1cb8dc8811aa11254d47.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s250x400/ac161145079d6a37c5ecb18c6948928356799989.jpg"
 width = 250.0
 height = 163.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/33/ac/8c6755a81d8457dd493738a93e1f.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s100x200/9cfa1c34b6689c6f6ffd0df8ce3a140b6be19b87.jpg"
 width = 100.0
 height = 65.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/8c/d9/680ef730edd050afbb7b9fdf1500.jpg"
+url = "https://64.media.tumblr.com/c0e2e72117586d3ffc745db6ae2b4cc0/b568126e138d9556-8a/s75x75_c1/42dd3b7c948a01dfbe917e673488e3efe2bfd26c.jpg"
 
 [tumblr.reblog]
 comment = "<p>I just did the math and it’s actually a little less than 6 whole days. It’s 5.6153846154.\n<br>\n<br>That’s pretty wild….\n<br>\n<br>#decolonize — <a href=\"http://twitter.com/xRileyAlexander/status/1431798069549428740\">@xRileyAlexander</a></p>"
@@ -102,10 +102,10 @@ can_be_followed = true
 name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_header_image = false
 avatar_shape = "square"

@@ -40,49 +40,49 @@ note_count = 0.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/28/e4/99bc7619a002364be5c1724489a1.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s1280x1920/f427ae4b4331adc17e628960dd6662673863f424.jpg"
 width = 743.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/28/e4/99bc7619a002364be5c1724489a1.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s1280x1920/f427ae4b4331adc17e628960dd6662673863f424.jpg"
 width = 743.0
 height = 1200.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/21/3a/20bef5d2958c331948eed6b62deb.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s640x960/ab8ccb8adf76bf1dc1a803d4c6b572510bd19830.jpg"
 width = 594.0
 height = 960.0
 
 [[tumblr.photos.alt_sizes]]
 height = 810.0
-url = "/images/00/bf/9b091dd5ff79967aab80e2ef6809.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s540x810/814933c42f38310aa447c8a689e5b6b03d806099.jpg"
 width = 502.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3c/11/b9a29e5b4b910d1c3752e6ff78a7.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s500x750/12d54700ff7b35cfb29beb3282d532959a41d045.jpg"
 width = 464.0
 height = 750.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/91/8b/763249e506f7d4fbd38ef28ce1ce.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s400x600/8acf37a68a05a7af13c80429b9aa001e42412985.jpg"
 width = 372.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/47/cd/e50b5df33a2d014a6228895a4255.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s250x400/c1326276bcc86d6a5414d312e0490d63e78f732a.jpg"
 width = 248.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/27/d8/41e473f5722ee31ee60f86bfbbca.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s100x200/17d9561951ad980ede98ffe47af6106c0f62face.jpg"
 width = 100.0
 height = 162.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/3d/14/9d9f20ede871da267d1b2c36166d.jpg"
+url = "https://64.media.tumblr.com/c79197c48576e2390d9523aa76fb476a/40ee62d4fd89a0cb-09/s75x75_c1/b9627f4b26a1b3e33c3cfe9265b5e2c60123350d.jpg"
 
 [tumblr.reblog]
 comment = "<p>This email from a student, when I taught remote, lives rent free in my head 😂 — <a href=\"http://twitter.com/drdre4000/status/1572912633225048070\">@drdre4000</a></p>"
@@ -106,17 +106,17 @@ background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_image_poster = ""
 title_color = "#444444"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_stretch = true
 show_avatar = true
 show_header_image = false
 title_font = "Gibson"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_full_width = 3000.0
 header_full_height = 1055.0
 avatar_shape = "square"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font_weight = "bold"
 link_color = "#529ECC"

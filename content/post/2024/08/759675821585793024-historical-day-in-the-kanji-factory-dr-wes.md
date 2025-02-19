@@ -78,11 +78,11 @@ show_title = true
 title_font = "Gibson"
 title_font_weight = "bold"
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.reblog]
 comment = "<p>Historical day in the kanji factory — <a href=\"https://twitter.com/ScriptingJapan/status/1827084332806357134\">Dr Wes Robertson (@ScriptingJapan)</a></p>"
@@ -92,32 +92,32 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/34/1f/937ae7f8ae9d38566664f24fe799.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s500x750/da3d6cee9f9fe8c4bd53206a09304aefabc41aec.png"
 width = 490.0
 height = 308.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/34/1f/937ae7f8ae9d38566664f24fe799.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s500x750/da3d6cee9f9fe8c4bd53206a09304aefabc41aec.png"
 width = 490.0
 height = 308.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 251.0
-url = "/images/21/ea/0ff91f501bef26d58938a76a8c78.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s400x600/8c5e30153d6daa043fe0fa22aa873c62e0c4c230.png"
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 157.0
-url = "/images/17/f2/f4aeb07af0f70607449d4b709310.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s250x400/36eab1ab1d3b39c93392c48b0b657a4fddb051c5.png"
 
 [[tumblr.photos.alt_sizes]]
 width = 100.0
 height = 63.0
-url = "/images/7f/dd/22c708e170ad79c2989e86a67467.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s100x200/b75e2fc57d7dc9b7c65b55822371432617727469.png"
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/a1/7a/cfeff5bde4361ff6a711871d38a7.png"
+url = "https://64.media.tumblr.com/ce243deed46ed524c8e012e98faff355/b573aab16f696151-e8/s75x75_c1/2fcaa75a762f9a65a5a415790c4e4d11b22550ea.png"
 width = 75.0
 +++

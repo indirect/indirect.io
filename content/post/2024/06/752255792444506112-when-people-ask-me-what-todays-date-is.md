@@ -55,49 +55,49 @@ name = "indirect"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/e8/07/fdde8801c0236426be0d6248e77f.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s1280x1920/cd6a6fb63df21d0a3e8c07c51e0192b4bc6d9def.png"
 width = 900.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e8/07/fdde8801c0236426be0d6248e77f.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s1280x1920/cd6a6fb63df21d0a3e8c07c51e0192b4bc6d9def.png"
 width = 900.0
 height = 900.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ad/5e/61a8fb708fdee56ebe80e79140cc.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s640x960/6a1df6030bd0ef6dc0118987aa3217d95a470456.png"
 width = 640.0
 height = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6b/6a/ae0e05a4f125df0ac1a781222898.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s540x810/2c1192b75b3fb2a5b518e196fdad4a8f81e7bf5e.png"
 width = 540.0
 height = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7c/26/e100da27e96a823902567379bab2.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s500x750/b6703603ccffb0c3a8e2f99a4d602d845a68da83.png"
 width = 500.0
 height = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/97/5f/5483ed0fe9ab4cc4504e6ce6bc1a.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s400x600/6e8a50c75d0927cf4b04607f1aca1cabcd3d31ce.png"
 width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f6/f3/0874986cecee2adb580a39340236.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s250x400/000df1165bc30c6a9c2c76f1d416a307590abf71.png"
 width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6b/7e/37796f65c961163e3d3a046b416a.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s100x200/84d21fc8e686c2a8df5cbf580de7b9d902a22db6.png"
 width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/7d/a8/7a0121ab97307c2be8fd5e81b88a.png"
+url = "https://64.media.tumblr.com/cbe95804acbacd023c3476094f114c50/0a0d78406141e4b1-60/s75x75_c1/4d09981d2c4ed3e2f70d3361d33498aed16d9ba6.png"
 
 [[tumblr.trail]]
 content_raw = "<p>When people ask me what today’s date is. — <a href=\"https://twitter.com/DuneInfo/status/1797264390036566380\">DuneInfo (@DuneInfo)</a></p>"
@@ -119,8 +119,8 @@ header_image_poster = ""
 header_stretch = true
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_description = true
 header_full_height = 1055.0
@@ -128,7 +128,7 @@ background_color = "#FAFAFA"
 show_header_image = false
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_title = true
 title_color = "#444444"

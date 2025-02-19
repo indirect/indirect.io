@@ -55,22 +55,22 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/3e/8a/b974f21bc980c117111a1ba6d4db.jpg"
+url = "https://64.media.tumblr.com/e0c5235b469026fca530d060f2af4653/82ad23b45f0dd8a0-66/s250x400/f44bc949efa074589130085a7a516ccea53648f1.jpg"
 width = 218.0
 height = 122.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3e/8a/b974f21bc980c117111a1ba6d4db.jpg"
+url = "https://64.media.tumblr.com/e0c5235b469026fca530d060f2af4653/82ad23b45f0dd8a0-66/s250x400/f44bc949efa074589130085a7a516ccea53648f1.jpg"
 width = 218.0
 height = 122.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f4/9b/cc79dffb8e81539a25940657bf09.jpg"
+url = "https://64.media.tumblr.com/e0c5235b469026fca530d060f2af4653/82ad23b45f0dd8a0-66/s100x200/7335c8eb8b559c21f8cecf11605991d7f5684e41.jpg"
 width = 100.0
 height = 56.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/12/8b/e787bf73f18814457baab98ccadb.jpg"
+url = "https://64.media.tumblr.com/e0c5235b469026fca530d060f2af4653/82ad23b45f0dd8a0-66/s75x75_c1/22f5305ffbcf91d457e84aa8d0d0eacab000a171.jpg"
 width = 75.0
 height = 75.0
 
@@ -89,13 +89,13 @@ can_be_followed = true
 
 [tumblr.trail.blog.theme]
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 link_color = "#529ECC"
 show_title = true
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 show_description = true
 background_color = "#FAFAFA"

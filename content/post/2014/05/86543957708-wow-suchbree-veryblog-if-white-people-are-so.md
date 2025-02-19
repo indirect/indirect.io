@@ -63,7 +63,7 @@ name = "wow-suchbree-veryblog"
 active = false
 
 [tumblr.trail.blog.theme]
-header_image = "/images/bf/15/f99541a6751c17cccc43df71b470.jpg"
+header_image = "https://64.media.tumblr.com/7f9cee1bc88593619ac605a89a2ef91c/e03c3830efaa85fc-01/s1023x684/d262f09a48915ab2ce19199679d81c8fe517f2ee.jpg"
 header_image_poster = ""
 show_title = true
 title_color = "#444444"
@@ -76,10 +76,10 @@ show_avatar = true
 header_full_width = 1023.0
 header_full_height = 684.0
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/51/e5/12436267d20237a73a62c72de49c.jpg"
+header_image_scaled = "https://64.media.tumblr.com/7f9cee1bc88593619ac605a89a2ef91c/e03c3830efaa85fc-01/s2048x3072/a8a1e06a76f6476d66d64b7aa405f821395dc095.jpg"
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image_focused = "/images/51/e5/12436267d20237a73a62c72de49c.jpg"
+header_image_focused = "https://64.media.tumblr.com/7f9cee1bc88593619ac605a89a2ef91c/e03c3830efaa85fc-01/s2048x3072/a8a1e06a76f6476d66d64b7aa405f821395dc095.jpg"
 show_description = true
 show_header_image = true
 

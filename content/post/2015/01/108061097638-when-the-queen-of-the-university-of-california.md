@@ -40,44 +40,44 @@ reblog_key = "9atSYlhC"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/36/b6/92106d29fbbc61d446d3cfa269ee.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_640.png"
 width = 600.0
 height = 136.0
 
 [[tumblr.photos.alt_sizes]]
 height = 136.0
-url = "/images/36/b6/92106d29fbbc61d446d3cfa269ee.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_640.png"
 width = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c5/58/1152b855efd8e6302e2ded6be250.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_540.png"
 width = 540.0
 height = 122.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5a/d1/bc0a7ae53a7843f324b2acc60906.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_500.png"
 width = 500.0
 height = 113.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bd/74/7e60f2ebc207537e9ac763b63dc0.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_400.png"
 width = 400.0
 height = 91.0
 
 [[tumblr.photos.alt_sizes]]
 height = 57.0
-url = "/images/06/28/08c56cc40a1f849418955972451a.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_250.png"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/7d/80/7d67f87e2c69c0f7ec086bf30615.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_100.png"
 width = 100.0
 height = 23.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/9e/5a/236e55a1a233f8b8862af7f39ebd.png"
+url = "https://64.media.tumblr.com/54c3110ad1797aff18be6c98947ac238/tumblr_ni5p8mUtJM1qz5dnvo1_75sq.png"
 
 [tumblr.reblog]
 comment = "<p>When the Queen of the University of California returns from conquest across the sea, there will be a power struggle — <a href=\"http://twitter.com/m1sp/status/555210517027897344\">@m1sp</a></p>"
@@ -101,11 +101,11 @@ body_font = "Helvetica Neue"
 title_color = "#444444"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 link_color = "#529ECC"
 show_title = true
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_avatar = true
 show_description = true
@@ -114,7 +114,7 @@ title_font_weight = "bold"
 header_full_height = 1055.0
 avatar_shape = "square"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 
 [tumblr.trail.post]

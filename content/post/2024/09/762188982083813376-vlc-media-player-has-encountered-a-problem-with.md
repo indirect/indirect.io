@@ -55,49 +55,49 @@ comment = "<p><p>VLC Media Player has encountered a problem with Windows</p> —
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/c3/78/8061e4c98901045647626671ec46.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s1280x1920/df032561f8e0e77c83f4db663cffa7e82f75965a.jpg"
 width = 720.0
 height = 511.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c3/78/8061e4c98901045647626671ec46.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s1280x1920/df032561f8e0e77c83f4db663cffa7e82f75965a.jpg"
 width = 720.0
 height = 511.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/de/59/4a872be73ffb04b9e355f637f948.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s640x960/718de9c7fa2dd9f0bea8f48dd4cd4a53b57b5c9c.jpg"
 width = 640.0
 height = 454.0
 
 [[tumblr.photos.alt_sizes]]
 height = 383.0
-url = "/images/d5/9f/404f4f41aff0ca1475dc6078b5da.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s540x810/c5647fb8c141d513f33c42d3ce7241740f91c4ef.jpg"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/43/8a/0028dc9272530018abba5ef74933.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s500x750/ac51f0aa4473cec02e1dc9b399f1fb229a7bf27e.jpg"
 width = 500.0
 height = 355.0
 
 [[tumblr.photos.alt_sizes]]
 height = 284.0
-url = "/images/17/e4/10904124a10e088d0d65bf02c3e9.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s400x600/2746922b6bee1b54beb896ada0bedfec48c86171.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 177.0
-url = "/images/82/30/f966106324a6cabbf3d7b480ad5a.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s250x400/67442e3c8eec8523aca88d7efa8c77c8259ed852.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b7/0b/c7687648eecf5348ceafbf0fa7a9.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s100x200/ea3e0e68cb5bcde400b9a708670c4b753b051b1f.jpg"
 width = 100.0
 height = 71.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/f2/33/2c4224d20bdb51a7ec045847bd78.jpg"
+url = "https://64.media.tumblr.com/95c99e917f4d2f8926f69e44b1031c6d/e788a88dd5eac407-ae/s75x75_c1/2d37c1baf7a2f6f61b7e8386f46a3dd3e3ce831b.jpg"
 
 [[tumblr.trail]]
 content = "<p><p>VLC Media Player has encountered a problem with Windows</p> &mdash; <a href=\"https://tech.lgbt/@Natasha_Jay/113169959679088919\">@Natasha_Jay</a></p>"
@@ -113,10 +113,10 @@ active = true
 share_likes = false
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font = "Gibson"
 header_stretch = true
 link_color = "#529ECC"

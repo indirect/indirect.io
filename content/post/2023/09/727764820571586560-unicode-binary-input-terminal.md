@@ -61,15 +61,15 @@ show_title = true
 title_color = "#444444"
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_header_image = false
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_font_weight = "bold"
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "727764820571586560"
@@ -78,42 +78,42 @@ id = "727764820571586560"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5c/9f/2523c236075b144f6f7bd30c219c.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s640x960/dff251cd66d2f235f70531b229b0571a7b095911.jpg"
 width = 600.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6a/e7/049efa8fa7fae245628934e7a878.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s540x810/53f12d399bf2f20b7b61c93bc6fe912eba059996.jpg"
 width = 540.0
 height = 540.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 500.0
-url = "/images/5e/ed/f6006fba88a556b3696c842a0f14.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s500x750/20d85564fff9395231d942278e94db379c69d177.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ae/ea/78ae019c07e8aa9290f54338702e.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s400x600/ff29ed648c5173ab747d4965b00ef354266b04d0.jpg"
 width = 400.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ff/fa/84df0a400ff1dccd6e88a5befe8a.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s250x400/2bc5cc81cc60f46f3cd123eafde31e2403fc246c.jpg"
 width = 250.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/40/b0/c8b48cea1c4f25bd9140197102c8.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s100x200/636bbfebbcf046aac9e0e2cf8d389806ed6d9fb1.jpg"
 width = 100.0
 height = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6e/bc/21fecdea6b00260f961492680eff.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s75x75_c1/7423afa80cee10a40fff7f7e3035055cbd28cc2c.jpg"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
-url = "/images/5c/9f/2523c236075b144f6f7bd30c219c.jpg"
+url = "https://64.media.tumblr.com/2174c4c8154b0e4098e613cd4ade791b/6b14834afcdc9738-9b/s640x960/dff251cd66d2f235f70531b229b0571a7b095911.jpg"
 width = 600.0
 height = 600.0
 

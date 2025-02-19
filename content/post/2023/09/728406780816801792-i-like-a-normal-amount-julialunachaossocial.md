@@ -40,7 +40,7 @@ source_title = "chaos.social"
 interactability_blaze = "everyone"
 can_reblog = false
 slug = "i-like-a-normal-amount-julialunachaossocial"
-link_image = "/images/c7/51/968c789b191d334b8bf396bd9961.png"
+link_image = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s540x810/af5549f7acd08fae9b5bf0ab0f0e68ab8c83d33f.png"
 
 [tumblr.reblog]
 comment = ""
@@ -66,26 +66,26 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 225.0
-url = "/images/09/2a/ae53350a7e6959f9fcde1d012e44.png"
+url = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s1280x1920/0dcb94fc854e16ac0b5944cbc0004a25ca162b9d.png"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 225.0
-url = "/images/2f/7c/97f87768d702f1d77d7283e0fff6.png"
+url = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s400x600/f425ec1f60e7856b33103fab17d0db90a3b47cec.png"
 
 [[tumblr.photos.alt_sizes]]
 height = 141.0
-url = "/images/8b/f4/845a47be8bb7d1346e973414545a.png"
+url = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s250x400/37531dd31ace4453ec9cd268daf638545dd7238e.png"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/af/c0/a0d265bf1cdc33d648456a69e08a.png"
+url = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s100x200/a2bb0f984b269b3ea36f81c059443c4c67bf45e5.png"
 width = 100.0
 height = 56.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/e1/60/12d5ef0db0ac9d45848c2ca064d4.png"
+url = "https://64.media.tumblr.com/120ac5b70d60230a4f7d368c48b18342/95bbcfc7552577a2-f0/s75x75_c1/363e457da161ed20b68e3ec5c8d50d0a6fd58dfb.png"
 width = 75.0
 +++

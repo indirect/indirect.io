@@ -44,47 +44,47 @@ comment = "<p><p>Philanthropy exists to launder the reputations of the rich.</p>
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/30/28/3f6a18d03373cdbeb9c95df663af.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s1280x1920/260255415f27766c03da704ba4c1fd70bf6e73a7.jpg"
 width = 750.0
 height = 743.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/30/28/3f6a18d03373cdbeb9c95df663af.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s1280x1920/260255415f27766c03da704ba4c1fd70bf6e73a7.jpg"
 width = 750.0
 height = 743.0
 
 [[tumblr.photos.alt_sizes]]
 height = 634.0
-url = "/images/d5/1c/0f6c341f2fd5e4a087d075965d53.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s640x960/125cdabf8ca779d5815fbd195c16a8e17ce068e4.jpg"
 width = 640.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/13/8c/02a85aab9e6b7be48fa2a3047ad1.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s540x810/381ebbd8213c77f4ea009e75a4f99cd605547e1a.jpg"
 width = 540.0
 height = 535.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/4e/35/f930573cfe47b7ddbd5ee3f65e09.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s500x750/86e9e269936eec91e12fa43c9bbfa0664e055517.jpg"
 width = 500.0
 height = 495.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8f/88/33c9f35f3e1d94e3601bcede9666.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s400x600/0ccf03843cdc73e82b9cfbeff3dc40bc94eb77ac.jpg"
 width = 400.0
 height = 396.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/46/48/c0fdb2264214ddd16577fec79115.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s250x400/933acc9b396ee2261c67e8835ff6344b8053c0cb.jpg"
 width = 250.0
 height = 248.0
 
 [[tumblr.photos.alt_sizes]]
 height = 99.0
-url = "/images/52/4a/bb22612b33eb80b6b09da4b2773d.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s100x200/78cfea88a901566684c5abea49babedb5221ce38.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f9/2a/b6e9f8191f7531d2901d5951928e.jpg"
+url = "https://64.media.tumblr.com/54892e12fdd46165dd2128ee715e0439/fd9de4422bec6cfd-df/s75x75_c1/51fc963d8666709486d807b384853f588497206b.jpg"
 width = 75.0
 height = 75.0
 
@@ -118,18 +118,18 @@ show_avatar = true
 title_color = "#444444"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 link_color = "#529ECC"
 show_header_image = false
 header_full_height = 1055.0
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 title_font = "Gibson"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_title = true
 

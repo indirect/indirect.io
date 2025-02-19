@@ -44,27 +44,27 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/bd/d9/2714e02b9b6bd06a892037e1f26c.png"
+url = "https://64.media.tumblr.com/605c335094acece773fc1d6733bec9b2/tumblr_netaw0cKcD1qz5dnvo1_400.png"
 width = 282.0
 height = 62.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bd/d9/2714e02b9b6bd06a892037e1f26c.png"
+url = "https://64.media.tumblr.com/605c335094acece773fc1d6733bec9b2/tumblr_netaw0cKcD1qz5dnvo1_400.png"
 width = 282.0
 height = 62.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/05/6a/c0438fccbb387b8ee843a4040e56.png"
+url = "https://64.media.tumblr.com/605c335094acece773fc1d6733bec9b2/tumblr_netaw0cKcD1qz5dnvo1_250.png"
 width = 250.0
 height = 55.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/86/bd/ce74e99a480dc8947f6a5fb4ef8b.png"
+url = "https://64.media.tumblr.com/605c335094acece773fc1d6733bec9b2/tumblr_netaw0cKcD1qz5dnvo1_100.png"
 width = 100.0
 height = 22.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/36/18/7357542392257de7541380675f0f.png"
+url = "https://64.media.tumblr.com/605c335094acece773fc1d6733bec9b2/tumblr_netaw0cKcD1qz5dnvo1_75sq.png"
 width = 75.0
 height = 62.0
 
@@ -93,16 +93,16 @@ link_color = "#529ECC"
 show_header_image = false
 title_color = "#444444"
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_description = true
 show_title = true
 background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 header_full_height = 1055.0
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_font = "Gibson"
 
 [tumblr.blog]

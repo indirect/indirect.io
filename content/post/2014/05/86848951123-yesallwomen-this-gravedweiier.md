@@ -42,31 +42,31 @@ caption = ""
 [tumblr.photos.original_size]
 width = 276.0
 height = 750.0
-url = "/images/f2/7b/1ba139a07a893a8f96d62e8594b6.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 276.0
 height = 750.0
-url = "/images/f2/7b/1ba139a07a893a8f96d62e8594b6.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0a/69/67d8ca162613483f0de812306489.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_400.jpg"
 width = 221.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ef/5b/4258defefa2b338a1469807e84d1.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_250.jpg"
 width = 147.0
 height = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5f/c1/9dc3d43465bc28823bfee7f96608.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_100.jpg"
 width = 74.0
 height = 200.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/0b/ed/fd20552bf95f3ff5c553a17b8084.jpg"
+url = "https://64.media.tumblr.com/6d1f4598583fc22b370ba8c549184a0e/tumblr_n65q4t6mtB1qz5dnvo1_75sq.jpg"
 width = 75.0
 
 [[tumblr.trail]]
@@ -83,11 +83,11 @@ active = true
 share_likes = false
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 title_font = "Gibson"
 header_bounds = ""
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 show_header_image = false
 title_color = "#444444"

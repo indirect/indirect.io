@@ -64,7 +64,7 @@ can_be_followed = true
 name = "indirect"
 
 [tumblr.trail.blog.theme]
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 link_color = "#529ECC"
 title_font_weight = "bold"
@@ -81,8 +81,8 @@ show_avatar = true
 title_color = "#444444"
 avatar_shape = "square"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "86001039458"
@@ -95,47 +95,47 @@ comment = "<p><a href=\"http://wondermark.com/1k30/%20%20%20%20\">In which a Mis
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/76/82/27603bb435c5b58478273419d3e5.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_1280.png"
 width = 720.0
 height = 563.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/76/82/27603bb435c5b58478273419d3e5.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_1280.png"
 width = 720.0
 height = 563.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/3b/52b2b3bdcf7a3d7b493184990768.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_640.png"
 width = 640.0
 height = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/33/2a/60bc7020f25ae02df7599c07c68b.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_540.png"
 width = 540.0
 height = 422.0
 
 [[tumblr.photos.alt_sizes]]
 height = 391.0
-url = "/images/22/6c/84d3c2539aaf532fe2d033729364.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_500.png"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c4/3c/4a4a527988bdc6e547d3d5f82352.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_400.png"
 width = 400.0
 height = 313.0
 
 [[tumblr.photos.alt_sizes]]
 height = 195.0
-url = "/images/97/a6/7eda5fbec9b9b91e5d3123181222.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_250.png"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 height = 78.0
-url = "/images/a8/79/d156fc0aa0e9bd7248eee87a3583.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_100.png"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/53/4b972138bcb116ac9dd13b37b013.png"
+url = "https://64.media.tumblr.com/5be218bcb6453f4c62e4446bebdf4e84/tumblr_n5px0ooWov1qz5dnvo1_75sq.png"
 width = 75.0
 height = 75.0
 +++

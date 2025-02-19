@@ -39,33 +39,33 @@ can_blaze = false
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/52/f8/a93df7da9ab444e91cdef2d1f96c.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_500.jpg"
 width = 500.0
 height = 421.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/52/f8/a93df7da9ab444e91cdef2d1f96c.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_500.jpg"
 width = 500.0
 height = 421.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fa/5e/dd37b6509e86e2a14efe06390290.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_400.jpg"
 width = 400.0
 height = 337.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/e4/d4/6d0f0bce39bddebc3e8fab0bc5b3.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_250.jpg"
 width = 250.0
 height = 211.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/56/c8/04783bbe87f31fbee374bcb8ce79.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_100.jpg"
 width = 100.0
 height = 84.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/cf/24/ea6907a5e8fdbc12bef386255ae2.jpg"
+url = "https://64.media.tumblr.com/61b7a460e7995f752efd35169d69b6fd/tumblr_mrc5036N7e1qz5dnvo1_75sq.jpg"
 width = 75.0
 
 [[tumblr.trail]]
@@ -90,15 +90,15 @@ show_title = true
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 header_bounds = ""
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_description = true
 title_color = "#444444"
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_header_image = false
 

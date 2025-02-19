@@ -44,49 +44,49 @@ comment = "<p>Juliet, on her Android phone, sent Romeo the dizzy face emoji 😵
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/0a/89/a4aaa82ce192364b32207377e918.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_1280.jpg"
 width = 1080.0
 height = 977.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/0a/89/a4aaa82ce192364b32207377e918.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_1280.jpg"
 width = 1080.0
 height = 977.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/24/e7/ee298383249e52b680b8b2e236e8.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_640.jpg"
 width = 640.0
 height = 579.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/c1/fb/a60bd4bb1937f5f418f0ef8f53b5.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_540.jpg"
 width = 540.0
 height = 489.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 452.0
-url = "/images/f3/34/1c1481222436155e9c5af324ace3.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/65/f3/4147e6a556f825434ecd78438367.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_400.jpg"
 width = 400.0
 height = 362.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a0/53/8c932d2fe8a8d46251896d6c05ea.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_250.jpg"
 width = 250.0
 height = 226.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1a/7f/68158ee717c1c778ed2745dbb56a.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_100.jpg"
 width = 100.0
 height = 90.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/a4/6c/ecfaf5af358f1e292f3a5f8d90da.jpg"
+url = "https://64.media.tumblr.com/7f17f978da7af509121f80045bf1a556/tumblr_pnookxJdRc1qz5dnvo1_75sq.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>Juliet, on her Android phone, sent Romeo the dizzy face emoji 😵 to express her disillusionment after his killing of Tybalt. Romeo, receiving the emoji on his Apple phone, instead believes Juliet to be dead. And that, my friends, is the tragic reason why Romeo must die. — <a href=\"http://twitter.com/marxling/status/1101177883110895616\">@marxling</a></p>"
@@ -110,15 +110,15 @@ title_font = "Gibson"
 title_font_weight = "bold"
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_header_image = false
 title_color = "#444444"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_description = true
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_title = true
 

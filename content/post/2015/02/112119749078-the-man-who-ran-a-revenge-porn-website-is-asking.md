@@ -37,7 +37,7 @@ slug = "the-man-who-ran-a-revenge-porn-website-is-asking"
 timestamp = 1424936629.0
 state = "published"
 url = "http://www.theverge.com/2015/2/25/8106759/revenge-porn-operator-issues-google-dmca-takedown"
-link_image = "/images/b4/8d/2658e787d786a8d2fdf9c9287950.png"
+link_image = "https://64.media.tumblr.com/tumblr_nkdc51W8Dk1qz5dnv_og.png"
 publisher = "theverge.com"
 
 [tumblr.link_image_dimensions]
@@ -48,7 +48,7 @@ height = 500.0
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/b4/8d/2658e787d786a8d2fdf9c9287950.png"
+url = "https://64.media.tumblr.com/tumblr_nkdc51W8Dk1qz5dnv_og.png"
 width = 500.0
 height = 500.0
 

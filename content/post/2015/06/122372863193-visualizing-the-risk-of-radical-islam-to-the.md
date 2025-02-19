@@ -57,15 +57,15 @@ link_color = "#529ECC"
 show_avatar = true
 header_full_width = 3000.0
 background_color = "#FAFAFA"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_header_image = false
 title_font_weight = "bold"
 header_bounds = ""
 header_full_height = 1055.0
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font = "Gibson"
 avatar_shape = "square"
@@ -81,37 +81,37 @@ comment = "<p>Visualizing the risk of “radical Islam” to the average America
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/9f/0e/09e32e0d9878b766dfd3d135a718.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_540.jpg"
 width = 540.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/9f/0e/09e32e0d9878b766dfd3d135a718.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_540.jpg"
 width = 540.0
 height = 600.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/94/f3/6d42529ecc557b810a5c5b8a8ede.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_500.jpg"
 width = 500.0
 height = 556.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/cc/59/9d9ba53f0c1496bdeb51e9ab7fc3.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_400.jpg"
 width = 400.0
 height = 444.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/d2/ff/ba26895810f40d4b3d916c5a6592.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_250.jpg"
 width = 250.0
 height = 278.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/28/c2/c51f1376f8152202ffe165f076ca.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_100.jpg"
 width = 100.0
 height = 111.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f9/df/2eaac70a162cc95eefeeea6833c9.jpg"
+url = "https://64.media.tumblr.com/78cf9fd8ad2fa5e26aebbd25876498aa/tumblr_nqh1oyTaAj1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 

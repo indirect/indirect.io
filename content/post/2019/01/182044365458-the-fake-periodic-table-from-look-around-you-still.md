@@ -40,47 +40,47 @@ slug = "the-fake-periodic-table-from-look-around-you-still"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/2e/f1/ddc372988109e149d0747e8fd03c.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_1280.jpg"
 width = 1199.0
 height = 655.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2e/f1/ddc372988109e149d0747e8fd03c.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_1280.jpg"
 width = 1199.0
 height = 655.0
 
 [[tumblr.photos.alt_sizes]]
 height = 350.0
-url = "/images/d6/5e/13a347e4df778479ba3b0bbda473.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_640.jpg"
 width = 640.0
 
 [[tumblr.photos.alt_sizes]]
 height = 295.0
-url = "/images/99/b9/fc3475783b042fad6c98859ddcfe.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_540.jpg"
 width = 540.0
 
 [[tumblr.photos.alt_sizes]]
 height = 273.0
-url = "/images/b5/3e/583494de8fe21fd2ae9ece936f00.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_500.jpg"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fd/30/d32c82f9f7461d5a9907467e4b0f.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_400.jpg"
 width = 400.0
 height = 219.0
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 137.0
-url = "/images/8a/78/6b02d5461749629a82f960bf32f3.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_250.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/48/af/c3943d4e4129867a6e3d29f516ff.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_100.jpg"
 width = 100.0
 height = 55.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/de/31/7ac41a902396b8803dc6d91e23e2.jpg"
+url = "https://64.media.tumblr.com/e2e17826b7e6a267808d6a6ae7b7e600/tumblr_pleez90MmT1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -115,11 +115,11 @@ header_image_poster = ""
 show_header_image = false
 title_color = "#444444"
 header_full_height = 1055.0
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 background_color = "#FAFAFA"

@@ -40,47 +40,47 @@ slug = "currently-feeling-real-dumb-for-how-hard-i-laughed"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/8d/96/270d3fddbcb8908883dcf5523b0c.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s1280x1920/9e518aed94ba7f8e5eeb68a3897278384c55a62d.jpg"
 width = 735.0
 height = 889.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8d/96/270d3fddbcb8908883dcf5523b0c.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s1280x1920/9e518aed94ba7f8e5eeb68a3897278384c55a62d.jpg"
 width = 735.0
 height = 889.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f1/db/44d92d092d20bc2e663744f19908.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s640x960/3e75948297311102ad1f23c42f03cedaa33c31d4.jpg"
 width = 640.0
 height = 774.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/3f/ca/1e8cde4c0a8ac5f53e1598c9f2a8.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s540x810/085b2116b538e1a2fc63b70f7de3e95a3c5bead1.jpg"
 width = 540.0
 height = 653.0
 
 [[tumblr.photos.alt_sizes]]
 height = 605.0
-url = "/images/18/83/2849eb8c664edcccb9d2a3a347b0.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s500x750/5cc1e1c7f8f4f4aa139957111ca2d5e3b798aa75.jpg"
 width = 500.0
 
 [[tumblr.photos.alt_sizes]]
 width = 400.0
 height = 484.0
-url = "/images/f2/61/d65323039f9b5d07a48cd9fa538c.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s400x600/3f0a5d9c192215c0f39c793a233f38e18fcc06a0.jpg"
 
 [[tumblr.photos.alt_sizes]]
 width = 250.0
 height = 302.0
-url = "/images/6f/9a/03224638d14e10b093f6a2d1b6a7.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s250x400/29802a775473ffd077729c4ed522007d58029128.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/ee/74/e866c2a6275d928219b0af7c6aed.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s100x200/9932d123e1a9b4a3af9b70d44261583b01af9419.jpg"
 width = 100.0
 height = 121.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/5b/ca/18047715d238c567188cfc20a765.jpg"
+url = "https://64.media.tumblr.com/5906383b02a09fc88e8eb55837a77f16/cb4c405fad6caf3b-da/s75x75_c1/22b48dee757c2b6f3c10bbeac6ec06b80d654044.jpg"
 width = 75.0
 height = 75.0
 
@@ -118,19 +118,19 @@ show_avatar = true
 title_color = "#444444"
 body_font = "Helvetica Neue"
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font_weight = "bold"
 header_full_width = 3000.0
 background_color = "#FAFAFA"
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 show_description = true
 show_header_image = false
 title_font = "Gibson"
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 
 [tumblr.reblog]
 comment = "<p>Currently feeling real dumb for how hard I laughed at this — <a href=\"http://twitter.com/wyntermitchell/status/1563658810861883392\">@wyntermitchell</a></p>"

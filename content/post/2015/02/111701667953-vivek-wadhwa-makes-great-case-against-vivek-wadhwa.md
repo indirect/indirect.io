@@ -8,7 +8,7 @@ type = "tumblr-link"
 
 [tumblr]
 format = "markdown"
-link_image = "/images/77/0d/c76b91bcef9f057665801fcdd847.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_nk5ax58wRt1qz5dnv_og.jpg"
 publisher = "newsfeed.gawker.com"
 can_like = false
 display_avatar = true
@@ -55,7 +55,7 @@ description = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/77/0d/c76b91bcef9f057665801fcdd847.jpg"
+url = "https://64.media.tumblr.com/tumblr_nk5ax58wRt1qz5dnv_og.jpg"
 width = 431.0
 height = 431.0
 

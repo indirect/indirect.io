@@ -43,32 +43,32 @@ caption = ""
 [tumblr.photos.original_size]
 width = 500.0
 height = 342.0
-url = "/images/10/40/0278a7cfdb70712a84d11fcde06f.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/10/40/0278a7cfdb70712a84d11fcde06f.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_500.jpg"
 width = 500.0
 height = 342.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/62/a9/561a310459adb41bad79d7eb0684.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_400.jpg"
 width = 400.0
 height = 274.0
 
 [[tumblr.photos.alt_sizes]]
 height = 171.0
-url = "/images/4c/81/c15d4399732565626224cdab8e8a.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/a1/00/bd9bc81331815bda4bc5b97ec464.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_100.jpg"
 width = 100.0
 height = 68.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/d5/48/3b63e952f32f0ef774ac9f082fee.jpg"
+url = "https://64.media.tumblr.com/tumblr_lsd9zfZ9ji1qz5dnvo1_75sq.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>(via <a href=\"http://boingboing.net/2011/09/30/to-do-this-weekend-special-police-balloon-ride.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20boingboing/iBag%20(Boing%20Boing)\">Boing Boing</a>)</p>"
@@ -84,7 +84,7 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_poster = ""
 header_stretch = true
 link_color = "#529ECC"
@@ -97,12 +97,12 @@ show_title = true
 title_font_weight = "bold"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 show_description = true
 show_header_image = false
 title_color = "#444444"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 
 [tumblr.trail.post]
 id = "10874044384"

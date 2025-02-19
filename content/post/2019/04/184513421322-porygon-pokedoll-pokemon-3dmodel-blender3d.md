@@ -27,7 +27,7 @@ format = "html"
 caption = "<p>Porygon Pokedoll #pokemon #3dmodel #Blender3d - <a href=\"http://twitter.com/Cortoony/status/1122152583093739520\">@Cortoony</a></p>"
 blog_name = "indirect"
 id_string = "184513421322"
-thumbnail_url = "/images/3d/bc/59f88aa67475005aba2ade4d6850.jpg"
+thumbnail_url = "https://64.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv_frame1.jpg"
 video_type = "tumblr"
 interactability_reblog = "everyone"
 can_reblog = false
@@ -47,15 +47,15 @@ tree_html = ""
 
 [[tumblr.player]]
 width = 250.0
-embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='250' height='250' poster='/images/65/d2/628ade24da841aa4b188d066f98a.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/62/ed/330fe2131abc8dd07c6051c6dbb5.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='250' height='250' poster='https://64.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://66.media.tumblr.com/previews/tumblr_pqozfzJAmu1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 400.0
-embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='400' height='400' poster='/images/65/d2/628ade24da841aa4b188d066f98a.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/62/ed/330fe2131abc8dd07c6051c6dbb5.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='400' height='400' poster='https://64.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://66.media.tumblr.com/previews/tumblr_pqozfzJAmu1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.player]]
 width = 500.0
-embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='500' height='500' poster='/images/65/d2/628ade24da841aa4b188d066f98a.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"/images/62/ed/330fe2131abc8dd07c6051c6dbb5.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
+embed_code = "\n<video  id='embed-67b57593096c3026101494' class='crt-video crt-skin-default' width='500' height='500' poster='https://64.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv_smart1.jpg' preload='none' muted data-crt-video data-crt-options='{\"autoheight\":null,\"duration\":7,\"hdUrl\":false,\"filmstrip\":{\"url\":\"https://66.media.tumblr.com/previews/tumblr_pqozfzJAmu1qz5dnv_filmstrip.jpg\",\"width\":\"200\",\"height\":\"200\"}}' crossOrigin='anonymous' controls>\n    <source src=\"https://va.media.tumblr.com/tumblr_pqozfzJAmu1qz5dnv.mp4\" type=\"video/mp4\">\n</video>\n"
 
 [[tumblr.trail]]
 content_raw = "<p>Porygon Pokedoll #pokemon #3dmodel #Blender3d - <a href=\"http://twitter.com/Cortoony/status/1122152583093739520\">@Cortoony</a></p>"
@@ -72,16 +72,16 @@ active = true
 
 [tumblr.trail.blog.theme]
 background_color = "#FAFAFA"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 title_color = "#444444"
 header_full_width = 3000.0
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_title = true
 title_font_weight = "bold"
 avatar_shape = "square"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 show_description = true
 title_font = "Gibson"

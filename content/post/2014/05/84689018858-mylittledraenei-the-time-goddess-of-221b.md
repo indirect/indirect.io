@@ -73,10 +73,10 @@ body_font = "Helvetica Neue"
 header_bounds = 0.0
 show_title = true
 background_color = "#FAFAFA"
-header_image = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
-header_image_focused = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 header_image_poster = ""
-header_image_scaled = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 show_avatar = true
 header_stretch = true
 link_color = "#529ECC"
@@ -101,19 +101,19 @@ can_be_followed = true
 [tumblr.trail.blog.theme]
 background_color = "#FFFFFF"
 header_bounds = ""
-header_image_focused = "/images/b8/4e/123b707af9d315b57cbc42c42684.png"
+header_image_focused = "https://64.media.tumblr.com/c7a6e4667a26600ac5001793f1722b8a/f9b9d7d4a67b97b4-43/s2048x3072/b320ab7f09bcd7e514863dbbcebb4a752c463ac7.png"
 show_title = true
 title_color = "#000000"
 show_avatar = true
 show_description = true
 title_font_weight = "bold"
 body_font = "Helvetica Neue"
-header_image_scaled = "/images/b8/4e/123b707af9d315b57cbc42c42684.png"
+header_image_scaled = "https://64.media.tumblr.com/c7a6e4667a26600ac5001793f1722b8a/f9b9d7d4a67b97b4-43/s2048x3072/b320ab7f09bcd7e514863dbbcebb4a752c463ac7.png"
 link_color = "#00B8FF"
 show_header_image = false
 header_full_width = 3000.0
 avatar_shape = "square"
-header_image = "/images/38/f9/15d5e881bdcb760ef0ff50e03bba.png"
+header_image = "https://64.media.tumblr.com/c7a6e4667a26600ac5001793f1722b8a/f9b9d7d4a67b97b4-43/s3000x1055/f8da34a9119953039845847d2454d8a77c32cc69.png"
 header_image_poster = ""
 header_stretch = false
 title_font = "Gibson"
@@ -141,7 +141,7 @@ show_description = true
 title_color = "#444444"
 header_image_poster = ""
 avatar_shape = "square"
-header_image_focused = "/images/4f/07/89d7e87f97186544e01314868c3b.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_07.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
 header_stretch = true
 link_color = "#529ECC"
 show_header_image = true
@@ -149,8 +149,8 @@ title_font = "Gibson"
 title_font_weight = "bold"
 background_color = "#FAFAFA"
 header_bounds = 0.0
-header_image = "/images/4f/07/89d7e87f97186544e01314868c3b.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
-header_image_scaled = "/images/4f/07/89d7e87f97186544e01314868c3b.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_07.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_07.png?_v=c52eb3e7fd4be5c98b8970b4c330d172"
 
 [tumblr.trail.post]
 id = "81581503897"

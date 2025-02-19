@@ -40,24 +40,24 @@ id_string = "190033453968"
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/59/d7/0d12f1a31a83928372ec44fd8dd4.png"
+url = "https://64.media.tumblr.com/c8e3f4f9ff5d578356cdd182d9caa2fa/21684c52a54a78db-e1/s250x400/ac0b930371745d005ee5c6436adf1beb3da1e5fc.png"
 width = 103.0
 height = 75.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/59/d7/0d12f1a31a83928372ec44fd8dd4.png"
+url = "https://64.media.tumblr.com/c8e3f4f9ff5d578356cdd182d9caa2fa/21684c52a54a78db-e1/s250x400/ac0b930371745d005ee5c6436adf1beb3da1e5fc.png"
 width = 103.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/19/a7/d22cc5e0cdff10cd333e929d1b27.png"
+url = "https://64.media.tumblr.com/c8e3f4f9ff5d578356cdd182d9caa2fa/21684c52a54a78db-e1/s100x200/07c25cbde223f6c59a6a69377642e1a4aa1f56bb.png"
 width = 100.0
 height = 73.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/af/8c/a73647ef1959e73b7491b304f5e3.png"
+url = "https://64.media.tumblr.com/c8e3f4f9ff5d578356cdd182d9caa2fa/21684c52a54a78db-e1/s75x75_c1/71c8d502dc29ca84c22fb48071e3bec59b957797.png"
 
 [tumblr.blog]
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
@@ -88,8 +88,8 @@ header_full_width = 3000.0
 body_font = "Helvetica Neue"
 header_bounds = ""
 title_font = "Gibson"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_stretch = true
 show_description = true
 show_header_image = false
@@ -98,7 +98,7 @@ title_font_weight = "bold"
 header_full_height = 1055.0
 background_color = "#FAFAFA"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 avatar_shape = "square"
 link_color = "#529ECC"

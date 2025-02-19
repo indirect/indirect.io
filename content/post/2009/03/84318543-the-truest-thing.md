@@ -55,7 +55,7 @@ header_full_height = 1055.0
 avatar_shape = "square"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_avatar = true
 title_color = "#444444"
 title_font_weight = "bold"
@@ -63,8 +63,8 @@ header_bounds = ""
 link_color = "#529ECC"
 title_font = "Gibson"
 header_full_width = 3000.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 header_stretch = true
 show_description = true
@@ -80,27 +80,27 @@ tree_html = ""
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/82/ad/9fa321a4350e5deea49a0ded4a11.jpg"
+url = "https://64.media.tumblr.com/fJ9bXQEvVkrmrq8rUzQWOlaXo1_400.jpg"
 width = 400.0
 height = 266.0
 
 [[tumblr.photos.alt_sizes]]
 height = 266.0
-url = "/images/82/ad/9fa321a4350e5deea49a0ded4a11.jpg"
+url = "https://64.media.tumblr.com/fJ9bXQEvVkrmrq8rUzQWOlaXo1_400.jpg"
 width = 400.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f4/36/2b637f0507086dce9d8326287789.jpg"
+url = "https://64.media.tumblr.com/fJ9bXQEvVkrmrq8rUzQWOlaXo1_250.jpg"
 width = 250.0
 height = 166.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/40/9c/240690c0826105470e2575870941.jpg"
+url = "https://64.media.tumblr.com/fJ9bXQEvVkrmrq8rUzQWOlaXo1_100.jpg"
 width = 100.0
 height = 67.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/03/29/f05d0b010172ae41ce55f9ad595b.jpg"
+url = "https://64.media.tumblr.com/fJ9bXQEvVkrmrq8rUzQWOlaXo1_75sq.jpg"
 width = 75.0
 height = 75.0
 

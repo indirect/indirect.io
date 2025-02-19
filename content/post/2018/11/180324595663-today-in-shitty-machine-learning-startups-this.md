@@ -40,49 +40,49 @@ interactability_blaze = "everyone"
 caption = ""
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6c/24/50a19555ea551ac3b34e55365102.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_1280.jpg"
 width = 1200.0
 height = 580.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6a/2e/511ef73967198484bf51c7c3cd96.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_640.jpg"
 width = 640.0
 height = 309.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/1f/73/495ba61ae7ab4ae223da2b2a7355.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_540.jpg"
 width = 540.0
 height = 261.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/01/45/82a021f63f80fe16d8ed40514e6b.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_500.jpg"
 width = 500.0
 height = 242.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/86/02/5cf3c6d97723b9b459b72939bdaf.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_400.jpg"
 width = 400.0
 height = 193.0
 
 [[tumblr.photos.alt_sizes]]
 height = 121.0
-url = "/images/3f/01/b69acd83bfd5a7813e5b007df393.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_250.jpg"
 width = 250.0
 
 [[tumblr.photos.alt_sizes]]
 height = 48.0
-url = "/images/11/32/2dd42e0446ab4953f05823604105.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_100.jpg"
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8e/38/13ad6a6c79ae6b8e4c70d01e54ab.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
 [tumblr.photos.original_size]
 width = 1200.0
 height = 580.0
-url = "/images/6c/24/50a19555ea551ac3b34e55365102.jpg"
+url = "https://64.media.tumblr.com/547d12d9182332508d9b37653a2565b4/tumblr_piimjvuCcF1qz5dnvo1_1280.jpg"
 
 [[tumblr.trail]]
 content_raw = "<p>Today in shitty machine learning startups, this company claims to predict IQ, personality, and violent tendencies by applying deep learning to facial features and bone structure. </p>\n\n<p>That’s phrenology. You just made the ML equivalent of a racist uncle. — <a href=\"http://twitter.com/jbensnyder/status/1064759174574280704\">@jbensnyder</a></p>"
@@ -104,8 +104,8 @@ show_avatar = true
 show_header_image = false
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 header_full_width = 3000.0
 header_full_height = 1055.0
@@ -115,7 +115,7 @@ header_stretch = true
 show_description = true
 title_font = "Gibson"
 title_font_weight = "bold"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 
 [tumblr.trail.post]

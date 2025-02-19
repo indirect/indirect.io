@@ -44,37 +44,37 @@ comment = "<p>Disappointed by Barbie: I Can Be An Engineer? Encourage girls to r
 caption = ""
 
 [tumblr.photos.original_size]
-url = "/images/97/17/726eb3ac01a8a6272274704b57c5.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_540.jpg"
 width = 528.0
 height = 415.0
 
 [[tumblr.photos.alt_sizes]]
 height = 415.0
-url = "/images/97/17/726eb3ac01a8a6272274704b57c5.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_540.jpg"
 width = 528.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/8e/3f/dbd8080d6869488a05d21a405a3a.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_500.jpg"
 width = 500.0
 height = 393.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/16/13/8ae2ca37119859b717b3915a0b67.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_400.jpg"
 width = 400.0
 height = 314.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/bf/9e/d9d075b3381d7e79c6875d945687.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_250.jpg"
 width = 250.0
 height = 196.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/96/87/189de7826b5434bfedf017603815.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_100.jpg"
 width = 100.0
 height = 79.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/63/e6/1707ff21c47931ff399a1b3f67d9.jpg"
+url = "https://64.media.tumblr.com/572cac75b7206c0b38a91a7557f4ca76/tumblr_nf9qzbElgb1qz5dnvo1_75sq.jpg"
 width = 75.0
 height = 75.0
 
@@ -92,17 +92,17 @@ name = "indirect"
 active = true
 
 [tumblr.trail.blog.theme]
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
 header_stretch = true
 show_header_image = false
 header_full_height = 1055.0
 header_bounds = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 title_font = "Gibson"
 avatar_shape = "square"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 show_avatar = true
 show_description = true
 header_full_width = 3000.0

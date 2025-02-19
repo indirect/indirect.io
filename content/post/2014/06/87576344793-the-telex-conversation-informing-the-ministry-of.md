@@ -58,10 +58,10 @@ link_color = "#529ECC"
 title_font_weight = "bold"
 avatar_shape = "square"
 body_font = "Helvetica Neue"
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 header_image_poster = ""
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_description = true
 header_bounds = ""
 header_stretch = true
@@ -78,32 +78,32 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 375.0
-url = "/images/2e/ef/659131ddad7c10b8cdfc19e9a720.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_500.png"
 width = 460.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/2e/ef/659131ddad7c10b8cdfc19e9a720.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_500.png"
 width = 460.0
 height = 375.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/02/9d/771154adbe506d201af0f9c9a8ee.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_400.png"
 width = 400.0
 height = 326.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/f4/ca/d4a48327278e2561dee26d559187.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_250.png"
 width = 250.0
 height = 204.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/fe/e7/4a5f2838f4d81b5f69f70bd767c2.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_100.png"
 width = 100.0
 height = 82.0
 
 [[tumblr.photos.alt_sizes]]
 height = 75.0
-url = "/images/8d/88/357808e2c338077c90f928af7dad.png"
+url = "https://64.media.tumblr.com/f75510d0b82bf8819d65c2bfb444733e/tumblr_n6j4aznpD81qz5dnvo1_75sq.png"
 width = 75.0
 
 [tumblr.blog]

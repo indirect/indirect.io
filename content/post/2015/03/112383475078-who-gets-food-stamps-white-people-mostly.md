@@ -24,7 +24,7 @@ can_like = false
 type = "link"
 slug = "who-gets-food-stamps-white-people-mostly"
 should_open_in_legacy = true
-link_image = "/images/59/18/29d549e5e8c60861f4707859b5b2.jpg"
+link_image = "https://64.media.tumblr.com/tumblr_nkipe9mO1J1qz5dnv_og.jpg"
 interactability_blaze = "everyone"
 is_blaze_pending = false
 can_blaze = false
@@ -57,7 +57,7 @@ caption = ""
 [tumblr.photos.original_size]
 width = 500.0
 height = 500.0
-url = "/images/59/18/29d549e5e8c60861f4707859b5b2.jpg"
+url = "https://64.media.tumblr.com/tumblr_nkipe9mO1J1qz5dnv_og.jpg"
 
 [tumblr.link_image_dimensions]
 width = 500.0

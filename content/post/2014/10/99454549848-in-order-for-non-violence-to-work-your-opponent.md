@@ -60,13 +60,13 @@ background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 show_avatar = true
 header_full_height = 1055.0
-header_image = "/images/3d/b4/6d99210450f4a662c36d5f619a3b.png"
-header_image_focused = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 link_color = "#529ECC"
 show_header_image = false
 title_color = "#444444"
 header_full_width = 3000.0
-header_image_scaled = "/images/59/17/48d16ee01f6d456797714a5e291b.png"
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
 show_title = true
 title_font_weight = "bold"
 
@@ -78,38 +78,38 @@ caption = ""
 
 [tumblr.photos.original_size]
 height = 320.0
-url = "/images/b6/e8/ca844600afcb54d49ab0a4da917f.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_540.jpg"
 width = 512.0
 
 [[tumblr.photos.alt_sizes]]
 height = 320.0
-url = "/images/b6/e8/ca844600afcb54d49ab0a4da917f.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_540.jpg"
 width = 512.0
 
 [[tumblr.photos.alt_sizes]]
 width = 500.0
 height = 313.0
-url = "/images/3c/68/061057bbf2b544c06939ada8bc0c.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_500.jpg"
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/b8/4b/393d4b83e96628c2b57a3a9bbe54.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_400.jpg"
 width = 400.0
 height = 250.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/90/4b/04159c2586998c0aa500fab64ed1.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_250.jpg"
 width = 250.0
 height = 156.0
 
 [[tumblr.photos.alt_sizes]]
-url = "/images/6d/28/6dbb7d247c3e9e2a4b89ddc91baa.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_100.jpg"
 width = 100.0
 height = 63.0
 
 [[tumblr.photos.alt_sizes]]
 width = 75.0
 height = 75.0
-url = "/images/21/c2/b6f6b2b84203e551ea6a39a1c75f.jpg"
+url = "https://64.media.tumblr.com/88e5f4fdcf94c52c7d0c95aa56b82eed/tumblr_nd3u0aKMaz1qz5dnvo1_75sq.jpg"
 
 [tumblr.reblog]
 comment = "<p>“In order for non-violence to work, your opponent must have a conscience.” (via @lovethediosa) — <a href=\"http://twitter.com/HalDockins/status/519523462272921601\">@HalDockins</a></p>"

@@ -61,7 +61,7 @@ title_color = "#000000"
 body_font = "Helvetica Neue"
 header_bounds = ""
 title_font = "Gibson"
-header_image = "/images/a3/6b/cb03a2b9e0e599eaeaf6a5bf1651.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image = "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1"
 header_image_poster = ""
 show_description = true
 show_title = true
@@ -70,8 +70,8 @@ background_color = "#FFFFFF"
 link_color = "#00B8FF"
 show_header_image = true
 title_font_weight = "bold"
-header_image_focused = "/images/41/e5/335d609b49eeb109c32a52155fd5.png?_v=4275fa0865b78225d79970023dde05a1"
-header_image_scaled = "/images/41/e5/335d609b49eeb109c32a52155fd5.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_focused = "https://assets.tumblr.com/images/default_header/optica_pattern_11_focused_v3.png?_v=4275fa0865b78225d79970023dde05a1"
+header_image_scaled = "https://assets.tumblr.com/images/default_header/optica_pattern_11_focused_v3.png?_v=4275fa0865b78225d79970023dde05a1"
 header_stretch = true
 
 [tumblr.trail.post]
