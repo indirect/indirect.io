@@ -1,0 +1,6 @@
+#!/bin/bash
+set -euo pipefail
+set -x
+
+go install github.com/jmooring/hvm@latest
+go install github.com/carlmjohnson/tumblr-importr@latest
