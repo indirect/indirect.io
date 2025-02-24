@@ -6,83 +6,83 @@ slug = "usingcigarettes-search-this-tweet-has-been"
 type = "tumblr-text"
 
 [tumblr]
-format = "html"
+blog_name = "indirect"
+body = "<blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search “this tweet has been deleted” in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth — <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a>"
+can_blaze = false
 can_like = false
 can_reblog = false
-short_url = "https://tmblr.co/ZY3jbyddOxse8q00"
-display_avatar = true
-note_count = 0.0
-body = "<blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search “this tweet has been deleted” in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth — <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a>"
-reblog_key = "xgVVTbEo"
-type = "text"
-blog_name = "indirect"
-state = "published"
-should_open_in_legacy = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-id_string = "713648732182364160"
-is_blazed = false
-post_url = "https://indirect.io/post/713648732182364160/usingcigarettes-search-this-tweet-has-been"
-date = "2023-04-04 06:07:46 GMT"
-summary = "@UsingCigarettes: search “this tweet has been deleted” in your camera roll and post your favorite\n\n\nthey were SILENCED for..."
-id = 7.136487321823642e+17
-is_blaze_pending = false
-timestamp = 1680588466.0
-can_send_in_message = true
 can_reply = false
-can_blaze = false
+can_send_in_message = true
+date = "2023-04-04 06:07:46 GMT"
+display_avatar = true
+format = "html"
+id = 7.136487321823642e+17
+id_string = "713648732182364160"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/713648732182364160/usingcigarettes-search-this-tweet-has-been"
+reblog_key = "xgVVTbEo"
+short_url = "https://tmblr.co/ZY3jbyddOxse8q00"
+should_open_in_legacy = false
 slug = "usingcigarettes-search-this-tweet-has-been"
+state = "published"
+summary = "@UsingCigarettes: search “this tweet has been deleted” in your camera roll and post your favorite\n\n\nthey were SILENCED for..."
+timestamp = 1680588466.0
+type = "text"
 
-[[tumblr.trail]]
-content = "<p><blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search &ldquo;this tweet has been deleted&rdquo; in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth &mdash; <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search “this tweet has been deleted” in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth — <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a></p>"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
-active = true
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
-[tumblr.trail.blog.theme]
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_description = true
-background_color = "#FAFAFA"
-header_stretch = true
-title_color = "#444444"
-title_font = "Gibson"
-header_full_width = 3000.0
-avatar_shape = "square"
-link_color = "#529ECC"
-show_header_image = false
-show_title = true
-header_full_height = 1055.0
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-header_image_poster = ""
-show_avatar = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "713648732182364160"
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search “this tweet has been deleted” in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth — <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a></p>"
 tree_html = ""
 
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
+[[tumblr.trail]]
+content = "<p><blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search &ldquo;this tweet has been deleted&rdquo; in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth &mdash; <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a></p>"
+content_raw = "<p><blockquote><p>\n<a href=\"http://twitter.com/UsingCigarettes/status/1642680812809101313\">@UsingCigarettes</a>: search “this tweet has been deleted” in your camera roll and post your favorite\n</p></blockquote>\n\nthey were SILENCED for speaking the truth — <a href=\"http://twitter.com/spicybinch/status/1642961261041164312\">@spicybinch</a></p>"
+is_current_item = true
+is_root_item = true
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
+name = "indirect"
+share_following = false
+share_likes = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "713648732182364160"
 +++

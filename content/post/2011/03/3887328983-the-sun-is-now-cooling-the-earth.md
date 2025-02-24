@@ -6,44 +6,44 @@ slug = "the-sun-is-now-cooling-the-earth"
 type = "tumblr-quote"
 
 [tumblr]
-text = "The sun is now cooling the Earth"
-interactability_reblog = "everyone"
-can_reply = false
+blog_name = "indirect"
+bookmarklet = true
 can_blaze = false
-timestamp = 1300234181.0
-state = "published"
-source = "<a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a>"
-is_blocks_post_format = false
-date = "2011-03-16 00:09:41 GMT"
-is_blaze_pending = false
-slug = "the-sun-is-now-cooling-the-earth"
-should_open_in_legacy = true
-source_title = "inforum.com"
-interactability_blaze = "everyone"
-can_send_in_message = true
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2011-03-16 00:09:41 GMT"
 display_avatar = true
+format = "markdown"
 id = 3887328983.0
 id_string = "3887328983"
-post_url = "https://indirect.io/post/3887328983/the-sun-is-now-cooling-the-earth"
-summary = "The sun is now cooling the Earth"
-bookmarklet = true
-source_url = "http://www.inforum.com/event/article/id/312224/"
-type = "quote"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/3887328983/the-sun-is-now-cooling-the-earth"
 reblog_key = "ZGNInNXb"
 short_url = "https://tmblr.co/ZY3jby3di_xN"
-can_like = false
-blog_name = "indirect"
-format = "markdown"
-note_count = 0.0
+should_open_in_legacy = true
+slug = "the-sun-is-now-cooling-the-earth"
+source = "<a href=\"http://www.inforum.com/event/article/id/312224/\">Use our cheap, abundant coal | INFORUM | Fargo, ND</a>"
+source_title = "inforum.com"
+source_url = "http://www.inforum.com/event/article/id/312224/"
+state = "published"
+summary = "The sun is now cooling the Earth"
+text = "The sun is now cooling the Earth"
+timestamp = 1300234181.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

@@ -6,50 +6,50 @@ slug = "everyone-sucks-at-programming-anyone-who-claims"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "68179450096"
+blog_name = "indirect"
+bookmarklet = true
 can_blaze = false
 can_like = false
-is_blocks_post_format = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-11-26 18:33:50 GMT"
+display_avatar = true
+format = "markdown"
 id = 68179450096.0
-post_url = "https://indirect.io/post/68179450096/everyone-sucks-at-programming-anyone-who-claims"
-slug = "everyone-sucks-at-programming-anyone-who-claims"
-source_title = "quora.com"
+id_string = "68179450096"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
-state = "published"
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/68179450096/everyone-sucks-at-programming-anyone-who-claims"
+reblog_key = "eJlOBFYU"
 short_url = "https://tmblr.co/ZY3jby-VpzZm"
 should_open_in_legacy = true
-note_count = 0.0
-type = "quote"
-blog_name = "indirect"
-reblog_key = "eJlOBFYU"
-interactability_reblog = "everyone"
-display_avatar = true
-summary = "everyone sucks at programming. Anyone who claims they don’t is lying or in some serious denial"
-source_url = "https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.quora.com%2FWomen-in-Engineering%2FHow-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer%2Fanswer%2FAnne-K.-Halsall&t=ZDczMDgwNjAyM2QwYzYxNmY2OWI3NTA0OGY3NjM2ZDUwMjAzMGNlNCw2ODE3OTQ1MDA5Ng%3D%3D&b=t%3APgyUJU3SA2Klwyt81UWAwQ&p=https%3A%2F%2Findirect.io%2Fpost%2F68179450096%2Feveryone-sucks-at-programming-anyone-who-claims&m=0&ts=1739945364"
-timestamp = 1385490830.0
-text = "everyone sucks at programming. Anyone who claims they don&rsquo;t is lying or in some serious denial"
+slug = "everyone-sucks-at-programming-anyone-who-claims"
 source = "<a href=\"http://www.quora.com/Women-in-Engineering/How-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer/answer/Anne-K.-Halsall\">How have you overcome the Impostor Syndrome as a female engineer?</a>"
-can_reblog = false
-date = "2013-11-26 18:33:50 GMT"
-format = "markdown"
-bookmarklet = true
-can_send_in_message = true
-is_blaze_pending = false
-can_reply = false
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://www.quora.com/Women-in-Engineering/How-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer/answer/Anne-K.-Halsall\">How have you overcome the Impostor Syndrome as a female engineer?</a></p>"
+source_title = "quora.com"
+source_url = "http://www.quora.com/Women-in-Engineering/How-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer/answer/Anne-K.-Halsall"
+state = "published"
+summary = "everyone sucks at programming. Anyone who claims they don’t is lying or in some serious denial"
+text = "everyone sucks at programming. Anyone who claims they don&rsquo;t is lying or in some serious denial"
+timestamp = 1385490830.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.quora.com/Women-in-Engineering/How-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer/answer/Anne-K.-Halsall\">How have you overcome the Impostor Syndrome as a female engineer?</a></p>"
+tree_html = ""
 +++

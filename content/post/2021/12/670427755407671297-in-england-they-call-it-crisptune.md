@@ -6,43 +6,43 @@ slug = "in-england-they-call-it-crisptune"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-date = "2021-12-13 04:28:51 GMT"
-type = "quote"
-is_blocks_post_format = false
-reblog_key = "AUW6awrP"
-display_avatar = true
-post_url = "https://indirect.io/post/670427755407671297/in-england-they-call-it-crisptune"
-is_blaze_pending = false
+blog_name = "indirect"
 can_blaze = false
-format = "html"
-summary = "in england they call it “crisptune”"
-interactability_reblog = "everyone"
+can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
-source = "<a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a>"
-slug = "in-england-they-call-it-crisptune"
+date = "2021-12-13 04:28:51 GMT"
+display_avatar = true
+format = "html"
 id = 6.704277554076713e+17
+id_string = "670427755407671297"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/670427755407671297/in-england-they-call-it-crisptune"
+reblog_key = "AUW6awrP"
 short_url = "https://tmblr.co/ZY3jbybDrdtGem01"
 should_open_in_legacy = true
-can_reply = false
-id_string = "670427755407671297"
+slug = "in-england-they-call-it-crisptune"
+source = "<a href=\"http://twitter.com/wormwood_stars/status/1470221160705150978\">@wormwood_stars</a>"
 state = "published"
-note_count = 0.0
+summary = "in england they call it “crisptune”"
 text = "in england they call it &ldquo;crisptune&rdquo;"
 timestamp = 1639369731.0
-blog_name = "indirect"
-is_blazed = false
-can_reblog = false
-interactability_blaze = "everyone"
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

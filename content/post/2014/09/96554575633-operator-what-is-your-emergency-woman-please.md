@@ -6,47 +6,47 @@ slug = "operator-what-is-your-emergency-woman-please"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-can_send_in_message = true
-summary = "operator: what is your emergency? \nwoman: please help, some men broke into my home \noperator: not all men are like that, i..."
-can_like = false
-id_string = "96554575633"
-date = "2014-09-03 18:39:43 GMT"
-state = "published"
-is_blaze_pending = false
-slug = "operator-what-is-your-emergency-woman-please"
-post_url = "https://indirect.io/post/96554575633/operator-what-is-your-emergency-woman-please"
-timestamp = 1409769583.0
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/bluntswdad/status/471153557454864384\">@bluntswdad</a>"
-type = "quote"
-format = "html"
-text = "operator: what is your emergency?<br/>\nwoman: please help, some men broke into my home<br/>\noperator: not all men are like that, i wouldn&rsquo;t do that"
-is_blocks_post_format = false
-id = 96554575633.0
-is_blazed = false
-reblog_key = "CJbR44OO"
-short_url = "https://tmblr.co/ZY3jby1Px6USH"
-note_count = 0.0
-can_reblog = false
-can_reply = false
 blog_name = "indirect"
 can_blaze = false
-interactability_reblog = "everyone"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-09-03 18:39:43 GMT"
 display_avatar = true
+format = "html"
+id = 96554575633.0
+id_string = "96554575633"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/96554575633/operator-what-is-your-emergency-woman-please"
+reblog_key = "CJbR44OO"
+short_url = "https://tmblr.co/ZY3jby1Px6USH"
+should_open_in_legacy = true
+slug = "operator-what-is-your-emergency-woman-please"
+source = "<a href=\"http://twitter.com/bluntswdad/status/471153557454864384\">@bluntswdad</a>"
+state = "published"
+summary = "operator: what is your emergency? \nwoman: please help, some men broke into my home \noperator: not all men are like that, i..."
+text = "operator: what is your emergency?<br/>\nwoman: please help, some men broke into my home<br/>\noperator: not all men are like that, i wouldn&rsquo;t do that"
+timestamp = 1409769583.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/bluntswdad/status/471153557454864384\">@bluntswdad</a></p>"
+tree_html = ""
 +++

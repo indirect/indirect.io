@@ -6,47 +6,47 @@ slug = "think-of-the-children-no-not-those-children-no"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-slug = "think-of-the-children-no-not-those-children-no"
-interactability_reblog = "everyone"
-is_blazed = false
-date = "2024-05-02 04:21:40 GMT"
-can_like = false
-summary = "Think of the children! No, not those children. No, not them, either. No,"
-post_url = "https://indirect.io/post/749337261619937280/think-of-the-children-no-not-those-children-no"
-timestamp = 1714623700.0
-text = "Think of the children! No, not those children. No, not them, either. No,"
-source = "<a href=\"https://twitter.com/drmistercody/status/1785866967896764444\">Cody Johnston (@drmistercody)</a>"
 blog_name = "indirect"
-interactability_blaze = "everyone"
-can_reply = false
-should_open_in_legacy = true
+can_blaze = false
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2024-05-02 04:21:40 GMT"
 display_avatar = true
-id = 7.493372616199373e+17
-state = "published"
 format = "markdown"
+id = 7.493372616199373e+17
+id_string = "749337261619937280"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/749337261619937280/think-of-the-children-no-not-those-children-no"
 reblog_key = "dxdmIAvz"
 short_url = "https://tmblr.co/ZY3jbyfcBaJlqW00"
-can_send_in_message = true
+should_open_in_legacy = true
+slug = "think-of-the-children-no-not-those-children-no"
+source = "<a href=\"https://twitter.com/drmistercody/status/1785866967896764444\">Cody Johnston (@drmistercody)</a>"
+state = "published"
+summary = "Think of the children! No, not those children. No, not them, either. No,"
+text = "Think of the children! No, not those children. No, not them, either. No,"
+timestamp = 1714623700.0
 type = "quote"
-id_string = "749337261619937280"
-is_blaze_pending = false
-can_blaze = false
-note_count = 0.0
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://twitter.com/drmistercody/status/1785866967896764444\">Cody Johnston (@drmistercody)</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

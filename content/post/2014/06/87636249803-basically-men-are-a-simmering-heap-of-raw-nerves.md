@@ -6,44 +6,44 @@ slug = "basically-men-are-a-simmering-heap-of-raw-nerves"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-post_url = "https://indirect.io/post/87636249803/basically-men-are-a-simmering-heap-of-raw-nerves"
-bookmarklet = true
-can_reply = false
-display_avatar = true
-date = "2014-06-02 22:36:17 GMT"
-timestamp = 1401748577.0
-short_url = "https://tmblr.co/ZY3jby1HdXmpB"
-slug = "basically-men-are-a-simmering-heap-of-raw-nerves"
 blog_name = "indirect"
-state = "published"
-reblog_key = "zTFIPZpH"
-summary = "Basically, men are a simmering heap of raw nerves and unexplored emotions."
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-is_blaze_pending = false
-format = "markdown"
-text = "Basically, men are a simmering heap of raw nerves and unexplored emotions."
+bookmarklet = true
+can_blaze = false
 can_like = false
-interactability_reblog = "everyone"
-type = "quote"
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-06-02 22:36:17 GMT"
+display_avatar = true
+format = "markdown"
 id = 87636249803.0
 id_string = "87636249803"
-source = "<a href=\"http://m.vice.com/read/we-talked-to-a-dick-pic-expert-about-vag-pics\">We Talked to a Dick Pic Expert About Vag Pics — VICE</a>"
 interactability_blaze = "everyone"
-can_send_in_message = true
-can_blaze = false
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/87636249803/basically-men-are-a-simmering-heap-of-raw-nerves"
+reblog_key = "zTFIPZpH"
+short_url = "https://tmblr.co/ZY3jby1HdXmpB"
+should_open_in_legacy = true
+slug = "basically-men-are-a-simmering-heap-of-raw-nerves"
+source = "<a href=\"http://m.vice.com/read/we-talked-to-a-dick-pic-expert-about-vag-pics\">We Talked to a Dick Pic Expert About Vag Pics — VICE</a>"
+state = "published"
+summary = "Basically, men are a simmering heap of raw nerves and unexplored emotions."
+text = "Basically, men are a simmering heap of raw nerves and unexplored emotions."
+timestamp = 1401748577.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

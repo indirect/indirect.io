@@ -7,46 +7,46 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2011-04-15 07:47:17 GMT"
+display_avatar = true
+format = "markdown"
 id = 4628726644.0
 id_string = "4628726644"
-reblog_key = "q4I8IG33"
-note_count = 0.0
 interactability_blaze = "everyone"
-is_blazed = false
-post_url = "https://indirect.io/post/4628726644/when-i-was-a-small-boy-just-after-the-last-ice"
-slug = "when-i-was-a-small-boy-just-after-the-last-ice"
-format = "markdown"
-can_reblog = false
-can_send_in_message = true
-is_blocks_post_format = false
-should_open_in_legacy = true
-display_avatar = true
 interactability_reblog = "everyone"
-can_reply = false
-can_blaze = false
-text = "When I was a small boy, just after the last Ice Age, we lived in a cottage [&hellip;] we had cold water, no electricity, and took a bath once a week, because the tin bath had to be brought in from its nail, which was outside on the back of the kitchen wall; and it took a long time to fill it, when all my mother had to heat water with was one kettle."
-type = "quote"
-date = "2011-04-15 07:47:17 GMT"
-source = "<p>Terry Pratchett, <em>I Shall Wear Midnight</em></p>\n\n<p>Mind. Blown.</p>"
-timestamp = 1302853637.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jby4JvCDq"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/4628726644/when-i-was-a-small-boy-just-after-the-last-ice"
+reblog_key = "q4I8IG33"
+short_url = "https://tmblr.co/ZY3jby4JvCDq"
+should_open_in_legacy = true
+slug = "when-i-was-a-small-boy-just-after-the-last-ice"
+source = "<p>Terry Pratchett, <em>I Shall Wear Midnight</em></p>\n\n<p>Mind. Blown.</p>"
+state = "published"
 summary = "When I was a small boy, just after the last Ice Age, we lived in a cottage […] we had cold water, no electricity, and took a..."
-can_like = false
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p>Terry Pratchett, <em>I Shall Wear Midnight</em></p>\n\n<p>Mind. Blown.</p>"
+text = "When I was a small boy, just after the last Ice Age, we lived in a cottage [&hellip;] we had cold water, no electricity, and took a bath once a week, because the tin bath had to be brought in from its nail, which was outside on the back of the kitchen wall; and it took a long time to fill it, when all my mother had to heat water with was one kettle."
+timestamp = 1302853637.0
+type = "quote"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>Terry Pratchett, <em>I Shall Wear Midnight</em></p>\n\n<p>Mind. Blown.</p>"
+tree_html = ""
 +++

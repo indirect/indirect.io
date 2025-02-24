@@ -6,43 +6,43 @@ slug = "the-shoemakers-children-use-php"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyXaGchs"
-interactability_reblog = "everyone"
-text = "The shoemaker&rsquo;s children use PHP"
-is_blocks_post_format = false
 blog_name = "indirect"
-date = "2012-11-19 03:29:26 GMT"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-can_like = false
-state = "published"
-reblog_key = "2Dk4z7eu"
-interactability_blaze = "everyone"
 can_send_in_message = true
-type = "quote"
-id = 36041812726.0
-summary = "The shoemaker’s children use PHP"
-timestamp = 1353295766.0
-note_count = 0.0
+date = "2012-11-19 03:29:26 GMT"
 display_avatar = true
+format = "html"
+id = 36041812726.0
 id_string = "36041812726"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
-can_blaze = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/36041812726/the-shoemakers-children-use-php"
+reblog_key = "2Dk4z7eu"
+short_url = "https://tmblr.co/ZY3jbyXaGchs"
+should_open_in_legacy = true
 slug = "the-shoemakers-children-use-php"
 source = "Marco Arment, Build and Analyze 102"
-is_blaze_pending = false
-post_url = "https://indirect.io/post/36041812726/the-shoemakers-children-use-php"
-format = "html"
-should_open_in_legacy = true
+state = "published"
+summary = "The shoemaker’s children use PHP"
+text = "The shoemaker&rsquo;s children use PHP"
+timestamp = 1353295766.0
+type = "quote"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

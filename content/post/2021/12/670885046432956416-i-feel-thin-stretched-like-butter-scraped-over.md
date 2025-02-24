@@ -6,43 +6,43 @@ slug = "i-feel-thin-stretched-like-butter-scraped-over"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
 blog_name = "indirect"
-can_like = false
-interactability_blaze = "everyone"
-date = "2021-12-18 05:37:18 GMT"
-reblog_key = "0TurYbw5"
-should_open_in_legacy = true
-display_avatar = true
-id = 6.708850464329564e+17
-slug = "i-feel-thin-stretched-like-butter-scraped-over"
-timestamp = 1639805838.0
-short_url = "https://tmblr.co/ZY3jbybFTcKjmW00"
-text = "I feel thin, stretched, like butter scraped over too much Jorts"
-is_blocks_post_format = false
-id_string = "670885046432956416"
 can_blaze = false
-state = "published"
-format = "html"
+can_like = false
 can_reblog = false
-can_send_in_message = true
-is_blazed = false
-source = "<a href=\"http://twitter.com/wellreadgent/status/1471154982070022144\">@wellreadgent</a>"
-post_url = "https://indirect.io/post/670885046432956416/i-feel-thin-stretched-like-butter-scraped-over"
-summary = "I feel thin, stretched, like butter scraped over too much Jorts"
-interactability_reblog = "everyone"
 can_reply = false
+can_send_in_message = true
+date = "2021-12-18 05:37:18 GMT"
+display_avatar = true
+format = "html"
+id = 6.708850464329564e+17
+id_string = "670885046432956416"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
+post_url = "https://indirect.io/post/670885046432956416/i-feel-thin-stretched-like-butter-scraped-over"
+reblog_key = "0TurYbw5"
+short_url = "https://tmblr.co/ZY3jbybFTcKjmW00"
+should_open_in_legacy = true
+slug = "i-feel-thin-stretched-like-butter-scraped-over"
+source = "<a href=\"http://twitter.com/wellreadgent/status/1471154982070022144\">@wellreadgent</a>"
+state = "published"
+summary = "I feel thin, stretched, like butter scraped over too much Jorts"
+text = "I feel thin, stretched, like butter scraped over too much Jorts"
+timestamp = 1639805838.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

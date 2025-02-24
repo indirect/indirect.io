@@ -6,46 +6,46 @@ slug = "teens-are-not-going-to-critique-their-friends-for"
 type = "tumblr-quote"
 
 [tumblr]
-text = "teens are not going to critique their friends for being sell-outs because they’ve already been sold out by the adults in their world"
-interactability_reblog = "everyone"
-format = "markdown"
-note_count = 0.0
-source = "<a href=\"https://medium.com/message/selling-out-is-meaningless-3450a5bc98d2\">‘Selling Out’ Is Meaningless</a>"
-can_reblog = false
-display_avatar = true
-id_string = "96476164698"
-is_blaze_pending = false
-should_open_in_legacy = true
-can_blaze = false
-source_title = "medium.com"
-interactability_blaze = "everyone"
-slug = "teens-are-not-going-to-critique-their-friends-for"
-can_send_in_message = true
-type = "quote"
 blog_name = "indirect"
-timestamp = 1409689207.0
-reblog_key = "FIhB94XO"
 bookmarklet = true
-id = 96476164698.0
-state = "published"
+can_blaze = false
 can_like = false
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/96476164698/teens-are-not-going-to-critique-their-friends-for"
-date = "2014-09-02 20:20:07 GMT"
-short_url = "https://tmblr.co/ZY3jby1PsRN9Q"
-source_url = "https://medium.com/message/selling-out-is-meaningless-3450a5bc98d2"
+can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2014-09-02 20:20:07 GMT"
+display_avatar = true
+format = "markdown"
+id = 96476164698.0
+id_string = "96476164698"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/96476164698/teens-are-not-going-to-critique-their-friends-for"
+reblog_key = "FIhB94XO"
+short_url = "https://tmblr.co/ZY3jby1PsRN9Q"
+should_open_in_legacy = true
+slug = "teens-are-not-going-to-critique-their-friends-for"
+source = "<a href=\"https://medium.com/message/selling-out-is-meaningless-3450a5bc98d2\">‘Selling Out’ Is Meaningless</a>"
+source_title = "medium.com"
+source_url = "https://medium.com/message/selling-out-is-meaningless-3450a5bc98d2"
+state = "published"
 summary = "teens are not going to critique their friends for being sell-outs because they’ve already been sold out by the adults in their..."
+text = "teens are not going to critique their friends for being sell-outs because they’ve already been sold out by the adults in their world"
+timestamp = 1409689207.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

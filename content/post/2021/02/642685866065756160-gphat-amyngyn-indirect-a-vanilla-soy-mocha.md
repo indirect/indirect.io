@@ -6,41 +6,41 @@ slug = "gphat-amyngyn-indirect-a-vanilla-soy-mocha"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-is_blocks_post_format = false
+blog_name = "indirect"
 can_blaze = false
-post_url = "https://indirect.io/post/642685866065756160/gphat-amyngyn-indirect-a-vanilla-soy-mocha"
-date = "2021-02-09 23:23:23 GMT"
-type = "quote"
-state = "published"
-note_count = 0.0
-is_blaze_pending = false
-format = "html"
-interactability_blaze = "everyone"
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2021-02-09 23:23:23 GMT"
+display_avatar = true
+format = "html"
+id = 6.426858660657562e+17
 id_string = "642685866065756160"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/642685866065756160/gphat-amyngyn-indirect-a-vanilla-soy-mocha"
 reblog_key = "fHBg5AEL"
 short_url = "https://tmblr.co/ZY3jbyZhHsFT0u00"
 should_open_in_legacy = true
-blog_name = "indirect"
-id = 6.426858660657562e+17
+slug = "gphat-amyngyn-indirect-a-vanilla-soy-mocha"
+source = "<a href=\"http://twitter.com/justkelly_ok/status/1359278437509124098\">@justkelly_ok</a>"
+state = "published"
 summary = "@gphat @amyngyn @indirect A vanilla soy mocha would be FOUR bean soup"
 text = "@gphat @amyngyn @indirect A vanilla soy mocha would be FOUR bean soup"
-display_avatar = true
-slug = "gphat-amyngyn-indirect-a-vanilla-soy-mocha"
-can_send_in_message = true
-is_blazed = false
-source = "<a href=\"http://twitter.com/justkelly_ok/status/1359278437509124098\">@justkelly_ok</a>"
-can_reply = false
 timestamp = 1612913003.0
-interactability_reblog = "everyone"
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

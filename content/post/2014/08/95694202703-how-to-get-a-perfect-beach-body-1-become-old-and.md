@@ -6,43 +6,43 @@ slug = "how-to-get-a-perfect-beach-body-1-become-old-and"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-id_string = "95694202703"
-state = "published"
-text = "How to get a perfect beach body 1. Become old and brittle. Decay into sand. 2. Expand, become great, stretch along the shore 3. Love the sea"
-source = "<a href=\"http://twitter.com/mcclure111/status/503358854789226496\">@mcclure111</a>"
-display_avatar = true
-type = "quote"
-summary = "How to get a perfect beach body 1. Become old and brittle. Decay into sand. 2. Expand, become great, stretch along the shore 3...."
-can_blaze = false
-format = "html"
-can_reblog = false
-id = 95694202703.0
-is_blaze_pending = false
-slug = "how-to-get-a-perfect-beach-body-1-become-old-and"
-should_open_in_legacy = true
-can_send_in_message = true
-can_reply = false
 blog_name = "indirect"
-post_url = "https://indirect.io/post/95694202703/how-to-get-a-perfect-beach-body-1-become-old-and"
-note_count = 0.0
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2014-08-25 01:59:13 GMT"
-reblog_key = "vMoABPfx"
+display_avatar = true
+format = "html"
+id = 95694202703.0
+id_string = "95694202703"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
-timestamp = 1408931953.0
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/95694202703/how-to-get-a-perfect-beach-body-1-become-old-and"
+reblog_key = "vMoABPfx"
 short_url = "https://tmblr.co/ZY3jby1P7qQTF"
+should_open_in_legacy = true
+slug = "how-to-get-a-perfect-beach-body-1-become-old-and"
+source = "<a href=\"http://twitter.com/mcclure111/status/503358854789226496\">@mcclure111</a>"
+state = "published"
+summary = "How to get a perfect beach body 1. Become old and brittle. Decay into sand. 2. Expand, become great, stretch along the shore 3...."
+text = "How to get a perfect beach body 1. Become old and brittle. Decay into sand. 2. Expand, become great, stretch along the shore 3. Love the sea"
+timestamp = 1408931953.0
+type = "quote"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

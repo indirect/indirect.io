@@ -6,47 +6,47 @@ slug = "if-he-isnt-grateful-he-ought-to-be-he-doesnt"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-slug = "if-he-isnt-grateful-he-ought-to-be-he-doesnt"
-can_like = false
-can_reply = false
-should_open_in_legacy = true
 blog_name = "indirect"
-id_string = "150052275333"
 can_blaze = false
-state = "published"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2016-09-07 00:21:08 GMT"
+display_avatar = true
+format = "markdown"
+id = 150052275333.0
+id_string = "150052275333"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/150052275333/if-he-isnt-grateful-he-ought-to-be-he-doesnt"
 reblog_key = "JiOJJI0G"
 short_url = "https://tmblr.co/ZY3jby2Blq0I5"
-is_blaze_pending = false
-interactability_blaze = "everyone"
-format = "markdown"
-summary = "if he isn’t grateful, he ought to be. He doesn’t like the fact that his sister’s children are “prioritized,” but they probably..."
-interactability_reblog = "everyone"
-can_reblog = false
-display_avatar = true
+should_open_in_legacy = true
+slug = "if-he-isnt-grateful-he-ought-to-be-he-doesnt"
 source = "<a href=\"http://www.slate.com/articles/life/dear_prudence/2016/09/dear_prudence_i_lost_weight_but_am_still_unhappy.html\">Dear Prudence</a>, by Mallory Ortberg"
-id = 150052275333.0
-date = "2016-09-07 00:21:08 GMT"
-is_blocks_post_format = false
-timestamp = 1473207668.0
-can_send_in_message = true
-type = "quote"
-post_url = "https://indirect.io/post/150052275333/if-he-isnt-grateful-he-ought-to-be-he-doesnt"
-note_count = 0.0
+state = "published"
+summary = "if he isn’t grateful, he ought to be. He doesn’t like the fact that his sister’s children are “prioritized,” but they probably..."
 text = "if he isn’t grateful, he ought to be. He doesn’t like the fact that his sister’s children are “prioritized,” but they probably don’t like the fact that their father is dead"
+timestamp = 1473207668.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://www.slate.com/articles/life/dear_prudence/2016/09/dear_prudence_i_lost_weight_but_am_still_unhappy.html\">Dear Prudence</a>, by Mallory Ortberg</p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
 +++

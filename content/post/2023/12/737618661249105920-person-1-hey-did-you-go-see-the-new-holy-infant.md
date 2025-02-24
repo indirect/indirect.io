@@ -6,43 +6,43 @@ slug = "person-1-hey-did-you-go-see-the-new-holy-infant"
 type = "tumblr-quote"
 
 [tumblr]
-text = "Person 1: hey did you go see the new Holy Infant?\n<br/>\n<br/>Person 2: I did\n<br/>\n<br/>Person 1: what’s he like?\n<br/>\n<br/>Person 2: so tender and mild\n<br/>\n<br/>Person 1: what"
-can_like = false
-type = "quote"
-is_blazed = false
-can_blaze = false
-date = "2023-12-24 19:59:32 GMT"
-source = "<a href=\"https://twitter.com/drew_garland/status/1738937099540169205\">Drew Garland (@drew_garland)</a>"
-can_send_in_message = true
-post_url = "https://indirect.io/post/737618661249105920/person-1-hey-did-you-go-see-the-new-holy-infant"
-slug = "person-1-hey-did-you-go-see-the-new-holy-infant"
-format = "markdown"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-id_string = "737618661249105920"
-reblog_key = "aU7WZ0Su"
 blog_name = "indirect"
-interactability_blaze = "everyone"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyeyZ4EhSy00"
-note_count = 0.0
-id = 7.376186612491059e+17
-is_blaze_pending = false
+can_send_in_message = true
+date = "2023-12-24 19:59:32 GMT"
 display_avatar = true
+format = "markdown"
+id = 7.376186612491059e+17
+id_string = "737618661249105920"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
-timestamp = 1703447972.0
+note_count = 0.0
+post_url = "https://indirect.io/post/737618661249105920/person-1-hey-did-you-go-see-the-new-holy-infant"
+reblog_key = "aU7WZ0Su"
+short_url = "https://tmblr.co/ZY3jbyeyZ4EhSy00"
+should_open_in_legacy = true
+slug = "person-1-hey-did-you-go-see-the-new-holy-infant"
+source = "<a href=\"https://twitter.com/drew_garland/status/1738937099540169205\">Drew Garland (@drew_garland)</a>"
+state = "published"
 summary = "Person 1: hey did you go see the new Holy Infant?\n \n Person 2: I did\n \n Person 1: what’s he like?\n \n Person 2: so tender and..."
+text = "Person 1: hey did you go see the new Holy Infant?\n<br/>\n<br/>Person 2: I did\n<br/>\n<br/>Person 1: what’s he like?\n<br/>\n<br/>Person 2: so tender and mild\n<br/>\n<br/>Person 1: what"
+timestamp = 1703447972.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

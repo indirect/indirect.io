@@ -6,47 +6,47 @@ slug = "til-zookos-conjecture-out-of-decentralized"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "xUesOesg"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
+can_send_in_message = true
 date = "2014-09-24 08:05:03 GMT"
+display_avatar = true
+format = "html"
+id = 98294871298.0
+id_string = "98294871298"
 interactability_blaze = "everyone"
-type = "quote"
-text = "TIL Zooko&rsquo;s conjecture: out of Decentralized, Secure, and Human-Meaningful, you can achieve at most two."
-can_like = false
-blog_name = "indirect"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/98294871298/til-zookos-conjecture-out-of-decentralized"
+reblog_key = "xUesOesg"
+short_url = "https://tmblr.co/ZY3jby1RYrBK2"
+should_open_in_legacy = true
 slug = "til-zookos-conjecture-out-of-decentralized"
 source = "<a href=\"http://twitter.com/ches/status/514651625156141056\">@ches</a>"
-display_avatar = true
-id_string = "98294871298"
-is_blaze_pending = false
-timestamp = 1411545903.0
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-is_blazed = false
-can_blaze = false
 state = "published"
-format = "html"
-can_send_in_message = true
-is_blocks_post_format = false
-short_url = "https://tmblr.co/ZY3jby1RYrBK2"
-note_count = 0.0
 summary = "TIL Zooko’s conjecture: out of Decentralized, Secure, and Human-Meaningful, you can achieve at most two."
-id = 98294871298.0
+text = "TIL Zooko&rsquo;s conjecture: out of Decentralized, Secure, and Human-Meaningful, you can achieve at most two."
+timestamp = 1411545903.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ches/status/514651625156141056\">@ches</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

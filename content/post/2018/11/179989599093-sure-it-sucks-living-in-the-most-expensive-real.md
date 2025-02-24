@@ -6,47 +6,47 @@ slug = "sure-it-sucks-living-in-the-most-expensive-real"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "e3gCMYEW"
-interactability_reblog = "everyone"
-can_send_in_message = true
-is_blazed = false
-date = "2018-11-11 07:51:29 GMT"
-should_open_in_legacy = true
+blog_name = "indirect"
+can_blaze = false
 can_like = false
-source = "<a href=\"http://twitter.com/richrmurphy/status/1060937376527114240\">@richrmurphy</a>"
-type = "quote"
-is_blocks_post_format = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2018-11-11 07:51:29 GMT"
+display_avatar = true
+format = "html"
 id = 179989599093.0
 id_string = "179989599093"
-post_url = "https://indirect.io/post/179989599093/sure-it-sucks-living-in-the-most-expensive-real"
-text = "sure, it sucks living in the most expensive real estate market in human history right next door to the architects of technocratic neo-feudalism, but at least the air is always on fire"
 interactability_blaze = "everyone"
-can_reply = false
-slug = "sure-it-sucks-living-in-the-most-expensive-real"
-summary = "sure, it sucks living in the most expensive real estate market in human history right next door to the architects of..."
-note_count = 0.0
-display_avatar = true
+interactability_reblog = "everyone"
 is_blaze_pending = false
-can_blaze = false
-timestamp = 1541922689.0
-blog_name = "indirect"
-state = "published"
-format = "html"
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/179989599093/sure-it-sucks-living-in-the-most-expensive-real"
+reblog_key = "e3gCMYEW"
 short_url = "https://tmblr.co/ZY3jby2deDrDr"
-can_reblog = false
+should_open_in_legacy = true
+slug = "sure-it-sucks-living-in-the-most-expensive-real"
+source = "<a href=\"http://twitter.com/richrmurphy/status/1060937376527114240\">@richrmurphy</a>"
+state = "published"
+summary = "sure, it sucks living in the most expensive real estate market in human history right next door to the architects of..."
+text = "sure, it sucks living in the most expensive real estate market in human history right next door to the architects of technocratic neo-feudalism, but at least the air is always on fire"
+timestamp = 1541922689.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/richrmurphy/status/1060937376527114240\">@richrmurphy</a></p>"
+tree_html = ""
 +++

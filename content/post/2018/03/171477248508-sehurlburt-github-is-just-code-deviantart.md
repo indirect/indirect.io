@@ -6,47 +6,47 @@ slug = "sehurlburt-github-is-just-code-deviantart"
 type = "tumblr-quote"
 
 [tumblr]
-id = 171477248508.0
-post_url = "https://indirect.io/post/171477248508/sehurlburt-github-is-just-code-deviantart"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby2Virody"
-note_count = 0.0
-source = "<a href=\"http://twitter.com/Icetigris/status/969816979732385792\">@Icetigris</a>"
-interactability_reblog = "everyone"
-display_avatar = true
 blog_name = "indirect"
-is_blaze_pending = false
-should_open_in_legacy = true
-type = "quote"
-can_reblog = false
-can_send_in_message = true
-format = "html"
-reblog_key = "nUwWSizI"
-id_string = "171477248508"
-is_blazed = false
 can_blaze = false
-slug = "sehurlburt-github-is-just-code-deviantart"
-summary = "@sehurlburt github is just code deviantart"
 can_like = false
-is_blocks_post_format = false
-text = "@sehurlburt github is just code deviantart"
-interactability_blaze = "everyone"
-date = "2018-03-03 08:37:35 GMT"
-timestamp = 1520066255.0
+can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2018-03-03 08:37:35 GMT"
+display_avatar = true
+format = "html"
+id = 171477248508.0
+id_string = "171477248508"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/171477248508/sehurlburt-github-is-just-code-deviantart"
+reblog_key = "nUwWSizI"
+short_url = "https://tmblr.co/ZY3jby2Virody"
+should_open_in_legacy = true
+slug = "sehurlburt-github-is-just-code-deviantart"
+source = "<a href=\"http://twitter.com/Icetigris/status/969816979732385792\">@Icetigris</a>"
+state = "published"
+summary = "@sehurlburt github is just code deviantart"
+text = "@sehurlburt github is just code deviantart"
+timestamp = 1520066255.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/Icetigris/status/969816979732385792\">@Icetigris</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,43 +6,43 @@ slug = "one-guy-in-dallas-dies-of-ebola-panic-33000"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-can_blaze = false
-post_url = "https://indirect.io/post/99667445168/one-guy-in-dallas-dies-of-ebola-panic-33000"
-state = "published"
-summary = "One guy in Dallas dies of Ebola = PANIC! 33,000 Americans killed by cars each year = FREEDOM!"
-source = "<a href=\"http://twitter.com/BicycleLobby/status/520291857075830788\">@BicycleLobby</a>"
-can_send_in_message = true
-can_reblog = false
 blog_name = "indirect"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jby1Sqf8Mm"
-text = "One guy in Dallas dies of Ebola = PANIC! 33,000 Americans killed by cars each year = FREEDOM!"
-id = 99667445168.0
-note_count = 0.0
-type = "quote"
-id_string = "99667445168"
-timestamp = 1412971607.0
-should_open_in_legacy = true
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-10-10 20:06:47 GMT"
 display_avatar = true
+format = "html"
+id = 99667445168.0
+id_string = "99667445168"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
 is_blaze_pending = false
-slug = "one-guy-in-dallas-dies-of-ebola-panic-33000"
-date = "2014-10-10 20:06:47 GMT"
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/99667445168/one-guy-in-dallas-dies-of-ebola-panic-33000"
 reblog_key = "XQIekxN5"
-interactability_blaze = "everyone"
-format = "html"
-can_reply = false
+short_url = "https://tmblr.co/ZY3jby1Sqf8Mm"
+should_open_in_legacy = true
+slug = "one-guy-in-dallas-dies-of-ebola-panic-33000"
+source = "<a href=\"http://twitter.com/BicycleLobby/status/520291857075830788\">@BicycleLobby</a>"
+state = "published"
+summary = "One guy in Dallas dies of Ebola = PANIC! 33,000 Americans killed by cars each year = FREEDOM!"
+text = "One guy in Dallas dies of Ebola = PANIC! 33,000 Americans killed by cars each year = FREEDOM!"
+timestamp = 1412971607.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

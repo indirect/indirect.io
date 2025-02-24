@@ -6,43 +6,43 @@ slug = "thestalwart-twobitidiot-at-a-high-enough-level"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-interactability_reblog = "everyone"
-can_like = false
-id_string = "686986425617580032"
+blog_name = "indirect"
 can_blaze = false
-source = "<a href=\"http://twitter.com/matt_levine/status/1442532416938250243\">@matt_levine</a>"
-type = "quote"
-short_url = "https://tmblr.co/ZY3jbyc8geEeSu00"
+can_like = false
 can_reblog = false
 can_reply = false
+can_send_in_message = true
 date = "2022-06-13 23:01:49 GMT"
-state = "published"
-is_blazed = false
-summary = "@TheStalwart @twobitidiot at a high enough level the problem was “banks stole my money” and the solution is “hackers will steal..."
-note_count = 0.0
+display_avatar = true
+format = "html"
+id = 6.8698642561758e+17
+id_string = "686986425617580032"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
-blog_name = "indirect"
+note_count = 0.0
 post_url = "https://indirect.io/post/686986425617580032/thestalwart-twobitidiot-at-a-high-enough-level"
 reblog_key = "noQItvLL"
-timestamp = 1655161309.0
-format = "html"
+short_url = "https://tmblr.co/ZY3jbyc8geEeSu00"
 should_open_in_legacy = true
-text = "@TheStalwart @twobitidiot at a high enough level the problem was &ldquo;banks stole my money&rdquo; and the solution is &ldquo;hackers will steal your money instead.&rdquo;"
-display_avatar = true
 slug = "thestalwart-twobitidiot-at-a-high-enough-level"
-can_send_in_message = true
-id = 6.8698642561758e+17
+source = "<a href=\"http://twitter.com/matt_levine/status/1442532416938250243\">@matt_levine</a>"
+state = "published"
+summary = "@TheStalwart @twobitidiot at a high enough level the problem was “banks stole my money” and the solution is “hackers will steal..."
+text = "@TheStalwart @twobitidiot at a high enough level the problem was &ldquo;banks stole my money&rdquo; and the solution is &ldquo;hackers will steal your money instead.&rdquo;"
+timestamp = 1655161309.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

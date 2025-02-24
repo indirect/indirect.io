@@ -6,47 +6,47 @@ slug = "7-year-old-transgender-student-causes"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/99619164973/7-year-old-transgender-student-causes"
-date = "2014-10-10 03:27:53 GMT"
-note_count = 0.0
-can_like = false
-display_avatar = true
-state = "published"
-source = "<a href=\"http://twitter.com/ZJemptv/status/520346043872210944\">@ZJemptv</a>"
-interactability_reblog = "everyone"
+blog_name = "indirect"
 can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1SnmzCj"
-timestamp = 1412911673.0
-text = "<p>&ldquo;7-year-old Transgender Student Causes Controversy&rdquo;</p>\n\n<p>???</p>\n\n<p>adult transphobes cause controversy, a 7 year old just goes to school</p>"
+can_like = false
 can_reblog = false
 can_reply = false
-id = 99619164973.0
-is_blaze_pending = false
-type = "quote"
-id_string = "99619164973"
-is_blazed = false
-format = "html"
-summary = "“7-year-old Transgender Student Causes Controversy”\n\n ???\n\n adult transphobes cause controversy, a 7 year old just goes to..."
-should_open_in_legacy = true
 can_send_in_message = true
-blog_name = "indirect"
+date = "2014-10-10 03:27:53 GMT"
+display_avatar = true
+format = "html"
+id = 99619164973.0
+id_string = "99619164973"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
-slug = "7-year-old-transgender-student-causes"
+note_count = 0.0
+post_url = "https://indirect.io/post/99619164973/7-year-old-transgender-student-causes"
 reblog_key = "lSQx4sYO"
+short_url = "https://tmblr.co/ZY3jby1SnmzCj"
+should_open_in_legacy = true
+slug = "7-year-old-transgender-student-causes"
+source = "<a href=\"http://twitter.com/ZJemptv/status/520346043872210944\">@ZJemptv</a>"
+state = "published"
+summary = "“7-year-old Transgender Student Causes Controversy”\n\n ???\n\n adult transphobes cause controversy, a 7 year old just goes to..."
+text = "<p>&ldquo;7-year-old Transgender Student Causes Controversy&rdquo;</p>\n\n<p>???</p>\n\n<p>adult transphobes cause controversy, a 7 year old just goes to school</p>"
+timestamp = 1412911673.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ZJemptv/status/520346043872210944\">@ZJemptv</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

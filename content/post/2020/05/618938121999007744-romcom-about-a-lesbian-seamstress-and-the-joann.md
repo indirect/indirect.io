@@ -6,43 +6,43 @@ slug = "romcom-about-a-lesbian-seamstress-and-the-joann"
 type = "tumblr-quote"
 
 [tumblr]
-text = "romcom about a lesbian seamstress and the joann employee who falls a little bit more in love every time she asks the corporate-mandated &ldquo;so what are you making with this?&rdquo; question and the seamstress goes on a passionate rant about her project\n<br/>\n<br/>it&rsquo;s called girlfriend material"
+blog_name = "indirect"
+can_blaze = false
 can_like = false
-id_string = "618938121999007744"
-date = "2020-05-23 20:23:10 GMT"
-summary = "romcom about a lesbian seamstress and the joann employee who falls a little bit more in love every time she asks the..."
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2020-05-23 20:23:10 GMT"
 display_avatar = true
+format = "html"
 id = 6.189381219990077e+17
+id_string = "618938121999007744"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
 is_blocks_post_format = false
-slug = "romcom-about-a-lesbian-seamstress-and-the-joann"
-format = "html"
-short_url = "https://tmblr.co/ZY3jbyYMwF5Jii00"
-can_send_in_message = true
-is_blaze_pending = false
-post_url = "https://indirect.io/post/618938121999007744/romcom-about-a-lesbian-seamstress-and-the-joann"
-timestamp = 1590265390.0
 note_count = 0.0
-source = "<a href=\"http://twitter.com/katiehahnbooks/status/1263921852885479425\">@katiehahnbooks</a>"
-can_blaze = false
-can_reply = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-type = "quote"
-blog_name = "indirect"
-state = "published"
+post_url = "https://indirect.io/post/618938121999007744/romcom-about-a-lesbian-seamstress-and-the-joann"
 reblog_key = "dpYmK2BU"
+short_url = "https://tmblr.co/ZY3jbyYMwF5Jii00"
+should_open_in_legacy = true
+slug = "romcom-about-a-lesbian-seamstress-and-the-joann"
+source = "<a href=\"http://twitter.com/katiehahnbooks/status/1263921852885479425\">@katiehahnbooks</a>"
+state = "published"
+summary = "romcom about a lesbian seamstress and the joann employee who falls a little bit more in love every time she asks the..."
+text = "romcom about a lesbian seamstress and the joann employee who falls a little bit more in love every time she asks the corporate-mandated &ldquo;so what are you making with this?&rdquo; question and the seamstress goes on a passionate rant about her project\n<br/>\n<br/>it&rsquo;s called girlfriend material"
+timestamp = 1590265390.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

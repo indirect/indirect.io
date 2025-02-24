@@ -6,44 +6,44 @@ slug = "heres-a-quick-distributed-systems-flow-chart-did"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "64330017684"
-note_count = 0.0
-text = "Here&rsquo;s a quick distributed systems flow chart [did you open a socket?] &ndash; Yes &ndash;&gt; [it&rsquo;s a distributed system]"
-type = "quote"
 blog_name = "indirect"
-format = "markdown"
-source_url = "https://twitter.com/moonpolysoft/status/390955059430694912"
-is_blocks_post_format = false
-is_blaze_pending = false
-state = "published"
-source = "<a href=\"https://twitter.com/moonpolysoft/status/390955059430694912\">@moonpolysoft</a>"
-interactability_reblog = "everyone"
+bookmarklet = true
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2013-10-17 21:59:07 GMT"
+display_avatar = true
+format = "markdown"
+id = 64330017684.0
+id_string = "64330017684"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/64330017684/heres-a-quick-distributed-systems-flow-chart-did"
 reblog_key = "61Tlrglk"
 short_url = "https://tmblr.co/ZY3jbyxwNYkK"
-summary = "Here’s a quick distributed systems flow chart [did you open a socket?] – Yes –> [it’s a distributed system]"
 should_open_in_legacy = true
-display_avatar = true
-can_blaze = false
-timestamp = 1382047147.0
-source_title = "twitter.com"
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-post_url = "https://indirect.io/post/64330017684/heres-a-quick-distributed-systems-flow-chart-did"
-date = "2013-10-17 21:59:07 GMT"
-bookmarklet = true
-id = 64330017684.0
 slug = "heres-a-quick-distributed-systems-flow-chart-did"
-can_reply = false
+source = "<a href=\"https://twitter.com/moonpolysoft/status/390955059430694912\">@moonpolysoft</a>"
+source_title = "twitter.com"
+source_url = "https://twitter.com/moonpolysoft/status/390955059430694912"
+state = "published"
+summary = "Here’s a quick distributed systems flow chart [did you open a socket?] – Yes –> [it’s a distributed system]"
+text = "Here&rsquo;s a quick distributed systems flow chart [did you open a socket?] &ndash; Yes &ndash;&gt; [it&rsquo;s a distributed system]"
+timestamp = 1382047147.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

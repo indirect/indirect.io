@@ -6,43 +6,43 @@ slug = "if-someone-says-i-dont-understand-but-doesnt"
 type = "tumblr-quote"
 
 [tumblr]
-id = 86849711778.0
-post_url = "https://indirect.io/post/86849711778/if-someone-says-i-dont-understand-but-doesnt"
-format = "html"
-slug = "if-someone-says-i-dont-understand-but-doesnt"
-reblog_key = "jjNebr8i"
-can_send_in_message = true
-can_reply = false
-type = "quote"
-is_blocks_post_format = false
-is_blaze_pending = false
-source = "<a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a>"
-short_url = "https://tmblr.co/ZY3jby1GufMwY"
-can_reblog = false
-display_avatar = true
-can_like = false
-interactability_reblog = "everyone"
-state = "published"
-is_blazed = false
-interactability_blaze = "everyone"
 blog_name = "indirect"
-timestamp = 1401067453.0
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-05-26 01:24:13 GMT"
+display_avatar = true
+format = "html"
+id = 86849711778.0
+id_string = "86849711778"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 2.0
+post_url = "https://indirect.io/post/86849711778/if-someone-says-i-dont-understand-but-doesnt"
+reblog_key = "jjNebr8i"
+short_url = "https://tmblr.co/ZY3jby1GufMwY"
+should_open_in_legacy = true
+slug = "if-someone-says-i-dont-understand-but-doesnt"
+source = "<a href=\"http://twitter.com/bokunenjin/status/470658400054181888\">@bokunenjin</a>"
+state = "published"
 summary = "If someone says “I don’t understand” but doesn’t shut up and listen to your explanation, it’s a troll. #MajorityOppression..."
 text = "If someone says &ldquo;I don&rsquo;t understand&rdquo; but doesn&rsquo;t shut up and listen to your explanation, it&rsquo;s a troll. #MajorityOppression #WisCon #wc38"
-id_string = "86849711778"
-date = "2014-05-26 01:24:13 GMT"
-note_count = 2.0
-can_blaze = false
-should_open_in_legacy = true
+timestamp = 1401067453.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,46 +6,46 @@ slug = "you-are-generation-fail-precisely-because-you"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "8727655516"
-is_blazed = false
-can_blaze = false
-text = "You are generation fail, precisely because you judge everything by how you feel about it, and therefore, about how you can deny your culpability."
-source = "<a href=\"http://symbalitics.blogspot.com/2011/08/on-rioting-in-london.html/\">On Rioting in London</a>"
-timestamp = 1312963986.0
-should_open_in_legacy = true
-note_count = 0.0
-source_title = "symbalitics.blogspot.com"
-interactability_reblog = "everyone"
-summary = "You are generation fail, precisely because you judge everything by how you feel about it, and therefore, about how you can deny..."
-interactability_blaze = "everyone"
-can_reblog = false
-can_send_in_message = true
-post_url = "https://indirect.io/post/8727655516/you-are-generation-fail-precisely-because-you"
-state = "published"
-bookmarklet = true
 blog_name = "indirect"
-is_blaze_pending = false
-format = "markdown"
-display_avatar = true
-is_blocks_post_format = false
-id = 8727655516.0
-reblog_key = "HLbYEZ1x"
+bookmarklet = true
+can_blaze = false
 can_like = false
-type = "quote"
-short_url = "https://tmblr.co/ZY3jby88DNHS"
-source_url = "http://symbalitics.blogspot.com/"
+can_reblog = false
 can_reply = false
-slug = "you-are-generation-fail-precisely-because-you"
+can_send_in_message = true
 date = "2011-08-10 08:13:06 GMT"
+display_avatar = true
+format = "markdown"
+id = 8727655516.0
+id_string = "8727655516"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/8727655516/you-are-generation-fail-precisely-because-you"
+reblog_key = "HLbYEZ1x"
+short_url = "https://tmblr.co/ZY3jby88DNHS"
+should_open_in_legacy = true
+slug = "you-are-generation-fail-precisely-because-you"
+source = "<a href=\"http://symbalitics.blogspot.com/2011/08/on-rioting-in-london.html/\">On Rioting in London</a>"
+source_title = "symbalitics.blogspot.com"
+source_url = "http://symbalitics.blogspot.com/"
+state = "published"
+summary = "You are generation fail, precisely because you judge everything by how you feel about it, and therefore, about how you can deny..."
+text = "You are generation fail, precisely because you judge everything by how you feel about it, and therefore, about how you can deny your culpability."
+timestamp = 1312963986.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -7,45 +7,45 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jby3ckZls"
+bookmarklet = true
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2011-03-15 04:26:12 GMT"
+display_avatar = true
+format = "markdown"
+id = 3870964726.0
+id_string = "3870964726"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
 post_url = "https://indirect.io/post/3870964726/the-fifteenth-century-abbot-johannes-trithemius"
-slug = "the-fifteenth-century-abbot-johannes-trithemius"
-can_reblog = false
-is_blocks_post_format = false
-id = 3870964726.0
-is_blazed = false
-state = "published"
-bookmarklet = true
-text = "The fifteenth-century abbot Johannes Trithemius, author of the work De laude scriptorum manualium — “In Praise of Scribes.” (And yes, he grudgingly had to consent to get the tract printed in order to get people to read it.)"
-can_like = false
-display_avatar = true
-id_string = "3870964726"
-is_blaze_pending = false
-timestamp = 1300163172.0
-format = "markdown"
-summary = "The fifteenth-century abbot Johannes Trithemius, author of the work De laude scriptorum manualium — “In Praise of Scribes.” (And..."
-source_url = "http://wondermark.com/true-stuff-monk-vs-press/"
-type = "quote"
-should_open_in_legacy = true
-date = "2011-03-15 04:26:12 GMT"
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_reply = false
-can_blaze = false
 reblog_key = "g6q3Wlyd"
-source_title = "wondermark.com"
+short_url = "https://tmblr.co/ZY3jby3ckZls"
+should_open_in_legacy = true
+slug = "the-fifteenth-century-abbot-johannes-trithemius"
 source = "<a href=\"http://wondermark.com/true-stuff-monk-vs-press/\">Wondermark » Monk vs. the Printing Press</a>"
-interactability_reblog = "everyone"
+source_title = "wondermark.com"
+source_url = "http://wondermark.com/true-stuff-monk-vs-press/"
+state = "published"
+summary = "The fifteenth-century abbot Johannes Trithemius, author of the work De laude scriptorum manualium — “In Praise of Scribes.” (And..."
+text = "The fifteenth-century abbot Johannes Trithemius, author of the work De laude scriptorum manualium — “In Praise of Scribes.” (And yes, he grudgingly had to consent to get the tract printed in order to get people to read it.)"
+timestamp = 1300163172.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

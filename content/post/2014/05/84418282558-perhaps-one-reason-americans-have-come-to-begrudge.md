@@ -6,43 +6,43 @@ slug = "perhaps-one-reason-americans-have-come-to-begrudge"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/84418282558/perhaps-one-reason-americans-have-come-to-begrudge"
-source = "<a href=\"http://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html\">Why Only One Top Banker Went to Jail for the Financial Crisis</a>"
-interactability_blaze = "everyone"
-state = "published"
-reblog_key = "FVf0XoYj"
-summary = "Perhaps one reason Americans have come to begrudge the wealthy is a resentment of their culture of impunity."
-can_reblog = false
-can_send_in_message = true
-can_reply = false
-display_avatar = true
-slug = "perhaps-one-reason-americans-have-come-to-begrudge"
-note_count = 0.0
-type = "quote"
-is_blocks_post_format = false
-id = 84418282558.0
-is_blaze_pending = false
-can_blaze = false
-id_string = "84418282558"
-short_url = "https://tmblr.co/ZY3jby1EdkCG_"
-is_blazed = false
-format = "markdown"
-text = "Perhaps one reason Americans have come to begrudge the wealthy is a resentment of their culture of impunity."
-date = "2014-05-01 12:47:09 GMT"
-timestamp = 1398948429.0
-can_like = false
-interactability_reblog = "everyone"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-05-01 12:47:09 GMT"
+display_avatar = true
+format = "markdown"
+id = 84418282558.0
+id_string = "84418282558"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/84418282558/perhaps-one-reason-americans-have-come-to-begrudge"
+reblog_key = "FVf0XoYj"
+short_url = "https://tmblr.co/ZY3jby1EdkCG_"
 should_open_in_legacy = true
+slug = "perhaps-one-reason-americans-have-come-to-begrudge"
+source = "<a href=\"http://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html\">Why Only One Top Banker Went to Jail for the Financial Crisis</a>"
+state = "published"
+summary = "Perhaps one reason Americans have come to begrudge the wealthy is a resentment of their culture of impunity."
+text = "Perhaps one reason Americans have come to begrudge the wealthy is a resentment of their culture of impunity."
+timestamp = 1398948429.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

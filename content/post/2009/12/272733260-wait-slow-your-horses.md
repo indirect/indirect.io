@@ -6,43 +6,43 @@ slug = "wait-slow-your-horses"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-can_like = false
-slug = "wait-slow-your-horses"
-should_open_in_legacy = true
-can_reblog = false
-is_blocks_post_format = false
+blog_name = "indirect"
 can_blaze = false
-display_avatar = true
-text = "Wait, slow your horses!"
-note_count = 0.0
-is_blazed = false
-post_url = "https://indirect.io/post/272733260/wait-slow-your-horses"
-state = "published"
-summary = "Wait, slow your horses!"
+can_like = false
+can_reblog = false
 can_reply = false
-short_url = "https://tmblr.co/ZY3jbyGGPHC"
-source = "rachel"
-interactability_reblog = "everyone"
+can_send_in_message = true
+date = "2009-12-07 04:42:23 GMT"
+display_avatar = true
+format = "html"
 id = 272733260.0
 id_string = "272733260"
-date = "2009-12-07 04:42:23 GMT"
-can_send_in_message = true
-type = "quote"
-blog_name = "indirect"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-timestamp = 1260160943.0
-format = "html"
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/272733260/wait-slow-your-horses"
 reblog_key = "DPZKD8Co"
+short_url = "https://tmblr.co/ZY3jbyGGPHC"
+should_open_in_legacy = true
+slug = "wait-slow-your-horses"
+source = "rachel"
+state = "published"
+summary = "Wait, slow your horses!"
+text = "Wait, slow your horses!"
+timestamp = 1260160943.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,47 +6,47 @@ slug = "all-your-friends-are-married-facebook-all"
 type = "tumblr-quote"
 
 [tumblr]
-timestamp = 1416431332.0
-note_count = 0.0
-type = "quote"
-id = 103065168483.0
-display_avatar = true
-can_blaze = false
-post_url = "https://indirect.io/post/103065168483/all-your-friends-are-married-facebook-all"
 blog_name = "indirect"
-slug = "all-your-friends-are-married-facebook-all"
-date = "2014-11-19 21:08:52 GMT"
-summary = "“all your friends are married” - Facebook \n“all your friends have jobs” - LinkedIn \n“all your friends are insane” - Twitter"
-can_send_in_message = true
-is_blocks_post_format = false
+can_blaze = false
 can_like = false
-is_blazed = false
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a>"
-interactability_reblog = "everyone"
-id_string = "103065168483"
-state = "published"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1V-AQfZ"
-text = "“all your friends are married” - Facebook<br/>\n“all your friends have jobs” - LinkedIn <br/>\n“all your friends are insane” - Twitter"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-reblog_key = "QKKQSeOR"
 can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2014-11-19 21:08:52 GMT"
+display_avatar = true
+format = "html"
+id = 103065168483.0
+id_string = "103065168483"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/103065168483/all-your-friends-are-married-facebook-all"
+reblog_key = "QKKQSeOR"
+short_url = "https://tmblr.co/ZY3jby1V-AQfZ"
+should_open_in_legacy = true
+slug = "all-your-friends-are-married-facebook-all"
+source = "<a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a>"
+state = "published"
+summary = "“all your friends are married” - Facebook \n“all your friends have jobs” - LinkedIn \n“all your friends are insane” - Twitter"
+text = "“all your friends are married” - Facebook<br/>\n“all your friends have jobs” - LinkedIn <br/>\n“all your friends are insane” - Twitter"
+timestamp = 1416431332.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/BrianFukushima/status/535096889776308225\">@BrianFukushima</a></p>"
+tree_html = ""
 +++

@@ -7,51 +7,51 @@ type = "tumblr-chat"
 
 [tumblr]
 blog_name = "indirect"
-id = 137590731.0
-post_url = "https://indirect.io/post/137590731/andre-close-enough-for-government-work-rachel"
-slug = "andre-close-enough-for-government-work-rachel"
-timestamp = 1247036594.0
-reblog_key = "VAvV8MUc"
-is_blocks_post_format = false
-is_blaze_pending = false
-can_like = false
-display_avatar = true
-is_blazed = false
-format = "markdown"
 body = "Andre: close enough for government work\nRachel: you're so weird!"
-interactability_blaze = "everyone"
-can_reply = false
 can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2009-07-08 07:03:14 GMT"
-short_url = "https://tmblr.co/ZY3jby8CtVB"
+display_avatar = true
+format = "markdown"
+id = 137590731.0
+id_string = "137590731"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
-type = "chat"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/137590731/andre-close-enough-for-government-work-rachel"
+reblog_key = "VAvV8MUc"
+short_url = "https://tmblr.co/ZY3jby8CtVB"
+should_open_in_legacy = true
+slug = "andre-close-enough-for-government-work-rachel"
 state = "published"
 summary = "Andre: close enough for government work\nRachel: you're so weird!"
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-id_string = "137590731"
-should_open_in_legacy = true
-
-[[tumblr.dialogue]]
-phrase = "close enough for government work"
-name = "Andre"
-label = "Andre:"
-
-[[tumblr.dialogue]]
-name = "Rachel"
-label = "Rachel:"
-phrase = "you're so weird!"
+timestamp = 1247036594.0
+type = "chat"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[[tumblr.dialogue]]
+label = "Andre:"
+name = "Andre"
+phrase = "close enough for government work"
+
+[[tumblr.dialogue]]
+label = "Rachel:"
+name = "Rachel"
+phrase = "you're so weird!"
 +++

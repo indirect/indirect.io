@@ -6,84 +6,158 @@ slug = "weird-question-of-the-day-so-what-is-terfs"
 type = "tumblr-text"
 
 [tumblr]
-display_avatar = true
-parent_post_url = "https://www.tumblr.com/blog/view/maeveynot/684645764663836672"
-interactability_reblog = "everyone"
-interactability_blaze = "noone"
-state = "published"
-is_blocks_post_format = false
-date = "2022-08-09 21:46:26 GMT"
-should_open_in_legacy = false
-can_send_in_message = true
-type = "text"
-short_url = "https://tmblr.co/ZY3jbycQ-ji9aW00"
-summary = "Weird question of the day: so what is terfs’ actual endgame?\nLike I know the middle game is “everyone identifies with their..."
+blog_name = "indirect"
 body = "<p><a href=\"https://random-thought-depository.tumblr.com/post/680812762520272896/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">random-thought-depository</a>:</p><blockquote><p><a href=\"https://fierceawakening.tumblr.com/post/680789430605398016/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">fierceawakening</a>:</p><blockquote><p><a href=\"https://canadianwheatpirates.tumblr.com/post/680654073656180736/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">canadianwheatpirates</a>:</p>\n\n<blockquote><p><a href=\"https://mindthelspace.tumblr.com/post/680653131820990464/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">mindthelspace</a>:</p><blockquote><p><a class=\"tumblr_blog\" href=\"https://fierceawakening.tumblr.com/post/680521137976983552/weird-question-of-the-day-so-what-is-terfs\">fierceawakening</a>:</p><blockquote><p>Weird question of the day: so what is terfs’ actual endgame?</p><p>Like I know the middle game is “everyone identifies with their assigned sex and no one modifies their body in ways that alter secondary sex characteristics.” But then what?</p><p>They say they’re feminists, so that would imply the actual endgame isn’t just “the destruction of the transcult” but the end of patriarchy.</p><p>But how is everyone identifying with their asab and not modifying their body supposed to do that?</p><p>It’s very Underpants Gnomes.</p><ol><li> Recruit trans people who doubt.</li><li> Destroy the transcult!</li><li> …..</li><li> End patriarchy!</li></ol><p>?????</p></blockquote>\n<p>Steel-man-y answer, from what I can glean as someone who intuitively ‘gets’ some radfem talking points that seem to really confuse others.</p><p>1) They view trans women the same way black activists view Rachel Dolezal. Someone who is ‘playing’ at being a member of an oppressed class they aren’t actually a member of, and directly mocking or profiting off that class by extension. Being a trans woman, under this view, is sexist in and of itself. </p><p>(Of course, this ignores the fact that many axes of oppression can be moved into and out of. There is zero reason why misogyny can only exist as an oppression axis if it has fixed, lifelong ‘membership’. By that logic, ableism wouldn’t exist, as not everyone affected by it was born disabled. Also, you have to ignore trans women’s actual reports of their experiences, how little trans women profit socially from transition on average etc.) </p><p>2) A lot of them believe trans-ness is just a result of misogyny, and gender norms being forced on people. Trans men, in their view, are created when young girls get told they can’t do/like a certain thing unless they’re a boy, and therefore decide they need to try and <i>become</i> a boy in order to continue being themselves. They aren’t <i>really </i>boys, and in a world with true gender equality, would happily identify with their ASAB. Therefore, trans-ness is nothing but a symptom of sexism and homophobia, and preventing it is also preventing those things.</p><p>(The fact that gender dysphoria has never been shown to be treated using purely therapeutic methods gets kind of hand waved away here.) </p><p>(Also, this belief is clearly untrue if you’ve like… ever spoken to a trans person outside an online shouting match. But if you <i>haven’t</i>, or are a detransitioned person for whom “I internalised a fuckton of misogyny” actually <i>was</i> your experience, it can look reasonable. I have seen a lot of people in the latter group basically fall into a typical-minding trap where, because <i>they</i> weren’t really a man, <i>no</i> trans men are really men.) </p><p>3) They see sex and gender solely as externally-opposed forces designed to hurt and restrict women, and feel they won’t be able to end the harm if the ‘man’ and ‘woman’ classes are muddied, blurred or concealed in any way. See: the way they cherry-pick stories about trans woman sex offenders, and use them to argue that they’re skewing statistics and making sex crimes look non-gendered.   </p><p>Less steel manny answer (mostly suspicions and theories):</p><p>I think Terfs, broadly, have a lot in common with white working class right populists. They have genuine grievances, and they have genuinely been kind of forgotten by the mainstream left, but rather than fighting the true source of their problems they’ve picked an easier-to-attack scapegoat, and convinced themselves that slaying the straw man will fix everything. A Terf saying “Trans Women are a danger to women and the trans cult has to end” is basically the same as a white retired coal miner saying the immigrants are stealing the jobs and need to be kicked out. The Terf is suffering from systemic misogny, and the coal miner is suffering from classism, but the true causes of those problems go all the way to the top and are difficult to challenge. </p><p>Trans women- and economic migrants- however, are disenfranchised enough to be punched down at easily and with little consequence. This punching-down makes the Terf/Miner feel like they’re Smashing The System when they’re in fact doing nothing of the sort, and are in fact maintaining the system by falling for divide-and-conquer tactics, hurting people who would be more naturally placed as their allies. </p><p>I’ve noticed that a lot of Terfs, for all their professed feminism, seem hyper-fixated on trans women and never have a word to say about sexist cishet men, or women’s issues that have nothing to do with trans people. I’d bet this is largely why: They’ve built trans women up into the One True Threat, because they’re a much smaller and easier target than, like, wealthy conservative traditionalists, and forgotten how systemic misogyny<i> really</i> operates in the process. </p><p>… There also seems to be a subclass of Terfs who aren’t feminists at all: They’re bog-standard social conservatives adopting feminism as a justification for their bigotry. If they didn’t need that justification, they’d drop the feminist label like a hot potato. See: Any ‘Terf’ in a right-wing political party. </p></blockquote>\n<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology’s endgame is the total segregation of the people they class as “men” and “women”. This is why things like Michfest and the various attempts at women-only communes were a thing, and it’s why writers like Adrienne Rich framed “lesbianism” as [paraphrasing] “women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women” (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn’t to end patriarchy; in many ways they don’t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens’ interactions with them. So their goal is to “protect” women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it’s trying to blur the difference between men and women in order to allow men to “invade women’s spaces”.</p><p>I’ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens’ ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women’s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br/></p><p>Edit to add: I forgot the first time but yes, this is why they’re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they “didn’t even know what a woman was”. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we’re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is “populist antagonism”, so it’s fun when populism comes up in these discussions. There’s also “democratic antagonism” which is functionally an intersectional approach.)<br/></p></blockquote>\n\n\n<p>That makes sense. As does, paradoxically, the idea that they’re not really trying to end patriarchy.</p></blockquote>\n<p>Great discussion! Another thing that comes to mind here, and this ties into the TERFism/right-populism parallel, is that it seems to me that a lot of radfeminism is kind of like blood and soil Romantic nationalism but for a gender instead of an ethnicity.</p><p>I suspect what happened is middle twentieth century feminists took a look at movements like black nationalism and decolonial nationalism and went “we want something like that, but for women,” and radfeminism is the legacy of that.</p><p>What I mean is, I suspect a lot of radfemmy people have something like the following view of how gender works:</p><p>Women are a folk (as in <i>volk</i>), a <i>people</i>. Membership in this folk is defined partly by biology (<i>blood</i>), and partly by a culture, a network of social connections, and a historical experience that profoundly shapes members of the folk (<i>soil</i>, which in original Romantic nationalism meant <i>homeland</i> - think of that thing in <i>Dune</i> where the Fremen are the way they are because that’s what Arrakis has shaped them into).</p><p>There’s a <a href=\"https://href.li/?https://www.goodreads.com/quotes/7781373-now-there-is-no-such-thing-as-man-in-this\">Joseph de'Maistre “no such thing as man”</a> thing going. Women and men are assumed to be profoundly different kinds of people, with profoundly different traits and interests. The great tragedy of the folk’s history is that they have spent much of it divided and weak and thus oppressed and exploited by others, and the way to fix this, and thus the point of feminism, is to build connection and solidarity among women as a folk and advance the interests of women as members of the folk, kind of like how the point of German and Italian nationalism was to create Germany and Italy as nation-states and advance the interests of German people and Italian people as <i>Germans</i> and <i>Italians</i>. Solidarity with people outside the folk along other axis (class, ethnicity, religion, neurotype, etc.) is at best a “that’s cool too, as long as it doesn’t interfere with your solidarity with the folk” thing and at worst treason.</p><p>An important part of strengthening the solidarity of the folk is building up a culture and identity that members of the folk have connection to and take pride in. Thus mother goddess spiritual feminism and the like. An important part of this is building pride in group traits that the enemy/oppressors/hegemonic culture has made low-status, which for women means things like periods, female genitalia, etc.. That “why does every third TERF have ‘vagina’ or ‘vulva’ or ‘uterus’ or a reference to menstruation in their username” thing is isomorphic to “black is beautiful,” self-consciously political celebration of things like “natural” black hair, etc..</p><p>It is very difficult, if not impossible, for an outsider to truly become part of or very deeply sympathize with the folk. Folkishness is <i>at least</i> a product of a from the cradle onward social and cultural experience (<i>soil</i>), and may even be to some extent literally in the blood. This makes more comprehensible how TERFs seem to combine radically social constructionist views of gender (all that talk about socialization) with what looks a lot like misandristic gender essentialism; in blood and soil thinking, the soil part (culture, experiences, experience of belonging, learning the old songs from your grandmother as a child) and the blood part aren’t contradictory but <i>complimentary</i> and mutually reinforcing.</p><p>The folkishness of the folk is something beautiful and valuable, and thus while outsiders cannot truly understand if they often desire to possess it, steal it, make it their own. But because they can’t truly understand it or share it, they can only produce grotesque parodies of it that fundamentally miss the point. Their attempts to copy or partake in things of the folk are not a desire to share but actually a kind of attack; they want to get access to things that are important to the folk and exert power over them, claim ownership of them, appropriate them, turn around to the folk and say “this is ours now!” If allowed to have their way with the precious things of the folk, they would degrade and defile them. There’s a purity axis psychology involved here: the foreigners lust to defile our sacred things with their filthy <i>gaijin</i> barbarian hands! Thus there’s a perceived need to police access to the folk and the things of the folk, and there is an anxiety that the space of the folk may be invaded and degraded by outsiders. TERF transphobia is more than little like Trumpist “build a wall!” sentiment.</p><p>I don’t endorse the above (for nationality or gender), but I suspect that’s how the psychology works.</p></blockquote>"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-reblog_key = "okJbnDDC"
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-can_blaze = false
-slug = "weird-question-of-the-day-so-what-is-terfs"
+can_send_in_message = true
+date = "2022-08-09 21:46:26 GMT"
+display_avatar = true
 format = "html"
 id = 6.921457094666486e+17
-timestamp = 1660081586.0
-note_count = 11258.0
-can_like = false
 id_string = "692145709466648576"
+interactability_blaze = "noone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 11259.0
+parent_post_url = "https://www.tumblr.com/blog/view/maeveynot/684645764663836672"
 post_url = "https://indirect.io/post/692145709466648576/weird-question-of-the-day-so-what-is-terfs"
+reblog_key = "okJbnDDC"
+short_url = "https://tmblr.co/ZY3jbycQ-ji9aW00"
+should_open_in_legacy = false
+slug = "weird-question-of-the-day-so-what-is-terfs"
+state = "published"
+summary = "Weird question of the day: so what is terfs’ actual endgame?\nLike I know the middle game is “everyone identifies with their..."
+timestamp = 1660081586.0
+type = "text"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = ""
 tree_html = "<p><a href=\"https://random-thought-depository.tumblr.com/post/680812762520272896/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">random-thought-depository</a>:</p><blockquote><p><a href=\"https://fierceawakening.tumblr.com/post/680789430605398016/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">fierceawakening</a>:</p><blockquote><p><a href=\"https://canadianwheatpirates.tumblr.com/post/680654073656180736/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">canadianwheatpirates</a>:</p>\n\n<blockquote><p><a href=\"https://mindthelspace.tumblr.com/post/680653131820990464/weird-question-of-the-day-so-what-is-terfs\" class=\"tumblr_blog\">mindthelspace</a>:</p><blockquote><p><a class=\"tumblr_blog\" href=\"https://fierceawakening.tumblr.com/post/680521137976983552/weird-question-of-the-day-so-what-is-terfs\">fierceawakening</a>:</p><blockquote><p>Weird question of the day: so what is terfs’ actual endgame?</p><p>Like I know the middle game is “everyone identifies with their assigned sex and no one modifies their body in ways that alter secondary sex characteristics.” But then what?</p><p>They say they’re feminists, so that would imply the actual endgame isn’t just “the destruction of the transcult” but the end of patriarchy.</p><p>But how is everyone identifying with their asab and not modifying their body supposed to do that?</p><p>It’s very Underpants Gnomes.</p><ol><li> Recruit trans people who doubt.</li><li> Destroy the transcult!</li><li> …..</li><li> End patriarchy!</li></ol><p>?????</p></blockquote>\n<p>Steel-man-y answer, from what I can glean as someone who intuitively ‘gets’ some radfem talking points that seem to really confuse others.</p><p>1) They view trans women the same way black activists view Rachel Dolezal. Someone who is ‘playing’ at being a member of an oppressed class they aren’t actually a member of, and directly mocking or profiting off that class by extension. Being a trans woman, under this view, is sexist in and of itself. </p><p>(Of course, this ignores the fact that many axes of oppression can be moved into and out of. There is zero reason why misogyny can only exist as an oppression axis if it has fixed, lifelong ‘membership’. By that logic, ableism wouldn’t exist, as not everyone affected by it was born disabled. Also, you have to ignore trans women’s actual reports of their experiences, how little trans women profit socially from transition on average etc.) </p><p>2) A lot of them believe trans-ness is just a result of misogyny, and gender norms being forced on people. Trans men, in their view, are created when young girls get told they can’t do/like a certain thing unless they’re a boy, and therefore decide they need to try and <i>become</i> a boy in order to continue being themselves. They aren’t <i>really </i>boys, and in a world with true gender equality, would happily identify with their ASAB. Therefore, trans-ness is nothing but a symptom of sexism and homophobia, and preventing it is also preventing those things.</p><p>(The fact that gender dysphoria has never been shown to be treated using purely therapeutic methods gets kind of hand waved away here.) </p><p>(Also, this belief is clearly untrue if you’ve like… ever spoken to a trans person outside an online shouting match. But if you <i>haven’t</i>, or are a detransitioned person for whom “I internalised a fuckton of misogyny” actually <i>was</i> your experience, it can look reasonable. I have seen a lot of people in the latter group basically fall into a typical-minding trap where, because <i>they</i> weren’t really a man, <i>no</i> trans men are really men.) </p><p>3) They see sex and gender solely as externally-opposed forces designed to hurt and restrict women, and feel they won’t be able to end the harm if the ‘man’ and ‘woman’ classes are muddied, blurred or concealed in any way. See: the way they cherry-pick stories about trans woman sex offenders, and use them to argue that they’re skewing statistics and making sex crimes look non-gendered.   </p><p>Less steel manny answer (mostly suspicions and theories):</p><p>I think Terfs, broadly, have a lot in common with white working class right populists. They have genuine grievances, and they have genuinely been kind of forgotten by the mainstream left, but rather than fighting the true source of their problems they’ve picked an easier-to-attack scapegoat, and convinced themselves that slaying the straw man will fix everything. A Terf saying “Trans Women are a danger to women and the trans cult has to end” is basically the same as a white retired coal miner saying the immigrants are stealing the jobs and need to be kicked out. The Terf is suffering from systemic misogny, and the coal miner is suffering from classism, but the true causes of those problems go all the way to the top and are difficult to challenge. </p><p>Trans women- and economic migrants- however, are disenfranchised enough to be punched down at easily and with little consequence. This punching-down makes the Terf/Miner feel like they’re Smashing The System when they’re in fact doing nothing of the sort, and are in fact maintaining the system by falling for divide-and-conquer tactics, hurting people who would be more naturally placed as their allies. </p><p>I’ve noticed that a lot of Terfs, for all their professed feminism, seem hyper-fixated on trans women and never have a word to say about sexist cishet men, or women’s issues that have nothing to do with trans people. I’d bet this is largely why: They’ve built trans women up into the One True Threat, because they’re a much smaller and easier target than, like, wealthy conservative traditionalists, and forgotten how systemic misogyny<i> really</i> operates in the process. </p><p>… There also seems to be a subclass of Terfs who aren’t feminists at all: They’re bog-standard social conservatives adopting feminism as a justification for their bigotry. If they didn’t need that justification, they’d drop the feminist label like a hot potato. See: Any ‘Terf’ in a right-wing political party. </p></blockquote>\n<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology’s endgame is the total segregation of the people they class as “men” and “women”. This is why things like Michfest and the various attempts at women-only communes were a thing, and it’s why writers like Adrienne Rich framed “lesbianism” as [paraphrasing] “women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women” (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn’t to end patriarchy; in many ways they don’t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens’ interactions with them. So their goal is to “protect” women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it’s trying to blur the difference between men and women in order to allow men to “invade women’s spaces”.</p><p>I’ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens’ ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women’s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br></p><p>Edit to add: I forgot the first time but yes, this is why they’re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they “didn’t even know what a woman was”. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we’re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is “populist antagonism”, so it’s fun when populism comes up in these discussions. There’s also “democratic antagonism” which is functionally an intersectional approach.)<br></p></blockquote>\n\n\n<p>That makes sense. As does, paradoxically, the idea that they’re not really trying to end patriarchy.</p></blockquote>\n<p>Great discussion! Another thing that comes to mind here, and this ties into the TERFism/right-populism parallel, is that it seems to me that a lot of radfeminism is kind of like blood and soil Romantic nationalism but for a gender instead of an ethnicity.</p><p>I suspect what happened is middle twentieth century feminists took a look at movements like black nationalism and decolonial nationalism and went “we want something like that, but for women,” and radfeminism is the legacy of that.</p><p>What I mean is, I suspect a lot of radfemmy people have something like the following view of how gender works:</p><p>Women are a folk (as in <i>volk</i>), a <i>people</i>. Membership in this folk is defined partly by biology (<i>blood</i>), and partly by a culture, a network of social connections, and a historical experience that profoundly shapes members of the folk (<i>soil</i>, which in original Romantic nationalism meant <i>homeland</i> - think of that thing in <i>Dune</i> where the Fremen are the way they are because that’s what Arrakis has shaped them into).</p><p>There’s a <a href=\"https://href.li/?https://www.goodreads.com/quotes/7781373-now-there-is-no-such-thing-as-man-in-this\">Joseph de'Maistre “no such thing as man”</a> thing going. Women and men are assumed to be profoundly different kinds of people, with profoundly different traits and interests. The great tragedy of the folk’s history is that they have spent much of it divided and weak and thus oppressed and exploited by others, and the way to fix this, and thus the point of feminism, is to build connection and solidarity among women as a folk and advance the interests of women as members of the folk, kind of like how the point of German and Italian nationalism was to create Germany and Italy as nation-states and advance the interests of German people and Italian people as <i>Germans</i> and <i>Italians</i>. Solidarity with people outside the folk along other axis (class, ethnicity, religion, neurotype, etc.) is at best a “that’s cool too, as long as it doesn’t interfere with your solidarity with the folk” thing and at worst treason.</p><p>An important part of strengthening the solidarity of the folk is building up a culture and identity that members of the folk have connection to and take pride in. Thus mother goddess spiritual feminism and the like. An important part of this is building pride in group traits that the enemy/oppressors/hegemonic culture has made low-status, which for women means things like periods, female genitalia, etc.. That “why does every third TERF have ‘vagina’ or ‘vulva’ or ‘uterus’ or a reference to menstruation in their username” thing is isomorphic to “black is beautiful,” self-consciously political celebration of things like “natural” black hair, etc..</p><p>It is very difficult, if not impossible, for an outsider to truly become part of or very deeply sympathize with the folk. Folkishness is <i>at least</i> a product of a from the cradle onward social and cultural experience (<i>soil</i>), and may even be to some extent literally in the blood. This makes more comprehensible how TERFs seem to combine radically social constructionist views of gender (all that talk about socialization) with what looks a lot like misandristic gender essentialism; in blood and soil thinking, the soil part (culture, experiences, experience of belonging, learning the old songs from your grandmother as a child) and the blood part aren’t contradictory but <i>complimentary</i> and mutually reinforcing.</p><p>The folkishness of the folk is something beautiful and valuable, and thus while outsiders cannot truly understand if they often desire to possess it, steal it, make it their own. But because they can’t truly understand it or share it, they can only produce grotesque parodies of it that fundamentally miss the point. Their attempts to copy or partake in things of the folk are not a desire to share but actually a kind of attack; they want to get access to things that are important to the folk and exert power over them, claim ownership of them, appropriate them, turn around to the folk and say “this is ours now!” If allowed to have their way with the precious things of the folk, they would degrade and defile them. There’s a purity axis psychology involved here: the foreigners lust to defile our sacred things with their filthy <i>gaijin</i> barbarian hands! Thus there’s a perceived need to police access to the folk and the things of the folk, and there is an anxiety that the space of the folk may be invaded and degraded by outsiders. TERF transphobia is more than little like Trumpist “build a wall!” sentiment.</p><p>I don’t endorse the above (for nationality or gender), but I suspect that’s how the psychology works.</p></blockquote>"
 
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
+[[tumblr.trail]]
+content = "<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology&rsquo;s endgame is the total segregation of the people they class as &ldquo;men&rdquo; and &ldquo;women&rdquo;. This is why things like Michfest and the various attempts at women-only communes were a thing, and it&rsquo;s why writers like Adrienne Rich framed &ldquo;lesbianism&rdquo; as [paraphrasing] &ldquo;women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women&rdquo; (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn&rsquo;t to end patriarchy; in many ways they don&rsquo;t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens&rsquo; interactions with them. So their goal is to &ldquo;protect&rdquo; women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it&rsquo;s trying to blur the difference between men and women in order to allow men to &ldquo;invade women&rsquo;s spaces&rdquo;.</p><p>I&rsquo;ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens&rsquo; ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women&rsquo;s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br /></p><p>Edit to add: I forgot the first time but yes, this is why they&rsquo;re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they &ldquo;didn&rsquo;t even know what a woman was&rdquo;. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we&rsquo;re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is &ldquo;populist antagonism&rdquo;, so it&rsquo;s fun when populism comes up in these discussions. There&rsquo;s also &ldquo;democratic antagonism&rdquo; which is functionally an intersectional approach.)<br /></p>"
+content_raw = "<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology’s endgame is the total segregation of the people they class as “men” and “women”. This is why things like Michfest and the various attempts at women-only communes were a thing, and it’s why writers like Adrienne Rich framed “lesbianism” as [paraphrasing] “women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women” (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn’t to end patriarchy; in many ways they don’t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens’ interactions with them. So their goal is to “protect” women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it’s trying to blur the difference between men and women in order to allow men to “invade women’s spaces”.</p><p>I’ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens’ ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women’s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br></p><p>Edit to add: I forgot the first time but yes, this is why they’re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they “didn’t even know what a woman was”. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we’re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is “populist antagonism”, so it’s fun when populism comes up in these discussions. There’s also “democratic antagonism” which is functionally an intersectional approach.)<br></p>"
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
+name = "canadianwheatpirates"
+share_following = false
+share_likes = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = "4,841,317,285"
+header_focus_height = 313.0
+header_focus_width = 556.0
+header_full_height = 318.0
+header_full_width = 960.0
+header_image = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s960x318/b1497e8fd9293df35dca39d0f7795b1484d42013.jpg"
+header_image_focused = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s2048x3072_c29688,1258,87604,99686/2e0fb8ed97e9d791b4a9dfbbe1fe24fcc54265b0.jpg"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s2048x3072/28098061c8a8d16f34bcc33b64054c559a0b9b51.jpg"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "680654073656180736"
 
 [[tumblr.trail]]
-content_raw = "<p>Weird question of the day: so what is terfs’ actual endgame?</p><p>Like I know the middle game is “everyone identifies with their assigned sex and no one modifies their body in ways that alter secondary sex characteristics.” But then what?</p><p>They say they’re feminists, so that would imply the actual endgame isn’t just “the destruction of the transcult” but the end of patriarchy.</p><p>But how is everyone identifying with their asab and not modifying their body supposed to do that?</p><p>It’s very Underpants Gnomes.</p><ol><li> Recruit trans people who doubt.</li><li> Destroy the transcult!</li><li> …..</li><li> End patriarchy!</li></ol><p>?????</p>"
+content = "<p>That makes sense. As does, paradoxically, the idea that they&rsquo;re not really trying to end patriarchy.</p>"
+content_raw = "<p>That makes sense. As does, paradoxically, the idea that they’re not really trying to end patriarchy.</p>"
+
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
+name = "fierceawakening"
+share_following = false
+share_likes = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#000000"
+body_font = "Helvetica Neue"
+header_bounds = "328,965,871,0"
+header_focus_height = 543.0
+header_focus_width = 965.0
+header_full_height = 1200.0
+header_full_width = 965.0
+header_image = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s965x1200/6261cf12231b211e587d69812b48bae042c9c541.jpg"
+header_image_focused = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072_c0,27333,100000,72583/c1a28647ec0a28371cc1284066df369aca8932a1.jpg"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072/c2310c6c1de30e21785f531b6df83f7a6a822e87.jpg"
+header_stretch = true
+link_color = "#4d22b3"
+show_avatar = true
+show_description = true
+show_header_image = true
+show_title = true
+title_color = "#444444"
+title_font = "Helvetica Neue"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "680789430605398016"
+
+[[tumblr.trail]]
 content = "<p>Weird question of the day: so what is terfs&rsquo; actual endgame?</p><p>Like I know the middle game is &ldquo;everyone identifies with their assigned sex and no one modifies their body in ways that alter secondary sex characteristics.&rdquo; But then what?</p><p>They say they&rsquo;re feminists, so that would imply the actual endgame isn&rsquo;t just &ldquo;the destruction of the transcult&rdquo; but the end of patriarchy.</p><p>But how is everyone identifying with their asab and not modifying their body supposed to do that?</p><p>It&rsquo;s very Underpants Gnomes.</p><ol><li> Recruit trans people who doubt.</li><li> Destroy the transcult!</li><li> &hellip;..</li><li> End patriarchy!</li></ol><p>?????</p>"
+content_raw = "<p>Weird question of the day: so what is terfs’ actual endgame?</p><p>Like I know the middle game is “everyone identifies with their assigned sex and no one modifies their body in ways that alter secondary sex characteristics.” But then what?</p><p>They say they’re feminists, so that would imply the actual endgame isn’t just “the destruction of the transcult” but the end of patriarchy.</p><p>But how is everyone identifying with their asab and not modifying their body supposed to do that?</p><p>It’s very Underpants Gnomes.</p><ol><li> Recruit trans people who doubt.</li><li> Destroy the transcult!</li><li> …..</li><li> End patriarchy!</li></ol><p>?????</p>"
 is_root_item = true
 
 [tumblr.trail.blog]
 active = true
-share_likes = false
-share_following = false
 can_be_followed = true
 name = "fierceawakening"
+share_following = false
+share_likes = false
 
 [tumblr.trail.blog.theme]
-header_full_width = 965.0
-header_full_height = 1200.0
-header_focus_width = 965.0
-header_image_focused = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072_c0,27333,100000,72583/c1a28647ec0a28371cc1284066df369aca8932a1.jpg"
-header_image_poster = ""
-show_description = true
-title_color = "#444444"
-title_font = "Helvetica Neue"
-background_color = "#000000"
-link_color = "#4d22b3"
-show_avatar = true
-show_title = true
-header_image_scaled = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072/c2310c6c1de30e21785f531b6df83f7a6a822e87.jpg"
-header_stretch = true
-header_focus_height = 543.0
 avatar_shape = "square"
-header_image = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s965x1200/6261cf12231b211e587d69812b48bae042c9c541.jpg"
-title_font_weight = "bold"
+background_color = "#000000"
 body_font = "Helvetica Neue"
 header_bounds = "328,965,871,0"
+header_focus_height = 543.0
+header_focus_width = 965.0
+header_full_height = 1200.0
+header_full_width = 965.0
+header_image = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s965x1200/6261cf12231b211e587d69812b48bae042c9c541.jpg"
+header_image_focused = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072_c0,27333,100000,72583/c1a28647ec0a28371cc1284066df369aca8932a1.jpg"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072/c2310c6c1de30e21785f531b6df83f7a6a822e87.jpg"
+header_stretch = true
+link_color = "#4d22b3"
+show_avatar = true
+show_description = true
 show_header_image = true
+show_title = true
+title_color = "#444444"
+title_font = "Helvetica Neue"
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "680521137976983552"
@@ -93,141 +167,67 @@ content = "<p>Steel-man-y answer, from what I can glean as someone who intuitive
 content_raw = "<p>Steel-man-y answer, from what I can glean as someone who intuitively ‘gets’ some radfem talking points that seem to really confuse others.</p><p>1) They view trans women the same way black activists view Rachel Dolezal. Someone who is ‘playing’ at being a member of an oppressed class they aren’t actually a member of, and directly mocking or profiting off that class by extension. Being a trans woman, under this view, is sexist in and of itself. </p><p>(Of course, this ignores the fact that many axes of oppression can be moved into and out of. There is zero reason why misogyny can only exist as an oppression axis if it has fixed, lifelong ‘membership’. By that logic, ableism wouldn’t exist, as not everyone affected by it was born disabled. Also, you have to ignore trans women’s actual reports of their experiences, how little trans women profit socially from transition on average etc.) </p><p>2) A lot of them believe trans-ness is just a result of misogyny, and gender norms being forced on people. Trans men, in their view, are created when young girls get told they can’t do/like a certain thing unless they’re a boy, and therefore decide they need to try and <i>become</i> a boy in order to continue being themselves. They aren’t <i>really </i>boys, and in a world with true gender equality, would happily identify with their ASAB. Therefore, trans-ness is nothing but a symptom of sexism and homophobia, and preventing it is also preventing those things.</p><p>(The fact that gender dysphoria has never been shown to be treated using purely therapeutic methods gets kind of hand waved away here.) </p><p>(Also, this belief is clearly untrue if you’ve like… ever spoken to a trans person outside an online shouting match. But if you <i>haven’t</i>, or are a detransitioned person for whom “I internalised a fuckton of misogyny” actually <i>was</i> your experience, it can look reasonable. I have seen a lot of people in the latter group basically fall into a typical-minding trap where, because <i>they</i> weren’t really a man, <i>no</i> trans men are really men.) </p><p>3) They see sex and gender solely as externally-opposed forces designed to hurt and restrict women, and feel they won’t be able to end the harm if the ‘man’ and ‘woman’ classes are muddied, blurred or concealed in any way. See: the way they cherry-pick stories about trans woman sex offenders, and use them to argue that they’re skewing statistics and making sex crimes look non-gendered.   </p><p>Less steel manny answer (mostly suspicions and theories):</p><p>I think Terfs, broadly, have a lot in common with white working class right populists. They have genuine grievances, and they have genuinely been kind of forgotten by the mainstream left, but rather than fighting the true source of their problems they’ve picked an easier-to-attack scapegoat, and convinced themselves that slaying the straw man will fix everything. A Terf saying “Trans Women are a danger to women and the trans cult has to end” is basically the same as a white retired coal miner saying the immigrants are stealing the jobs and need to be kicked out. The Terf is suffering from systemic misogny, and the coal miner is suffering from classism, but the true causes of those problems go all the way to the top and are difficult to challenge. </p><p>Trans women- and economic migrants- however, are disenfranchised enough to be punched down at easily and with little consequence. This punching-down makes the Terf/Miner feel like they’re Smashing The System when they’re in fact doing nothing of the sort, and are in fact maintaining the system by falling for divide-and-conquer tactics, hurting people who would be more naturally placed as their allies. </p><p>I’ve noticed that a lot of Terfs, for all their professed feminism, seem hyper-fixated on trans women and never have a word to say about sexist cishet men, or women’s issues that have nothing to do with trans people. I’d bet this is largely why: They’ve built trans women up into the One True Threat, because they’re a much smaller and easier target than, like, wealthy conservative traditionalists, and forgotten how systemic misogyny<i> really</i> operates in the process. </p><p>… There also seems to be a subclass of Terfs who aren’t feminists at all: They’re bog-standard social conservatives adopting feminism as a justification for their bigotry. If they didn’t need that justification, they’d drop the feminist label like a hot potato. See: Any ‘Terf’ in a right-wing political party. </p>"
 
 [tumblr.trail.blog]
-share_following = false
+active = true
 can_be_followed = true
 name = "mindthelspace"
-active = true
+share_following = false
 share_likes = true
 
 [tumblr.trail.blog.theme]
-header_full_width = 3000.0
-header_full_height = 1055.0
+avatar_shape = "square"
+background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
 header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
 header_image = "https://64.media.tumblr.com/b77691ab781f0f628f8481f6dba378bb/293c2aee03d80234-e2/s2048x1536/ab72b9d8cd3096c1df4e2618da36b128a60b23e9.jpg"
-title_font = "Gibson"
-avatar_shape = "square"
+header_image_focused = "https://64.media.tumblr.com/b77691ab781f0f628f8481f6dba378bb/293c2aee03d80234-e2/s2048x3072/a140fba10222eecffb02b3536eca1474cae6183f.jpg"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/b77691ab781f0f628f8481f6dba378bb/293c2aee03d80234-e2/s2048x3072/a140fba10222eecffb02b3536eca1474cae6183f.jpg"
 header_stretch = true
 link_color = "#529ECC"
-background_color = "#FAFAFA"
-header_image_focused = "https://64.media.tumblr.com/b77691ab781f0f628f8481f6dba378bb/293c2aee03d80234-e2/s2048x3072/a140fba10222eecffb02b3536eca1474cae6183f.jpg"
-header_image_scaled = "https://64.media.tumblr.com/b77691ab781f0f628f8481f6dba378bb/293c2aee03d80234-e2/s2048x3072/a140fba10222eecffb02b3536eca1474cae6183f.jpg"
+show_avatar = true
+show_description = true
 show_header_image = true
 show_title = true
 title_color = "#444444"
+title_font = "Gibson"
 title_font_weight = "bold"
-header_image_poster = ""
-show_avatar = true
-show_description = true
 
 [tumblr.trail.post]
 id = "680653131820990464"
 
 [[tumblr.trail]]
-content_raw = "<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology’s endgame is the total segregation of the people they class as “men” and “women”. This is why things like Michfest and the various attempts at women-only communes were a thing, and it’s why writers like Adrienne Rich framed “lesbianism” as [paraphrasing] “women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women” (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn’t to end patriarchy; in many ways they don’t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens’ interactions with them. So their goal is to “protect” women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it’s trying to blur the difference between men and women in order to allow men to “invade women’s spaces”.</p><p>I’ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens’ ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women’s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br></p><p>Edit to add: I forgot the first time but yes, this is why they’re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they “didn’t even know what a woman was”. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we’re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is “populist antagonism”, so it’s fun when populism comes up in these discussions. There’s also “democratic antagonism” which is functionally an intersectional approach.)<br></p>"
-content = "<p>Part of my job is working on social polarisation theory and I think another part of it is that the core goal of a polarised ideology is to sustain the polarisation through total social and cultural segregation of the two poles. Terfs view men and women as inherently and irreconcilably different, and their ideology&rsquo;s endgame is the total segregation of the people they class as &ldquo;men&rdquo; and &ldquo;women&rdquo;. This is why things like Michfest and the various attempts at women-only communes were a thing, and it&rsquo;s why writers like Adrienne Rich framed &ldquo;lesbianism&rdquo; as [paraphrasing] &ldquo;women being focussed entirely on being in community with other women and no men, even if they are not romantically and sexually attracted to women&rdquo; (from section III of <i>Compulsory Heterosexuality and the Lesbian Experience</i>).</p><p>Like, their goal isn&rsquo;t to end patriarchy; in many ways they don&rsquo;t believe that patriarchy <i>can</i> be ended, because men are inherently oppressive and therefore patriarchy is inextricable from womens&rsquo; interactions with them. So their goal is to &ldquo;protect&rdquo; women from this by segregating them from men, and to reinforce the idea that men and women are irreconcilably different; anything that tries to depolarise these two genders is seen as a threat to women because it&rsquo;s trying to blur the difference between men and women in order to allow men to &ldquo;invade women&rsquo;s spaces&rdquo;.</p><p>I&rsquo;ve had the misfortune to read bits of <i>The Transsexual Empire</i> and that last part is actually directly in the text. TERFs believe that one of the things trans women do, socially, is damage womens&rsquo; ability to tell the difference between men and women, which will leave them so bamboozled that they allow men into women&rsquo;s spaces and lives. Trans people (trans women especially) are seen as this walking embodiment of depolarisation, and TERFs view that as the biggest threat to their ideology, because in many ways it <i>is</i> the biggest threat to their ideology. Trans people refute the claim that men and women are irreconcilably different just by existing, so for TERFs to maintain their polarisation they have to make us not exist.<br /></p><p>Edit to add: I forgot the first time but yes, this is why they&rsquo;re similar to the populist white working class! White populism and white supremacy are both polarised (e.g. the history of racial segregation in the USA), and polarised ideologies are easy to fold into each other due to their intolerance of intesections. From the terf side, examples of this include terfs turning up to BLM marches in the UK and hollering at the participants that they &ldquo;didn&rsquo;t even know what a woman was&rdquo;. From the white supremacist side, examples include framing trans people as degenerate and damaging to the integrity of the white race, for the same reasons as terfs think we&rsquo;re a threat.</p><p>(bonus fact: in the works I have a background in, the main term for polarisation is &ldquo;populist antagonism&rdquo;, so it&rsquo;s fun when populism comes up in these discussions. There&rsquo;s also &ldquo;democratic antagonism&rdquo; which is functionally an intersectional approach.)<br /></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "canadianwheatpirates"
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-header_image = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s960x318/b1497e8fd9293df35dca39d0f7795b1484d42013.jpg"
-header_image_scaled = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s2048x3072/28098061c8a8d16f34bcc33b64054c559a0b9b51.jpg"
-show_avatar = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_focus_width = 556.0
-header_focus_height = 313.0
-header_image_poster = ""
-header_stretch = true
-header_full_width = 960.0
-header_full_height = 318.0
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "https://64.media.tumblr.com/917a9af81efcb60191bdfc9ad65ef1a0/afd25087324d97ab-92/s2048x3072_c29688,1258,87604,99686/2e0fb8ed97e9d791b4a9dfbbe1fe24fcc54265b0.jpg"
-show_header_image = true
-show_title = true
-header_bounds = "4,841,317,285"
-link_color = "#529ECC"
-show_description = true
-title_font = "Gibson"
-
-[tumblr.trail.post]
-id = "680654073656180736"
-
-[[tumblr.trail]]
-content_raw = "<p>That makes sense. As does, paradoxically, the idea that they’re not really trying to end patriarchy.</p>"
-content = "<p>That makes sense. As does, paradoxically, the idea that they&rsquo;re not really trying to end patriarchy.</p>"
-
-[tumblr.trail.blog]
-name = "fierceawakening"
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-
-[tumblr.trail.blog.theme]
-header_image_focused = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072_c0,27333,100000,72583/c1a28647ec0a28371cc1284066df369aca8932a1.jpg"
-header_image_scaled = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s2048x3072/c2310c6c1de30e21785f531b6df83f7a6a822e87.jpg"
-link_color = "#4d22b3"
-title_font = "Helvetica Neue"
-title_font_weight = "bold"
-header_focus_height = 543.0
-show_description = true
-show_header_image = true
-avatar_shape = "square"
-background_color = "#000000"
-header_bounds = "328,965,871,0"
-header_image_poster = ""
-header_stretch = true
-show_avatar = true
-title_color = "#444444"
-header_full_width = 965.0
-header_focus_width = 965.0
-show_title = true
-header_full_height = 1200.0
-body_font = "Helvetica Neue"
-header_image = "https://64.media.tumblr.com/5fc4825c7e1e67b661175853a9339f0d/de2cf461b542bd4c-32/s965x1200/6261cf12231b211e587d69812b48bae042c9c541.jpg"
-
-[tumblr.trail.post]
-id = "680789430605398016"
-
-[[tumblr.trail]]
-content_raw = "<p>Great discussion! Another thing that comes to mind here, and this ties into the TERFism/right-populism parallel, is that it seems to me that a lot of radfeminism is kind of like blood and soil Romantic nationalism but for a gender instead of an ethnicity.</p><p>I suspect what happened is middle twentieth century feminists took a look at movements like black nationalism and decolonial nationalism and went “we want something like that, but for women,” and radfeminism is the legacy of that.</p><p>What I mean is, I suspect a lot of radfemmy people have something like the following view of how gender works:</p><p>Women are a folk (as in <i>volk</i>), a <i>people</i>. Membership in this folk is defined partly by biology (<i>blood</i>), and partly by a culture, a network of social connections, and a historical experience that profoundly shapes members of the folk (<i>soil</i>, which in original Romantic nationalism meant <i>homeland</i> - think of that thing in <i>Dune</i> where the Fremen are the way they are because that’s what Arrakis has shaped them into).</p><p>There’s a <a href=\"https://href.li/?https://www.goodreads.com/quotes/7781373-now-there-is-no-such-thing-as-man-in-this\">Joseph de'Maistre “no such thing as man”</a> thing going. Women and men are assumed to be profoundly different kinds of people, with profoundly different traits and interests. The great tragedy of the folk’s history is that they have spent much of it divided and weak and thus oppressed and exploited by others, and the way to fix this, and thus the point of feminism, is to build connection and solidarity among women as a folk and advance the interests of women as members of the folk, kind of like how the point of German and Italian nationalism was to create Germany and Italy as nation-states and advance the interests of German people and Italian people as <i>Germans</i> and <i>Italians</i>. Solidarity with people outside the folk along other axis (class, ethnicity, religion, neurotype, etc.) is at best a “that’s cool too, as long as it doesn’t interfere with your solidarity with the folk” thing and at worst treason.</p><p>An important part of strengthening the solidarity of the folk is building up a culture and identity that members of the folk have connection to and take pride in. Thus mother goddess spiritual feminism and the like. An important part of this is building pride in group traits that the enemy/oppressors/hegemonic culture has made low-status, which for women means things like periods, female genitalia, etc.. That “why does every third TERF have ‘vagina’ or ‘vulva’ or ‘uterus’ or a reference to menstruation in their username” thing is isomorphic to “black is beautiful,” self-consciously political celebration of things like “natural” black hair, etc..</p><p>It is very difficult, if not impossible, for an outsider to truly become part of or very deeply sympathize with the folk. Folkishness is <i>at least</i> a product of a from the cradle onward social and cultural experience (<i>soil</i>), and may even be to some extent literally in the blood. This makes more comprehensible how TERFs seem to combine radically social constructionist views of gender (all that talk about socialization) with what looks a lot like misandristic gender essentialism; in blood and soil thinking, the soil part (culture, experiences, experience of belonging, learning the old songs from your grandmother as a child) and the blood part aren’t contradictory but <i>complimentary</i> and mutually reinforcing.</p><p>The folkishness of the folk is something beautiful and valuable, and thus while outsiders cannot truly understand if they often desire to possess it, steal it, make it their own. But because they can’t truly understand it or share it, they can only produce grotesque parodies of it that fundamentally miss the point. Their attempts to copy or partake in things of the folk are not a desire to share but actually a kind of attack; they want to get access to things that are important to the folk and exert power over them, claim ownership of them, appropriate them, turn around to the folk and say “this is ours now!” If allowed to have their way with the precious things of the folk, they would degrade and defile them. There’s a purity axis psychology involved here: the foreigners lust to defile our sacred things with their filthy <i>gaijin</i> barbarian hands! Thus there’s a perceived need to police access to the folk and the things of the folk, and there is an anxiety that the space of the folk may be invaded and degraded by outsiders. TERF transphobia is more than little like Trumpist “build a wall!” sentiment.</p><p>I don’t endorse the above (for nationality or gender), but I suspect that’s how the psychology works.</p>"
 content = "<p>Great discussion! Another thing that comes to mind here, and this ties into the TERFism/right-populism parallel, is that it seems to me that a lot of radfeminism is kind of like blood and soil Romantic nationalism but for a gender instead of an ethnicity.</p><p>I suspect what happened is middle twentieth century feminists took a look at movements like black nationalism and decolonial nationalism and went &ldquo;we want something like that, but for women,&rdquo; and radfeminism is the legacy of that.</p><p>What I mean is, I suspect a lot of radfemmy people have something like the following view of how gender works:</p><p>Women are a folk (as in <i>volk</i>), a <i>people</i>. Membership in this folk is defined partly by biology (<i>blood</i>), and partly by a culture, a network of social connections, and a historical experience that profoundly shapes members of the folk (<i>soil</i>, which in original Romantic nationalism meant <i>homeland</i> - think of that thing in <i>Dune</i> where the Fremen are the way they are because that&rsquo;s what Arrakis has shaped them into).</p><p>There&rsquo;s a <a href=\"https://href.li/?https://www.goodreads.com/quotes/7781373-now-there-is-no-such-thing-as-man-in-this\">Joseph de'Maistre &ldquo;no such thing as man&rdquo;</a> thing going. Women and men are assumed to be profoundly different kinds of people, with profoundly different traits and interests. The great tragedy of the folk&rsquo;s history is that they have spent much of it divided and weak and thus oppressed and exploited by others, and the way to fix this, and thus the point of feminism, is to build connection and solidarity among women as a folk and advance the interests of women as members of the folk, kind of like how the point of German and Italian nationalism was to create Germany and Italy as nation-states and advance the interests of German people and Italian people as <i>Germans</i> and <i>Italians</i>. Solidarity with people outside the folk along other axis (class, ethnicity, religion, neurotype, etc.) is at best a &ldquo;that&rsquo;s cool too, as long as it doesn&rsquo;t interfere with your solidarity with the folk&rdquo; thing and at worst treason.</p><p>An important part of strengthening the solidarity of the folk is building up a culture and identity that members of the folk have connection to and take pride in. Thus mother goddess spiritual feminism and the like. An important part of this is building pride in group traits that the enemy/oppressors/hegemonic culture has made low-status, which for women means things like periods, female genitalia, etc.. That &ldquo;why does every third TERF have &lsquo;vagina&rsquo; or &lsquo;vulva&rsquo; or &lsquo;uterus&rsquo; or a reference to menstruation in their username&rdquo; thing is isomorphic to &ldquo;black is beautiful,&rdquo; self-consciously political celebration of things like &ldquo;natural&rdquo; black hair, etc..</p><p>It is very difficult, if not impossible, for an outsider to truly become part of or very deeply sympathize with the folk. Folkishness is <i>at least</i> a product of a from the cradle onward social and cultural experience (<i>soil</i>), and may even be to some extent literally in the blood. This makes more comprehensible how TERFs seem to combine radically social constructionist views of gender (all that talk about socialization) with what looks a lot like misandristic gender essentialism; in blood and soil thinking, the soil part (culture, experiences, experience of belonging, learning the old songs from your grandmother as a child) and the blood part aren&rsquo;t contradictory but <i>complimentary</i> and mutually reinforcing.</p><p>The folkishness of the folk is something beautiful and valuable, and thus while outsiders cannot truly understand if they often desire to possess it, steal it, make it their own. But because they can&rsquo;t truly understand it or share it, they can only produce grotesque parodies of it that fundamentally miss the point. Their attempts to copy or partake in things of the folk are not a desire to share but actually a kind of attack; they want to get access to things that are important to the folk and exert power over them, claim ownership of them, appropriate them, turn around to the folk and say &ldquo;this is ours now!&rdquo; If allowed to have their way with the precious things of the folk, they would degrade and defile them. There&rsquo;s a purity axis psychology involved here: the foreigners lust to defile our sacred things with their filthy <i>gaijin</i> barbarian hands! Thus there&rsquo;s a perceived need to police access to the folk and the things of the folk, and there is an anxiety that the space of the folk may be invaded and degraded by outsiders. TERF transphobia is more than little like Trumpist &ldquo;build a wall!&rdquo; sentiment.</p><p>I don&rsquo;t endorse the above (for nationality or gender), but I suspect that&rsquo;s how the psychology works.</p>"
+content_raw = "<p>Great discussion! Another thing that comes to mind here, and this ties into the TERFism/right-populism parallel, is that it seems to me that a lot of radfeminism is kind of like blood and soil Romantic nationalism but for a gender instead of an ethnicity.</p><p>I suspect what happened is middle twentieth century feminists took a look at movements like black nationalism and decolonial nationalism and went “we want something like that, but for women,” and radfeminism is the legacy of that.</p><p>What I mean is, I suspect a lot of radfemmy people have something like the following view of how gender works:</p><p>Women are a folk (as in <i>volk</i>), a <i>people</i>. Membership in this folk is defined partly by biology (<i>blood</i>), and partly by a culture, a network of social connections, and a historical experience that profoundly shapes members of the folk (<i>soil</i>, which in original Romantic nationalism meant <i>homeland</i> - think of that thing in <i>Dune</i> where the Fremen are the way they are because that’s what Arrakis has shaped them into).</p><p>There’s a <a href=\"https://href.li/?https://www.goodreads.com/quotes/7781373-now-there-is-no-such-thing-as-man-in-this\">Joseph de'Maistre “no such thing as man”</a> thing going. Women and men are assumed to be profoundly different kinds of people, with profoundly different traits and interests. The great tragedy of the folk’s history is that they have spent much of it divided and weak and thus oppressed and exploited by others, and the way to fix this, and thus the point of feminism, is to build connection and solidarity among women as a folk and advance the interests of women as members of the folk, kind of like how the point of German and Italian nationalism was to create Germany and Italy as nation-states and advance the interests of German people and Italian people as <i>Germans</i> and <i>Italians</i>. Solidarity with people outside the folk along other axis (class, ethnicity, religion, neurotype, etc.) is at best a “that’s cool too, as long as it doesn’t interfere with your solidarity with the folk” thing and at worst treason.</p><p>An important part of strengthening the solidarity of the folk is building up a culture and identity that members of the folk have connection to and take pride in. Thus mother goddess spiritual feminism and the like. An important part of this is building pride in group traits that the enemy/oppressors/hegemonic culture has made low-status, which for women means things like periods, female genitalia, etc.. That “why does every third TERF have ‘vagina’ or ‘vulva’ or ‘uterus’ or a reference to menstruation in their username” thing is isomorphic to “black is beautiful,” self-consciously political celebration of things like “natural” black hair, etc..</p><p>It is very difficult, if not impossible, for an outsider to truly become part of or very deeply sympathize with the folk. Folkishness is <i>at least</i> a product of a from the cradle onward social and cultural experience (<i>soil</i>), and may even be to some extent literally in the blood. This makes more comprehensible how TERFs seem to combine radically social constructionist views of gender (all that talk about socialization) with what looks a lot like misandristic gender essentialism; in blood and soil thinking, the soil part (culture, experiences, experience of belonging, learning the old songs from your grandmother as a child) and the blood part aren’t contradictory but <i>complimentary</i> and mutually reinforcing.</p><p>The folkishness of the folk is something beautiful and valuable, and thus while outsiders cannot truly understand if they often desire to possess it, steal it, make it their own. But because they can’t truly understand it or share it, they can only produce grotesque parodies of it that fundamentally miss the point. Their attempts to copy or partake in things of the folk are not a desire to share but actually a kind of attack; they want to get access to things that are important to the folk and exert power over them, claim ownership of them, appropriate them, turn around to the folk and say “this is ours now!” If allowed to have their way with the precious things of the folk, they would degrade and defile them. There’s a purity axis psychology involved here: the foreigners lust to defile our sacred things with their filthy <i>gaijin</i> barbarian hands! Thus there’s a perceived need to police access to the folk and the things of the folk, and there is an anxiety that the space of the folk may be invaded and degraded by outsiders. TERF transphobia is more than little like Trumpist “build a wall!” sentiment.</p><p>I don’t endorse the above (for nationality or gender), but I suspect that’s how the psychology works.</p>"
 
 [tumblr.trail.blog]
-name = "random-thought-depository"
 active = true
-share_likes = true
-share_following = true
 can_be_followed = true
+name = "random-thought-depository"
+share_following = true
+share_likes = true
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
-show_description = true
-header_full_height = 1055.0
+avatar_shape = "square"
 background_color = "#FAFAFA"
 body_font = "Helvetica Neue"
-header_image_scaled = "https://64.media.tumblr.com/11e252ac48a565f7f747f091cb11de09/a4bf572ef05a8265-78/s2048x3072/940adc71518ba15faa4c415ce636988f17cfbd82.png"
-show_avatar = true
-show_title = true
-title_font = "Gibson"
-header_image = "https://64.media.tumblr.com/11e252ac48a565f7f747f091cb11de09/a4bf572ef05a8265-78/s3000x1055/9a453ee47dad80e3adfe74cd7a95e0e04b6233d0.png"
-header_image_poster = ""
-link_color = "#529ECC"
-title_font_weight = "bold"
-header_full_width = 3000.0
 header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/11e252ac48a565f7f747f091cb11de09/a4bf572ef05a8265-78/s3000x1055/9a453ee47dad80e3adfe74cd7a95e0e04b6233d0.png"
 header_image_focused = "https://64.media.tumblr.com/11e252ac48a565f7f747f091cb11de09/a4bf572ef05a8265-78/s2048x3072/940adc71518ba15faa4c415ce636988f17cfbd82.png"
-avatar_shape = "square"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/11e252ac48a565f7f747f091cb11de09/a4bf572ef05a8265-78/s2048x3072/940adc71518ba15faa4c415ce636988f17cfbd82.png"
 header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
 show_header_image = true
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "680812762520272896"

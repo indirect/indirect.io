@@ -6,50 +6,50 @@ slug = "romance-has-little-if-anything-to-do-with-sexism"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
+blog_name = "indirect"
 bookmarklet = true
-interactability_reblog = "everyone"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
 date = "2014-04-26 00:20:55 GMT"
-state = "published"
-note_count = 0.0
-slug = "romance-has-little-if-anything-to-do-with-sexism"
-blog_name = "indirect"
-timestamp = 1398471655.0
+display_avatar = true
 format = "markdown"
-source_url = "http://jacobian.org/writing/what-can-men-do/"
-source = "<a href=\"http://jacobian.org/writing/what-can-men-do/\">Re: What Can Men Do?</a>"
-can_reblog = false
+id = 83863285706.0
+id_string = "83863285706"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-can_blaze = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/83863285706/romance-has-little-if-anything-to-do-with-sexism"
 reblog_key = "4Ftqc6Bm"
-text = "Romance has little if anything to do with sexism in tech, but the lack of mature HR certainly does."
-can_like = false
-can_reply = false
-id_string = "83863285706"
 short_url = "https://tmblr.co/ZY3jby1E6f2-A"
-interactability_blaze = "everyone"
-display_avatar = true
-is_blazed = false
-summary = "Romance has little if anything to do with sexism in tech, but the lack of mature HR certainly does."
-type = "quote"
+should_open_in_legacy = true
+slug = "romance-has-little-if-anything-to-do-with-sexism"
+source = "<a href=\"http://jacobian.org/writing/what-can-men-do/\">Re: What Can Men Do?</a>"
 source_title = "jacobian.org"
-is_blocks_post_format = false
-id = 83863285706.0
+source_url = "http://jacobian.org/writing/what-can-men-do/"
+state = "published"
+summary = "Romance has little if anything to do with sexism in tech, but the lack of mature HR certainly does."
+text = "Romance has little if anything to do with sexism in tech, but the lack of mature HR certainly does."
+timestamp = 1398471655.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://jacobian.org/writing/what-can-men-do/\">Re: What Can Men Do?</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
 +++

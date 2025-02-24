@@ -6,47 +6,47 @@ slug = "zen-obama-uhhh-let-me-be-perfectly-here"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "zen-obama-uhhh-let-me-be-perfectly-here"
-format = "html"
-reblog_key = "YbEK6frn"
-is_blocks_post_format = false
-id_string = "696965540309303297"
-can_reblog = false
-display_avatar = true
 blog_name = "indirect"
-can_send_in_message = true
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2022-10-02 02:35:35 GMT"
+display_avatar = true
+format = "html"
 id = 6.969655403093033e+17
+id_string = "696965540309303297"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/696965540309303297/zen-obama-uhhh-let-me-be-perfectly-here"
+reblog_key = "YbEK6frn"
+short_url = "https://tmblr.co/ZY3jbyci7dTQqm01"
+should_open_in_legacy = true
+slug = "zen-obama-uhhh-let-me-be-perfectly-here"
+source = "<a href=\"http://twitter.com/6s6a6r6a6h6/status/1576384054034767875\">@6s6a6r6a6h6</a>"
 state = "published"
 summary = "zen obama: uhhh let me be perfectly here"
 text = "zen obama: uhhh let me be perfectly here"
-type = "quote"
-is_blaze_pending = false
 timestamp = 1664678135.0
-interactability_blaze = "everyone"
-can_reply = false
-can_blaze = false
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-is_blazed = false
-date = "2022-10-02 02:35:35 GMT"
-short_url = "https://tmblr.co/ZY3jbyci7dTQqm01"
-source = "<a href=\"http://twitter.com/6s6a6r6a6h6/status/1576384054034767875\">@6s6a6r6a6h6</a>"
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/6s6a6r6a6h6/status/1576384054034767875\">@6s6a6r6a6h6</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

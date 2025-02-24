@@ -6,47 +6,47 @@ slug = "if-you-aint-down-with-fractals-i-feel-bad-for"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-note_count = 0.0
-date = "2021-12-29 02:45:09 GMT"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2021-12-29 02:45:09 GMT"
+display_avatar = true
+format = "html"
+id = 6.718707829772452e+17
 id_string = "671870782977245184"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/671870782977245184/if-you-aint-down-with-fractals-i-feel-bad-for"
 reblog_key = "ja2OW92Z"
 short_url = "https://tmblr.co/ZY3jbybIzkhQKe00"
 should_open_in_legacy = true
-timestamp = 1640745909.0
-state = "published"
-format = "html"
-can_reblog = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/671870782977245184/if-you-aint-down-with-fractals-i-feel-bad-for"
 slug = "if-you-aint-down-with-fractals-i-feel-bad-for"
-can_reply = false
-is_blocks_post_format = false
-is_blazed = false
+source = "<a href=\"http://twitter.com/SplendidSpoon/status/1123989076158423041\">@SplendidSpoon</a>"
+state = "published"
 summary = "If you ain’t down with fractals, I feel bad for you, son\n I’ve got 99 problems, and 99 smaller problems inside of each one"
 text = "If you ain&rsquo;t down with fractals, I feel bad for you, son\n<br/>I&rsquo;ve got 99 problems, and 99 smaller problems inside of each one"
+timestamp = 1640745909.0
 type = "quote"
-id = 6.718707829772452e+17
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_blaze = false
-display_avatar = true
-source = "<a href=\"http://twitter.com/SplendidSpoon/status/1123989076158423041\">@SplendidSpoon</a>"
-can_like = false
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/SplendidSpoon/status/1123989076158423041\">@SplendidSpoon</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,109 +6,54 @@ slug = "i-did-my-nails-damn-hard-to-type-tho-3"
 type = "tumblr-photo"
 
 [tumblr]
-interactability_reblog = "everyone"
-type = "photo"
-is_blocks_post_format = false
 blog_name = "indirect"
-reblog_key = "MLwcHuet"
-note_count = 0.0
-link_url = "http://twitter.com/ExtraFT/status/468828065033109504"
-display_avatar = true
-is_blaze_pending = false
 can_blaze = false
-should_open_in_legacy = true
-can_reblog = false
-id_string = "86593885928"
-date = "2014-05-23 13:21:00 GMT"
-image_permalink = "https://indirect.io/image/86593885928"
-can_reply = false
-post_url = "https://indirect.io/post/86593885928/i-did-my-nails-damn-hard-to-type-tho-3"
-format = "html"
-caption = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
 can_like = false
-slug = "i-did-my-nails-damn-hard-to-type-tho-3"
-timestamp = 1400851260.0
-interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
 can_send_in_message = true
-is_blazed = false
+caption = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
+date = "2014-05-23 13:21:00 GMT"
+display_avatar = true
+format = "html"
 id = 86593885928.0
-state = "published"
+id_string = "86593885928"
+image_permalink = "https://indirect.io/image/86593885928"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+link_url = "http://twitter.com/ExtraFT/status/468828065033109504"
+note_count = 0.0
+post_url = "https://indirect.io/post/86593885928/i-did-my-nails-damn-hard-to-type-tho-3"
+reblog_key = "MLwcHuet"
 short_url = "https://tmblr.co/ZY3jby1GfPTRe"
+should_open_in_legacy = true
+slug = "i-did-my-nails-damn-hard-to-type-tho-3"
+state = "published"
 summary = "I did my nails!!! Damn hard to type tho :3 — @ExtraFT"
+timestamp = 1400851260.0
+type = "photo"
 
-[tumblr.reblog]
-comment = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
-tree_html = ""
-
-[[tumblr.trail]]
-content = "<p>I did my nails!!! Damn hard to type tho :3 &mdash; <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
-
-[tumblr.trail.blog]
-share_following = false
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
-active = true
-share_likes = false
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
-[tumblr.trail.blog.theme]
-header_full_width = 3000.0
-body_font = "Helvetica Neue"
-header_bounds = ""
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_avatar = true
-show_title = true
-title_color = "#444444"
-header_full_height = 1055.0
-avatar_shape = "square"
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-show_description = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_header_image = false
-title_font = "Gibson"
-header_image_poster = ""
-header_stretch = true
-link_color = "#529ECC"
-
-[tumblr.trail.post]
-id = "86593885928"
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.photos]]
 caption = ""
 
-[tumblr.photos.original_size]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_640.jpg"
-width = 600.0
-height = 800.0
-
 [[tumblr.photos.alt_sizes]]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_640.jpg"
-width = 600.0
-height = 800.0
-
-[[tumblr.photos.alt_sizes]]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_540.jpg"
-width = 540.0
-height = 720.0
-
-[[tumblr.photos.alt_sizes]]
-width = 500.0
-height = 667.0
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_500.jpg"
-
-[[tumblr.photos.alt_sizes]]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_400.jpg"
-width = 400.0
-height = 533.0
-
-[[tumblr.photos.alt_sizes]]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_250.jpg"
-width = 250.0
-height = 333.0
+height = 75.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_75sq.jpg"
+width = 75.0
 
 [[tumblr.photos.alt_sizes]]
 height = 133.0
@@ -116,18 +61,73 @@ url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r
 width = 100.0
 
 [[tumblr.photos.alt_sizes]]
-url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_75sq.jpg"
-width = 75.0
-height = 75.0
+height = 333.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_250.jpg"
+width = 250.0
 
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
+[[tumblr.photos.alt_sizes]]
+height = 533.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_400.jpg"
+width = 400.0
+
+[[tumblr.photos.alt_sizes]]
+height = 667.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_500.jpg"
+width = 500.0
+
+[[tumblr.photos.alt_sizes]]
+height = 720.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_540.jpg"
+width = 540.0
+
+[[tumblr.photos.alt_sizes]]
+height = 800.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_640.jpg"
+width = 600.0
+
+[tumblr.photos.original_size]
+height = 800.0
+url = "https://64.media.tumblr.com/54d3e9be49829f906f058fe5d0723604/tumblr_n613r0VyHE1qz5dnvo1_640.jpg"
+width = 600.0
+
+[tumblr.reblog]
+comment = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
+tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>I did my nails!!! Damn hard to type tho :3 &mdash; <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
+content_raw = "<p>I did my nails!!! Damn hard to type tho :3 — <a href=\"http://twitter.com/ExtraFT/status/468828065033109504\">@ExtraFT</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
 name = "indirect"
+share_following = false
+share_likes = false
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "86593885928"
 +++

@@ -6,46 +6,46 @@ slug = "as-a-child-i-had-lots-of-positive-feelings-about"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
 blog_name = "indirect"
-summary = "As a child I had lots of positive feelings about computers, only later realizing that a few layers into each one is still..."
-can_like = false
-interactability_blaze = "everyone"
-is_blazed = false
-is_blaze_pending = false
-reblog_key = "K7NmtUEN"
-can_send_in_message = true
-source_url = "https://twitter.com/shanley/status/397075490088841216"
-post_url = "https://indirect.io/post/67185249740/as-a-child-i-had-lots-of-positive-feelings-about"
-slug = "as-a-child-i-had-lots-of-positive-feelings-about"
-date = "2013-11-16 21:07:24 GMT"
 bookmarklet = true
-text = "As a child I had lots of positive feelings about computers, only later realizing that a few layers into each one is still humans."
-is_blocks_post_format = false
-timestamp = 1384636044.0
-interactability_reblog = "everyone"
-id_string = "67185249740"
-format = "markdown"
-note_count = 0.0
-can_reply = false
 can_blaze = false
-should_open_in_legacy = true
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-11-16 21:07:24 GMT"
 display_avatar = true
-source = "<a href=\"https://twitter.com/shanley/status/397075490088841216\">@shanley</a>"
+format = "markdown"
 id = 67185249740.0
-state = "published"
+id_string = "67185249740"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/67185249740/as-a-child-i-had-lots-of-positive-feelings-about"
+reblog_key = "K7NmtUEN"
 short_url = "https://tmblr.co/ZY3jby_aZOtC"
+should_open_in_legacy = true
+slug = "as-a-child-i-had-lots-of-positive-feelings-about"
+source = "<a href=\"https://twitter.com/shanley/status/397075490088841216\">@shanley</a>"
 source_title = "twitter.com"
+source_url = "https://twitter.com/shanley/status/397075490088841216"
+state = "published"
+summary = "As a child I had lots of positive feelings about computers, only later realizing that a few layers into each one is still..."
+text = "As a child I had lots of positive feelings about computers, only later realizing that a few layers into each one is still humans."
+timestamp = 1384636044.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

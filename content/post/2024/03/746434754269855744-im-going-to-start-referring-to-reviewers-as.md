@@ -6,43 +6,43 @@ slug = "im-going-to-start-referring-to-reviewers-as"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "746434754269855744"
-reblog_key = "kMlqVs8B"
-interactability_reblog = "everyone"
-id = 7.464347542698557e+17
-is_blaze_pending = false
-text = "I&rsquo;m going to start referring to reviewers as &ldquo;state-level actors pressuring me to change my code&rdquo;."
-interactability_blaze = "everyone"
-can_reply = false
-type = "quote"
-summary = "I’m going to start referring to reviewers as “state-level actors pressuring me to change my code”."
-can_like = false
-display_avatar = true
-should_open_in_legacy = true
-note_count = 0.0
-can_reblog = false
-can_send_in_message = true
-post_url = "https://indirect.io/post/746434754269855744/im-going-to-start-referring-to-reviewers-as"
-timestamp = 1711855654.0
-state = "published"
-format = "markdown"
-can_blaze = false
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2024-03-31 03:27:34 GMT"
-short_url = "https://tmblr.co/ZY3jbyfRtdH8Gi00"
-source = "<a href=\"https://mamot.fr/@gallais/112184543584944696\">@gallais</a>"
+display_avatar = true
+format = "markdown"
+id = 7.464347542698557e+17
+id_string = "746434754269855744"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/746434754269855744/im-going-to-start-referring-to-reviewers-as"
+reblog_key = "kMlqVs8B"
+short_url = "https://tmblr.co/ZY3jbyfRtdH8Gi00"
+should_open_in_legacy = true
 slug = "im-going-to-start-referring-to-reviewers-as"
+source = "<a href=\"https://mamot.fr/@gallais/112184543584944696\">@gallais</a>"
+state = "published"
+summary = "I’m going to start referring to reviewers as “state-level actors pressuring me to change my code”."
+text = "I&rsquo;m going to start referring to reviewers as &ldquo;state-level actors pressuring me to change my code&rdquo;."
+timestamp = 1711855654.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

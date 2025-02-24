@@ -6,43 +6,43 @@ slug = "contrary-to-the-racist-claim-that-racism-is"
 type = "tumblr-quote"
 
 [tumblr]
-id = 6.287283395013018e+17
-can_blaze = false
-summary = "Contrary to the racist claim that racism is un-American, it is more accurate to say that the Third Reich was a type of..."
-note_count = 0.0
-text = "Contrary to the racist claim that racism is un-American, it is more accurate to say that the Third Reich was a type of Americanism."
-can_reply = false
-interactability_reblog = "everyone"
 blog_name = "indirect"
-timestamp = 1599602069.0
-is_blocks_post_format = false
-should_open_in_legacy = true
+can_blaze = false
 can_like = false
-interactability_blaze = "everyone"
-slug = "contrary-to-the-racist-claim-that-racism-is"
-date = "2020-09-08 21:54:29 GMT"
 can_reblog = false
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbyYviHVuCa00"
-type = "quote"
-is_blaze_pending = false
-reblog_key = "zDiVUp0c"
-source = "<a href=\"https://www.aljazeera.com/indepth/opinion/difficult-recognise-nazism-200907191738806.html##Contrary+to+the+racist+claim+that+racism+is+un-American%2C+it+is+more+accurate+to+say+that+the+Third+Reich+was+a+type+of+Americanism.\">On Kenosha and the difficulty of recognising Nazism in the US</a>"
-id_string = "628728339501301760"
-post_url = "https://indirect.io/post/628728339501301760/contrary-to-the-racist-claim-that-racism-is"
-is_blazed = false
-state = "published"
-format = "markdown"
+can_reply = false
 can_send_in_message = true
+date = "2020-09-08 21:54:29 GMT"
+display_avatar = true
+format = "markdown"
+id = 6.287283395013018e+17
+id_string = "628728339501301760"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/628728339501301760/contrary-to-the-racist-claim-that-racism-is"
+reblog_key = "zDiVUp0c"
+short_url = "https://tmblr.co/ZY3jbyYviHVuCa00"
+should_open_in_legacy = true
+slug = "contrary-to-the-racist-claim-that-racism-is"
+source = "<a href=\"https://www.aljazeera.com/indepth/opinion/difficult-recognise-nazism-200907191738806.html##Contrary+to+the+racist+claim+that+racism+is+un-American%2C+it+is+more+accurate+to+say+that+the+Third+Reich+was+a+type+of+Americanism.\">On Kenosha and the difficulty of recognising Nazism in the US</a>"
+state = "published"
+summary = "Contrary to the racist claim that racism is un-American, it is more accurate to say that the Third Reich was a type of..."
+text = "Contrary to the racist claim that racism is un-American, it is more accurate to say that the Third Reich was a type of Americanism."
+timestamp = 1599602069.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

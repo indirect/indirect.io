@@ -6,47 +6,47 @@ slug = "cool-kids-call-it-logan-but-its-official-name-is"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2015-07-27 01:18:30 GMT"
-interactability_blaze = "everyone"
-can_reply = false
-can_blaze = false
-reblog_key = "ZPrYGZnY"
-type = "quote"
-is_blaze_pending = false
-format = "html"
-timestamp = 1437959910.0
-short_url = "https://tmblr.co/ZY3jby1qYEgel"
-source = "<a href=\"http://twitter.com/gxrobillard/status/625416691753832448\">@gxrobillard</a>"
 blog_name = "indirect"
-id = 125128321583.0
-post_url = "https://indirect.io/post/125128321583/cool-kids-call-it-logan-but-its-official-name-is"
-summary = "Cool kids call it Logan, but its official name is Wolverine International Airport."
-note_count = 0.0
-can_send_in_message = true
-can_reblog = false
-display_avatar = true
+can_blaze = false
 can_like = false
-interactability_reblog = "everyone"
-state = "published"
-is_blocks_post_format = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2015-07-27 01:18:30 GMT"
+display_avatar = true
+format = "html"
+id = 125128321583.0
 id_string = "125128321583"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/125128321583/cool-kids-call-it-logan-but-its-official-name-is"
+reblog_key = "ZPrYGZnY"
+short_url = "https://tmblr.co/ZY3jby1qYEgel"
 should_open_in_legacy = true
-text = "Cool kids call it Logan, but its official name is Wolverine International Airport."
 slug = "cool-kids-call-it-logan-but-its-official-name-is"
+source = "<a href=\"http://twitter.com/gxrobillard/status/625416691753832448\">@gxrobillard</a>"
+state = "published"
+summary = "Cool kids call it Logan, but its official name is Wolverine International Airport."
+text = "Cool kids call it Logan, but its official name is Wolverine International Airport."
+timestamp = 1437959910.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"http://twitter.com/gxrobillard/status/625416691753832448\">@gxrobillard</a></p>"
+tree_html = ""
 +++

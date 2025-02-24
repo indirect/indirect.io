@@ -6,52 +6,52 @@ slug = "me-why-you-bummed-out-them-my-brain-wont-stop"
 type = "tumblr-chat"
 
 [tumblr]
-can_send_in_message = true
-type = "chat"
-is_blocks_post_format = false
-should_open_in_legacy = true
-note_count = 0.0
-interactability_blaze = "everyone"
-is_blaze_pending = false
-summary = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
-can_like = false
-interactability_reblog = "everyone"
-id = 45168118009.0
-display_avatar = true
-id_string = "45168118009"
-is_blazed = false
-date = "2013-03-12 04:12:21 GMT"
-can_reply = false
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbyg4EiZv"
 body = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
-post_url = "https://indirect.io/post/45168118009/me-why-you-bummed-out-them-my-brain-wont-stop"
-timestamp = 1363061541.0
-reblog_key = "OEBeZs2W"
 can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-03-12 04:12:21 GMT"
+display_avatar = true
+format = "markdown"
+id = 45168118009.0
+id_string = "45168118009"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/45168118009/me-why-you-bummed-out-them-my-brain-wont-stop"
+reblog_key = "OEBeZs2W"
+short_url = "https://tmblr.co/ZY3jbyg4EiZv"
+should_open_in_legacy = true
 slug = "me-why-you-bummed-out-them-my-brain-wont-stop"
 state = "published"
-can_reblog = false
-format = "markdown"
+summary = "Me: Why you bummed out?\nThem: My brain won't stop _thinking_."
+timestamp = 1363061541.0
+type = "chat"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.dialogue]]
-name = "Me"
 label = "Me:"
+name = "Me"
 phrase = "Why you bummed out?"
 
 [[tumblr.dialogue]]
-name = "Them"
 label = "Them:"
+name = "Them"
 phrase = "My brain won't stop _thinking_."
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

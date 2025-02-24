@@ -7,49 +7,49 @@ title = "Y Combinator and the negative externalities of Hacker News"
 type = "tumblr-link"
 
 [tumblr]
-id_string = "99022310668"
-is_blazed = false
-slug = "y-combinator-and-the-negative-externalities-of"
-timestamp = 1412303549.0
-reblog_key = "cTMjNFsc"
-should_open_in_legacy = true
-can_like = false
-interactability_blaze = "everyone"
-id = 99022310668.0
-can_blaze = false
-format = "markdown"
-interactability_reblog = "everyone"
-can_reply = false
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jby1SEC8qC"
-can_send_in_message = true
-url = "http://danilocampos.com/2014/09/y-combinator-and-the-negative-externalities-of-hacker-news/"
-type = "link"
-post_url = "https://indirect.io/post/99022310668/y-combinator-and-the-negative-externalities-of"
-date = "2014-10-03 02:32:29 GMT"
-note_count = 0.0
-title = "Y Combinator and the negative externalities of Hacker News"
 blog_name = "indirect"
-description = ""
+can_blaze = false
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-10-03 02:32:29 GMT"
+description = ""
 display_avatar = true
+format = "markdown"
+id = 99022310668.0
+id_string = "99022310668"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/99022310668/y-combinator-and-the-negative-externalities-of"
+publisher = "danilocampos.com"
+reblog_key = "cTMjNFsc"
+short_url = "https://tmblr.co/ZY3jby1SEC8qC"
+should_open_in_legacy = true
+slug = "y-combinator-and-the-negative-externalities-of"
 state = "published"
 summary = "Y Combinator and the negative externalities of Hacker News"
-publisher = "danilocampos.com"
+timestamp = 1412303549.0
+title = "Y Combinator and the negative externalities of Hacker News"
+type = "link"
+url = "http://danilocampos.com/2014/09/y-combinator-and-the-negative-externalities-of-hacker-news/"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,50 +6,50 @@ slug = "people-who-respect-themselves-say-no-to-things"
 type = "tumblr-quote"
 
 [tumblr]
-bookmarklet = true
-source = "<a href=\"http://erniemiller.org/2013/06/14/no/\">Ernie Miller</a>"
-can_blaze = false
-slug = "people-who-respect-themselves-say-no-to-things"
-text = "People who respect themselves say &ldquo;no&rdquo; to things."
-can_send_in_message = true
-should_open_in_legacy = true
-note_count = 0.0
-is_blocks_post_format = false
-id = 52958009647.0
-format = "markdown"
-can_reply = false
-display_avatar = true
-is_blazed = false
-type = "quote"
-state = "published"
-can_like = false
-interactability_blaze = "everyone"
 blog_name = "indirect"
-date = "2013-06-14 17:34:45 GMT"
-timestamp = 1371231285.0
-source_url = "http://erniemiller.org/2013/06/14/no/"
-source_title = "erniemiller.org"
-id_string = "52958009647"
-reblog_key = "1LogwHUe"
-short_url = "https://tmblr.co/ZY3jbynKYnal"
-summary = "People who respect themselves say “no” to things."
+bookmarklet = true
+can_blaze = false
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-06-14 17:34:45 GMT"
+display_avatar = true
+format = "markdown"
+id = 52958009647.0
+id_string = "52958009647"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/52958009647/people-who-respect-themselves-say-no-to-things"
+reblog_key = "1LogwHUe"
+short_url = "https://tmblr.co/ZY3jbynKYnal"
+should_open_in_legacy = true
+slug = "people-who-respect-themselves-say-no-to-things"
+source = "<a href=\"http://erniemiller.org/2013/06/14/no/\">Ernie Miller</a>"
+source_title = "erniemiller.org"
+source_url = "http://erniemiller.org/2013/06/14/no/"
+state = "published"
+summary = "People who respect themselves say “no” to things."
+text = "People who respect themselves say &ldquo;no&rdquo; to things."
+timestamp = 1371231285.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://erniemiller.org/2013/06/14/no/\">Ernie Miller</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,43 +6,43 @@ slug = "goblin-all-doing-his-taxes-and-cycling-the-laundry"
 type = "tumblr-quote"
 
 [tumblr]
+blog_name = "indirect"
+can_blaze = false
 can_like = false
-reblog_key = "lm06VX1c"
-summary = "goblin all doing his taxes and cycling the laundry and muttering “human mode” under his breath"
-note_count = 0.0
-interactability_blaze = "everyone"
 can_reblog = false
+can_reply = false
 can_send_in_message = true
 date = "2022-12-09 08:04:17 GMT"
-state = "published"
-can_reply = false
-type = "quote"
-should_open_in_legacy = true
-source = "<a href=\"https://mastodon.social/@joshmillard/109474484038993022\">@joshmillard</a>"
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.io/post/703146814622302208/goblin-all-doing-his-taxes-and-cycling-the-laundry"
-short_url = "https://tmblr.co/ZY3jbyd254rkWe00"
-text = "goblin all doing his taxes and cycling the laundry and muttering &ldquo;human mode&rdquo; under his breath"
 display_avatar = true
-is_blocks_post_format = false
-id_string = "703146814622302208"
-is_blaze_pending = false
-interactability_reblog = "everyone"
-id = 7.031468146223022e+17
-can_blaze = false
 format = "markdown"
+id = 7.031468146223022e+17
+id_string = "703146814622302208"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/703146814622302208/goblin-all-doing-his-taxes-and-cycling-the-laundry"
+reblog_key = "lm06VX1c"
+short_url = "https://tmblr.co/ZY3jbyd254rkWe00"
+should_open_in_legacy = true
 slug = "goblin-all-doing-his-taxes-and-cycling-the-laundry"
+source = "<a href=\"https://mastodon.social/@joshmillard/109474484038993022\">@joshmillard</a>"
+state = "published"
+summary = "goblin all doing his taxes and cycling the laundry and muttering “human mode” under his breath"
+text = "goblin all doing his taxes and cycling the laundry and muttering &ldquo;human mode&rdquo; under his breath"
 timestamp = 1670573057.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

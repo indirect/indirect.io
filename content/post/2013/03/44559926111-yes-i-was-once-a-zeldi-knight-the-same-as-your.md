@@ -6,50 +6,50 @@ slug = "yes-i-was-once-a-zeldi-knight-the-same-as-your"
 type = "tumblr-quote"
 
 [tumblr]
-can_blaze = false
-can_reply = false
-format = "markdown"
-can_like = false
-display_avatar = true
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-source_title = "hypercritical.co"
-text = "Yes, I was once a Zeldi Knight, the same as your father"
-source = "<a href=\"http://hypercritical.co/2013/03/04/fear-of-a-webkit-planet\">Hypercritical: Fear of a WebKit Planet</a>"
 blog_name = "indirect"
-id_string = "44559926111"
-summary = "Yes, I was once a Zeldi Knight, the same as your father"
-id = 44559926111.0
-note_count = 0.0
-is_blocks_post_format = false
-can_reblog = false
-source_url = "http://hypercritical.co/2013/03/04/fear-of-a-webkit-planet"
-type = "quote"
-is_blaze_pending = false
-slug = "yes-i-was-once-a-zeldi-knight-the-same-as-your"
-date = "2013-03-04 20:35:30 GMT"
-state = "published"
-reblog_key = "XBtTpMwK"
-should_open_in_legacy = true
 bookmarklet = true
-is_blazed = false
-post_url = "https://indirect.io/post/44559926111/yes-i-was-once-a-zeldi-knight-the-same-as-your"
-timestamp = 1362429330.0
-short_url = "https://tmblr.co/ZY3jbyfV_eDV"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2013-03-04 20:35:30 GMT"
+display_avatar = true
+format = "markdown"
+id = 44559926111.0
+id_string = "44559926111"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/44559926111/yes-i-was-once-a-zeldi-knight-the-same-as-your"
+reblog_key = "XBtTpMwK"
+short_url = "https://tmblr.co/ZY3jbyfV_eDV"
+should_open_in_legacy = true
+slug = "yes-i-was-once-a-zeldi-knight-the-same-as-your"
+source = "<a href=\"http://hypercritical.co/2013/03/04/fear-of-a-webkit-planet\">Hypercritical: Fear of a WebKit Planet</a>"
+source_title = "hypercritical.co"
+source_url = "http://hypercritical.co/2013/03/04/fear-of-a-webkit-planet"
+state = "published"
+summary = "Yes, I was once a Zeldi Knight, the same as your father"
+text = "Yes, I was once a Zeldi Knight, the same as your father"
+timestamp = 1362429330.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://hypercritical.co/2013/03/04/fear-of-a-webkit-planet\">Hypercritical: Fear of a WebKit Planet</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

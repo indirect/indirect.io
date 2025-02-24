@@ -7,45 +7,45 @@ title = "Ditching Andrew Jackson for Mary Jackson, the First Black Female NASA E
 type = "tumblr-link"
 
 [tumblr]
-timestamp = 1518244003.0
-note_count = 0.0
+blog_name = "indirect"
+can_blaze = false
 can_like = false
-interactability_blaze = "everyone"
-url = "https://www.theatlantic.com/science/archive/2018/02/hidden-figures-nasa-andrew-jackson/552803/"
-display_avatar = true
-id_string = "170710380278"
-short_url = "https://tmblr.co/ZY3jby2U-8Qxs"
-publisher = "theatlantic.com"
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2018-02-10 06:26:43 GMT"
 description = "<p>An elementary school in Utah has ditched Andrew Jackson and will now be named for Mary Jackson, NASA&rsquo;s first black female engineer — <a href=\"http://twitter.com/marinakoren/status/962062529047363588\">@marinakoren</a></p>"
-type = "link"
+display_avatar = true
+format = "html"
+id = 170710380278.0
+id_string = "170710380278"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/170710380278/ditching-andrew-jackson-for-mary-jackson-the"
+publisher = "theatlantic.com"
+reblog_key = "IyCzABmh"
+short_url = "https://tmblr.co/ZY3jby2U-8Qxs"
+should_open_in_legacy = true
+slug = "ditching-andrew-jackson-for-mary-jackson-the"
 state = "published"
 summary = "Ditching Andrew Jackson for Mary Jackson, the First Black Female NASA Engineer - The Atlantic"
-can_reblog = false
-id = 170710380278.0
-slug = "ditching-andrew-jackson-for-mary-jackson-the"
-format = "html"
-can_reply = false
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blazed = false
-post_url = "https://indirect.io/post/170710380278/ditching-andrew-jackson-for-mary-jackson-the"
-should_open_in_legacy = true
-can_send_in_message = true
-is_blaze_pending = false
-can_blaze = false
+timestamp = 1518244003.0
 title = "Ditching Andrew Jackson for Mary Jackson, the First Black Female NASA Engineer - The Atlantic"
-date = "2018-02-10 06:26:43 GMT"
-reblog_key = "IyCzABmh"
-interactability_reblog = "everyone"
+type = "link"
+url = "https://www.theatlantic.com/science/archive/2018/02/hidden-figures-nasa-andrew-jackson/552803/"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 
@@ -54,38 +54,38 @@ comment = "<p>An elementary school in Utah has ditched Andrew Jackson and will n
 tree_html = ""
 
 [[tumblr.trail]]
-content_raw = "<p>An elementary school in Utah has ditched Andrew Jackson and will now be named for Mary Jackson, NASA’s first black female engineer — <a href=\"http://twitter.com/marinakoren/status/962062529047363588\">@marinakoren</a></p>"
 content = "<p>An elementary school in Utah has ditched Andrew Jackson and will now be named for Mary Jackson, NASA&rsquo;s first black female engineer &mdash; <a href=\"http://twitter.com/marinakoren/status/962062529047363588\">@marinakoren</a></p>"
+content_raw = "<p>An elementary school in Utah has ditched Andrew Jackson and will now be named for Mary Jackson, NASA’s first black female engineer — <a href=\"http://twitter.com/marinakoren/status/962062529047363588\">@marinakoren</a></p>"
 is_current_item = true
 is_root_item = true
 
 [tumblr.trail.blog]
 active = true
-share_likes = false
-share_following = false
 can_be_followed = true
 name = "indirect"
+share_following = false
+share_likes = false
 
 [tumblr.trail.blog.theme]
-header_full_width = 3000.0
-header_image_poster = ""
-show_title = true
-title_font = "Gibson"
-header_full_height = 1055.0
+avatar_shape = "square"
 background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
 header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
 link_color = "#529ECC"
 show_avatar = true
-avatar_shape = "square"
-header_bounds = ""
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-show_header_image = false
-title_font_weight = "bold"
-body_font = "Helvetica Neue"
-header_stretch = true
 show_description = true
+show_header_image = false
+show_title = true
 title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
 
 [tumblr.trail.post]
 id = "170710380278"

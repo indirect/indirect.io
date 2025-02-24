@@ -6,47 +6,47 @@ slug = "you-are-so-lucky-that-youre-not-pinocchio-i"
 type = "tumblr-quote"
 
 [tumblr]
+blog_name = "indirect"
 can_blaze = false
-reblog_key = "sU5kj1VR"
-short_url = "https://tmblr.co/ZY3jbyepySgg"
-text = "You are so lucky that you&rsquo;re not Pinocchio. I would have burned you up long before you became a real boy!"
-interactability_blaze = "everyone"
+can_like = false
 can_reblog = false
-should_open_in_legacy = true
-source = ""
-timestamp = 1361645782.0
-id_string = "43821157034"
-post_url = "https://indirect.io/post/43821157034/you-are-so-lucky-that-youre-not-pinocchio-i"
+can_reply = false
 can_send_in_message = true
-slug = "you-are-so-lucky-that-youre-not-pinocchio-i"
-format = "markdown"
-interactability_reblog = "everyone"
 date = "2013-02-23 18:56:22 GMT"
+display_avatar = true
+format = "markdown"
+id = 43821157034.0
+id_string = "43821157034"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
 is_blocks_post_format = false
 note_count = 0.0
-can_like = false
-can_reply = false
-type = "quote"
-blog_name = "indirect"
-is_blaze_pending = false
-summary = "You are so lucky that you’re not Pinocchio. I would have burned you up long before you became a real boy!"
-display_avatar = true
-id = 43821157034.0
+post_url = "https://indirect.io/post/43821157034/you-are-so-lucky-that-youre-not-pinocchio-i"
+reblog_key = "sU5kj1VR"
+short_url = "https://tmblr.co/ZY3jbyepySgg"
+should_open_in_legacy = true
+slug = "you-are-so-lucky-that-youre-not-pinocchio-i"
+source = ""
 state = "published"
-
-[tumblr.reblog]
-tree_html = ""
-comment = ""
+summary = "You are so lucky that you’re not Pinocchio. I would have burned you up long before you became a real boy!"
+text = "You are so lucky that you&rsquo;re not Pinocchio. I would have burned you up long before you became a real boy!"
+timestamp = 1361645782.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

@@ -6,47 +6,47 @@ slug = "we-kept-our-country-at-peace-we-never-went-to"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2011-09-12 21:56:51 GMT"
-format = "markdown"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2011-09-12 21:56:51 GMT"
 display_avatar = true
+format = "markdown"
+id = 10138546636.0
+id_string = "10138546636"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/10138546636/we-kept-our-country-at-peace-we-never-went-to"
+reblog_key = "oDRpl8DU"
+short_url = "https://tmblr.co/ZY3jby9SJV7C"
+should_open_in_legacy = true
+slug = "we-kept-our-country-at-peace-we-never-went-to"
+source = "<a href=\"http://m.guardian.co.uk/world/2011/sep/11/president-jimmy-carter-interview?cat=world&amp;type=article\">Jimmy Carter</a>"
+state = "published"
 summary = "We kept our country at peace. We never went to war. We never dropped a bomb. We never fired a bullet."
 text = "We kept our country at peace. We never went to war. We never dropped a bomb. We never fired a bullet."
-blog_name = "indirect"
-should_open_in_legacy = true
-note_count = 0.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reply = false
-type = "quote"
-id = 10138546636.0
 timestamp = 1315864611.0
-reblog_key = "oDRpl8DU"
-is_blocks_post_format = false
-id_string = "10138546636"
-can_blaze = false
-can_send_in_message = true
-is_blaze_pending = false
-state = "published"
-source = "<a href=\"http://m.guardian.co.uk/world/2011/sep/11/president-jimmy-carter-interview?cat=world&amp;type=article\">Jimmy Carter</a>"
-can_like = false
-post_url = "https://indirect.io/post/10138546636/we-kept-our-country-at-peace-we-never-went-to"
-short_url = "https://tmblr.co/ZY3jby9SJV7C"
-slug = "we-kept-our-country-at-peace-we-never-went-to"
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://m.guardian.co.uk/world/2011/sep/11/president-jimmy-carter-interview?cat=world&type=article\">Jimmy Carter</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

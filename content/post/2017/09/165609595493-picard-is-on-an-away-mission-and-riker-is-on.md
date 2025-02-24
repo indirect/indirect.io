@@ -6,47 +6,47 @@ slug = "picard-is-on-an-away-mission-and-riker-is-on"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id = 165609595493.0
-id_string = "165609595493"
-post_url = "https://indirect.io/post/165609595493/picard-is-on-an-away-mission-and-riker-is-on"
-summary = "Picard is on an away mission and Riker is on holiday in Risa.  That’s right we’re in a data driven enterprise."
-interactability_reblog = "everyone"
-can_reply = false
-slug = "picard-is-on-an-away-mission-and-riker-is-on"
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jby2QF6U9b"
-interactability_blaze = "everyone"
-display_avatar = true
-date = "2017-09-22 06:44:59 GMT"
-state = "published"
-reblog_key = "QWkfeSR5"
-text = "Picard is on an away mission and Riker is on holiday in Risa.  That&rsquo;s right we&rsquo;re in a data driven enterprise."
-is_blazed = false
 can_blaze = false
-note_count = 0.0
-can_send_in_message = true
-type = "quote"
-is_blaze_pending = false
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/wraithgar/status/910907353045680128\">@wraithgar</a>"
-timestamp = 1506062699.0
-format = "html"
 can_like = false
 can_reblog = false
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/wraithgar/status/910907353045680128\">@wraithgar</a></p>"
-tree_html = ""
+can_reply = false
+can_send_in_message = true
+date = "2017-09-22 06:44:59 GMT"
+display_avatar = true
+format = "html"
+id = 165609595493.0
+id_string = "165609595493"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/165609595493/picard-is-on-an-away-mission-and-riker-is-on"
+reblog_key = "QWkfeSR5"
+short_url = "https://tmblr.co/ZY3jby2QF6U9b"
+should_open_in_legacy = true
+slug = "picard-is-on-an-away-mission-and-riker-is-on"
+source = "<a href=\"http://twitter.com/wraithgar/status/910907353045680128\">@wraithgar</a>"
+state = "published"
+summary = "Picard is on an away mission and Riker is on holiday in Risa.  That’s right we’re in a data driven enterprise."
+text = "Picard is on an away mission and Riker is on holiday in Risa.  That&rsquo;s right we&rsquo;re in a data driven enterprise."
+timestamp = 1506062699.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/wraithgar/status/910907353045680128\">@wraithgar</a></p>"
+tree_html = ""
 +++

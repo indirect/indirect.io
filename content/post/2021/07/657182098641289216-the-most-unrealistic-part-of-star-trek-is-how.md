@@ -6,47 +6,47 @@ slug = "the-most-unrealistic-part-of-star-trek-is-how"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-display_avatar = true
-can_blaze = false
-slug = "the-most-unrealistic-part-of-star-trek-is-how"
-timestamp = 1626737688.0
-interactability_reblog = "everyone"
-can_reblog = false
-state = "published"
-is_blazed = false
-short_url = "https://tmblr.co/ZY3jbyaUnwC6Ge00"
 blog_name = "indirect"
-post_url = "https://indirect.io/post/657182098641289216/the-most-unrealistic-part-of-star-trek-is-how"
-format = "html"
-text = "the most unrealistic part of star trek is how every species seems to have agreed on which ship to ship video chat to use"
+can_blaze = false
+can_like = false
+can_reblog = false
 can_reply = false
-type = "quote"
-is_blocks_post_format = false
-date = "2021-07-19 23:34:48 GMT"
-summary = "the most unrealistic part of star trek is how every species seems to have agreed on which ship to ship video chat to use"
-interactability_blaze = "everyone"
 can_send_in_message = true
-note_count = 1.0
-source = "<a href=\"http://twitter.com/fart/status/1414520808609751043\">@fart</a>"
+date = "2021-07-19 23:34:48 GMT"
+display_avatar = true
+format = "html"
 id = 6.571820986412892e+17
 id_string = "657182098641289216"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/657182098641289216/the-most-unrealistic-part-of-star-trek-is-how"
 reblog_key = "ROGU0cGK"
+short_url = "https://tmblr.co/ZY3jbyaUnwC6Ge00"
 should_open_in_legacy = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/fart/status/1414520808609751043\">@fart</a></p>"
+slug = "the-most-unrealistic-part-of-star-trek-is-how"
+source = "<a href=\"http://twitter.com/fart/status/1414520808609751043\">@fart</a>"
+state = "published"
+summary = "the most unrealistic part of star trek is how every species seems to have agreed on which ship to ship video chat to use"
+text = "the most unrealistic part of star trek is how every species seems to have agreed on which ship to ship video chat to use"
+timestamp = 1626737688.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/fart/status/1414520808609751043\">@fart</a></p>"
+tree_html = ""
 +++

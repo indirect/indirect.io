@@ -6,43 +6,43 @@ slug = "i-have-been-on-two-dates-in-the-last-week-or-so"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-date = "2008-05-31 23:44:06 GMT"
-display_avatar = true
-can_like = false
-id = 36725504.0
-id_string = "36725504"
-format = "html"
-reblog_key = "KfUycYwg"
-summary = "i have been on two dates in the last week or so"
-type = "quote"
 blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-slug = "i-have-been-on-two-dates-in-the-last-week-or-so"
-text = "i have been on two dates in the last week or so"
-should_open_in_legacy = true
 can_blaze = false
-state = "published"
-interactability_reblog = "everyone"
-can_send_in_message = true
-interactability_blaze = "everyone"
-post_url = "https://indirect.io/post/36725504/i-have-been-on-two-dates-in-the-last-week-or-so"
-short_url = "https://tmblr.co/ZY3jby2C6C0"
-source = "keaton"
+can_like = false
 can_reblog = false
 can_reply = false
-timestamp = 1212277446.0
+can_send_in_message = true
+date = "2008-05-31 23:44:06 GMT"
+display_avatar = true
+format = "html"
+id = 36725504.0
+id_string = "36725504"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
+post_url = "https://indirect.io/post/36725504/i-have-been-on-two-dates-in-the-last-week-or-so"
+reblog_key = "KfUycYwg"
+short_url = "https://tmblr.co/ZY3jby2C6C0"
+should_open_in_legacy = true
+slug = "i-have-been-on-two-dates-in-the-last-week-or-so"
+source = "keaton"
+state = "published"
+summary = "i have been on two dates in the last week or so"
+text = "i have been on two dates in the last week or so"
+timestamp = 1212277446.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

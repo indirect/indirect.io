@@ -7,80 +7,43 @@ title = "Kenn White on Twitter: &quot;Big NIST milestone: passwords should accom
 type = "tumblr-link"
 
 [tumblr]
-format = "html"
-slug = "kenn-white-on-twitter-quotbig-nist-milestone"
-can_reply = false
-type = "link"
-is_blazed = false
-can_like = false
-reblog_key = "XSwDLVlZ"
-should_open_in_legacy = true
-can_send_in_message = true
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jby2N2Dk5d"
-summary = "Kenn White on Twitter: &quot;Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force..."
-title = "Kenn White on Twitter: &quot;Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes, forms should allow paste https://t.co/LIJfSlzIQr&quot;"
-can_reblog = false
-can_blaze = false
-note_count = 0.0
-description = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,… <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> — <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
-interactability_reblog = "everyone"
-publisher = "twitter.com"
-timestamp = 1498246865.0
-state = "published"
 blog_name = "indirect"
-id = 162172166503.0
-is_blaze_pending = false
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2017-06-23 19:41:05 GMT"
-is_blocks_post_format = false
-url = "https://twitter.com/i/web/status/878006188234997760"
-interactability_blaze = "everyone"
+description = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,… <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> — <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
+display_avatar = true
+format = "html"
+id = 162172166503.0
 id_string = "162172166503"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/162172166503/kenn-white-on-twitter-quotbig-nist-milestone"
-
-[[tumblr.trail]]
-content = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,&hellip; <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> &mdash; <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
-is_current_item = true
-is_root_item = true
-content_raw = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,… <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> — <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
-
-[tumblr.trail.blog]
-active = true
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-
-[tumblr.trail.blog.theme]
-header_full_width = 3000.0
-header_full_height = 1055.0
-avatar_shape = "square"
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-body_font = "Helvetica Neue"
-header_image_poster = ""
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_avatar = true
-show_header_image = false
-title_color = "#444444"
-background_color = "#FAFAFA"
-header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-title_font = "Gibson"
-header_bounds = ""
-header_stretch = true
-link_color = "#529ECC"
-show_description = true
-show_title = true
-title_font_weight = "bold"
-
-[tumblr.trail.post]
-id = "162172166503"
+publisher = "twitter.com"
+reblog_key = "XSwDLVlZ"
+short_url = "https://tmblr.co/ZY3jby2N2Dk5d"
+should_open_in_legacy = true
+slug = "kenn-white-on-twitter-quotbig-nist-milestone"
+state = "published"
+summary = "Kenn White on Twitter: &quot;Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force..."
+timestamp = 1498246865.0
+title = "Kenn White on Twitter: &quot;Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes, forms should allow paste https://t.co/LIJfSlzIQr&quot;"
+type = "link"
+url = "https://twitter.com/i/web/status/878006188234997760"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
@@ -89,4 +52,41 @@ uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 [tumblr.reblog]
 comment = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,… <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> — <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,&hellip; <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> &mdash; <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
+content_raw = "<p>Big NIST milestone: passwords should accommodate 64+ chars, not force special/symbols, not force arbitrary changes,… <a href=\"https://t.co/M4YxqJc1j6\">https://t.co/M4YxqJc1j6</a> — <a href=\"http://twitter.com/kennwhite/status/878006188234997760\">@kennwhite</a></p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
+name = "indirect"
+share_following = false
+share_likes = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "162172166503"
 +++

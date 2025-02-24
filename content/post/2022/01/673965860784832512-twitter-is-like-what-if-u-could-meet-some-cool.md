@@ -6,47 +6,47 @@ slug = "twitter-is-like-what-if-u-could-meet-some-cool"
 type = "tumblr-quote"
 
 [tumblr]
-id = 6.739658607848325e+17
-interactability_reblog = "everyone"
-can_send_in_message = true
-display_avatar = true
-reblog_key = "P3JQZa3k"
-can_reply = false
-timestamp = 1642743931.0
-post_url = "https://indirect.io/post/673965860784832512/twitter-is-like-what-if-u-could-meet-some-cool"
+blog_name = "indirect"
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2022-01-21 05:45:31 GMT"
+display_avatar = true
+format = "html"
+id = 6.739658607848325e+17
+id_string = "673965860784832512"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/673965860784832512/twitter-is-like-what-if-u-could-meet-some-cool"
+reblog_key = "P3JQZa3k"
+short_url = "https://tmblr.co/ZY3jbybQQ64gqW00"
 should_open_in_legacy = true
+slug = "twitter-is-like-what-if-u-could-meet-some-cool"
 source = "<a href=\"http://twitter.com/isosteph/status/1484226321458810881\">@isosteph</a>"
 state = "published"
-is_blocks_post_format = false
-can_blaze = false
-format = "html"
-type = "quote"
-is_blazed = false
-slug = "twitter-is-like-what-if-u-could-meet-some-cool"
-id_string = "673965860784832512"
-is_blaze_pending = false
-text = "twitter is like what if u could meet some cool people. at an unimaginable psychic cost"
-can_reblog = false
-short_url = "https://tmblr.co/ZY3jbybQQ64gqW00"
 summary = "twitter is like what if u could meet some cool people. at an unimaginable psychic cost"
-note_count = 0.0
-date = "2022-01-21 05:45:31 GMT"
-blog_name = "indirect"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/isosteph/status/1484226321458810881\">@isosteph</a></p>"
-tree_html = ""
+text = "twitter is like what if u could meet some cool people. at an unimaginable psychic cost"
+timestamp = 1642743931.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/isosteph/status/1484226321458810881\">@isosteph</a></p>"
+tree_html = ""
 +++

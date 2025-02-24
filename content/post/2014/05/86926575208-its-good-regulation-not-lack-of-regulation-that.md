@@ -6,46 +6,46 @@ slug = "its-good-regulation-not-lack-of-regulation-that"
 type = "tumblr-quote"
 
 [tumblr]
-can_send_in_message = true
-display_avatar = true
-source_url = "http://idlewords.com/bt14.htm"
-type = "quote"
-is_blazed = false
-post_url = "https://indirect.io/post/86926575208/its-good-regulation-not-lack-of-regulation-that"
-timestamp = 1401134885.0
-short_url = "https://tmblr.co/ZY3jby1GzEaPe"
-summary = "It’s good regulation, not lack of regulation, that kept the web healthy."
-note_count = 0.0
-is_blocks_post_format = false
-slug = "its-good-regulation-not-lack-of-regulation-that"
-bookmarklet = true
-source_title = "idlewords.com"
-text = "It&rsquo;s good regulation, not lack of regulation, that kept the web healthy."
-source = "<a href=\"http://idlewords.com/bt14.htm\">The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk</a>"
-can_like = false
-id = 86926575208.0
 blog_name = "indirect"
-is_blaze_pending = false
+bookmarklet = true
 can_blaze = false
-interactability_blaze = "everyone"
-id_string = "86926575208"
-can_reply = false
-format = "markdown"
-should_open_in_legacy = true
+can_like = false
 can_reblog = false
-state = "published"
-interactability_reblog = "everyone"
+can_reply = false
+can_send_in_message = true
 date = "2014-05-26 20:08:05 GMT"
+display_avatar = true
+format = "markdown"
+id = 86926575208.0
+id_string = "86926575208"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/86926575208/its-good-regulation-not-lack-of-regulation-that"
 reblog_key = "P4pWHAjR"
+short_url = "https://tmblr.co/ZY3jby1GzEaPe"
+should_open_in_legacy = true
+slug = "its-good-regulation-not-lack-of-regulation-that"
+source = "<a href=\"http://idlewords.com/bt14.htm\">The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk</a>"
+source_title = "idlewords.com"
+source_url = "http://idlewords.com/bt14.htm"
+state = "published"
+summary = "It’s good regulation, not lack of regulation, that kept the web healthy."
+text = "It&rsquo;s good regulation, not lack of regulation, that kept the web healthy."
+timestamp = 1401134885.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

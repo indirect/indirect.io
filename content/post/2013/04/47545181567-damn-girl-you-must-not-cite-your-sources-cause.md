@@ -6,43 +6,43 @@ slug = "damn-girl-you-must-not-cite-your-sources-cause"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "nMCumvYH"
-can_send_in_message = true
-can_reply = false
-date = "2013-04-09 16:13:21 GMT"
-format = "markdown"
-text = "Damn girl you must not cite your sources, cause I&rsquo;m wondering where you got that figure."
-interactability_reblog = "everyone"
-can_blaze = false
-timestamp = 1365524001.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jbyiHwUL-"
-can_like = false
-source = "<a href=\"https://twitter.com/cakemittens/status/317314346344648705\">@cakemittens</a> via <a href=\"https://twitter.com/wirehead2501\">kat</a>"
 blog_name = "indirect"
-is_blaze_pending = false
-should_open_in_legacy = true
-note_count = 0.0
-display_avatar = true
-id = 47545181567.0
-post_url = "https://indirect.io/post/47545181567/damn-girl-you-must-not-cite-your-sources-cause"
-is_blazed = false
-interactability_blaze = "everyone"
+can_blaze = false
+can_like = false
 can_reblog = false
-is_blocks_post_format = false
-slug = "damn-girl-you-must-not-cite-your-sources-cause"
-summary = "Damn girl you must not cite your sources, cause I’m wondering where you got that figure."
-type = "quote"
+can_reply = false
+can_send_in_message = true
+date = "2013-04-09 16:13:21 GMT"
+display_avatar = true
+format = "markdown"
+id = 47545181567.0
 id_string = "47545181567"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/47545181567/damn-girl-you-must-not-cite-your-sources-cause"
+reblog_key = "nMCumvYH"
+short_url = "https://tmblr.co/ZY3jbyiHwUL-"
+should_open_in_legacy = true
+slug = "damn-girl-you-must-not-cite-your-sources-cause"
+source = "<a href=\"https://twitter.com/cakemittens/status/317314346344648705\">@cakemittens</a> via <a href=\"https://twitter.com/wirehead2501\">kat</a>"
+state = "published"
+summary = "Damn girl you must not cite your sources, cause I’m wondering where you got that figure."
+text = "Damn girl you must not cite your sources, cause I&rsquo;m wondering where you got that figure."
+timestamp = 1365524001.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

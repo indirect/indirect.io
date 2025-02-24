@@ -6,43 +6,43 @@ slug = "catholic-school-be-like-no-long-hair-for-boys"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/679306254783479808/catholic-school-be-like-no-long-hair-for-boys"
-interactability_reblog = "everyone"
-can_send_in_message = true
 blog_name = "indirect"
-interactability_blaze = "everyone"
-short_url = "https://tmblr.co/ZY3jbybjON2A4W00"
-display_avatar = true
-is_blaze_pending = false
-slug = "catholic-school-be-like-no-long-hair-for-boys"
-format = "html"
-summary = "catholic school be like “no long hair for boys” meanwhile there is a picture of a boy with long hair for boys in every..."
-can_like = false
-type = "quote"
-id = 6.793062547834798e+17
-is_blazed = false
-timestamp = 1647836928.0
-note_count = 0.0
-text = "catholic school be like &ldquo;no long hair for boys&rdquo; meanwhile there is a picture of a boy with long hair for boys in every classroom. And hes like the main boy"
-can_reblog = false
-id_string = "679306254783479808"
-date = "2022-03-21 04:28:48 GMT"
-reblog_key = "GhzTMuFo"
-can_reply = false
-source = "<a href=\"http://twitter.com/plantjoys/status/1505647540129124357\">@plantjoys</a>"
 can_blaze = false
-state = "published"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2022-03-21 04:28:48 GMT"
+display_avatar = true
+format = "html"
+id = 6.793062547834798e+17
+id_string = "679306254783479808"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/679306254783479808/catholic-school-be-like-no-long-hair-for-boys"
+reblog_key = "GhzTMuFo"
+short_url = "https://tmblr.co/ZY3jbybjON2A4W00"
 should_open_in_legacy = true
+slug = "catholic-school-be-like-no-long-hair-for-boys"
+source = "<a href=\"http://twitter.com/plantjoys/status/1505647540129124357\">@plantjoys</a>"
+state = "published"
+summary = "catholic school be like “no long hair for boys” meanwhile there is a picture of a boy with long hair for boys in every..."
+text = "catholic school be like &ldquo;no long hair for boys&rdquo; meanwhile there is a picture of a boy with long hair for boys in every classroom. And hes like the main boy"
+timestamp = 1647836928.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

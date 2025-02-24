@@ -6,46 +6,46 @@ slug = "never-underestimate-the-stupidity-ignorance-and"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2009-07-21 04:57:24 GMT"
-format = "html"
-display_avatar = true
-source = "<a href=\"http://www.humournet.com/collage.archives/collage290.txt\">Bob, from Tempe, AZ</a>"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby8iLPY"
-source_title = "humournet.com"
-interactability_reblog = "everyone"
-can_reblog = false
-type = "quote"
 blog_name = "indirect"
-timestamp = 1248152244.0
-reblog_key = "fqtMkA2c"
 bookmarklet = true
-can_reply = false
-id = 145839714.0
-is_blazed = false
-is_blaze_pending = false
-note_count = 0.0
-text = "Never underestimate the stupidity, ignorance, and gullibility of a large number of people. (A large number like 2, or maybe 1.)"
-can_send_in_message = true
-is_blocks_post_format = false
 can_blaze = false
-summary = "Never underestimate the stupidity, ignorance, and gullibility of a large number of people. (A large number like 2, or maybe 1.)"
-interactability_blaze = "everyone"
-id_string = "145839714"
-source_url = "http://www.humournet.com/collage.archives/collage290.txt"
 can_like = false
-should_open_in_legacy = true
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2009-07-21 04:57:24 GMT"
+display_avatar = true
+format = "html"
+id = 145839714.0
+id_string = "145839714"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/145839714/never-underestimate-the-stupidity-ignorance-and"
+reblog_key = "fqtMkA2c"
+short_url = "https://tmblr.co/ZY3jby8iLPY"
+should_open_in_legacy = true
 slug = "never-underestimate-the-stupidity-ignorance-and"
+source = "<a href=\"http://www.humournet.com/collage.archives/collage290.txt\">Bob, from Tempe, AZ</a>"
+source_title = "humournet.com"
+source_url = "http://www.humournet.com/collage.archives/collage290.txt"
+state = "published"
+summary = "Never underestimate the stupidity, ignorance, and gullibility of a large number of people. (A large number like 2, or maybe 1.)"
+text = "Never underestimate the stupidity, ignorance, and gullibility of a large number of people. (A large number like 2, or maybe 1.)"
+timestamp = 1248152244.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

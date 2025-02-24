@@ -6,43 +6,43 @@ slug = "people-are-like-im-sick-and-tired-of-seeing"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "zy0dR0DQ"
-summary = "people are like “I’m sick and tired of seeing turds all over the place in the city! I will retire to a farm on the country where..."
+blog_name = "indirect"
+can_blaze = false
 can_like = false
-interactability_reblog = "everyone"
+can_reblog = false
 can_reply = false
-type = "quote"
+can_send_in_message = true
+date = "2023-01-10 10:44:33 GMT"
+display_avatar = true
+format = "markdown"
 id = 7.060559998643077e+17
 id_string = "706055999864307712"
-can_blaze = false
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbydCQZ3dSW00"
-source = "<a href=\"https://leaninto.it/@cliff/109661192722646558\">@cliff</a>"
-is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/706055999864307712/people-are-like-im-sick-and-tired-of-seeing"
-date = "2023-01-10 10:44:33 GMT"
-should_open_in_legacy = true
-note_count = 0.0
-blog_name = "indirect"
-format = "markdown"
-is_blocks_post_format = false
-timestamp = 1673347473.0
-can_send_in_message = true
-state = "published"
-can_reblog = false
-slug = "people-are-like-im-sick-and-tired-of-seeing"
-text = "people are like &ldquo;I&rsquo;m sick and tired of seeing turds all over the place in the city! I will retire to a farm on the country where this won&rsquo;t be a problem.&rdquo; Buddy have I got some bad news for you,"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/706055999864307712/people-are-like-im-sick-and-tired-of-seeing"
+reblog_key = "zy0dR0DQ"
+short_url = "https://tmblr.co/ZY3jbydCQZ3dSW00"
+should_open_in_legacy = true
+slug = "people-are-like-im-sick-and-tired-of-seeing"
+source = "<a href=\"https://leaninto.it/@cliff/109661192722646558\">@cliff</a>"
+state = "published"
+summary = "people are like “I’m sick and tired of seeing turds all over the place in the city! I will retire to a farm on the country where..."
+text = "people are like &ldquo;I&rsquo;m sick and tired of seeing turds all over the place in the city! I will retire to a farm on the country where this won&rsquo;t be a problem.&rdquo; Buddy have I got some bad news for you,"
+timestamp = 1673347473.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

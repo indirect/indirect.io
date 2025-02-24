@@ -6,43 +6,43 @@ slug = "the-normal-distribution-is-disappearing-were-in"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "135972940408"
-slug = "the-normal-distribution-is-disappearing-were-in"
-interactability_reblog = "everyone"
-state = "published"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jby1_edcfu"
-can_reblog = false
-can_send_in_message = true
-type = "quote"
-is_blaze_pending = false
-date = "2015-12-26 13:50:00 GMT"
-reblog_key = "MjMxW2a5"
-can_reply = false
-is_blocks_post_format = false
-is_blazed = false
-can_blaze = false
-should_open_in_legacy = true
-text = "The normal distribution is disappearing: we’re in a new world where either you care about something, or you don’t"
-display_avatar = true
 blog_name = "indirect"
-timestamp = 1451137800.0
-source = "<a href=\"http://alexdanco.com/2015/12/17/taylor-swift-ios-and-the-access-economy-why-the-normal-distribution-is-vanishing/##The+normal+distribution+is+disappearing%3A+we%E2%80%99re+in+a+new+world+where+either+you+care+about+something%2C+or+you+don%E2%80%99t\">Taylor Swift, iOS, and the Access Economy: Why the Normal Distribution is Vanishing</a>"
+can_blaze = false
 can_like = false
-summary = "The normal distribution is disappearing: we’re in a new world where either you care about something, or you don’t"
-interactability_blaze = "everyone"
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2015-12-26 13:50:00 GMT"
+display_avatar = true
+format = "markdown"
 id = 135972940408.0
-post_url = "https://indirect.io/post/135972940408/the-normal-distribution-is-disappearing-were-in"
+id_string = "135972940408"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
+post_url = "https://indirect.io/post/135972940408/the-normal-distribution-is-disappearing-were-in"
+reblog_key = "MjMxW2a5"
+short_url = "https://tmblr.co/ZY3jby1_edcfu"
+should_open_in_legacy = true
+slug = "the-normal-distribution-is-disappearing-were-in"
+source = "<a href=\"http://alexdanco.com/2015/12/17/taylor-swift-ios-and-the-access-economy-why-the-normal-distribution-is-vanishing/##The+normal+distribution+is+disappearing%3A+we%E2%80%99re+in+a+new+world+where+either+you+care+about+something%2C+or+you+don%E2%80%99t\">Taylor Swift, iOS, and the Access Economy: Why the Normal Distribution is Vanishing</a>"
+state = "published"
+summary = "The normal distribution is disappearing: we’re in a new world where either you care about something, or you don’t"
+text = "The normal distribution is disappearing: we’re in a new world where either you care about something, or you don’t"
+timestamp = 1451137800.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -6,43 +6,43 @@ slug = "i-see-no-difference-between-art-and-pop-for-me"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/hugleikur/status/1409906737382109190\">@hugleikur</a>"
-can_like = false
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/655378838981935104/i-see-no-difference-between-art-and-pop-for-me"
-slug = "i-see-no-difference-between-art-and-pop-for-me"
-state = "published"
-is_blocks_post_format = false
 blog_name = "indirect"
-id_string = "655378838981935104"
-summary = "I see no difference between  art and pop. For me Michelangelo and Miley Cyrus are the same. Except one of them is a turtle."
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2021-06-30 01:52:46 GMT"
 display_avatar = true
-id = 6.553788389819351e+17
-note_count = 0.0
-is_blazed = false
 format = "html"
+id = 6.553788389819351e+17
+id_string = "655378838981935104"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/655378838981935104/i-see-no-difference-between-art-and-pop-for-me"
 reblog_key = "6mYaVDZf"
 short_url = "https://tmblr.co/ZY3jbyaONvJgqu00"
-interactability_blaze = "everyone"
+should_open_in_legacy = true
+slug = "i-see-no-difference-between-art-and-pop-for-me"
+source = "<a href=\"http://twitter.com/hugleikur/status/1409906737382109190\">@hugleikur</a>"
+state = "published"
+summary = "I see no difference between  art and pop. For me Michelangelo and Miley Cyrus are the same. Except one of them is a turtle."
 text = "I see no difference between  art and pop. For me Michelangelo and Miley Cyrus are the same. Except one of them is a turtle."
 timestamp = 1625017966.0
-can_reblog = false
-can_send_in_message = true
-can_reply = false
 type = "quote"
-date = "2021-06-30 01:52:46 GMT"
-is_blaze_pending = false
-can_blaze = false
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

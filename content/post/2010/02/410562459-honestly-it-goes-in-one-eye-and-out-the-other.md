@@ -6,43 +6,43 @@ slug = "honestly-it-goes-in-one-eye-and-out-the-other"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-type = "quote"
 blog_name = "indirect"
-display_avatar = true
-post_url = "https://indirect.io/post/410562459/honestly-it-goes-in-one-eye-and-out-the-other"
-timestamp = 1267075170.0
-source = "rachel"
-date = "2010-02-25 05:19:30 GMT"
-text = "honestly, it goes in one eye and out the other…"
-interactability_reblog = "everyone"
-is_blazed = false
-format = "html"
-reblog_key = "8ZOzxTuq"
-note_count = 0.0
-can_reblog = false
-is_blocks_post_format = false
-is_blaze_pending = false
-slug = "honestly-it-goes-in-one-eye-and-out-the-other"
-should_open_in_legacy = true
-can_send_in_message = true
 can_blaze = false
-interactability_blaze = "everyone"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2010-02-25 05:19:30 GMT"
+display_avatar = true
+format = "html"
 id = 410562459.0
 id_string = "410562459"
-state = "published"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/410562459/honestly-it-goes-in-one-eye-and-out-the-other"
+reblog_key = "8ZOzxTuq"
 short_url = "https://tmblr.co/ZY3jbyOUA_R"
+should_open_in_legacy = true
+slug = "honestly-it-goes-in-one-eye-and-out-the-other"
+source = "rachel"
+state = "published"
 summary = "honestly, it goes in one eye and out the other…"
-can_like = false
+text = "honestly, it goes in one eye and out the other…"
+timestamp = 1267075170.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

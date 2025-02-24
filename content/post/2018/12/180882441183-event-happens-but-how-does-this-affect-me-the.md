@@ -6,47 +6,47 @@ slug = "event-happens-but-how-does-this-affect-me-the"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"http://twitter.com/thefurlinator/status/456652041541001216\">@thefurlinator</a>"
 blog_name = "indirect"
-post_url = "https://indirect.io/post/180882441183/event-happens-but-how-does-this-affect-me-the"
-is_blazed = false
-timestamp = 1544160750.0
-note_count = 0.0
-state = "published"
-interactability_reblog = "everyone"
-can_reply = false
-id_string = "180882441183"
+can_blaze = false
 can_like = false
 can_reblog = false
-id = 180882441183.0
-format = "html"
-should_open_in_legacy = true
-text = "*event happens* but how does this affect Me, the Protagonist of Reality"
-interactability_blaze = "everyone"
+can_reply = false
 can_send_in_message = true
-type = "quote"
-is_blaze_pending = false
-can_blaze = false
 date = "2018-12-07 05:32:30 GMT"
-short_url = "https://tmblr.co/ZY3jby2eTRmFV"
-summary = "*event happens* but how does this affect Me, the Protagonist of Reality"
-is_blocks_post_format = false
-slug = "event-happens-but-how-does-this-affect-me-the"
 display_avatar = true
+format = "html"
+id = 180882441183.0
+id_string = "180882441183"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/180882441183/event-happens-but-how-does-this-affect-me-the"
 reblog_key = "p2sUG4iU"
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/thefurlinator/status/456652041541001216\">@thefurlinator</a></p>"
-tree_html = ""
+short_url = "https://tmblr.co/ZY3jby2eTRmFV"
+should_open_in_legacy = true
+slug = "event-happens-but-how-does-this-affect-me-the"
+source = "<a href=\"http://twitter.com/thefurlinator/status/456652041541001216\">@thefurlinator</a>"
+state = "published"
+summary = "*event happens* but how does this affect Me, the Protagonist of Reality"
+text = "*event happens* but how does this affect Me, the Protagonist of Reality"
+timestamp = 1544160750.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/thefurlinator/status/456652041541001216\">@thefurlinator</a></p>"
+tree_html = ""
 +++

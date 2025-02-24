@@ -7,42 +7,42 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-format = "html"
-text = "Colorado offered free birth control. Teen pregnancy falls 40%. Science is hard."
-source = "<a href=\"http://twitter.com/cjwerleman/status/486509930862870528\">@cjwerleman</a>"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-is_blocks_post_format = false
-reblog_key = "cgNWQLZr"
-should_open_in_legacy = true
-can_like = false
-display_avatar = true
-is_blazed = false
-post_url = "https://indirect.io/post/91174423358/colorado-offered-free-birth-control-teen"
-id = 91174423358.0
-state = "published"
-interactability_blaze = "everyone"
-timestamp = 1404847617.0
-is_blaze_pending = false
-summary = "Colorado offered free birth control. Teen pregnancy falls 40%. Science is hard."
-short_url = "https://tmblr.co/ZY3jby1KwQqi_"
 can_send_in_message = true
-note_count = 0.0
-interactability_reblog = "everyone"
 date = "2014-07-08 19:26:57 GMT"
-type = "quote"
+display_avatar = true
+format = "html"
+id = 91174423358.0
 id_string = "91174423358"
-can_blaze = false
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/91174423358/colorado-offered-free-birth-control-teen"
+reblog_key = "cgNWQLZr"
+short_url = "https://tmblr.co/ZY3jby1KwQqi_"
+should_open_in_legacy = true
 slug = "colorado-offered-free-birth-control-teen"
+source = "<a href=\"http://twitter.com/cjwerleman/status/486509930862870528\">@cjwerleman</a>"
+state = "published"
+summary = "Colorado offered free birth control. Teen pregnancy falls 40%. Science is hard."
+text = "Colorado offered free birth control. Teen pregnancy falls 40%. Science is hard."
+timestamp = 1404847617.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

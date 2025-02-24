@@ -6,43 +6,43 @@ slug = "ever-realised-how-fucking-surreal-reading-a-book"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
 blog_name = "indirect"
-id = 104886367023.0
-is_blaze_pending = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1XhjlCl"
-can_reblog = false
-id_string = "104886367023"
-can_send_in_message = true
-is_blazed = false
-summary = "Ever realised how fucking surreal reading a book actually is? You stare at marked slices of tree for hours on end, hallucinating..."
-should_open_in_legacy = true
-text = "Ever realised how fucking surreal reading a book actually is? You stare at marked slices of tree for hours on end, hallucinating vividly"
-interactability_blaze = "everyone"
 can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-12-11 01:22:29 GMT"
+display_avatar = true
+format = "html"
+id = 104886367023.0
+id_string = "104886367023"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/104886367023/ever-realised-how-fucking-surreal-reading-a-book"
+reblog_key = "QuBtuR5H"
+short_url = "https://tmblr.co/ZY3jby1XhjlCl"
+should_open_in_legacy = true
 slug = "ever-realised-how-fucking-surreal-reading-a-book"
 source = "<a href=\"http://twitter.com/KatieOldham/status/542348626711019520\">@KatieOldham</a>"
-post_url = "https://indirect.io/post/104886367023/ever-realised-how-fucking-surreal-reading-a-book"
-display_avatar = true
-date = "2014-12-11 01:22:29 GMT"
-can_like = false
-interactability_reblog = "everyone"
-can_reply = false
-is_blocks_post_format = false
-timestamp = 1418260949.0
 state = "published"
-reblog_key = "QuBtuR5H"
-note_count = 1.0
+summary = "Ever realised how fucking surreal reading a book actually is? You stare at marked slices of tree for hours on end, hallucinating..."
+text = "Ever realised how fucking surreal reading a book actually is? You stare at marked slices of tree for hours on end, hallucinating vividly"
+timestamp = 1418260949.0
+type = "quote"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

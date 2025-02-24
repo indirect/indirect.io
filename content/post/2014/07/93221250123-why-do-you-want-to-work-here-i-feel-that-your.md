@@ -6,43 +6,43 @@ slug = "why-do-you-want-to-work-here-i-feel-that-your"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "why-do-you-want-to-work-here-i-feel-that-your"
-can_reply = false
 blog_name = "indirect"
-state = "published"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-07-29 16:46:31 GMT"
+display_avatar = true
+format = "html"
+id = 93221250123.0
+id_string = "93221250123"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
 is_blaze_pending = false
-source = "<a href=\"http://twitter.com/tef/status/493825583777075201\">@tef</a>"
-can_reblog = false
-display_avatar = true
-id_string = "93221250123"
-post_url = "https://indirect.io/post/93221250123/why-do-you-want-to-work-here-i-feel-that-your"
 is_blazed = false
-timestamp = 1406652391.0
-should_open_in_legacy = true
-text = "why do you want to work here&rdquo;<br/>\n&ldquo;i feel that your company is a most comfortable compromise between my political ideology and desire for food"
-type = "quote"
 is_blocks_post_format = false
-can_blaze = false
-date = "2014-07-29 16:46:31 GMT"
-short_url = "https://tmblr.co/ZY3jby1MqQsHB"
 note_count = 0.0
-can_like = false
+post_url = "https://indirect.io/post/93221250123/why-do-you-want-to-work-here-i-feel-that-your"
 reblog_key = "KlVYIYr7"
+short_url = "https://tmblr.co/ZY3jby1MqQsHB"
+should_open_in_legacy = true
+slug = "why-do-you-want-to-work-here-i-feel-that-your"
+source = "<a href=\"http://twitter.com/tef/status/493825583777075201\">@tef</a>"
+state = "published"
 summary = "“why do you want to work here” \n“i feel that your company is a most comfortable compromise between my political ideology and..."
-interactability_blaze = "everyone"
-can_send_in_message = true
-id = 93221250123.0
-format = "html"
+text = "why do you want to work here&rdquo;<br/>\n&ldquo;i feel that your company is a most comfortable compromise between my political ideology and desire for food"
+timestamp = 1406652391.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

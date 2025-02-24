@@ -6,47 +6,47 @@ slug = "me-i-would-like-to-exchange-money-for-an-escape"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-can_reblog = false
-type = "quote"
-is_blocks_post_format = false
-id = 6.31709160197718e+17
-date = "2020-10-11 19:33:21 GMT"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reply = false
-display_avatar = true
-slug = "me-i-would-like-to-exchange-money-for-an-escape"
-can_blaze = false
-can_send_in_message = true
-format = "html"
-reblog_key = "sfsWrmm7"
-note_count = 1.0
-timestamp = 1602444801.0
-short_url = "https://tmblr.co/ZY3jbyZ4I29UyW00"
-summary = "me: “i would like to exchange money for an escape from soul-crushing existence”\n steam: “based on your preferences we recommend..."
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2020-10-11 19:33:21 GMT"
+display_avatar = true
+format = "html"
+id = 6.31709160197718e+17
 id_string = "631709160197718016"
-post_url = "https://indirect.io/post/631709160197718016/me-i-would-like-to-exchange-money-for-an-escape"
-state = "published"
-is_blazed = false
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-text = "me: &ldquo;i would like to exchange money for an escape from soul-crushing existence&rdquo;\n<br/>steam: &ldquo;based on your preferences we recommend you: soul-crushing existence simulator&rdquo;"
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/631709160197718016/me-i-would-like-to-exchange-money-for-an-escape"
+reblog_key = "sfsWrmm7"
+short_url = "https://tmblr.co/ZY3jbyZ4I29UyW00"
+should_open_in_legacy = true
+slug = "me-i-would-like-to-exchange-money-for-an-escape"
 source = "<a href=\"http://twitter.com/whitequark/status/1315196362389106688\">@whitequark</a>"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://twitter.com/whitequark/status/1315196362389106688\">@whitequark</a></p>"
+state = "published"
+summary = "me: “i would like to exchange money for an escape from soul-crushing existence”\n steam: “based on your preferences we recommend..."
+text = "me: &ldquo;i would like to exchange money for an escape from soul-crushing existence&rdquo;\n<br/>steam: &ldquo;based on your preferences we recommend you: soul-crushing existence simulator&rdquo;"
+timestamp = 1602444801.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/whitequark/status/1315196362389106688\">@whitequark</a></p>"
+tree_html = ""
 +++

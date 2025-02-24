@@ -7,86 +7,86 @@ title = "The Startling Humanism of 'Mad Max: Fury Road'"
 type = "tumblr-link"
 
 [tumblr]
-type = "link"
-slug = "the-startling-humanism-of-mad-max-fury-road"
-should_open_in_legacy = true
-id = 119883595173.0
-is_blazed = false
-date = "2015-05-25 21:58:06 GMT"
-summary = "The Startling Humanism of 'Mad Max: Fury Road'"
-can_like = false
-interactability_reblog = "everyone"
-id_string = "119883595173"
-can_blaze = false
-format = "markdown"
-interactability_blaze = "everyone"
-can_reply = false
-is_blocks_post_format = false
 blog_name = "indirect"
-publisher = "theawl.com"
-post_url = "https://indirect.io/post/119883595173/the-startling-humanism-of-mad-max-fury-road"
-url = "http://www.theawl.com/2015/05/the-startling-humanism-of-mad-max-fury-road"
+can_blaze = false
+can_like = false
 can_reblog = false
-note_count = 1.0
-display_avatar = true
-timestamp = 1432591086.0
-state = "published"
-short_url = "https://tmblr.co/ZY3jby1lfddsb"
+can_reply = false
 can_send_in_message = true
-is_blaze_pending = false
-reblog_key = "lqLmX3Wl"
-title = "The Startling Humanism of 'Mad Max: Fury Road'"
+date = "2015-05-25 21:58:06 GMT"
 description = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
-
-[[tumblr.trail]]
-content_raw = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
-content = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.post]
-id = "119883595173"
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
-name = "indirect"
-active = true
-
-[tumblr.trail.blog.theme]
-avatar_shape = "square"
-link_color = "#529ECC"
-show_title = true
-title_color = "#444444"
-title_font_weight = "bold"
-header_full_width = 3000.0
-background_color = "#FAFAFA"
-body_font = "Helvetica Neue"
-header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_description = true
-header_full_height = 1055.0
-header_bounds = ""
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-header_image_poster = ""
-header_stretch = true
-show_avatar = true
-show_header_image = false
-title_font = "Gibson"
+display_avatar = true
+format = "markdown"
+id = 119883595173.0
+id_string = "119883595173"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/119883595173/the-startling-humanism-of-mad-max-fury-road"
+publisher = "theawl.com"
+reblog_key = "lqLmX3Wl"
+short_url = "https://tmblr.co/ZY3jby1lfddsb"
+should_open_in_legacy = true
+slug = "the-startling-humanism-of-mad-max-fury-road"
+state = "published"
+summary = "The Startling Humanism of 'Mad Max: Fury Road'"
+timestamp = 1432591086.0
+title = "The Startling Humanism of 'Mad Max: Fury Road'"
+type = "link"
+url = "http://www.theawl.com/2015/05/the-startling-humanism-of-mad-max-fury-road"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
 tree_html = ""
+
+[[tumblr.trail]]
+content = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
+content_raw = "<p>What Miller is really doing is teaching men, not only women, how to rise above the patriarchy.</p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
+name = "indirect"
+share_following = false
+share_likes = false
+
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
+
+[tumblr.trail.post]
+id = "119883595173"
 +++

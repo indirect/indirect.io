@@ -6,47 +6,47 @@ slug = "i-am-connected-and-technological-and-all-that-crap"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "i-am-connected-and-technological-and-all-that-crap"
-can_blaze = false
-display_avatar = true
-id_string = "36725282"
-format = "html"
-note_count = 0.0
-can_like = false
-can_reply = false
-state = "published"
-type = "quote"
-short_url = "https://tmblr.co/ZY3jby2C68Y"
-should_open_in_legacy = true
-text = "I am connected and technological and all that crap"
-interactability_reblog = "everyone"
-can_reblog = false
-can_send_in_message = true
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2008-05-31 23:40:52 GMT"
+display_avatar = true
+format = "html"
 id = 36725282.0
+id_string = "36725282"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/36725282/i-am-connected-and-technological-and-all-that-crap"
 reblog_key = "4Vmcwt8c"
-interactability_blaze = "everyone"
-is_blocks_post_format = false
-timestamp = 1212277252.0
-summary = "I am connected and technological and all that crap"
+short_url = "https://tmblr.co/ZY3jby2C68Y"
+should_open_in_legacy = true
+slug = "i-am-connected-and-technological-and-all-that-crap"
 source = "rachel"
-date = "2008-05-31 23:40:52 GMT"
-is_blazed = false
-
-[tumblr.reblog]
-comment = "<p>rachel</p>"
-tree_html = ""
+state = "published"
+summary = "I am connected and technological and all that crap"
+text = "I am connected and technological and all that crap"
+timestamp = 1212277252.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p>rachel</p>"
+tree_html = ""
 +++

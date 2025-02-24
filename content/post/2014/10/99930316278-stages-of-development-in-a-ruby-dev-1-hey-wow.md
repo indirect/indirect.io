@@ -6,43 +6,43 @@ slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jby1T4Jvts"
-can_like = false
-id_string = "99930316278"
-state = "published"
-should_open_in_legacy = true
-note_count = 0.0
 blog_name = "indirect"
-id = 99930316278.0
-reblog_key = "Ez0hlqQV"
-text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
-is_blocks_post_format = false
-slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
-date = "2014-10-13 19:54:09 GMT"
-summary = "stages of development in a Ruby dev 1) “hey wow Rails!” 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
-interactability_reblog = "everyone"
+can_blaze = false
+can_like = false
 can_reblog = false
-display_avatar = true
-is_blazed = false
-format = "html"
-can_send_in_message = true
 can_reply = false
-source = "<a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a>"
-type = "quote"
-post_url = "https://indirect.io/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
-timestamp = 1413230049.0
+can_send_in_message = true
+date = "2014-10-13 19:54:09 GMT"
+display_avatar = true
+format = "html"
+id = 99930316278.0
+id_string = "99930316278"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/99930316278/stages-of-development-in-a-ruby-dev-1-hey-wow"
+reblog_key = "Ez0hlqQV"
+short_url = "https://tmblr.co/ZY3jby1T4Jvts"
+should_open_in_legacy = true
+slug = "stages-of-development-in-a-ruby-dev-1-hey-wow"
+source = "<a href=\"http://twitter.com/drsnooks/status/521654356865990657\">@drsnooks</a>"
+state = "published"
+summary = "stages of development in a Ruby dev 1) “hey wow Rails!” 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+text = "stages of development in a Ruby dev 1) &ldquo;hey wow Rails!&rdquo; 2) I hate Rails 3) hates Ruby 4) hates computers 5) hates people"
+timestamp = 1413230049.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

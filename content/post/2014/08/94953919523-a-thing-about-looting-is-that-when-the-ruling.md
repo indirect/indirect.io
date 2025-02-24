@@ -6,47 +6,47 @@ slug = "a-thing-about-looting-is-that-when-the-ruling"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "a-thing-about-looting-is-that-when-the-ruling"
-can_like = false
-is_blaze_pending = false
-format = "html"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reply = false
-date = "2014-08-17 00:43:52 GMT"
-state = "published"
-reblog_key = "RETFh5LJ"
-can_reblog = false
 blog_name = "indirect"
-id_string = "94953919523"
-post_url = "https://indirect.io/post/94953919523/a-thing-about-looting-is-that-when-the-ruling"
-timestamp = 1408236232.0
-source = "<a href=\"http://twitter.com/pareene/status/500536247631482880\">@pareene</a>"
-display_avatar = true
-id = 94953919523.0
-short_url = "https://tmblr.co/ZY3jby1ORiTGZ"
 can_blaze = false
-type = "quote"
-is_blocks_post_format = false
-should_open_in_legacy = true
-text = "a thing about &ldquo;looting&rdquo; is that when the ruling class make it clear that private property is worth more than your life you might get pissed"
-is_blazed = false
-summary = "a thing about “looting” is that when the ruling class make it clear that private property is worth more than your life you might..."
-note_count = 0.0
+can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2014-08-17 00:43:52 GMT"
+display_avatar = true
+format = "html"
+id = 94953919523.0
+id_string = "94953919523"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/94953919523/a-thing-about-looting-is-that-when-the-ruling"
+reblog_key = "RETFh5LJ"
+short_url = "https://tmblr.co/ZY3jby1ORiTGZ"
+should_open_in_legacy = true
+slug = "a-thing-about-looting-is-that-when-the-ruling"
+source = "<a href=\"http://twitter.com/pareene/status/500536247631482880\">@pareene</a>"
+state = "published"
+summary = "a thing about “looting” is that when the ruling class make it clear that private property is worth more than your life you might..."
+text = "a thing about &ldquo;looting&rdquo; is that when the ruling class make it clear that private property is worth more than your life you might get pissed"
+timestamp = 1408236232.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/pareene/status/500536247631482880\">@pareene</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

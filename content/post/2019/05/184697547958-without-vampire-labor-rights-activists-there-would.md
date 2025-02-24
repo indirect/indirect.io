@@ -6,43 +6,43 @@ slug = "without-vampire-labor-rights-activists-there-would"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-id_string = "184697547958"
-date = "2019-05-06 21:10:44 GMT"
-can_like = false
-is_blocks_post_format = false
-reblog_key = "m3FT3OH8"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-can_reblog = false
-can_send_in_message = true
-can_reply = false
-is_blaze_pending = false
-format = "html"
-short_url = "https://tmblr.co/ZY3jby2i0rEos"
-note_count = 0.0
-text = "Without Vampire Labor Rights Activists there would be no Vampire Weekend"
-id = 184697547958.0
-state = "published"
-display_avatar = true
-type = "quote"
 blog_name = "indirect"
 can_blaze = false
-post_url = "https://indirect.io/post/184697547958/without-vampire-labor-rights-activists-there-would"
-slug = "without-vampire-labor-rights-activists-there-would"
-summary = "Without Vampire Labor Rights Activists there would be no Vampire Weekend"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2019-05-06 21:10:44 GMT"
+display_avatar = true
+format = "html"
+id = 184697547958.0
+id_string = "184697547958"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
-timestamp = 1557177044.0
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/184697547958/without-vampire-labor-rights-activists-there-would"
+reblog_key = "m3FT3OH8"
+short_url = "https://tmblr.co/ZY3jby2i0rEos"
+should_open_in_legacy = true
+slug = "without-vampire-labor-rights-activists-there-would"
 source = "<a href=\"http://twitter.com/mikehuguenor/status/1125112639762210816\">@mikehuguenor</a>"
+state = "published"
+summary = "Without Vampire Labor Rights Activists there would be no Vampire Weekend"
+text = "Without Vampire Labor Rights Activists there would be no Vampire Weekend"
+timestamp = 1557177044.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

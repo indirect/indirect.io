@@ -7,45 +7,45 @@ title = "Why did men stop wearing high heels?"
 type = "tumblr-link"
 
 [tumblr]
-is_blaze_pending = false
-post_url = "https://indirect.io/post/41750537616/why-did-men-stop-wearing-high-heels"
-slug = "why-did-men-stop-wearing-high-heels"
-can_like = false
-is_blazed = false
-title = "Why did men stop wearing high heels?"
-can_reblog = false
-display_avatar = true
-url = "http://m.bbc.co.uk/news/magazine-21151350"
-id_string = "41750537616"
-format = "markdown"
-type = "link"
-is_blocks_post_format = false
-id = 41750537616.0
-can_blaze = false
-interactability_reblog = "everyone"
-date = "2013-01-29 02:10:41 GMT"
-state = "published"
-short_url = "https://tmblr.co/ZY3jbycuXgMG"
-interactability_blaze = "everyone"
-can_reply = false
-should_open_in_legacy = true
-publisher = "m.bbc.co.uk"
-timestamp = 1359425441.0
-reblog_key = "mu9Bbspz"
-note_count = 0.0
-description = ""
-can_send_in_message = true
-summary = "Why did men stop wearing high heels?"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-01-29 02:10:41 GMT"
+description = ""
+display_avatar = true
+format = "markdown"
+id = 41750537616.0
+id_string = "41750537616"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/41750537616/why-did-men-stop-wearing-high-heels"
+publisher = "m.bbc.co.uk"
+reblog_key = "mu9Bbspz"
+short_url = "https://tmblr.co/ZY3jbycuXgMG"
+should_open_in_legacy = true
+slug = "why-did-men-stop-wearing-high-heels"
+state = "published"
+summary = "Why did men stop wearing high heels?"
+timestamp = 1359425441.0
+title = "Why did men stop wearing high heels?"
+type = "link"
+url = "http://m.bbc.co.uk/news/magazine-21151350"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

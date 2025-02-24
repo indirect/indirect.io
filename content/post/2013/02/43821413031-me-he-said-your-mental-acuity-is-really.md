@@ -6,57 +6,57 @@ slug = "me-he-said-your-mental-acuity-is-really"
 type = "tumblr-chat"
 
 [tumblr]
-is_blaze_pending = false
-reblog_key = "j0ZTkqfs"
-display_avatar = true
-id_string = "43821413031"
+blog_name = "indirect"
+body = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because the angle is larger!\nme: oh, you are that, too."
 can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-02-23 18:59:55 GMT"
+display_avatar = true
+format = "markdown"
+id = 43821413031.0
+id_string = "43821413031"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/43821413031/me-he-said-your-mental-acuity-is-really"
+reblog_key = "j0ZTkqfs"
+short_url = "https://tmblr.co/ZY3jbyepzRAd"
+should_open_in_legacy = true
 slug = "me-he-said-your-mental-acuity-is-really"
 state = "published"
 summary = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because..."
-can_reply = false
-is_blocks_post_format = false
 timestamp = 1361645995.0
-can_like = false
-blog_name = "indirect"
-date = "2013-02-23 18:59:55 GMT"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyepzRAd"
-can_reblog = false
-is_blazed = false
-post_url = "https://indirect.io/post/43821413031/me-he-said-your-mental-acuity-is-really"
-note_count = 0.0
-interactability_blaze = "everyone"
-interactability_reblog = "everyone"
-can_send_in_message = true
 type = "chat"
-should_open_in_legacy = true
-body = "me: he said your mental acuity is really something\nher: but I'm not mentally acute! If anything, I'm mentally... obtuse, because the angle is larger!\nme: oh, you are that, too."
-id = 43821413031.0
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [[tumblr.dialogue]]
-label = "me:"
-phrase = "he said your mental acuity is really something"
-name = "me"
-
-[[tumblr.dialogue]]
-name = "her"
 label = "her:"
+name = "her"
 phrase = "but I'm not mentally acute! If anything, I'm mentally... obtuse, because the angle is larger!"
 
 [[tumblr.dialogue]]
-name = "me"
 label = "me:"
+name = "me"
+phrase = "he said your mental acuity is really something"
+
+[[tumblr.dialogue]]
+label = "me:"
+name = "me"
 phrase = "oh, you are that, too."
-
-[tumblr.blog]
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

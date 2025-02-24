@@ -6,47 +6,47 @@ slug = "we-must-learn-from-history-so-when-our-leaders"
 type = "tumblr-quote"
 
 [tumblr]
-text = "We must learn from history so when our leaders repeat it we can enjoy the callback"
-interactability_blaze = "everyone"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-date = "2023-12-23 02:39:21 GMT"
-id = 7.374626212461937e+17
-is_blazed = false
-summary = "We must learn from history so when our leaders repeat it we can enjoy the callback"
-id_string = "737462621246193664"
-can_blaze = false
-slug = "we-must-learn-from-history-so-when-our-leaders"
-is_blocks_post_format = false
-format = "markdown"
-should_open_in_legacy = true
-note_count = 1.0
 can_send_in_message = true
-type = "quote"
-blog_name = "indirect"
+date = "2023-12-23 02:39:21 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.374626212461937e+17
+id_string = "737462621246193664"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
 post_url = "https://indirect.io/post/737462621246193664/we-must-learn-from-history-so-when-our-leaders"
 reblog_key = "Z9DSL1GN"
-display_avatar = true
-state = "published"
-interactability_reblog = "everyone"
 short_url = "https://tmblr.co/ZY3jbyex-bZ6WW00"
+should_open_in_legacy = true
+slug = "we-must-learn-from-history-so-when-our-leaders"
 source = "<a href=\"https://bsky.app/profile/rajandelman.bsky.social/post/3kh6f63rk5a2d\">Blue sky jerk (@rajandelman.bsky.social)</a>"
-can_like = false
+state = "published"
+summary = "We must learn from history so when our leaders repeat it we can enjoy the callback"
+text = "We must learn from history so when our leaders repeat it we can enjoy the callback"
 timestamp = 1703299161.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://bsky.app/profile/rajandelman.bsky.social/post/3kh6f63rk5a2d\">Blue sky jerk (@rajandelman.bsky.social)</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-
-[tumblr.blog.tumblrmart_accessories]
 +++

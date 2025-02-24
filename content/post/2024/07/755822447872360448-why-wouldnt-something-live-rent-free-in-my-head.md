@@ -6,43 +6,43 @@ slug = "why-wouldnt-something-live-rent-free-in-my-head"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2024-07-12 18:20:56 GMT"
-can_like = false
-is_blazed = false
-format = "markdown"
-can_reblog = false
-display_avatar = true
-post_url = "https://indirect.io/post/755822447872360448/why-wouldnt-something-live-rent-free-in-my-head"
-summary = "why wouldn’t something live rent-free in my head? what do you think I am, a landlord?"
-short_url = "https://tmblr.co/ZY3jbyfzE8C6ii00"
-is_blaze_pending = false
-state = "published"
-note_count = 0.0
-source = "<a href=\"https://bsky.app/profile/lookitup.baby/post/3kx43rxmulm2u\">Ian Coldwater 📦💥 (@lookitup.baby)</a>"
-can_send_in_message = true
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-id_string = "755822447872360448"
-slug = "why-wouldnt-something-live-rent-free-in-my-head"
-timestamp = 1720808456.0
-text = "why wouldn’t something live rent-free in my head? what do you think I am, a landlord?"
 blog_name = "indirect"
 can_blaze = false
-reblog_key = "r9rsPO6j"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
+can_like = false
+can_reblog = false
 can_reply = false
-type = "quote"
+can_send_in_message = true
+date = "2024-07-12 18:20:56 GMT"
+display_avatar = true
+format = "markdown"
 id = 7.558224478723604e+17
+id_string = "755822447872360448"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/755822447872360448/why-wouldnt-something-live-rent-free-in-my-head"
+reblog_key = "r9rsPO6j"
+short_url = "https://tmblr.co/ZY3jbyfzE8C6ii00"
+should_open_in_legacy = true
+slug = "why-wouldnt-something-live-rent-free-in-my-head"
+source = "<a href=\"https://bsky.app/profile/lookitup.baby/post/3kx43rxmulm2u\">Ian Coldwater 📦💥 (@lookitup.baby)</a>"
+state = "published"
+summary = "why wouldn’t something live rent-free in my head? what do you think I am, a landlord?"
+text = "why wouldn’t something live rent-free in my head? what do you think I am, a landlord?"
+timestamp = 1720808456.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

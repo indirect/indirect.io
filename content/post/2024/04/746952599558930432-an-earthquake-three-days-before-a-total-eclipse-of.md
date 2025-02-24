@@ -6,43 +6,43 @@ slug = "an-earthquake-three-days-before-a-total-eclipse-of"
 type = "tumblr-quote"
 
 [tumblr]
-can_reply = false
-post_url = "https://indirect.io/post/746952599558930432/an-earthquake-three-days-before-a-total-eclipse-of"
-text = "an earthquake three days before a total eclipse of the sun would absolutely have taken out a whole ass dynasty back in the day"
-can_send_in_message = true
-state = "published"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2024-04-05 20:38:29 GMT"
+display_avatar = true
+format = "markdown"
 id = 7.469525995589304e+17
-summary = "an earthquake three days before a total eclipse of the sun would absolutely have taken out a whole ass dynasty back in the day"
-slug = "an-earthquake-three-days-before-a-total-eclipse-of"
+id_string = "746952599558930432"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/746952599558930432/an-earthquake-three-days-before-a-total-eclipse-of"
+reblog_key = "sQHhhs3V"
 short_url = "https://tmblr.co/ZY3jbyfTjMw8my00"
 should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reblog = false
-type = "quote"
-format = "markdown"
-reblog_key = "sQHhhs3V"
-display_avatar = true
-is_blazed = false
-note_count = 0.0
-interactability_blaze = "everyone"
-can_like = false
-is_blocks_post_format = false
-id_string = "746952599558930432"
-is_blaze_pending = false
-date = "2024-04-05 20:38:29 GMT"
-timestamp = 1712349509.0
-can_blaze = false
+slug = "an-earthquake-three-days-before-a-total-eclipse-of"
 source = "<a href=\"https://bsky.app/profile/hayesbrown.bsky.social/post/3kpfdm7xsvl2l\">Hayes Brown (@hayesbrown.bsky.social)</a>"
+state = "published"
+summary = "an earthquake three days before a total eclipse of the sun would absolutely have taken out a whole ass dynasty back in the day"
+text = "an earthquake three days before a total eclipse of the sun would absolutely have taken out a whole ass dynasty back in the day"
+timestamp = 1712349509.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

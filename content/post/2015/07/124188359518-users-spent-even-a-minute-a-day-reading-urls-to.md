@@ -6,45 +6,45 @@ slug = "users-spent-even-a-minute-a-day-reading-urls-to"
 type = "tumblr-quote"
 
 [tumblr]
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reblog = false
 blog_name = "indirect"
-date = "2015-07-15 22:20:18 GMT"
-short_url = "https://tmblr.co/ZY3jby1pgC-jU"
+can_blaze = false
 can_like = false
-is_blazed = false
-format = "markdown"
-can_send_in_message = true
-type = "quote"
-is_blaze_pending = false
-is_blocks_post_format = false
-id_string = "124188359518"
-source_title = "schneier.com"
-source = "<a href=\"https://www.schneier.com/blog/archives/2009/11/users_rationall.html\">Users Rationally Rejecting Security Advice</a>"
-post_url = "https://indirect.io/post/124188359518/users-spent-even-a-minute-a-day-reading-urls-to"
-source_url = "https://www.schneier.com/blog/archives/2009/11/users_rationall.html"
-interactability_blaze = "everyone"
-display_avatar = true
-state = "published"
+can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2015-07-15 22:20:18 GMT"
+display_avatar = true
+format = "markdown"
 id = 124188359518.0
+id_string = "124188359518"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/124188359518/users-spent-even-a-minute-a-day-reading-urls-to"
+reblog_key = "CaitS3Rt"
+short_url = "https://tmblr.co/ZY3jby1pgC-jU"
+should_open_in_legacy = true
 slug = "users-spent-even-a-minute-a-day-reading-urls-to"
+source = "<a href=\"https://www.schneier.com/blog/archives/2009/11/users_rationall.html\">Users Rationally Rejecting Security Advice</a>"
+source_title = "schneier.com"
+source_url = "https://www.schneier.com/blog/archives/2009/11/users_rationall.html"
+state = "published"
 summary = "users spent even a minute a day reading URLs to avoid phishing, the cost (in terms of user time) would be two orders of..."
 text = "users spent even a minute a day reading URLs to avoid phishing, the cost (in terms of user time) would be two orders of magnitude greater than all phishing losses"
-can_blaze = false
 timestamp = 1436998818.0
-reblog_key = "CaitS3Rt"
-should_open_in_legacy = true
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

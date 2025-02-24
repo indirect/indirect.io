@@ -6,43 +6,43 @@ slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_reblog = "everyone"
-can_send_in_message = true
-is_blocks_post_format = false
-reblog_key = "s1xiHfjt"
+blog_name = "indirect"
+can_blaze = false
 can_like = false
 can_reblog = false
-type = "quote"
-id_string = "767353988205150208"
-display_avatar = true
-state = "published"
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-date = "2024-11-17 01:09:50 GMT"
-slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
-format = "markdown"
-text = "i lifted weights and now i will lift sushi. into my mouth"
-interactability_blaze = "everyone"
-timestamp = 1731805790.0
-short_url = "https://tmblr.co/ZY3jbygcC6Bxye00"
-source = "<a href=\"https://bsky.app/profile/bbghost.bsky.social/post/3lb473xkuw22u\">emily 🩷 (@bbghost.bsky.social)</a>"
-id = 7.673539882051502e+17
-post_url = "https://indirect.io/post/767353988205150208/i-lifted-weights-and-now-i-will-lift-sushi-into"
-note_count = 0.0
 can_reply = false
-can_blaze = false
-summary = "i lifted weights and now i will lift sushi. into my mouth"
+can_send_in_message = true
+date = "2024-11-17 01:09:50 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.673539882051502e+17
+id_string = "767353988205150208"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/767353988205150208/i-lifted-weights-and-now-i-will-lift-sushi-into"
+reblog_key = "s1xiHfjt"
+short_url = "https://tmblr.co/ZY3jbygcC6Bxye00"
 should_open_in_legacy = true
+slug = "i-lifted-weights-and-now-i-will-lift-sushi-into"
+source = "<a href=\"https://bsky.app/profile/bbghost.bsky.social/post/3lb473xkuw22u\">emily 🩷 (@bbghost.bsky.social)</a>"
+state = "published"
+summary = "i lifted weights and now i will lift sushi. into my mouth"
+text = "i lifted weights and now i will lift sushi. into my mouth"
+timestamp = 1731805790.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -7,43 +7,43 @@ title = "It Would Be An Honor To Serve My Country, Return With PTSD, Sit On A Me
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-id_string = "29887546770"
-format = "markdown"
-note_count = 0.0
-type = "link"
-state = "published"
-should_open_in_legacy = true
-title = "It Would Be An Honor To Serve My Country, Return With PTSD, Sit On A Mental Health Care Waitlist, Then Kill Myself"
-publisher = "theonion.com"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-timestamp = 1345536376.0
-can_reply = false
-url = "http://www.theonion.com/articles/it-would-be-an-honor-to-serve-my-country-return-wi,29183/?ref=auto"
-can_like = false
-interactability_reblog = "everyone"
-can_reblog = false
-post_url = "https://indirect.io/post/29887546770/it-would-be-an-honor-to-serve-my-country-return"
-reblog_key = "xLT2mXbs"
-display_avatar = true
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2012-08-21 08:06:16 GMT"
 description = ""
-can_blaze = false
-slug = "it-would-be-an-honor-to-serve-my-country-return"
-summary = "It Would Be An Honor To Serve My Country, Return With PTSD, Sit On A Mental Health Care Waitlist, Then Kill Myself"
-can_send_in_message = true
+display_avatar = true
+format = "markdown"
 id = 29887546770.0
+id_string = "29887546770"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/29887546770/it-would-be-an-honor-to-serve-my-country-return"
+publisher = "theonion.com"
+reblog_key = "xLT2mXbs"
 short_url = "https://tmblr.co/ZY3jbyRrRyMI"
+should_open_in_legacy = true
+slug = "it-would-be-an-honor-to-serve-my-country-return"
+state = "published"
+summary = "It Would Be An Honor To Serve My Country, Return With PTSD, Sit On A Mental Health Care Waitlist, Then Kill Myself"
+timestamp = 1345536376.0
+title = "It Would Be An Honor To Serve My Country, Return With PTSD, Sit On A Mental Health Care Waitlist, Then Kill Myself"
+type = "link"
+url = "http://www.theonion.com/articles/it-would-be-an-honor-to-serve-my-country-return-wi,29183/?ref=auto"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

@@ -6,43 +6,43 @@ slug = "student-loan-forgiveness-implies-the-existence-of"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "642774949557321728"
-can_blaze = false
-reblog_key = "tlesNOgu"
-should_open_in_legacy = true
-text = "student loan forgiveness implies the existence of student loan revenge"
-summary = "student loan forgiveness implies the existence of student loan revenge"
-note_count = 0.0
-is_blaze_pending = false
-slug = "student-loan-forgiveness-implies-the-existence-of"
-interactability_blaze = "everyone"
-type = "quote"
-id = 6.427749495573217e+17
-short_url = "https://tmblr.co/ZY3jbyZhc6awua00"
-source = "<a href=\"http://twitter.com/_jazzghost_/status/1359535063420051457\">@_jazzghost_</a>"
-timestamp = 1612997960.0
-state = "published"
 blog_name = "indirect"
-can_reblog = false
-can_send_in_message = true
-can_reply = false
-is_blazed = false
+can_blaze = false
 can_like = false
-is_blocks_post_format = false
-post_url = "https://indirect.io/post/642774949557321728/student-loan-forgiveness-implies-the-existence-of"
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2021-02-10 22:59:20 GMT"
-format = "html"
 display_avatar = true
+format = "html"
+id = 6.427749495573217e+17
+id_string = "642774949557321728"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/642774949557321728/student-loan-forgiveness-implies-the-existence-of"
+reblog_key = "tlesNOgu"
+short_url = "https://tmblr.co/ZY3jbyZhc6awua00"
+should_open_in_legacy = true
+slug = "student-loan-forgiveness-implies-the-existence-of"
+source = "<a href=\"http://twitter.com/_jazzghost_/status/1359535063420051457\">@_jazzghost_</a>"
+state = "published"
+summary = "student loan forgiveness implies the existence of student loan revenge"
+text = "student loan forgiveness implies the existence of student loan revenge"
+timestamp = 1612997960.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

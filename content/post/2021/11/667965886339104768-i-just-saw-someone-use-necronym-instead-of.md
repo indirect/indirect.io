@@ -6,47 +6,47 @@ slug = "i-just-saw-someone-use-necronym-instead-of"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-post_url = "https://indirect.io/post/667965886339104768/i-just-saw-someone-use-necronym-instead-of"
-state = "published"
-reblog_key = "K86blSs0"
-can_like = false
-interactability_blaze = "everyone"
-is_blazed = false
-note_count = 0.0
-source = "<a href=\"http://twitter.com/wolfybytes/status/1460254635638370313\">@wolfybytes</a>"
-can_reblog = false
-can_send_in_message = true
-display_avatar = true
-id = 6.679658863391048e+17
-format = "html"
-timestamp = 1637021910.0
-short_url = "https://tmblr.co/ZY3jbyb55sz1Ka00"
-text = "I just saw someone use &ldquo;necronym&rdquo; instead of &ldquo;deadname&rdquo; and omg that&rsquo;s so cool what."
-id_string = "667965886339104768"
-slug = "i-just-saw-someone-use-necronym-instead-of"
-is_blocks_post_format = false
-date = "2021-11-16 00:18:30 GMT"
-can_blaze = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_reply = false
-type = "quote"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2021-11-16 00:18:30 GMT"
+display_avatar = true
+format = "html"
+id = 6.679658863391048e+17
+id_string = "667965886339104768"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/667965886339104768/i-just-saw-someone-use-necronym-instead-of"
+reblog_key = "K86blSs0"
+short_url = "https://tmblr.co/ZY3jbyb55sz1Ka00"
+should_open_in_legacy = true
+slug = "i-just-saw-someone-use-necronym-instead-of"
+source = "<a href=\"http://twitter.com/wolfybytes/status/1460254635638370313\">@wolfybytes</a>"
+state = "published"
 summary = "I just saw someone use “necronym” instead of “deadname” and omg that’s so cool what."
-
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/wolfybytes/status/1460254635638370313\">@wolfybytes</a></p>"
-tree_html = ""
+text = "I just saw someone use &ldquo;necronym&rdquo; instead of &ldquo;deadname&rdquo; and omg that&rsquo;s so cool what."
+timestamp = 1637021910.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/wolfybytes/status/1460254635638370313\">@wolfybytes</a></p>"
+tree_html = ""
 +++

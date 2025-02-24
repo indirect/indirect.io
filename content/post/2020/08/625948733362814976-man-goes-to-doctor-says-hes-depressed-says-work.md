@@ -6,43 +6,43 @@ slug = "man-goes-to-doctor-says-hes-depressed-says-work"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-date = "2020-08-09 05:33:50 GMT"
-source = "<a href=\"http://twitter.com/tesseralis/status/1291839437802844160\">@tesseralis</a>"
-can_send_in_message = true
 blog_name = "indirect"
-is_blaze_pending = false
 can_blaze = false
-post_url = "https://indirect.io/post/625948733362814976/man-goes-to-doctor-says-hes-depressed-says-work"
-interactability_blaze = "everyone"
-display_avatar = true
-interactability_reblog = "everyone"
+can_like = false
 can_reblog = false
 can_reply = false
-type = "quote"
-timestamp = 1596951230.0
-text = "man goes to doctor. says he&rsquo;s depressed. says work is overwhelming. everything is disorganized, swamped with bureaucracy.\n<br/>\n<br/>&ldquo;use the app JIRA&rdquo; says doctor. &ldquo;It&rsquo;ll help your organization keep track of work.&rdquo;\n<br/>\n<br/>&ldquo;but doc,&rdquo; says the man. &ldquo;I work on JIRA.&rdquo;"
-can_like = false
-id_string = "625948733362814976"
-short_url = "https://tmblr.co/ZY3jbyYlqGvxia00"
-id = 6.25948733362815e+17
-state = "published"
+can_send_in_message = true
+date = "2020-08-09 05:33:50 GMT"
+display_avatar = true
 format = "html"
-summary = "man goes to doctor. says he’s depressed. says work is overwhelming. everything is disorganized, swamped with bureaucracy.\n \n..."
-note_count = 0.0
+id = 6.25948733362815e+17
+id_string = "625948733362814976"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
-slug = "man-goes-to-doctor-says-hes-depressed-says-work"
+note_count = 0.0
+post_url = "https://indirect.io/post/625948733362814976/man-goes-to-doctor-says-hes-depressed-says-work"
 reblog_key = "v0GYrfxx"
+short_url = "https://tmblr.co/ZY3jbyYlqGvxia00"
 should_open_in_legacy = true
+slug = "man-goes-to-doctor-says-hes-depressed-says-work"
+source = "<a href=\"http://twitter.com/tesseralis/status/1291839437802844160\">@tesseralis</a>"
+state = "published"
+summary = "man goes to doctor. says he’s depressed. says work is overwhelming. everything is disorganized, swamped with bureaucracy.\n \n..."
+text = "man goes to doctor. says he&rsquo;s depressed. says work is overwhelming. everything is disorganized, swamped with bureaucracy.\n<br/>\n<br/>&ldquo;use the app JIRA&rdquo; says doctor. &ldquo;It&rsquo;ll help your organization keep track of work.&rdquo;\n<br/>\n<br/>&ldquo;but doc,&rdquo; says the man. &ldquo;I work on JIRA.&rdquo;"
+timestamp = 1596951230.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

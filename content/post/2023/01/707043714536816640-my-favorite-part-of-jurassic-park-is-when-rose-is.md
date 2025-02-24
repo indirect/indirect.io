@@ -6,47 +6,47 @@ slug = "my-favorite-part-of-jurassic-park-is-when-rose-is"
 type = "tumblr-quote"
 
 [tumblr]
-slug = "my-favorite-part-of-jurassic-park-is-when-rose-is"
-format = "markdown"
-should_open_in_legacy = true
-can_send_in_message = true
-timestamp = 1674289431.0
-id = 7.070437145368166e+17
-can_blaze = false
-note_count = 0.0
-can_reply = false
-interactability_blaze = "everyone"
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jbydFx8Cbey00"
-source = "<a href=\"https://mstdn.party/@dreamthievin/109724157286730131\">@dreamthievin</a>"
-id_string = "707043714536816640"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2023-01-21 08:23:51 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.070437145368166e+17
+id_string = "707043714536816640"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/707043714536816640/my-favorite-part-of-jurassic-park-is-when-rose-is"
+reblog_key = "sMkXP1Rc"
+short_url = "https://tmblr.co/ZY3jbydFx8Cbey00"
+should_open_in_legacy = true
+slug = "my-favorite-part-of-jurassic-park-is-when-rose-is"
+source = "<a href=\"https://mstdn.party/@dreamthievin/109724157286730131\">@dreamthievin</a>"
 state = "published"
 summary = "My favorite part of Jurassic Park is when Rose is all “I’ll never let go” and then she lets go of Jack’s hand and T-Rex eats him"
-type = "quote"
 text = "My favorite part of Jurassic Park is when Rose is all &ldquo;I&rsquo;ll never let go&rdquo; and then she lets go of Jack&rsquo;s hand and T-Rex eats him"
-can_like = false
-display_avatar = true
-reblog_key = "sMkXP1Rc"
-can_reblog = false
-is_blocks_post_format = false
-is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/707043714536816640/my-favorite-part-of-jurassic-park-is-when-rose-is"
-interactability_reblog = "everyone"
+timestamp = 1674289431.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
-tree_html = ""
 comment = "<p><a href=\"https://mstdn.party/@dreamthievin/109724157286730131\">@dreamthievin</a></p>"
+tree_html = ""
 +++

@@ -6,47 +6,47 @@ slug = "percentage-of-women-on-board-of-directors-in"
 type = "tumblr-quote"
 
 [tumblr]
-is_blaze_pending = false
-date = "2014-09-10 11:17:12 GMT"
-source = "<a href=\"http://twitter.com/hyper_linda/status/509278530044456960\">@hyper_linda</a>"
-reblog_key = "mVfRDGi5"
-should_open_in_legacy = true
-is_blazed = false
-can_blaze = false
-interactability_blaze = "everyone"
-display_avatar = true
-slug = "percentage-of-women-on-board-of-directors-in"
-can_like = false
-can_send_in_message = true
-can_reply = false
 blog_name = "indirect"
-id_string = "97131246768"
-short_url = "https://tmblr.co/ZY3jby1QTUJIm"
+can_blaze = false
+can_like = false
 can_reblog = false
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/97131246768/percentage-of-women-on-board-of-directors-in"
-timestamp = 1410347832.0
-state = "published"
-text = "<p>Percentage of women on board of directors in Norway, a history</p>\n\n<p>1992: 3% <br/>\n2002: 6% <br/>\n2006: 27%<br/>\n2008: 40%</p>\n\n<p>legislation. it works.</p>"
+can_reply = false
+can_send_in_message = true
+date = "2014-09-10 11:17:12 GMT"
+display_avatar = true
 format = "html"
-summary = "Percentage of women on board of directors in Norway, a history\n\n 1992: 3% \n2002: 6% \n2006: 27% \n2008: 40%\n\n legislation. it..."
-note_count = 0.0
-type = "quote"
-is_blocks_post_format = false
 id = 97131246768.0
+id_string = "97131246768"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/97131246768/percentage-of-women-on-board-of-directors-in"
+reblog_key = "mVfRDGi5"
+short_url = "https://tmblr.co/ZY3jby1QTUJIm"
+should_open_in_legacy = true
+slug = "percentage-of-women-on-board-of-directors-in"
+source = "<a href=\"http://twitter.com/hyper_linda/status/509278530044456960\">@hyper_linda</a>"
+state = "published"
+summary = "Percentage of women on board of directors in Norway, a history\n\n 1992: 3% \n2002: 6% \n2006: 27% \n2008: 40%\n\n legislation. it..."
+text = "<p>Percentage of women on board of directors in Norway, a history</p>\n\n<p>1992: 3% <br/>\n2002: 6% <br/>\n2006: 27%<br/>\n2008: 40%</p>\n\n<p>legislation. it works.</p>"
+timestamp = 1410347832.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/hyper_linda/status/509278530044456960\">@hyper_linda</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

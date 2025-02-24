@@ -6,47 +6,47 @@ slug = "noah-everett-simply-will-not-talk-or-negotiate"
 type = "tumblr-quote"
 
 [tumblr]
-is_blazed = false
-slug = "noah-everett-simply-will-not-talk-or-negotiate"
-reblog_key = "fxX9ARYy"
-interactability_blaze = "everyone"
-timestamp = 1410953022.0
-format = "html"
-source = "<a href=\"http://twitter.com/textfiles/status/512041630816555008\">@textfiles</a>"
-can_like = false
 blog_name = "indirect"
-should_open_in_legacy = true
-can_send_in_message = true
-display_avatar = true
-is_blocks_post_format = false
-id_string = "97724279058"
-is_blaze_pending = false
-date = "2014-09-17 11:23:42 GMT"
-short_url = "https://tmblr.co/ZY3jby1R0qYaI"
-id = 97724279058.0
-post_url = "https://indirect.io/post/97724279058/noah-everett-simply-will-not-talk-or-negotiate"
-state = "published"
-summary = "Noah Everett simply will not talk or negotiate with me. We should assume millions of twitpics will be deleted on September 25th."
-interactability_reblog = "everyone"
-note_count = 1.0
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-can_blaze = false
+can_send_in_message = true
+date = "2014-09-17 11:23:42 GMT"
+display_avatar = true
+format = "html"
+id = 97724279058.0
+id_string = "97724279058"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/97724279058/noah-everett-simply-will-not-talk-or-negotiate"
+reblog_key = "fxX9ARYy"
+short_url = "https://tmblr.co/ZY3jby1R0qYaI"
+should_open_in_legacy = true
+slug = "noah-everett-simply-will-not-talk-or-negotiate"
+source = "<a href=\"http://twitter.com/textfiles/status/512041630816555008\">@textfiles</a>"
+state = "published"
+summary = "Noah Everett simply will not talk or negotiate with me. We should assume millions of twitpics will be deleted on September 25th."
 text = "Noah Everett simply will not talk or negotiate with me. We should assume millions of twitpics will be deleted on September 25th."
+timestamp = 1410953022.0
 type = "quote"
 
-[tumblr.reblog]
-comment = "<p><a href=\"http://twitter.com/textfiles/status/512041630816555008\">@textfiles</a></p>"
-tree_html = ""
-
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://twitter.com/textfiles/status/512041630816555008\">@textfiles</a></p>"
+tree_html = ""
 +++

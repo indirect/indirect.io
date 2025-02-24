@@ -6,43 +6,43 @@ slug = "mathematically-speaking-any-two-ducks-are-already"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/114843960638/mathematically-speaking-any-two-ducks-are-already"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1gzEyK_"
-can_reblog = false
-display_avatar = true
-timestamp = 1427553912.0
-can_like = false
-can_send_in_message = true
-type = "quote"
 blog_name = "indirect"
-is_blazed = false
 can_blaze = false
-source = "<a href=\"http://twitter.com/TheBigEasyofOz/status/499567504520654848\">@TheBigEasyofOz</a>"
-interactability_reblog = "everyone"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2015-03-28 14:45:12 GMT"
-text = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
+display_avatar = true
+format = "html"
 id = 114843960638.0
+id_string = "114843960638"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/114843960638/mathematically-speaking-any-two-ducks-are-already"
+reblog_key = "lNdrDTa3"
+short_url = "https://tmblr.co/ZY3jby1gzEyK_"
+should_open_in_legacy = true
+slug = "mathematically-speaking-any-two-ducks-are-already"
+source = "<a href=\"http://twitter.com/TheBigEasyofOz/status/499567504520654848\">@TheBigEasyofOz</a>"
 state = "published"
 summary = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
-reblog_key = "lNdrDTa3"
-note_count = 0.0
-interactability_blaze = "everyone"
-can_reply = false
-is_blocks_post_format = false
-id_string = "114843960638"
-is_blaze_pending = false
-slug = "mathematically-speaking-any-two-ducks-are-already"
-should_open_in_legacy = true
+text = "Mathematically speaking, any two ducks are already in a row. In order to get your ducks in a row, own exactly two ducks."
+timestamp = 1427553912.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

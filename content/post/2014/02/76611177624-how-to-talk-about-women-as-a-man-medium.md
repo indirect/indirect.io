@@ -7,49 +7,49 @@ title = "How to talk about women, as a man — Medium"
 type = "tumblr-link"
 
 [tumblr]
-display_avatar = true
-is_blocks_post_format = false
-date = "2014-02-14 06:51:22 GMT"
-can_blaze = false
-format = "markdown"
 blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2014-02-14 06:51:22 GMT"
+description = ""
+display_avatar = true
+format = "markdown"
+id = 76611177624.0
 id_string = "76611177624"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/76611177624/how-to-talk-about-women-as-a-man-medium"
+publisher = "medium.com"
+reblog_key = "fo5vIGA4"
+short_url = "https://tmblr.co/ZY3jby17MOSoO"
+should_open_in_legacy = true
 slug = "how-to-talk-about-women-as-a-man-medium"
 state = "published"
-should_open_in_legacy = true
-can_reblog = false
-reblog_key = "fo5vIGA4"
-title = "How to talk about women, as a man — Medium"
-url = "https://medium.com/think-different-think-stupid/6942d29d724"
-can_like = false
-interactability_reblog = "everyone"
-can_send_in_message = true
-can_reply = false
-id = 76611177624.0
-post_url = "https://indirect.io/post/76611177624/how-to-talk-about-women-as-a-man-medium"
-short_url = "https://tmblr.co/ZY3jby17MOSoO"
-interactability_blaze = "everyone"
-is_blaze_pending = false
-timestamp = 1392360682.0
 summary = "How to talk about women, as a man — Medium"
-publisher = "medium.com"
-description = ""
+timestamp = 1392360682.0
+title = "How to talk about women, as a man — Medium"
 type = "link"
-is_blazed = false
-note_count = 0.0
-
-[tumblr.reblog]
-tree_html = ""
-comment = ""
+url = "https://medium.com/think-different-think-stupid/6942d29d724"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

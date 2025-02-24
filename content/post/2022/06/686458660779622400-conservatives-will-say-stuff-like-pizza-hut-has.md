@@ -6,43 +6,43 @@ slug = "conservatives-will-say-stuff-like-pizza-hut-has"
 type = "tumblr-quote"
 
 [tumblr]
-post_url = "https://indirect.io/post/686458660779622400/conservatives-will-say-stuff-like-pizza-hut-has"
-timestamp = 1654657994.0
-is_blocks_post_format = false
-interactability_blaze = "everyone"
-reblog_key = "hvNngAOe"
-interactability_reblog = "everyone"
-display_avatar = true
-type = "quote"
 blog_name = "indirect"
-id = 6.864586607796224e+17
 can_blaze = false
-slug = "conservatives-will-say-stuff-like-pizza-hut-has"
-format = "html"
-is_blazed = false
-should_open_in_legacy = true
-text = "conservatives will say stuff like “pizza hut has gone woke now.” but then you will google what they did and it’s something like asking people to stop eating the little plastic table that comes with the pizza"
-source = "<a href=\"http://twitter.com/MNateShyamalan/status/1533464896402247681\">@MNateShyamalan</a>"
 can_like = false
-can_send_in_message = true
-is_blaze_pending = false
-summary = "conservatives will say stuff like “pizza hut has gone woke now.” but then you will google what they did and it’s something like..."
-note_count = 0.0
-can_reply = false
-id_string = "686458660779622400"
-short_url = "https://tmblr.co/ZY3jbyc6oeFKme00"
-state = "published"
-date = "2022-06-08 03:13:14 GMT"
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2022-06-08 03:13:14 GMT"
+display_avatar = true
+format = "html"
+id = 6.864586607796224e+17
+id_string = "686458660779622400"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/686458660779622400/conservatives-will-say-stuff-like-pizza-hut-has"
+reblog_key = "hvNngAOe"
+short_url = "https://tmblr.co/ZY3jbyc6oeFKme00"
+should_open_in_legacy = true
+slug = "conservatives-will-say-stuff-like-pizza-hut-has"
+source = "<a href=\"http://twitter.com/MNateShyamalan/status/1533464896402247681\">@MNateShyamalan</a>"
+state = "published"
+summary = "conservatives will say stuff like “pizza hut has gone woke now.” but then you will google what they did and it’s something like..."
+text = "conservatives will say stuff like “pizza hut has gone woke now.” but then you will google what they did and it’s something like asking people to stop eating the little plastic table that comes with the pizza"
+timestamp = 1654657994.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

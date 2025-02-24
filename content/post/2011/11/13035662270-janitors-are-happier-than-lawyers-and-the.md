@@ -6,46 +6,46 @@ slug = "janitors-are-happier-than-lawyers-and-the"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-state = "published"
-reblog_key = "uHpXipVZ"
-summary = "janitors are happier than lawyers and the discrepancy arises from the amount of meaningfulness they perceived in their work"
-source = "<a href=\"http://blog.penelopetrunk.com/2011/11/15/make-your-work-more-meaningful\">Make Your Work More Meaningful</a>"
-can_reblog = false
-can_send_in_message = true
 blog_name = "indirect"
-id_string = "13035662270"
-is_blazed = false
-post_url = "https://indirect.io/post/13035662270/janitors-are-happier-than-lawyers-and-the"
+bookmarklet = true
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2011-11-20 00:21:15 GMT"
+display_avatar = true
 format = "markdown"
 id = 13035662270.0
-should_open_in_legacy = true
-note_count = 1.0
-source_title = "blog.penelopetrunk.com"
-interactability_reblog = "everyone"
+id_string = "13035662270"
 interactability_blaze = "everyone"
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jbyC8-6k_"
-bookmarklet = true
-can_like = false
-can_blaze = false
-type = "quote"
-timestamp = 1321748475.0
-text = "janitors are happier than lawyers and the discrepancy arises from the amount of meaningfulness they perceived in their work"
+interactability_reblog = "everyone"
 is_blaze_pending = false
-source_url = "http://blog.penelopetrunk.com/2011/11/15/make-your-work-more-meaningful/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20BrazenCareerist%20(Penelope%20Trunk)"
-can_reply = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/13035662270/janitors-are-happier-than-lawyers-and-the"
+reblog_key = "uHpXipVZ"
+short_url = "https://tmblr.co/ZY3jbyC8-6k_"
+should_open_in_legacy = true
 slug = "janitors-are-happier-than-lawyers-and-the"
+source = "<a href=\"http://blog.penelopetrunk.com/2011/11/15/make-your-work-more-meaningful\">Make Your Work More Meaningful</a>"
+source_title = "blog.penelopetrunk.com"
+source_url = "http://blog.penelopetrunk.com/2011/11/15/make-your-work-more-meaningful/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20BrazenCareerist%20(Penelope%20Trunk)"
+state = "published"
+summary = "janitors are happier than lawyers and the discrepancy arises from the amount of meaningfulness they perceived in their work"
+text = "janitors are happier than lawyers and the discrepancy arises from the amount of meaningfulness they perceived in their work"
+timestamp = 1321748475.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

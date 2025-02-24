@@ -6,41 +6,41 @@ slug = "date-at-applebees-waiter-whatll-it-be-her"
 type = "tumblr-quote"
 
 [tumblr]
-format = "html"
-note_count = 0.0
-text = "<p>[date at applebees]<br/>\nwaiter: what&rsquo;ll it be?</p>\n\n<p>her: I&rsquo;ll have the apple </p>\n\n<p>me: *gritted teeth* I guess I&rsquo;ll have the bees then</p>"
-id_string = "185167455753"
-can_blaze = false
-date = "2019-05-27 03:19:52 GMT"
-timestamp = 1558927192.0
-id = 185167455753.0
-is_blaze_pending = false
-post_url = "https://indirect.io/post/185167455753/date-at-applebees-waiter-whatll-it-be-her"
-interactability_blaze = "everyone"
-slug = "date-at-applebees-waiter-whatll-it-be-her"
-state = "published"
-short_url = "https://tmblr.co/ZY3jby2iSroO9"
-should_open_in_legacy = true
-type = "quote"
-is_blocks_post_format = false
 blog_name = "indirect"
-source = "<a href=\"http://twitter.com/mrjohndarby/status/1132467313016492034\">@mrjohndarby</a>"
-interactability_reblog = "everyone"
-is_blazed = false
-reblog_key = "YAM9PdH5"
-summary = "[date at applebees] \nwaiter: what’ll it be?\n\n her: I’ll have the apple \n\n me: *gritted teeth* I guess I’ll have the bees then"
-can_send_in_message = true
+can_blaze = false
 can_like = false
 can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2019-05-27 03:19:52 GMT"
 display_avatar = true
+format = "html"
+id = 185167455753.0
+id_string = "185167455753"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/185167455753/date-at-applebees-waiter-whatll-it-be-her"
+reblog_key = "YAM9PdH5"
+short_url = "https://tmblr.co/ZY3jby2iSroO9"
+should_open_in_legacy = true
+slug = "date-at-applebees-waiter-whatll-it-be-her"
+source = "<a href=\"http://twitter.com/mrjohndarby/status/1132467313016492034\">@mrjohndarby</a>"
+state = "published"
+summary = "[date at applebees] \nwaiter: what’ll it be?\n\n her: I’ll have the apple \n\n me: *gritted teeth* I guess I’ll have the bees then"
+text = "<p>[date at applebees]<br/>\nwaiter: what&rsquo;ll it be?</p>\n\n<p>her: I&rsquo;ll have the apple </p>\n\n<p>me: *gritted teeth* I guess I&rsquo;ll have the bees then</p>"
+timestamp = 1558927192.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

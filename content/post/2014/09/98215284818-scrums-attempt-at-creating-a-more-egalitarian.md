@@ -6,43 +6,43 @@ slug = "scrums-attempt-at-creating-a-more-egalitarian"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blocks_post_format = false
 blog_name = "indirect"
 can_blaze = false
-reblog_key = "w7fX3PYx"
-interactability_reblog = "everyone"
-can_send_in_message = true
+can_like = false
+can_reblog = false
 can_reply = false
-is_blazed = false
-is_blaze_pending = false
-should_open_in_legacy = true
-text = "Scrum&rsquo;s attempt at creating a more egalitarian process backfired, twice, in each case creating something more authoritarian instead."
-interactability_blaze = "everyone"
-state = "published"
+can_send_in_message = true
 date = "2014-09-23 08:36:53 GMT"
-summary = "Scrum’s attempt at creating a more egalitarian process backfired, twice, in each case creating something more authoritarian..."
+display_avatar = true
+format = "markdown"
 id = 98215284818.0
 id_string = "98215284818"
-can_like = false
-display_avatar = true
-short_url = "https://tmblr.co/ZY3jby1RU5b1I"
-source = "<a href=\"http://gilesbowkett.blogspot.com/2014/09/why-scrum-should-basically-just-die-in.html##Scrum%27s+attempt+at+creating+a+more+egalitarian+process+backfired%2C+twice%2C+in+each+case+creating+something+more+authoritarian+instead.\">Giles Bowkett: Why Scrum Should Basically Just Die In A Fire</a>"
-timestamp = 1411461413.0
-post_url = "https://indirect.io/post/98215284818/scrums-attempt-at-creating-a-more-egalitarian"
-slug = "scrums-attempt-at-creating-a-more-egalitarian"
-can_reblog = false
-format = "markdown"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
+post_url = "https://indirect.io/post/98215284818/scrums-attempt-at-creating-a-more-egalitarian"
+reblog_key = "w7fX3PYx"
+short_url = "https://tmblr.co/ZY3jby1RU5b1I"
+should_open_in_legacy = true
+slug = "scrums-attempt-at-creating-a-more-egalitarian"
+source = "<a href=\"http://gilesbowkett.blogspot.com/2014/09/why-scrum-should-basically-just-die-in.html##Scrum%27s+attempt+at+creating+a+more+egalitarian+process+backfired%2C+twice%2C+in+each+case+creating+something+more+authoritarian+instead.\">Giles Bowkett: Why Scrum Should Basically Just Die In A Fire</a>"
+state = "published"
+summary = "Scrum’s attempt at creating a more egalitarian process backfired, twice, in each case creating something more authoritarian..."
+text = "Scrum&rsquo;s attempt at creating a more egalitarian process backfired, twice, in each case creating something more authoritarian instead."
+timestamp = 1411461413.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

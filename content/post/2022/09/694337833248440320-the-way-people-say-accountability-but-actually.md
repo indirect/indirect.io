@@ -6,43 +6,43 @@ slug = "the-way-people-say-accountability-but-actually"
 type = "tumblr-quote"
 
 [tumblr]
-is_blocks_post_format = false
-id = 6.943378332484403e+17
-id_string = "694337833248440320"
-timestamp = 1662172158.0
-interactability_reblog = "everyone"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-summary = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
-should_open_in_legacy = true
-display_avatar = true
-is_blazed = false
-slug = "the-way-people-say-accountability-but-actually"
-is_blaze_pending = false
-date = "2022-09-03 02:29:18 GMT"
-reblog_key = "MMv1ph5i"
-text = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
-source = "<a href=\"http://twitter.com/olukukoyi/status/1565719225058185216\">@olukukoyi</a>"
-post_url = "https://indirect.io/post/694337833248440320/the-way-people-say-accountability-but-actually"
-format = "html"
-can_like = false
-blog_name = "indirect"
-interactability_blaze = "everyone"
 can_send_in_message = true
-state = "published"
-type = "quote"
-short_url = "https://tmblr.co/ZY3jbycYo9IWuq00"
+date = "2022-09-03 02:29:18 GMT"
+display_avatar = true
+format = "html"
+id = 6.943378332484403e+17
+id_string = "694337833248440320"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
-can_blaze = false
+post_url = "https://indirect.io/post/694337833248440320/the-way-people-say-accountability-but-actually"
+reblog_key = "MMv1ph5i"
+short_url = "https://tmblr.co/ZY3jbycYo9IWuq00"
+should_open_in_legacy = true
+slug = "the-way-people-say-accountability-but-actually"
+source = "<a href=\"http://twitter.com/olukukoyi/status/1565719225058185216\">@olukukoyi</a>"
+state = "published"
+summary = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
+text = "The way people say “accountability” but actually mean “punishment”. Or “abuse” but actually mean “hurt feelings”."
+timestamp = 1662172158.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

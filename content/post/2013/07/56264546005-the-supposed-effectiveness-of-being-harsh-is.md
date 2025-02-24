@@ -7,43 +7,43 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-id = 56264546005.0
-source = "<a href=\"http://blog.existentialize.com/on-being-nice.html\">On Being Nice</a>"
-is_blaze_pending = false
-slug = "the-supposed-effectiveness-of-being-harsh-is"
-timestamp = 1374610035.0
-should_open_in_legacy = true
 bookmarklet = true
-interactability_reblog = "everyone"
-is_blazed = false
-state = "published"
+can_blaze = false
 can_like = false
 can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2013-07-23 20:07:15 GMT"
+display_avatar = true
+format = "markdown"
+id = 56264546005.0
+id_string = "56264546005"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/56264546005/the-supposed-effectiveness-of-being-harsh-is"
+reblog_key = "urc2JNI4"
+short_url = "https://tmblr.co/ZY3jbyqPeDRL"
+should_open_in_legacy = true
+slug = "the-supposed-effectiveness-of-being-harsh-is"
+source = "<a href=\"http://blog.existentialize.com/on-being-nice.html\">On Being Nice</a>"
+state = "published"
 summary = "the [supposed] effectiveness of being harsh is actually regression to the mean"
 text = "the [supposed] effectiveness of being harsh is actually regression to the mean"
-interactability_blaze = "everyone"
-post_url = "https://indirect.io/post/56264546005/the-supposed-effectiveness-of-being-harsh-is"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyqPeDRL"
-can_reply = false
-is_blocks_post_format = false
-can_blaze = false
-id_string = "56264546005"
-date = "2013-07-23 20:07:15 GMT"
-note_count = 0.0
-can_send_in_message = true
-display_avatar = true
+timestamp = 1374610035.0
 type = "quote"
-reblog_key = "urc2JNI4"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
 

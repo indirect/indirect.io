@@ -6,47 +6,47 @@ slug = "garden-statues-being-mistaken-for-elves-is-a"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-type = "quote"
-is_blocks_post_format = false
-is_blazed = false
-interactability_reblog = "everyone"
-slug = "garden-statues-being-mistaken-for-elves-is-a"
-note_count = 0.0
-id_string = "709005358480392192"
-can_reblog = false
 blog_name = "indirect"
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbydMv9tu4e00"
-summary = "Garden statues being mistaken for elves is a common misgnomer."
-can_like = false
-can_reply = false
-format = "markdown"
-text = "Garden statues being mistaken for elves is a common misgnomer."
-interactability_blaze = "everyone"
-display_avatar = true
-timestamp = 1676160200.0
-reblog_key = "Sl3liRzl"
-can_send_in_message = true
-id = 7.090053584803922e+17
 can_blaze = false
-post_url = "https://indirect.io/post/709005358480392192/garden-statues-being-mistaken-for-elves-is-a"
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
 date = "2023-02-12 00:03:20 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.090053584803922e+17
+id_string = "709005358480392192"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/709005358480392192/garden-statues-being-mistaken-for-elves-is-a"
+reblog_key = "Sl3liRzl"
+short_url = "https://tmblr.co/ZY3jbydMv9tu4e00"
 should_open_in_legacy = true
+slug = "garden-statues-being-mistaken-for-elves-is-a"
 source = "<a href=\"https://aus.social/@dgar/109843511883428009\">@dgar</a>"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"https://aus.social/@dgar/109843511883428009\">@dgar</a></p>"
+state = "published"
+summary = "Garden statues being mistaken for elves is a common misgnomer."
+text = "Garden statues being mistaken for elves is a common misgnomer."
+timestamp = 1676160200.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"https://aus.social/@dgar/109843511883428009\">@dgar</a></p>"
+tree_html = ""
 +++

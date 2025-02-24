@@ -6,47 +6,47 @@ slug = "but-i-would-feel-so-terrible-to-burden-my"
 type = "tumblr-quote"
 
 [tumblr]
-short_url = "https://tmblr.co/ZY3jbyeq6i33"
-format = "markdown"
-note_count = 0.0
-text = "but I would feel so terrible to burden my therapist by telling her my problems&hellip;"
-can_reply = false
-type = "quote"
-is_blazed = false
-post_url = "https://indirect.io/post/43823841475/but-i-would-feel-so-terrible-to-burden-my"
-timestamp = 1361647877.0
-source = ""
-id = 43823841475.0
-date = "2013-02-23 19:31:17 GMT"
-summary = "but I would feel so terrible to burden my therapist by telling her my problems…"
-should_open_in_legacy = true
-is_blocks_post_format = false
-id_string = "43823841475"
+blog_name = "indirect"
 can_blaze = false
 can_like = false
-display_avatar = true
-reblog_key = "yesMe6VY"
 can_reblog = false
-is_blaze_pending = false
-interactability_reblog = "everyone"
+can_reply = false
 can_send_in_message = true
-blog_name = "indirect"
-slug = "but-i-would-feel-so-terrible-to-burden-my"
+date = "2013-02-23 19:31:17 GMT"
+display_avatar = true
+format = "markdown"
+id = 43823841475.0
+id_string = "43823841475"
 interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/43823841475/but-i-would-feel-so-terrible-to-burden-my"
+reblog_key = "yesMe6VY"
+short_url = "https://tmblr.co/ZY3jbyeq6i33"
+should_open_in_legacy = true
+slug = "but-i-would-feel-so-terrible-to-burden-my"
+source = ""
 state = "published"
+summary = "but I would feel so terrible to burden my therapist by telling her my problems…"
+text = "but I would feel so terrible to burden my therapist by telling her my problems&hellip;"
+timestamp = 1361647877.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = ""
 tree_html = ""
-
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-
-[tumblr.blog.tumblrmart_accessories]
 +++

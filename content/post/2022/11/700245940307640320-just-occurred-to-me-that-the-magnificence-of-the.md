@@ -6,47 +6,47 @@ slug = "just-occurred-to-me-that-the-magnificence-of-the"
 type = "tumblr-quote"
 
 [tumblr]
-id = 7.002459403076403e+17
-is_blaze_pending = false
-id_string = "700245940307640320"
-is_blazed = false
-source = "<a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a>"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
-timestamp = 1667806568.0
-is_blocks_post_format = false
+can_reply = false
+can_send_in_message = true
 date = "2022-11-07 07:36:08 GMT"
-state = "published"
+display_avatar = true
+format = "html"
+id = 7.002459403076403e+17
+id_string = "700245940307640320"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
-type = "quote"
 post_url = "https://indirect.io/post/700245940307640320/just-occurred-to-me-that-the-magnificence-of-the"
-slug = "just-occurred-to-me-that-the-magnificence-of-the"
+reblog_key = "8aIW1z0S"
 short_url = "https://tmblr.co/ZY3jbyctnVZ-Sa00"
 should_open_in_legacy = true
-text = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life crisis ever, but narrated from the point of view of the sports car itself"
-display_avatar = true
-can_blaze = false
-reblog_key = "8aIW1z0S"
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-can_reply = false
+slug = "just-occurred-to-me-that-the-magnificence-of-the"
+source = "<a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a>"
+state = "published"
 summary = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life..."
-can_send_in_message = true
-blog_name = "indirect"
-format = "html"
-can_like = false
+text = "just occurred to me that the magnificence of the timeline this week is because this is a show about the most expensive mid life crisis ever, but narrated from the point of view of the sports car itself"
+timestamp = 1667806568.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/zatapatique/status/1589244003383676929\">@zatapatique</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,43 +6,43 @@ slug = "inside-me-there-are-two-wolves-this-is-not-enough"
 type = "tumblr-quote"
 
 [tumblr]
-should_open_in_legacy = true
-type = "quote"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2024-04-21 23:20:55 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.484123700098826e+17
+id_string = "748412370009882624"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
 is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/748412370009882624/inside-me-there-are-two-wolves-this-is-not-enough"
+reblog_key = "7LrskhYr"
+short_url = "https://tmblr.co/ZY3jbyfYvHNJye00"
+should_open_in_legacy = true
+slug = "inside-me-there-are-two-wolves-this-is-not-enough"
+source = "<a href=\"https://bsky.app/profile/francisgasparini.bsky.social/post/3kpaevg5i7y2i\">Francis Gasparini (@francisgasparini.bsky.social)</a>"
+state = "published"
 summary = "Inside me there are two wolves. This is not enough to control the deer population inside me, which is degrading the river..."
 text = "Inside me there are two wolves. This is not enough to control the deer population inside me, which is degrading the river ecology inside me. I’m attempting to release more\n<br/>\nwolves inside me to address this, but the ranchers inside me object, and"
-interactability_reblog = "everyone"
-can_reblog = false
-reblog_key = "7LrskhYr"
-can_blaze = false
-slug = "inside-me-there-are-two-wolves-this-is-not-enough"
-date = "2024-04-21 23:20:55 GMT"
 timestamp = 1713741655.0
-blog_name = "indirect"
-id_string = "748412370009882624"
-format = "markdown"
-can_send_in_message = true
-display_avatar = true
-is_blaze_pending = false
-short_url = "https://tmblr.co/ZY3jbyfYvHNJye00"
-note_count = 0.0
-source = "<a href=\"https://bsky.app/profile/francisgasparini.bsky.social/post/3kpaevg5i7y2i\">Francis Gasparini (@francisgasparini.bsky.social)</a>"
-can_like = false
-interactability_blaze = "everyone"
-can_reply = false
-id = 7.484123700098826e+17
-is_blazed = false
-state = "published"
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

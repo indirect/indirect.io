@@ -6,50 +6,50 @@ slug = "many-self-described-real-developers-still-think"
 type = "tumblr-quote"
 
 [tumblr]
-display_avatar = true
-is_blocks_post_format = false
-reblog_key = "13zvyQM4"
-can_like = false
-id = 77616672542.0
-short_url = "https://tmblr.co/ZY3jby18IK6yU"
-summary = "many self-described “real” developers still think browser code is sissy stuff. In their minds, the client is easy and it’s what..."
-interactability_reblog = "everyone"
-post_url = "https://indirect.io/post/77616672542/many-self-described-real-developers-still-think"
-timestamp = 1393184060.0
-can_reblog = false
-slug = "many-self-described-real-developers-still-think"
-source_url = "https://readmill.com/mariusz/reads/human-javascript/highlights/j8wdgg"
-interactability_blaze = "everyone"
-can_blaze = false
-note_count = 0.0
-source_title = "readmill.com"
-can_send_in_message = true
 blog_name = "indirect"
-is_blaze_pending = false
 bookmarklet = true
-text = "many self-described “real” developers still think browser code is sissy stuff. In their minds, the client is easy and it’s what the designer-y, non-developer folks do. That’s ridiculous."
-type = "quote"
-date = "2014-02-23 19:34:20 GMT"
-state = "published"
-format = "markdown"
-id_string = "77616672542"
-is_blazed = false
-should_open_in_legacy = true
-source = "<a href=\"https://readmill.com/mariusz/reads/human-javascript/highlights/j8wdgg\">Human JavaScript</a>"
+can_blaze = false
+can_like = false
+can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2014-02-23 19:34:20 GMT"
+display_avatar = true
+format = "markdown"
+id = 77616672542.0
+id_string = "77616672542"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/77616672542/many-self-described-real-developers-still-think"
+reblog_key = "13zvyQM4"
+short_url = "https://tmblr.co/ZY3jby18IK6yU"
+should_open_in_legacy = true
+slug = "many-self-described-real-developers-still-think"
+source = "<a href=\"https://readmill.com/mariusz/reads/human-javascript/highlights/j8wdgg\">Human JavaScript</a>"
+source_title = "readmill.com"
+source_url = "https://readmill.com/mariusz/reads/human-javascript/highlights/j8wdgg"
+state = "published"
+summary = "many self-described “real” developers still think browser code is sissy stuff. In their minds, the client is easy and it’s what..."
+text = "many self-described “real” developers still think browser code is sissy stuff. In their minds, the client is easy and it’s what the designer-y, non-developer folks do. That’s ridiculous."
+timestamp = 1393184060.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"https://readmill.com/mariusz/reads/human-javascript/highlights/j8wdgg\">Human JavaScript</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

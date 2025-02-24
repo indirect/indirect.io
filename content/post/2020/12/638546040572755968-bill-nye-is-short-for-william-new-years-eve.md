@@ -6,43 +6,43 @@ slug = "bill-nye-is-short-for-william-new-years-eve"
 type = "tumblr-quote"
 
 [tumblr]
-date = "2020-12-26 06:42:38 GMT"
-text = "bill nye is short for william new year’s eve"
-is_blocks_post_format = false
 blog_name = "indirect"
-can_like = false
-display_avatar = true
-id = 6.38546040572756e+17
-post_url = "https://indirect.io/post/638546040572755968/bill-nye-is-short-for-william-new-years-eve"
-note_count = 0.0
-can_reply = false
-timestamp = 1608964958.0
-short_url = "https://tmblr.co/ZY3jbyZSaZsX4a00"
-interactability_blaze = "everyone"
 can_blaze = false
-format = "html"
-summary = "bill nye is short for william new year’s eve"
-should_open_in_legacy = true
+can_like = false
 can_reblog = false
-is_blazed = false
-state = "published"
-source = "<a href=\"http://twitter.com/probablyalissa/status/1342718994206269440\">@probablyalissa</a>"
-type = "quote"
+can_reply = false
+can_send_in_message = true
+date = "2020-12-26 06:42:38 GMT"
+display_avatar = true
+format = "html"
+id = 6.38546040572756e+17
 id_string = "638546040572755968"
-slug = "bill-nye-is-short-for-william-new-years-eve"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/638546040572755968/bill-nye-is-short-for-william-new-years-eve"
 reblog_key = "uWX2z1TO"
-can_send_in_message = true
+short_url = "https://tmblr.co/ZY3jbyZSaZsX4a00"
+should_open_in_legacy = true
+slug = "bill-nye-is-short-for-william-new-years-eve"
+source = "<a href=\"http://twitter.com/probablyalissa/status/1342718994206269440\">@probablyalissa</a>"
+state = "published"
+summary = "bill nye is short for william new year’s eve"
+text = "bill nye is short for william new year’s eve"
+timestamp = 1608964958.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

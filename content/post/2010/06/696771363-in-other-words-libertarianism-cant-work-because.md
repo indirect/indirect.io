@@ -6,50 +6,50 @@ slug = "in-other-words-libertarianism-cant-work-because"
 type = "tumblr-quote"
 
 [tumblr]
-can_send_in_message = true
-slug = "in-other-words-libertarianism-cant-work-because"
-format = "html"
-summary = "In other words, libertarianism can’t work because government sucks."
-interactability_reblog = "everyone"
-display_avatar = true
-post_url = "https://indirect.io/post/696771363/in-other-words-libertarianism-cant-work-because"
-state = "published"
-source_url = "http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html"
-can_like = false
-can_reply = false
-is_blaze_pending = false
-can_blaze = false
-should_open_in_legacy = true
-id_string = "696771363"
-is_blazed = false
-reblog_key = "Hrc0uwr5"
-source_title = "marginalrevolution.com"
 blog_name = "indirect"
-id = 696771363.0
-short_url = "https://tmblr.co/ZY3jbyfX_CZ"
-note_count = 0.0
-text = "In other words, libertarianism can&rsquo;t work because government sucks."
-source = "<a href=\"http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html\">Marginal Revolution: Oil Spills, Tort Law and Libertarianism</a>"
-can_reblog = false
-type = "quote"
-is_blocks_post_format = false
-date = "2010-06-14 07:54:27 GMT"
 bookmarklet = true
-timestamp = 1276502067.0
+can_blaze = false
+can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2010-06-14 07:54:27 GMT"
+display_avatar = true
+format = "html"
+id = 696771363.0
+id_string = "696771363"
 interactability_blaze = "everyone"
-
-[tumblr.reblog]
-tree_html = ""
-comment = "<p><a href=\"http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html\">Marginal Revolution: Oil Spills, Tort Law and Libertarianism</a></p>"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/696771363/in-other-words-libertarianism-cant-work-because"
+reblog_key = "Hrc0uwr5"
+short_url = "https://tmblr.co/ZY3jbyfX_CZ"
+should_open_in_legacy = true
+slug = "in-other-words-libertarianism-cant-work-because"
+source = "<a href=\"http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html\">Marginal Revolution: Oil Spills, Tort Law and Libertarianism</a>"
+source_title = "marginalrevolution.com"
+source_url = "http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html"
+state = "published"
+summary = "In other words, libertarianism can’t work because government sucks."
+text = "In other words, libertarianism can&rsquo;t work because government sucks."
+timestamp = 1276502067.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = "<p><a href=\"http://www.marginalrevolution.com/marginalrevolution/2010/05/milton-friedman-1-paul-krugman-0.html\">Marginal Revolution: Oil Spills, Tort Law and Libertarianism</a></p>"
+tree_html = ""
 +++

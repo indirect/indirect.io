@@ -7,40 +7,40 @@ type = "tumblr-quote"
 
 [tumblr]
 blog_name = "indirect"
-is_blazed = false
-reblog_key = "pVxRZuWa"
-id = 99833305898.0
 can_blaze = false
-timestamp = 1413137961.0
-is_blaze_pending = false
-slug = "aanand-brilliant-so-some-machiavellian"
-post_url = "https://indirect.io/post/99833305898/aanand-brilliant-so-some-machiavellian"
-summary = ". @aanand brilliant. So some Machiavellian sociopath has gamified hate, and involved untold thousands in an evil “A”RG."
-note_count = 0.0
 can_like = false
-is_blocks_post_format = false
-date = "2014-10-12 18:19:21 GMT"
-should_open_in_legacy = true
-display_avatar = true
-text = ". @aanand brilliant. So some Machiavellian sociopath has gamified hate, and involved untold thousands in an evil “A”RG."
-type = "quote"
-id_string = "99833305898"
-format = "html"
-short_url = "https://tmblr.co/ZY3jby1S_Xrig"
-can_reply = false
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
-state = "published"
-source = "<a href=\"http://twitter.com/atl/status/521339593279287297\">@atl</a>"
 can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2014-10-12 18:19:21 GMT"
+display_avatar = true
+format = "html"
+id = 99833305898.0
+id_string = "99833305898"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/99833305898/aanand-brilliant-so-some-machiavellian"
+reblog_key = "pVxRZuWa"
+short_url = "https://tmblr.co/ZY3jby1S_Xrig"
+should_open_in_legacy = true
+slug = "aanand-brilliant-so-some-machiavellian"
+source = "<a href=\"http://twitter.com/atl/status/521339593279287297\">@atl</a>"
+state = "published"
+summary = ". @aanand brilliant. So some Machiavellian sociopath has gamified hate, and involved untold thousands in an evil “A”RG."
+text = ". @aanand brilliant. So some Machiavellian sociopath has gamified hate, and involved untold thousands in an evil “A”RG."
+timestamp = 1413137961.0
+type = "quote"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 

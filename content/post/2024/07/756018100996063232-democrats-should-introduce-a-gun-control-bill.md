@@ -6,43 +6,43 @@ slug = "democrats-should-introduce-a-gun-control-bill"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-note_count = 1.0
-can_reply = false
-timestamp = 1720995045.0
-format = "markdown"
-can_like = false
-interactability_blaze = "everyone"
-can_send_in_message = true
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyfzwdKHei00"
-text = "Democrats should introduce a gun control bill called the &ldquo;The Donald Trump safety and gun control bill&rdquo; and make republicans vote against it."
-display_avatar = true
-should_open_in_legacy = true
-is_blocks_post_format = false
-summary = "Democrats should introduce a gun control bill called the “The Donald Trump safety and gun control bill” and make republicans..."
-is_blaze_pending = false
-source = "<a href=\"https://twitter.com/JamesTate121/status/1812474974675825129\">James Tate (@JamesTate121)</a>"
-interactability_reblog = "everyone"
 blog_name = "indirect"
-id_string = "756018100996063232"
+can_blaze = false
+can_like = false
 can_reblog = false
-post_url = "https://indirect.io/post/756018100996063232/democrats-should-introduce-a-gun-control-bill"
-type = "quote"
-is_blazed = false
-slug = "democrats-should-introduce-a-gun-control-bill"
+can_reply = false
+can_send_in_message = true
 date = "2024-07-14 22:10:45 GMT"
-reblog_key = "N2obreA0"
+display_avatar = true
+format = "markdown"
 id = 7.560181009960632e+17
+id_string = "756018100996063232"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/756018100996063232/democrats-should-introduce-a-gun-control-bill"
+reblog_key = "N2obreA0"
+short_url = "https://tmblr.co/ZY3jbyfzwdKHei00"
+should_open_in_legacy = true
+slug = "democrats-should-introduce-a-gun-control-bill"
+source = "<a href=\"https://twitter.com/JamesTate121/status/1812474974675825129\">James Tate (@JamesTate121)</a>"
+state = "published"
+summary = "Democrats should introduce a gun control bill called the “The Donald Trump safety and gun control bill” and make republicans..."
+text = "Democrats should introduce a gun control bill called the &ldquo;The Donald Trump safety and gun control bill&rdquo; and make republicans vote against it."
+timestamp = 1720995045.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

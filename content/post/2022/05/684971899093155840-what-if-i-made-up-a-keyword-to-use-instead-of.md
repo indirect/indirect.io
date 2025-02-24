@@ -6,47 +6,47 @@ slug = "what-if-i-made-up-a-keyword-to-use-instead-of"
 type = "tumblr-quote"
 
 [tumblr]
-type = "quote"
-is_blazed = false
-format = "html"
-reblog_key = "o9X9H7tj"
-interactability_blaze = "everyone"
-can_send_in_message = true
-timestamp = 1653240107.0
-should_open_in_legacy = true
-is_blocks_post_format = false
-id = 6.849718990931558e+17
-can_blaze = false
-date = "2022-05-22 17:21:47 GMT"
-can_reblog = false
 blog_name = "indirect"
-slug = "what-if-i-made-up-a-keyword-to-use-instead-of"
-can_reply = false
-post_url = "https://indirect.io/post/684971899093155840/what-if-i-made-up-a-keyword-to-use-instead-of"
-short_url = "https://tmblr.co/ZY3jbyc1Wb0cae00"
-note_count = 1.0
-display_avatar = true
-id_string = "684971899093155840"
-source = "<a href=\"http://twitter.com/steveklabnik/status/1527375805751259136\">@steveklabnik</a>"
+can_blaze = false
 can_like = false
-state = "published"
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+date = "2022-05-22 17:21:47 GMT"
+display_avatar = true
+format = "html"
+id = 6.849718990931558e+17
+id_string = "684971899093155840"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
 is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/684971899093155840/what-if-i-made-up-a-keyword-to-use-instead-of"
+reblog_key = "o9X9H7tj"
+short_url = "https://tmblr.co/ZY3jbyc1Wb0cae00"
+should_open_in_legacy = true
+slug = "what-if-i-made-up-a-keyword-to-use-instead-of"
+source = "<a href=\"http://twitter.com/steveklabnik/status/1527375805751259136\">@steveklabnik</a>"
+state = "published"
 summary = "what if I… made up a keyword… to use instead of “if !” .. aha ha, just kidding.. unless..?"
 text = "what if I… made up a keyword… to use instead of “if !” .. aha ha, just kidding.. unless..?"
-interactability_reblog = "everyone"
+timestamp = 1653240107.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/steveklabnik/status/1527375805751259136\">@steveklabnik</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++

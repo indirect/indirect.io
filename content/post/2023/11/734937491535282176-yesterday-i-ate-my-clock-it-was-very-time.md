@@ -6,43 +6,43 @@ slug = "yesterday-i-ate-my-clock-it-was-very-time"
 type = "tumblr-quote"
 
 [tumblr]
-state = "published"
-reblog_key = "AqKmdcsU"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
+can_reblog = false
 can_reply = false
-summary = "Yesterday I ate my clock … It was very time consuming, Especially when I went back for seconds."
-is_blocks_post_format = false
-should_open_in_legacy = true
-note_count = 0.0
+can_send_in_message = true
+date = "2023-11-25 05:43:29 GMT"
 display_avatar = true
+format = "markdown"
+id = 7.349374915352822e+17
 id_string = "734937491535282176"
 interactability_blaze = "everyone"
-can_like = false
 interactability_reblog = "everyone"
-type = "quote"
-is_blazed = false
-timestamp = 1700891009.0
-can_reblog = false
-id = 7.349374915352822e+17
-short_url = "https://tmblr.co/ZY3jbyep1S4p4y00"
-text = "Yesterday I ate my clock &hellip; <br/>It was very time consuming,<br/>Especially when I went back for seconds."
-blog_name = "indirect"
-slug = "yesterday-i-ate-my-clock-it-was-very-time"
-date = "2023-11-25 05:43:29 GMT"
-format = "markdown"
-source = "<a href=\"https://tech.lgbt/@Natasha_Jay/111469041705022789\">@Natasha_Jay</a>"
 is_blaze_pending = false
-can_blaze = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/734937491535282176/yesterday-i-ate-my-clock-it-was-very-time"
-can_send_in_message = true
+reblog_key = "AqKmdcsU"
+short_url = "https://tmblr.co/ZY3jbyep1S4p4y00"
+should_open_in_legacy = true
+slug = "yesterday-i-ate-my-clock-it-was-very-time"
+source = "<a href=\"https://tech.lgbt/@Natasha_Jay/111469041705022789\">@Natasha_Jay</a>"
+state = "published"
+summary = "Yesterday I ate my clock … It was very time consuming, Especially when I went back for seconds."
+text = "Yesterday I ate my clock &hellip; <br/>It was very time consuming,<br/>Especially when I went back for seconds."
+timestamp = 1700891009.0
+type = "quote"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

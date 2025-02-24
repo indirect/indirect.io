@@ -6,43 +6,43 @@ slug = "i-know-not-with-what-instruments-mambo-no-6-will"
 type = "tumblr-quote"
 
 [tumblr]
-can_like = false
-interactability_blaze = "everyone"
-is_blaze_pending = false
-can_blaze = false
-short_url = "https://tmblr.co/ZY3jbyf23CeBeW00"
-can_reply = false
-state = "published"
-reblog_key = "IBvw9Xel"
-text = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
-display_avatar = true
-date = "2024-01-10 22:15:17 GMT"
-is_blocks_post_format = false
 blog_name = "indirect"
-id = 7.39167350760276e+17
-format = "markdown"
-source = "<a href=\"https://bsky.app/profile/krystal.swor.ds/post/3kilblzrouf25\">✨Angel Facts™✨️ (@krystal.swor.ds)</a>"
+can_blaze = false
+can_like = false
 can_reblog = false
-summary = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
+can_reply = false
 can_send_in_message = true
-post_url = "https://indirect.io/post/739167350760275968/i-know-not-with-what-instruments-mambo-no-6-will"
-type = "quote"
+date = "2024-01-10 22:15:17 GMT"
+display_avatar = true
+format = "markdown"
+id = 7.39167350760276e+17
 id_string = "739167350760275968"
-note_count = 0.0
-is_blazed = false
-slug = "i-know-not-with-what-instruments-mambo-no-6-will"
-should_open_in_legacy = true
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/739167350760275968/i-know-not-with-what-instruments-mambo-no-6-will"
+reblog_key = "IBvw9Xel"
+short_url = "https://tmblr.co/ZY3jbyf23CeBeW00"
+should_open_in_legacy = true
+slug = "i-know-not-with-what-instruments-mambo-no-6-will"
+source = "<a href=\"https://bsky.app/profile/krystal.swor.ds/post/3kilblzrouf25\">✨Angel Facts™✨️ (@krystal.swor.ds)</a>"
+state = "published"
+summary = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
+text = "i know not with what instruments Mambo No. 6 will be played with. but Mambo No. 7 will be played with sticks and stones"
 timestamp = 1704924917.0
+type = "quote"
 
 [tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

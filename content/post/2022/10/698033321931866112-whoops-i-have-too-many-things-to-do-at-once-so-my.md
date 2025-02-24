@@ -6,43 +6,43 @@ slug = "whoops-i-have-too-many-things-to-do-at-once-so-my"
 type = "tumblr-quote"
 
 [tumblr]
-interactability_blaze = "everyone"
-source = "<a href=\"http://twitter.com/tabatkins/status/1580329172316016640\">@tabatkins</a>"
-interactability_reblog = "everyone"
-type = "quote"
-timestamp = 1665696451.0
-short_url = "https://tmblr.co/ZY3jbyclwPkZ8e00"
-note_count = 0.0
 blog_name = "indirect"
 can_blaze = false
-slug = "whoops-i-have-too-many-things-to-do-at-once-so-my"
-date = "2022-10-13 21:27:31 GMT"
-format = "html"
-display_avatar = true
-reblog_key = "iujb7ejT"
-should_open_in_legacy = true
 can_like = false
-is_blocks_post_format = false
-id_string = "698033321931866112"
-is_blaze_pending = false
-text = "whoops i have too many things to do at once so my brain is rebelling and forcing me to do none of them while not granting me the sweet release of not caring about them"
-can_reply = false
-id = 6.980333219318661e+17
-state = "published"
-is_blazed = false
 can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2022-10-13 21:27:31 GMT"
+display_avatar = true
+format = "html"
+id = 6.980333219318661e+17
+id_string = "698033321931866112"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/698033321931866112/whoops-i-have-too-many-things-to-do-at-once-so-my"
+reblog_key = "iujb7ejT"
+short_url = "https://tmblr.co/ZY3jbyclwPkZ8e00"
+should_open_in_legacy = true
+slug = "whoops-i-have-too-many-things-to-do-at-once-so-my"
+source = "<a href=\"http://twitter.com/tabatkins/status/1580329172316016640\">@tabatkins</a>"
+state = "published"
 summary = "whoops i have too many things to do at once so my brain is rebelling and forcing me to do none of them while not granting me the..."
+text = "whoops i have too many things to do at once so my brain is rebelling and forcing me to do none of them while not granting me the sweet release of not caring about them"
+timestamp = 1665696451.0
+type = "quote"
 
 [tumblr.blog]
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

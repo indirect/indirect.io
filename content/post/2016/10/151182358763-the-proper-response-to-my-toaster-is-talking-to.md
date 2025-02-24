@@ -6,84 +6,84 @@ slug = "the-proper-response-to-my-toaster-is-talking-to"
 type = "tumblr-link"
 
 [tumblr]
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-type = "link"
-is_blocks_post_format = false
-date = "2016-10-01 08:31:27 GMT"
-state = "published"
-format = "html"
-interactability_blaze = "everyone"
-can_reply = false
 blog_name = "indirect"
-id_string = "151182358763"
-is_blazed = false
-is_blaze_pending = false
-post_url = "https://indirect.io/post/151182358763/the-proper-response-to-my-toaster-is-talking-to"
-summary = "\"The proper response to 'My toaster is talking to me!' is 'What is your toaster saying?'\"  Whoa.  (thx..."
 can_blaze = false
 can_like = false
-display_avatar = true
-slug = "the-proper-response-to-my-toaster-is-talking-to"
 can_reblog = false
-url = "http://www.adrr.com/aa/new.htm"
-publisher = "adrr.com"
-id = 151182358763.0
-reblog_key = "q6iXney3"
-note_count = 0.0
-description = "<p>&ldquo;The proper response to &lsquo;My toaster is talking to me!&rsquo; is 'What is your toaster saying?&rsquo;&rdquo;  Whoa.  (thx @ultimape)<br/>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
+can_reply = false
 can_send_in_message = true
-timestamp = 1475310687.0
+date = "2016-10-01 08:31:27 GMT"
+description = "<p>&ldquo;The proper response to &lsquo;My toaster is talking to me!&rsquo; is 'What is your toaster saying?&rsquo;&rdquo;  Whoa.  (thx @ultimape)<br/>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
+display_avatar = true
+format = "html"
+id = 151182358763.0
+id_string = "151182358763"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/151182358763/the-proper-response-to-my-toaster-is-talking-to"
+publisher = "adrr.com"
+reblog_key = "q6iXney3"
 short_url = "https://tmblr.co/ZY3jby2CpAxZh"
-
-[tumblr.reblog]
-comment = "<p>“The proper response to ‘My toaster is talking to me!’ is 'What is your toaster saying?’”  Whoa.  (thx @ultimape)<br>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
-tree_html = ""
+should_open_in_legacy = true
+slug = "the-proper-response-to-my-toaster-is-talking-to"
+state = "published"
+summary = "\"The proper response to 'My toaster is talking to me!' is 'What is your toaster saying?'\"  Whoa.  (thx..."
+timestamp = 1475310687.0
+type = "link"
+url = "http://www.adrr.com/aa/new.htm"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 
+[tumblr.reblog]
+comment = "<p>“The proper response to ‘My toaster is talking to me!’ is 'What is your toaster saying?’”  Whoa.  (thx @ultimape)<br>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
+tree_html = ""
+
 [[tumblr.trail]]
-is_root_item = true
-content_raw = "<p>“The proper response to ‘My toaster is talking to me!’ is 'What is your toaster saying?’”  Whoa.  (thx @ultimape)<br>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
 content = "<p>&ldquo;The proper response to &lsquo;My toaster is talking to me!&rsquo; is 'What is your toaster saying?&rsquo;&rdquo;  Whoa.  (thx @ultimape)<br />\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> &mdash; <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
+content_raw = "<p>“The proper response to ‘My toaster is talking to me!’ is 'What is your toaster saying?’”  Whoa.  (thx @ultimape)<br>\n<a href=\"https://t.co/O6WfDqm6j3\">https://t.co/O6WfDqm6j3</a> — <a href=\"http://twitter.com/worrydream/status/782129561005809664\">@worrydream</a></p>"
 is_current_item = true
+is_root_item = true
 
 [tumblr.trail.blog]
 active = true
-share_likes = false
-share_following = false
 can_be_followed = true
 name = "indirect"
+share_following = false
+share_likes = false
 
 [tumblr.trail.blog.theme]
-title_color = "#444444"
 avatar_shape = "square"
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-show_avatar = true
-header_full_height = 1055.0
 background_color = "#FAFAFA"
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-header_stretch = true
-show_description = true
-header_full_width = 3000.0
 body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
 header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
 link_color = "#529ECC"
+show_avatar = true
+show_description = true
 show_header_image = false
 show_title = true
+title_color = "#444444"
 title_font = "Gibson"
 title_font_weight = "bold"
-header_bounds = ""
-header_image_poster = ""
 
 [tumblr.trail.post]
 id = "151182358763"

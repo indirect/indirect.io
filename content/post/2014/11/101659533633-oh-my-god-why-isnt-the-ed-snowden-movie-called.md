@@ -6,47 +6,47 @@ slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
 type = "tumblr-quote"
 
 [tumblr]
-id_string = "101659533633"
-post_url = "https://indirect.io/post/101659533633/oh-my-god-why-isnt-the-ed-snowden-movie-called"
-reblog_key = "LJpWkhJ0"
-text = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
-summary = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
-id = 101659533633.0
-is_blazed = false
-timestamp = 1414999678.0
-state = "published"
-should_open_in_legacy = true
-source = "<a href=\"http://twitter.com/ashfein/status/529122686405181441\">@ashfein</a>"
-can_send_in_message = true
-can_reply = false
-type = "quote"
 blog_name = "indirect"
-display_avatar = true
-is_blaze_pending = false
-interactability_blaze = "everyone"
-is_blocks_post_format = false
+can_blaze = false
 can_like = false
 can_reblog = false
-can_blaze = false
+can_reply = false
+can_send_in_message = true
 date = "2014-11-03 07:27:58 GMT"
+display_avatar = true
 format = "html"
-note_count = 1.0
+id = 101659533633.0
+id_string = "101659533633"
+interactability_blaze = "everyone"
 interactability_reblog = "everyone"
-slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
+post_url = "https://indirect.io/post/101659533633/oh-my-god-why-isnt-the-ed-snowden-movie-called"
+reblog_key = "LJpWkhJ0"
 short_url = "https://tmblr.co/ZY3jby1UhOM51"
+should_open_in_legacy = true
+slug = "oh-my-god-why-isnt-the-ed-snowden-movie-called"
+source = "<a href=\"http://twitter.com/ashfein/status/529122686405181441\">@ashfein</a>"
+state = "published"
+summary = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
+text = "oh my god why isn’t the ed snowden movie called Who Let the Docs Out"
+timestamp = 1414999678.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://twitter.com/ashfein/status/529122686405181441\">@ashfein</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-
-[tumblr.blog.tumblrmart_accessories]
 +++

@@ -6,40 +6,40 @@ slug = "suss-i-was-rofl-that-technomancy-had-an-actual"
 type = "tumblr-chat"
 
 [tumblr]
-display_avatar = true
 blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
 body = "suss: i was ROFL that technomancy had an actual fencepost error when he bought 1 too few fenceposts last month :)\r\ntex3l: LOL\r\ntex3l: now that's awesome\r\ntex3l: he should've been using enumerators at the store"
-type = "chat"
-note_count = 1.0
-interactability_blaze = "everyone"
-can_reblog = false
-id_string = "1246149668"
-slug = "suss-i-was-rofl-that-technomancy-had-an-actual"
-format = "markdown"
 can_blaze = false
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-is_blocks_post_format = false
-id = 1246149668.0
-timestamp = 1286242137.0
 can_like = false
-can_send_in_message = true
-short_url = "https://tmblr.co/ZY3jby1AHhma"
+can_reblog = false
 can_reply = false
+can_send_in_message = true
 date = "2010-10-05 01:28:57 GMT"
-reblog_key = "HWMclmZh"
+display_avatar = true
+format = "markdown"
+id = 1246149668.0
+id_string = "1246149668"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 1.0
 post_url = "https://indirect.io/post/1246149668/suss-i-was-rofl-that-technomancy-had-an-actual"
+reblog_key = "HWMclmZh"
+short_url = "https://tmblr.co/ZY3jby1AHhma"
+should_open_in_legacy = true
+slug = "suss-i-was-rofl-that-technomancy-had-an-actual"
 state = "published"
 summary = "suss: i was ROFL that technomancy had an actual fencepost error when he bought 1 too few fenceposts last month :)\r\ntex3l:..."
+timestamp = 1286242137.0
+type = "chat"
 
 [tumblr.blog]
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
@@ -47,21 +47,21 @@ uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [[tumblr.dialogue]]
 label = "suss:"
-phrase = "i was ROFL that technomancy had an actual fencepost error when he bought 1 too few fenceposts last month :)"
 name = "suss"
+phrase = "i was ROFL that technomancy had an actual fencepost error when he bought 1 too few fenceposts last month :)"
 
 [[tumblr.dialogue]]
+label = "tex3l:"
+name = "tex3l"
 phrase = "LOL"
-name = "tex3l"
-label = "tex3l:"
-
-[[tumblr.dialogue]]
-name = "tex3l"
-label = "tex3l:"
-phrase = "now that's awesome"
 
 [[tumblr.dialogue]]
 label = "tex3l:"
+name = "tex3l"
 phrase = "he should've been using enumerators at the store"
+
+[[tumblr.dialogue]]
+label = "tex3l:"
 name = "tex3l"
+phrase = "now that's awesome"
 +++

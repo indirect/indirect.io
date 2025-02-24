@@ -6,43 +6,43 @@ slug = "tech-bro-dude-its-not-serverless-what-this-means"
 type = "tumblr-quote"
 
 [tumblr]
-text = "Tech bro: dude it&rsquo;s not SERVERLESS what this means is that there&rsquo;s a bunch of servers secretly doing the work and having the responsibility of 1 server<br/>\nTech bro: my startup doesn&rsquo;t have managers :)"
-can_reply = false
-id_string = "190378856513"
-format = "html"
-summary = "Tech bro: dude it’s not SERVERLESS what this means is that there’s a bunch of servers secretly doing the work and having the..."
-interactability_blaze = "everyone"
 blog_name = "indirect"
-short_url = "https://tmblr.co/ZY3jby2nJTj11"
-source = "<a href=\"http://twitter.com/freezydorito/status/1215335539307622405\">@freezydorito</a>"
-interactability_reblog = "everyone"
-display_avatar = true
-type = "quote"
 can_blaze = false
-timestamp = 1579586666.0
-id = 190378856513.0
-post_url = "https://indirect.io/post/190378856513/tech-bro-dude-its-not-serverless-what-this-means"
-is_blazed = false
-slug = "tech-bro-dude-its-not-serverless-what-this-means"
-should_open_in_legacy = true
 can_like = false
-is_blocks_post_format = false
-date = "2020-01-21 06:04:26 GMT"
-reblog_key = "QHc8dVG6"
-state = "published"
-is_blaze_pending = false
-note_count = 0.0
 can_reblog = false
+can_reply = false
 can_send_in_message = true
+date = "2020-01-21 06:04:26 GMT"
+display_avatar = true
+format = "html"
+id = 190378856513.0
+id_string = "190378856513"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/190378856513/tech-bro-dude-its-not-serverless-what-this-means"
+reblog_key = "QHc8dVG6"
+short_url = "https://tmblr.co/ZY3jby2nJTj11"
+should_open_in_legacy = true
+slug = "tech-bro-dude-its-not-serverless-what-this-means"
+source = "<a href=\"http://twitter.com/freezydorito/status/1215335539307622405\">@freezydorito</a>"
+state = "published"
+summary = "Tech bro: dude it’s not SERVERLESS what this means is that there’s a bunch of servers secretly doing the work and having the..."
+text = "Tech bro: dude it&rsquo;s not SERVERLESS what this means is that there&rsquo;s a bunch of servers secretly doing the work and having the responsibility of 1 server<br/>\nTech bro: my startup doesn&rsquo;t have managers :)"
+timestamp = 1579586666.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

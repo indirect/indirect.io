@@ -6,43 +6,43 @@ slug = "the-sonic-movie-is-the-best-example-of-adapting-a"
 type = "tumblr-quote"
 
 [tumblr]
-source = "<a href=\"http://twitter.com/MDKII/status/1229438933102137345\">@MDKII</a>"
-type = "quote"
-slug = "the-sonic-movie-is-the-best-example-of-adapting-a"
-summary = "The Sonic movie is the best example of adapting a video game to a movie, because a ton of people crunched to finish it and lost..."
 blog_name = "indirect"
-id_string = "190920448453"
 can_blaze = false
-short_url = "https://tmblr.co/ZY3jby2npljd5"
-text = "The Sonic movie is the best example of adapting a video game to a movie, because a ton of people crunched to finish it and lost their jobs just before release."
-interactability_reblog = "everyone"
-can_reblog = false
-id = 190920448453.0
-is_blazed = false
-is_blaze_pending = false
-state = "published"
 can_like = false
-post_url = "https://indirect.io/post/190920448453/the-sonic-movie-is-the-best-example-of-adapting-a"
-should_open_in_legacy = true
-interactability_blaze = "everyone"
-display_avatar = true
-is_blocks_post_format = false
-date = "2020-02-20 00:34:09 GMT"
-timestamp = 1582158849.0
+can_reblog = false
 can_reply = false
-format = "html"
-reblog_key = "SWE281Jm"
-note_count = 0.0
 can_send_in_message = true
+date = "2020-02-20 00:34:09 GMT"
+display_avatar = true
+format = "html"
+id = 190920448453.0
+id_string = "190920448453"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/190920448453/the-sonic-movie-is-the-best-example-of-adapting-a"
+reblog_key = "SWE281Jm"
+short_url = "https://tmblr.co/ZY3jby2npljd5"
+should_open_in_legacy = true
+slug = "the-sonic-movie-is-the-best-example-of-adapting-a"
+source = "<a href=\"http://twitter.com/MDKII/status/1229438933102137345\">@MDKII</a>"
+state = "published"
+summary = "The Sonic movie is the best example of adapting a video game to a movie, because a ton of people crunched to finish it and lost..."
+text = "The Sonic movie is the best example of adapting a video game to a movie, because a ton of people crunched to finish it and lost their jobs just before release."
+timestamp = 1582158849.0
+type = "quote"
 
 [tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
 
 [tumblr.blog.tumblrmart_accessories]
 

@@ -7,49 +7,49 @@ title = "Values Towards Ethical and Radical Management"
 type = "tumblr-link"
 
 [tumblr]
-is_blocks_post_format = false
-id = 69629213756.0
-post_url = "https://indirect.io/post/69629213756/values-towards-ethical-and-radical-management-about"
-slug = "values-towards-ethical-and-radical-management-about"
-date = "2013-12-10 22:47:00 GMT"
-summary = "Values Towards Ethical and Radical Management"
-publisher = "medium.com"
-short_url = "https://tmblr.co/ZY3jby10sENmy"
-can_like = false
-id_string = "69629213756"
-timestamp = 1386715620.0
-description = ""
-interactability_reblog = "everyone"
-type = "link"
-can_blaze = false
-format = "markdown"
-should_open_in_legacy = true
-url = "https://medium.com/about-work/514a6edcce2c"
-note_count = 0.0
-title = "Values Towards Ethical and Radical Management"
 blog_name = "indirect"
-is_blaze_pending = false
-state = "published"
-can_reply = false
-is_blazed = false
-reblog_key = "4QbsaHB8"
-interactability_blaze = "everyone"
+can_blaze = false
+can_like = false
 can_reblog = false
-display_avatar = true
+can_reply = false
 can_send_in_message = true
-
-[tumblr.reblog]
-tree_html = ""
-comment = ""
+date = "2013-12-10 22:47:00 GMT"
+description = ""
+display_avatar = true
+format = "markdown"
+id = 69629213756.0
+id_string = "69629213756"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/69629213756/values-towards-ethical-and-radical-management-about"
+publisher = "medium.com"
+reblog_key = "4QbsaHB8"
+short_url = "https://tmblr.co/ZY3jby10sENmy"
+should_open_in_legacy = true
+slug = "values-towards-ethical-and-radical-management-about"
+state = "published"
+summary = "Values Towards Ethical and Radical Management"
+timestamp = 1386715620.0
+title = "Values Towards Ethical and Radical Management"
+type = "link"
+url = "https://medium.com/about-work/514a6edcce2c"
 
 [tumblr.blog]
-title = "indirect"
+can_show_badges = false
 description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
 
 [tumblr.blog.tumblrmart_accessories]
+
+[tumblr.reblog]
+comment = ""
+tree_html = ""
 +++

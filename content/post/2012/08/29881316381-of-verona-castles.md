@@ -6,103 +6,103 @@ slug = "of-verona-castles"
 type = "tumblr-video"
 
 [tumblr]
-format = "markdown"
-reblog_key = "lX8mDJSh"
-bookmarklet = true
-is_blazed = false
-is_blaze_pending = false
-timestamp = 1345526220.0
-thumbnail_width = 0.0
-video_type = "unknown"
-display_avatar = true
 blog_name = "indirect"
-source_title = "youtube.com"
-thumbnail_url = ""
-can_reply = false
-type = "video"
-date = "2012-08-21 05:17:00 GMT"
-note_count = 0.0
-html5_capable = false
+bookmarklet = true
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
+can_send_in_message = true
+caption = "<p>of Verona - Castles</p>"
+date = "2012-08-21 05:17:00 GMT"
+display_avatar = true
+format = "markdown"
+html5_capable = false
+id = 29881316381.0
 id_string = "29881316381"
-slug = "of-verona-castles"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/29881316381/of-verona-castles"
+reblog_key = "lX8mDJSh"
 short_url = "https://tmblr.co/ZY3jbyRr4BGT"
 should_open_in_legacy = true
-caption = "<p>of Verona - Castles</p>"
-thumbnail_height = 0.0
-can_send_in_message = true
-can_blaze = false
-post_url = "https://indirect.io/post/29881316381/of-verona-castles"
+slug = "of-verona-castles"
+source_title = "youtube.com"
+source_url = "http://www.youtube.com/watch?v=wykmrS_ZUi0"
 state = "published"
 summary = "of Verona - Castles"
-source_url = "http://www.youtube.com/watch?v=wykmrS_ZUi0"
-can_reblog = false
-is_blocks_post_format = false
-id = 29881316381.0
-interactability_reblog = "everyone"
-interactability_blaze = "everyone"
+thumbnail_height = 0.0
+thumbnail_url = ""
+thumbnail_width = 0.0
+timestamp = 1345526220.0
+type = "video"
+video_type = "unknown"
 
-[[tumblr.trail]]
-content_raw = "<p>of Verona - Castles</p>"
-content = "<p>of Verona - Castles</p>"
-is_current_item = true
-is_root_item = true
-
-[tumblr.trail.blog]
-share_likes = false
-share_following = false
-can_be_followed = true
+[tumblr.blog]
+can_show_badges = false
+description = ""
 name = "indirect"
-active = true
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
-[tumblr.trail.blog.theme]
-title_font = "Gibson"
-header_full_height = 1055.0
-avatar_shape = "square"
-header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
-header_image_poster = ""
-show_avatar = true
-header_full_width = 3000.0
-header_bounds = ""
-header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
-header_stretch = true
-body_font = "Helvetica Neue"
-show_title = true
-title_font_weight = "bold"
-background_color = "#FAFAFA"
-link_color = "#529ECC"
-show_description = true
-show_header_image = false
-title_color = "#444444"
+[tumblr.blog.tumblrmart_accessories]
 
-[tumblr.trail.post]
-id = "29881316381"
+[[tumblr.player]]
+embed_code = "<iframe width=\"250\" height=\"141\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+width = 250.0
+
+[[tumblr.player]]
+embed_code = "<iframe width=\"400\" height=\"225\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+width = 400.0
+
+[[tumblr.player]]
+embed_code = "<iframe width=\"500\" height=\"281\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+width = 500.0
 
 [tumblr.reblog]
 comment = "<p>of Verona - Castles</p>"
 tree_html = ""
 
-[tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
+[[tumblr.trail]]
+content = "<p>of Verona - Castles</p>"
+content_raw = "<p>of Verona - Castles</p>"
+is_current_item = true
+is_root_item = true
+
+[tumblr.trail.blog]
+active = true
+can_be_followed = true
 name = "indirect"
-title = "indirect"
-description = ""
+share_following = false
+share_likes = false
 
-[tumblr.blog.tumblrmart_accessories]
+[tumblr.trail.blog.theme]
+avatar_shape = "square"
+background_color = "#FAFAFA"
+body_font = "Helvetica Neue"
+header_bounds = ""
+header_full_height = 1055.0
+header_full_width = 3000.0
+header_image = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s3000x1055/2604340bee8e127d6a4e05679599147382e03f70.png"
+header_image_focused = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_image_poster = ""
+header_image_scaled = "https://64.media.tumblr.com/a81c88cba9f9993dee9ce842eeeeb4f5/84d3699f9a05799a-a8/s2048x3072/784b420b1c071afb3c4929b68ee172cc5172063b.png"
+header_stretch = true
+link_color = "#529ECC"
+show_avatar = true
+show_description = true
+show_header_image = false
+show_title = true
+title_color = "#444444"
+title_font = "Gibson"
+title_font_weight = "bold"
 
-[[tumblr.player]]
-width = 250.0
-embed_code = "<iframe width=\"250\" height=\"141\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
-
-[[tumblr.player]]
-width = 400.0
-embed_code = "<iframe width=\"400\" height=\"225\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
-
-[[tumblr.player]]
-width = 500.0
-embed_code = "<iframe width=\"500\" height=\"281\" src=\"http://www.youtube.com/embed/wykmrS_ZUi0?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+[tumblr.trail.post]
+id = "29881316381"
 +++

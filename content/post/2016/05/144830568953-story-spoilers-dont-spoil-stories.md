@@ -7,46 +7,46 @@ title = "Story Spoilers Don't Spoil Stories"
 type = "tumblr-link"
 
 [tumblr]
-post_url = "https://indirect.io/post/144830568953/story-spoilers-dont-spoil-stories"
-summary = "Story Spoilers Don't Spoil Stories"
-interactability_reblog = "everyone"
+blog_name = "indirect"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
-is_blocks_post_format = false
-blog_name = "indirect"
-is_blazed = false
-is_blaze_pending = false
-timestamp = 1464048012.0
-can_blaze = false
-slug = "story-spoilers-dont-spoil-stories"
-title = "Story Spoilers Don't Spoil Stories"
-short_url = "https://tmblr.co/ZY3jby26uandv"
-excerpt = "giving away these surprises makes readers like stories better"
-display_avatar = true
-publisher = "pages.ucsd.edu"
-description = ""
-interactability_blaze = "everyone"
-type = "link"
-id = 144830568953.0
-id_string = "144830568953"
-url = "http://pages.ucsd.edu/~nchristenfeld/Publications_files/Spoilers.pdf"
-can_like = false
 can_send_in_message = true
 date = "2016-05-24 00:00:12 GMT"
-state = "published"
+description = ""
+display_avatar = true
+excerpt = "giving away these surprises makes readers like stories better"
 format = "markdown"
+id = 144830568953.0
+id_string = "144830568953"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
 note_count = 0.0
+post_url = "https://indirect.io/post/144830568953/story-spoilers-dont-spoil-stories"
+publisher = "pages.ucsd.edu"
 reblog_key = "ASvOzb9z"
+short_url = "https://tmblr.co/ZY3jby26uandv"
 should_open_in_legacy = true
+slug = "story-spoilers-dont-spoil-stories"
+state = "published"
+summary = "Story Spoilers Don't Spoil Stories"
+timestamp = 1464048012.0
+title = "Story Spoilers Don't Spoil Stories"
+type = "link"
+url = "http://pages.ucsd.edu/~nchristenfeld/Publications_files/Spoilers.pdf"
 
 [tumblr.blog]
-url = "https://indirect.io/"
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
 
 [tumblr.blog.tumblrmart_accessories]
 

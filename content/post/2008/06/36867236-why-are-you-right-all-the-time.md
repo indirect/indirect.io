@@ -6,43 +6,43 @@ slug = "why-are-you-right-all-the-time"
 type = "tumblr-quote"
 
 [tumblr]
-can_reblog = false
-id = 36867236.0
-is_blaze_pending = false
-can_blaze = false
-slug = "why-are-you-right-all-the-time"
-summary = "why are you right all the time"
-type = "quote"
-text = "why are you right all the time"
-source = "rachel"
-id_string = "36867236"
-is_blazed = false
-is_blocks_post_format = false
 blog_name = "indirect"
-timestamp = 1212397927.0
-state = "published"
-reblog_key = "cFgheSE8"
-short_url = "https://tmblr.co/ZY3jby2Ceoa"
+can_blaze = false
 can_like = false
+can_reblog = false
+can_reply = false
 can_send_in_message = true
 date = "2008-06-02 09:12:07 GMT"
-format = "html"
-note_count = 0.0
-interactability_reblog = "everyone"
-can_reply = false
-should_open_in_legacy = true
-interactability_blaze = "everyone"
 display_avatar = true
+format = "html"
+id = 36867236.0
+id_string = "36867236"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
+is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
 post_url = "https://indirect.io/post/36867236/why-are-you-right-all-the-time"
+reblog_key = "cFgheSE8"
+short_url = "https://tmblr.co/ZY3jby2Ceoa"
+should_open_in_legacy = true
+slug = "why-are-you-right-all-the-time"
+source = "rachel"
+state = "published"
+summary = "why are you right all the time"
+text = "why are you right all the time"
+timestamp = 1212397927.0
+type = "quote"
 
 [tumblr.blog]
 can_show_badges = false
+description = ""
 name = "indirect"
 title = "indirect"
-description = ""
+updated = 1740184206.0
 url = "https://indirect.io/"
 uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
 
 [tumblr.blog.tumblrmart_accessories]
 

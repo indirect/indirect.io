@@ -6,50 +6,50 @@ slug = "if-you-water-an-apple-tree-with-apple-juice-is-it"
 type = "tumblr-quote"
 
 [tumblr]
-reblog_key = "azW269HK"
-should_open_in_legacy = true
-interactability_reblog = "everyone"
-can_blaze = false
-post_url = "https://indirect.io/post/56402361381/if-you-water-an-apple-tree-with-apple-juice-is-it"
-state = "published"
-note_count = 0.0
-interactability_blaze = "everyone"
-id = 56402361381.0
-date = "2013-07-25 05:34:35 GMT"
-format = "markdown"
-short_url = "https://tmblr.co/ZY3jbyqXrxmb"
-summary = "If you water an apple tree with apple juice, is it like forced cannibalism?"
-is_blocks_post_format = false
-timestamp = 1374730475.0
+blog_name = "indirect"
 bookmarklet = true
-can_send_in_message = true
-is_blaze_pending = false
-source_title = "Yahoo!"
-text = "If you water an apple tree with apple juice, is it like forced cannibalism?"
-source = "<a href=\"http://answers.yahoo.com/question/index?qid=20130128000638AALglrW\">Yahoo! Answers</a>"
+can_blaze = false
+can_like = false
 can_reblog = false
 can_reply = false
+can_send_in_message = true
+date = "2013-07-25 05:34:35 GMT"
 display_avatar = true
+format = "markdown"
+id = 56402361381.0
 id_string = "56402361381"
-source_url = "http://answers.yahoo.com/question/index?qid=20130128000638AALglrW"
-can_like = false
-type = "quote"
-blog_name = "indirect"
+interactability_blaze = "everyone"
+interactability_reblog = "everyone"
+is_blaze_pending = false
 is_blazed = false
+is_blocks_post_format = false
+note_count = 0.0
+post_url = "https://indirect.io/post/56402361381/if-you-water-an-apple-tree-with-apple-juice-is-it"
+reblog_key = "azW269HK"
+short_url = "https://tmblr.co/ZY3jbyqXrxmb"
+should_open_in_legacy = true
 slug = "if-you-water-an-apple-tree-with-apple-juice-is-it"
+source = "<a href=\"http://answers.yahoo.com/question/index?qid=20130128000638AALglrW\">Yahoo! Answers</a>"
+source_title = "Yahoo!"
+source_url = "http://answers.yahoo.com/question/index?qid=20130128000638AALglrW"
+state = "published"
+summary = "If you water an apple tree with apple juice, is it like forced cannibalism?"
+text = "If you water an apple tree with apple juice, is it like forced cannibalism?"
+timestamp = 1374730475.0
+type = "quote"
+
+[tumblr.blog]
+can_show_badges = false
+description = ""
+name = "indirect"
+title = "indirect"
+updated = 1740184206.0
+url = "https://indirect.io/"
+uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
+
+[tumblr.blog.tumblrmart_accessories]
 
 [tumblr.reblog]
 comment = "<p><a href=\"http://answers.yahoo.com/question/index?qid=20130128000638AALglrW\">Yahoo! Answers</a></p>"
 tree_html = ""
-
-[tumblr.blog]
-uuid = "t:PgyUJU3SA2Klwyt81UWAwQ"
-updated = 1739939727.0
-can_show_badges = false
-name = "indirect"
-title = "indirect"
-description = ""
-url = "https://indirect.io/"
-
-[tumblr.blog.tumblrmart_accessories]
 +++
